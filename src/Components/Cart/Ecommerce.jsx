@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { InputText } from 'primereact/inputtext';
 import { Button } from 'primereact/button';
 import { Sidebar } from 'primereact/sidebar';
-import ProductService from './../../services/ProductService.json';
+import ProductService from './../../services/ProductService.jsx';
 
 
 import * as NotifyHelper from '../../helpers/notify.js'
