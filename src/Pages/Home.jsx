@@ -16,7 +16,7 @@ function Home({addItem}){
 
       <section className="row justify-content-center text-center">
         <article className="col-12 px-0 navbar-transition">
-          <Offers />
+          <Offers selectedItem={item}/>
         </article>
         <article className="col-12 mt-4">
 

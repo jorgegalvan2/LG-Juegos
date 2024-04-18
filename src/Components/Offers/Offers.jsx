@@ -1,58 +1,111 @@
-import Slider from 'react-slick';
-import 'slick-carousel/slick/slick.css';
-import 'slick-carousel/slick/slick-theme.css';
+import { Carousel } from 'primereact/carousel';
 
-function Offers() {
-  const settings = {
-    dots: true,
-    infinite: true,
-    speed: 500,
-    slidesToShow: 1,
-    slidesToScroll: 1,
-    autoplay: true,
-    autoplaySpeed: 3000
+import ProductsService from './../../services/ProductService.jsx'
+import ProductDetailsDialog from '../Cart/ProductDetailsDialog.jsx';
+import * as NotifyHelper from '../../helpers/notify.js'
+import { useEffect, useState } from 'react';
+
+
+function Offers({item}) {
+  const [products,setProducts] = useState()
+  const [selectedProduct, setSelectedProduct] = useState(null);
+
+
+  const responsiveOptions = [
+    {
+        breakpoint: '1400px',
+        numVisible: 4,
+        numScroll: 1
+    },
+    {
+        breakpoint: '1199px',
+        numVisible: 3,
+        numScroll: 1
+    },
+    {
+        breakpoint: '767px',
+        numVisible: 2,
+        numScroll: 1
+    },
+    {
+        breakpoint: '575px',
+        numVisible: 2,
+        numScroll: 1
+    }
+];
+  useEffect(() => {
+    setProducts(ProductsService)
+  })
+
+
+  const productTemplate = (product) => {
+    return (
+      <div className="row align-items-stretch px-2" style={{ height: '350px' }} onClick={() => showProductDetails(product)}>
+      <div className="">
+          <img src={product.image} alt={product.name} className="img-fluid" />
+      </div>
+      <div className="col-md-9 d-flex flex-column">
+          <div>
+              <h4 className="fs-5">{product.name}</h4>
+              <h6 className="mt-0">${product.price}</h6>
+          </div>
+          <div className="mt-auto">
+              <button className="btn BrandColor text-light w-100 rounded-0">Ver</button>
+          </div>
+      </div>
+  </div>
+
+  
+  
+    );
+};
+
+const showProductDetails = (product) => {
+  setSelectedProduct(product);
+};
+
+const hideProductDetails = () => {
+  setSelectedProduct(null);
+};
+
+const addToCart = () => {
+  const cartItem = {
+    id: selectedProduct.id, // Otra propiedad única para identificar el selectedProducto
+    name: selectedProduct.name,
+    price: selectedProduct.secondaryPrice ? selectedProduct.secondaryPrice : selectedProduct.price,
+    image: selectedProduct.image,
+    category: selectedProduct.category
   };
 
-  const offersData = [
-    {
-      id: 1,
-      image_web: 'src/assets/img/Games/NBA2K23.jpeg',
-      image_phone: 'src/assets/img/Games/NBA2K23-mobile.jpg',
-      title: 'Nba 2k23',
-      description: 'Descripción de la oferta 1',
-      buttonText: 'Ver más'
-    },
-    {
-      id: 2,
-      image_web: 'src/assets/img/Games/FIFA-23.jpg',
-      image_phone: 'src/assets/img/Games/FIFA-23-mobile.jpg',
-      title: 'Fifa 23',
-      description: 'Descripción de la oferta 2',
-      buttonText: 'Ver más'
-    },
-    // Añade más ofertas según sea necesario
-  ];
+  // Obtener el carrito actual del localStorage o crear uno nuevo si no existe
+  const currentCart = JSON.parse(localStorage.getItem('cart')) || [];
+  currentCart.push(cartItem);
+
+  // Guardar el carrito actualizado en el localStorage
+  localStorage.setItem('cart', JSON.stringify(currentCart));
+  NotifyHelper.notifySuccess("Listo!")
+  setSelectedProduct(null);
+  item(cartItem)
+};
+
 
   return (
 
-    <div className="offer-slider-container">
+    <div className="">
       <h2 className='my-5'>Juegos en oferta</h2>
-      <Slider {...settings}>
-        {offersData.map(offer => (
-          <div key={offer.id} className="offer-slide">
-            <div className="offer-content  rounded-0 p-4">
-              <h2>{offer.title}</h2>
-              <button className='btn BrandColor px-4'>Ver</button>
-            </div>
-            <picture>
-              <source srcSet={`${offer.image_web}`} media="(min-width: 768px)" />
-              <source srcSet={`${offer.image_phone}`} media="(min-width: 300px)" />
-              <img src={offer.image} alt={offer.title} />
-            </picture>
-          </div>
-        ))}
-      </Slider>
+      <Carousel value={products} numScroll={1} numVisible={3} responsiveOptions={responsiveOptions} itemTemplate={productTemplate} />
+
+      {selectedProduct && 
+        <ProductDetailsDialog 
+          product={selectedProduct} 
+          onClose={hideProductDetails} 
+          onAddToCart={addToCart} 
+        />
+      }
+
     </div>
+
+    
 
   );
 }

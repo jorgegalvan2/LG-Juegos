@@ -11,7 +11,7 @@ const data =[
     "name": "FIFA 19",
     "category": "Playstation 3",
     "description": "",
-    "price": 6999,
+    "price": 7742,
     "image": FIFA19_PS3 
   },
   { 
@@ -20,12 +20,11 @@ const data =[
     "category": "Playstation 3",
     "description":"",
     "price": 14900,
-    "secondaryPrice": 5500,
     "image": GTAV_PS3 
     },
   { 
     "id": 3,
-    "name": "Call of duty: Infinite Warfare",
+    "name": "COD: Infinite Warfare",
     "category": "Playstation 4",
     "description":"",
     "price": 19900,
@@ -37,8 +36,8 @@ const data =[
     "name": "GTA V",
     "category": "Playstation 4",
     "description":"",
-    "price": 5500,
-    "secondaryPrice": 5500,
+    "price": 12000,
+    "secondaryPrice": 4000,
     "image": GTAV_PS4 
     },
   { 

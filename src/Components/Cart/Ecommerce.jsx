@@ -3,6 +3,7 @@ import { InputText } from 'primereact/inputtext';
 import { Button } from 'primereact/button';
 import { Sidebar } from 'primereact/sidebar';
 import ProductService from './../../services/ProductService.jsx';
+import ProductDetailsDialog from './ProductDetailsDialog.jsx';
 
 
 import * as NotifyHelper from '../../helpers/notify.js'
@@ -17,9 +18,6 @@ function Ecommerce({item}) {
   const [searchTerm, setSearchTerm] = useState('');
   const [sidebarVisible, setSidebarVisible] = useState(false);
   const [selectedProduct, setSelectedProduct] = useState(null);
-
-  const [showSecondary, setShowSecondary] = useState(false);
-
 
   useEffect(() => {
     setProducts(ProductService);
@@ -74,16 +72,11 @@ function Ecommerce({item}) {
     setSelectedProduct(null);
   };
 
-    const handleCheckboxChange = (event) => {
-    setShowSecondary(event.target.id === 'secondaryCheckbox' && event.target.checked);
-  };
-
-
   const addToCart = () => {
     const cartItem = {
       id: selectedProduct.id, // Otra propiedad única para identificar el selectedProducto
       name: selectedProduct.name,
-      price: showSecondary && selectedProduct.secondaryPrice ? selectedProduct.secondaryPrice : selectedProduct.price,
+      price: selectedProduct.secondaryPrice ? selectedProduct.secondaryPrice : selectedProduct.price,
       image: selectedProduct.image,
       category: selectedProduct.category
     };
@@ -146,38 +139,12 @@ function Ecommerce({item}) {
       </Sidebar>
 
       {selectedProduct && 
-          <Dialog header={selectedProduct.name} blockScroll={true} visible={selectedProduct !== null} onHide={hideProductDetails} product={selectedProduct} style={{ width: '100vw', maxHeight: 'calc(100vh - 60px)' }}>
-          <div className='row justify-content-center p-0'>
-
-              <img className='img-fluid   col-6' src={selectedProduct.image} alt={selectedProduct.title} />
-
-            <p className='text-center fs-5 mt-3'>{selectedProduct.category}</p>
-    
-            <p className='text-center fs-5'><strong>Precio:</strong> ${showSecondary && selectedProduct.secondaryPrice ? selectedProduct.secondaryPrice : selectedProduct.price}</p>
-    
-            <div className="form-check col-4 text-center">
-              <input className="form-check-input" type="checkbox" id="primaryCheckbox" checked={!showSecondary} onChange={handleCheckboxChange} />
-              <label className="form-check-label" htmlFor="primaryCheckbox">
-                Primaria
-              </label>
-            </div>
-    
-            <div className="form-check col-4 text-center">
-              <input className="form-check-input" type="checkbox" id="secondaryCheckbox" checked={showSecondary} onChange={handleCheckboxChange} />
-              <label className="form-check-label" htmlFor="secondaryCheckbox">
-                Secundaria
-              </label>
-            </div>
-    
-            <p className='mt-3 mb-5'> {selectedProduct.description}</p>
-          </div>
-    
-          <div className="dialog-footer BrandColor">
-              <button className='btn text-light' onClick={() => addToCart()}>Agregar al carrito</button>
-            </div>
-    
-    
-        </Dialog>}
+        <ProductDetailsDialog 
+          product={selectedProduct} 
+          onClose={hideProductDetails} 
+          onAddToCart={addToCart} 
+        />
+      }
 
 
     </div>

@@ -82,7 +82,7 @@ function App(){
                     </ul>
                 </div>
             </div>
-            <Sidebar visible={sidebarVisible} onHide={hideSidebar}  header="Carro de compras" position="right">
+            <Sidebar visible={sidebarVisible} onHide={hideSidebar} blockScroll={true}  header="Carro de compras" position="right">
      
                     <ItemsCart />
 

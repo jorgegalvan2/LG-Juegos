@@ -48,14 +48,19 @@
 .dialog-footer {
   background-color: #9b9b9b1c;
   position: absolute;
-  bottom: 1px; /* Puedes ajustar la distancia desde la parte inferior */
+  bottom: 0.5px; /* Puedes ajustar la distancia desde la parte inferior */
   left: 50%;
-  padding: 10px;
+  padding: 16px;
   transform: translateX(-50%);
   width: 100%;
   backdrop-filter: blur(3px);
   text-align: center;
 }
+
+.p-highlight button{
+  background-color: #492879 !important;
+}
+
 
 
 
