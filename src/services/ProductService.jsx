@@ -12,6 +12,7 @@ const data =[
     "category": "Playstation 3",
     "description": "",
     "price": 7742,
+    "offerPrice": 5900,
     "image": FIFA19_PS3 
   },
   { 
@@ -20,6 +21,7 @@ const data =[
     "category": "Playstation 3",
     "description":"",
     "price": 14900,
+    "offerPrice": 11500,
     "image": GTAV_PS3 
     },
   { 
@@ -28,7 +30,9 @@ const data =[
     "category": "Playstation 4",
     "description":"",
     "price": 19900,
-    "secondaryPrice": 5500,
+    "offerPrice": 11500,
+    "secondaryPrice": 9900,
+    "offerSecondaryPrice": 8000,
     "image": CODIW_PS4 
     },
   { 

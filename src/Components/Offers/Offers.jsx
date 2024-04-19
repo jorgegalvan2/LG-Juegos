@@ -14,7 +14,7 @@ function Offers({item}) {
   const responsiveOptions = [
     {
         breakpoint: '1400px',
-        numVisible: 4,
+        numVisible: 8,
         numScroll: 1
     },
     {
@@ -93,7 +93,15 @@ const addToCart = () => {
 
     <div className="">
       <h2 className='my-5'>Juegos en oferta</h2>
-      <Carousel value={products} numScroll={1} numVisible={3} responsiveOptions={responsiveOptions} itemTemplate={productTemplate} />
+      <Carousel 
+        value={products} 
+        numScroll={1} 
+        numVisible={3} 
+        responsiveOptions={responsiveOptions} 
+        itemTemplate={productTemplate} 
+        circular={true}
+        autoplayInterval={1200}
+        />
 
       {selectedProduct && 
         <ProductDetailsDialog 

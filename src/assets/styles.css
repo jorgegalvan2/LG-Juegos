@@ -45,6 +45,12 @@
   color: white; /* Cambiar el color del menú hamburguesa a blanco */
 }
 
+.oldPriceNotOffer{
+  text-decoration: line-through;
+  color: #868686;
+  font-size: 0.8em;
+}
+
 .dialog-footer {
   background-color: #9b9b9b1c;
   position: absolute;
