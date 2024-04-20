@@ -184,6 +184,13 @@
   object-fit: cover; /* Cubrir el área del contenedor */
 }
 
+.ulDecoration{
+  text-decoration: none !important;
+}
+.offerPrice{
+  font-size: 1.2em;
+}
+
 
 
 

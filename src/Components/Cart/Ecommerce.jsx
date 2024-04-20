@@ -76,7 +76,7 @@ function Ecommerce({item}) {
     const cartItem = {
       id: selectedProduct.id, // Otra propiedad única para identificar el selectedProducto
       name: selectedProduct.name,
-      price: selectedProduct.secondaryPrice ? selectedProduct.secondaryPrice : selectedProduct.price,
+      price: selectedProduct.secondaryPrice ? selectedProduct.secondaryPrice : selectedProduct.price, // ARREGLAR ESTO
       image: selectedProduct.image,
       category: selectedProduct.category
     };

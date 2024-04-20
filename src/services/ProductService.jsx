@@ -10,7 +10,7 @@ const data =[
     "id": 1,
     "name": "FIFA 19",
     "category": "Playstation 3",
-    "description": "",
+    "description": "Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego.",
     "price": 7742,
     "offerPrice": 5900,
     "image": FIFA19_PS3 
@@ -19,7 +19,7 @@ const data =[
     "id": 2,
     "name": "GTA V",
     "category": "Playstation 3",
-    "description":"",
+    "description":"Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego.",
     "price": 14900,
     "offerPrice": 11500,
     "image": GTAV_PS3 
@@ -28,7 +28,7 @@ const data =[
     "id": 3,
     "name": "COD: Infinite Warfare",
     "category": "Playstation 4",
-    "description":"",
+    "description":"Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego.",
     "price": 19900,
     "offerPrice": 11500,
     "secondaryPrice": 9900,
@@ -39,7 +39,7 @@ const data =[
     "id": 4,
     "name": "GTA V",
     "category": "Playstation 4",
-    "description":"",
+    "description":"Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego.",
     "price": 12000,
     "secondaryPrice": 4000,
     "image": GTAV_PS4 
@@ -48,7 +48,7 @@ const data =[
     "id": 5,
     "name": "Little big planet",
     "category": "Playstation 4",
-    "description":"",
+    "description":"Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego.",
     "price": 12400,
     "secondaryPrice": 5500,
     "image": LBP_PS4 
