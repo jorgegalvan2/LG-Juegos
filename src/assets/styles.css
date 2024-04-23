@@ -184,11 +184,16 @@
   object-fit: cover; /* Cubrir el área del contenedor */
 }
 
-.ulDecoration{
+.ulDecoration li a{
   text-decoration: none !important;
 }
 .offerPrice{
   font-size: 1.2em;
+}
+
+.sideBarIsOpen .p-sidebar-content{
+  padding: 0;
+
 }
 
 

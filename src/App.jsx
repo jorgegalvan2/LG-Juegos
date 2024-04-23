@@ -20,6 +20,7 @@ import { Sidebar } from 'primereact/sidebar';
 import { Routes, Route, Link } from 'react-router-dom'
 import Logo from './Components/Logo.jsx';
 import ItemsCart from './Components/Cart/ItemsCart.jsx';
+import NavBar from './Components/Main/NavBar.jsx'
 
 
 
@@ -40,8 +41,14 @@ function App(){
 
 
 
-    const toggleMenu = () => {
-      setIsOpen(!isOpen);
+
+
+    const showNavBar = () => {
+        setIsOpen(true);
+    };
+    
+    const hideNavBar = () => {
+        setIsOpen(false);
     };
 
     const showSidebar = () => {
@@ -59,9 +66,11 @@ function App(){
     return (
 
         <>
-       <nav className={`navbar fixed-top navbar-expand-lg BrandColor `}>
+
+        <NavBar />
+       { /* <nav className={`navbar fixed-top navbar-expand-lg BrandColor `}>
             <div className="container-fluid ">
-                <button className="navbar-toggler border-0 colorButtons  navbar-transition" type="button" onClick={toggleMenu}>
+                <button className="navbar-toggler border-0 colorButtons navbar-transition" type="button" onClick={showNavBar}>
                     <span className="navbar-toggler-icon colorButtons"></span>
                 </button>
                 <button className="btn border-0 colorButtons  navbar-transition-right" type="button" onClick={showSidebar}>
@@ -95,12 +104,23 @@ function App(){
                 </div>
             </div>
             <Sidebar visible={sidebarVisible} onHide={hideSidebar} blockScroll={true}  header="Carro de compras" position="right">
-     
-                    <ItemsCart />
-
-
+                <ItemsCart />
             </Sidebar>
-        </nav>
+            <Sidebar visible={isOpen} onHide={hideNavBar} blockScroll={true} className='sideBarIsOpen' header="LG Juegos Digitales" position="left">
+
+
+            <div className="">
+                <ul className="list-group ulDecoration ">
+                    <li className='list-group-item '><Link className='text-dark' to="/">Inicio</Link></li>
+                    <li className='list-group-item'><Link className='text-dark' to="/">Playstation 3</Link></li>
+                    <li className='list-group-item'><Link className='text-dark' to="/">Playstation 4</Link></li>
+                    <li className='list-group-item'><Link className='text-dark' to="/">Playstation 5</Link></li>
+                    <li className='list-group-item'><Link className='text-dark' to="/">Ofertas</Link></li>
+
+                </ul>
+                </div>
+            </Sidebar>
+        </nav> */ }
         <Logo />
 
             <Routes>
