@@ -6,16 +6,10 @@ import Toolbar from '@mui/material/Toolbar';
 import IconButton from '@mui/material/IconButton';
 import Typography from '@mui/material/Typography';
 import InputBase from '@mui/material/InputBase';
-import Badge from '@mui/material/Badge';
-import MenuItem from '@mui/material/MenuItem';
-import Menu from '@mui/material/Menu';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import MenuIcon from '@mui/icons-material/Menu';
 import SearchIcon from '@mui/icons-material/Search';
-import AccountCircle from '@mui/icons-material/AccountCircle';
-import MailIcon from '@mui/icons-material/Mail';
-import NotificationsIcon from '@mui/icons-material/Notifications';
-import MoreIcon from '@mui/icons-material/MoreVert';
+
 import { Link } from 'react-router-dom';
 
 import PropTypes from 'prop-types';
@@ -31,32 +25,14 @@ import ListItemText from '@mui/material/ListItemText';
 
 import Button from '@mui/material/Button';
 import { Sidebar } from 'primereact/sidebar';
+import ItemsCart from '../Cart/ItemsCart';
+import ProductService from './../../services/ProductService.jsx'
 
-const Search = styled('div')(({ theme }) => ({
-  position: 'relative',
-  borderRadius: theme.shape.borderRadius,
-  backgroundColor: alpha(theme.palette.common.white, 0.15),
-  '&:hover': {
-    backgroundColor: alpha(theme.palette.common.white, 0.25),
-  },
-  marginRight: theme.spacing(2),
-  marginLeft: 0,
-  width: '100%',
-  [theme.breakpoints.up('sm')]: {
-    marginLeft: theme.spacing(3),
-    width: 'auto',
-  },
-}));
+import TextField from '@mui/material/TextField';
+import Stack from '@mui/material/Stack';
+import Autocomplete from '@mui/material/Autocomplete';
 
-const SearchIconWrapper = styled('div')(({ theme }) => ({
-  padding: theme.spacing(0, 2),
-  height: '100%',
-  position: 'absolute',
-  pointerEvents: 'none',
-  display: 'flex',
-  alignItems: 'center',
-  justifyContent: 'center',
-}));
+
 
 const StyledInputBase = styled(InputBase)(({ theme }) => ({
   color: 'inherit',
@@ -145,15 +121,18 @@ export default function PrimarySearchAppBar() {
           >
             LG Juegos Digitales
           </Typography>
-          <Search>
-            <SearchIconWrapper>
-              <SearchIcon />
-            </SearchIconWrapper>
-            <StyledInputBase
-              placeholder="Search…"
-              inputProps={{ 'aria-label': 'search' }}
-            />
-          </Search>
+
+       
+
+                  <Autocomplete
+                    id="free-solo-demo"
+                    
+                    fullWidth={true}
+                    options={ProductService.map((option) => option.name)}
+                    className='text-light my-2 stylesInputNavBar'
+                    renderInput={(params) => <TextField className='stylesInputNavBar' {...params} label="Buscar..." />}
+                  />
+  
           <Box sx={{ flexGrow: 1 }} />
           <Box sx={{ display: { xs: 'none', sm: 'block' } }}>
             {navItems.map((item) => (
@@ -178,11 +157,16 @@ export default function PrimarySearchAppBar() {
 
     </Box>
     <Sidebar visible={cartSidebar} onHide={handleCartSidebarHide} blockScroll={true} header="Carro de compras" position="right">
-            <h2>carro</h2>
-    
+        <ItemsCart />
     </Sidebar>
     <Sidebar visible={menuSidebar} onHide={handleMenuSidebarHide} blockScroll={true} header="LG Juegos Digitales" position="left">
-            <h2>menu</h2>
+      <ul className="list-group ulDecoration ">
+        <li className='list-group-item '><Link className='text-dark' to="/">Inicio</Link></li>
+        <li className='list-group-item'><Link className='text-dark' to="/">Playstation 3</Link></li>
+        <li className='list-group-item'><Link className='text-dark' to="/">Playstation 4</Link></li>
+        <li className='list-group-item'><Link className='text-dark' to="/">Playstation 5</Link></li>
+        <li className='list-group-item'><Link className='text-dark' to="/">Ofertas</Link></li>
+      </ul>
     
     </Sidebar>
     </>

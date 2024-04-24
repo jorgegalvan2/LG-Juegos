@@ -216,6 +216,24 @@
   align-items: center;
 }
 
+.sizeImage{
+  width: 150px;
+  height: 150px;
+}
+
+.stylesCardOffers{
+  box-shadow: 0px 0px 10px black;
+  height: 330px;
+}
+
+.vv{
+  max-width: 540px;
+}
+
+.MuiAutocomplete-input{
+  color: wheat !important;
+  border: #f0f0f0 !important;
+}
 .content {
   max-width: 100%;
   max-height: 100%;

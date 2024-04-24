@@ -72,12 +72,29 @@ function Ecommerce({item}) {
     setSelectedProduct(null);
   };
 
-  const addToCart = () => {
+  /*    "price": 19900,
+    "offerPrice": 11500,
+    "secondaryPrice": 9900,
+    "offerSecondaryPrice": 8000,*/
+
+  const addToCart = (levelGame) => {
+    let priceDinamic
+    if(levelGame == 'primary' && selectedProduct.offerPrice){
+      priceDinamic = selectedProduct.offerPrice
+    } else if (levelGame == 'primary' && !selectedProduct.offerPrice){
+      priceDinamic = selectedProduct.price
+    } else if (levelGame !== 'primary' && selectedProduct.offerSecondaryPrice){
+      priceDinamic = selectedProduct.offerSecondaryPrice
+    } else if (levelGame !== 'primary' && !selectedProduct.offerSecondaryPrice){
+      priceDinamic = selectedProduct.secondaryPrice
+    }
+
     const cartItem = {
       id: selectedProduct.id, // Otra propiedad única para identificar el selectedProducto
       name: selectedProduct.name,
-      price: selectedProduct.secondaryPrice ? selectedProduct.secondaryPrice : selectedProduct.price, // ARREGLAR ESTO
+      price: priceDinamic,
       image: selectedProduct.image,
+      level: levelGame == 'primary' ? 'Primaria' : 'Secundaria',
       category: selectedProduct.category
     };
   

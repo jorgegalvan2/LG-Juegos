@@ -55,12 +55,10 @@ function App(){
         setSidebarVisible(true);
     };
     
-    const hideSidebar = () => {
-        setSidebarVisible(false);
-    };
+
 
     const onItems = (item) => {
-        console.log(item)
+    
     }
 
     return (
@@ -68,59 +66,7 @@ function App(){
         <>
 
         <NavBar />
-       { /* <nav className={`navbar fixed-top navbar-expand-lg BrandColor `}>
-            <div className="container-fluid ">
-                <button className="navbar-toggler border-0 colorButtons navbar-transition" type="button" onClick={showNavBar}>
-                    <span className="navbar-toggler-icon colorButtons"></span>
-                </button>
-                <button className="btn border-0 colorButtons  navbar-transition-right" type="button" onClick={showSidebar}>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25"  className="bi bi-cart colorButtons" viewBox="0 0 16 16">
-                        <path d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5M3.102 4l1.313 7h8.17l1.313-7zM5 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4m7 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4m-7 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2m7 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2"/>
-                    </svg>
-                </button>
-                <div className={`collapse navbar-collapse justify-content-end text-light ${isOpen ? 'show' : ''}`} id="navbarNav">
-                    <ul className="navbar-nav text-center align-items-center ">
-                        <li className="nav-item ">
-                            <Link className='nav-link text-light' to="/">Inicio</Link>
-                        </li>
-                        <li className="nav-item ">
-                            <Link className='nav-link text-light' to="/">Playstation 3</Link>
-                        </li>
-                        <li className="nav-item ">
-                            <Link className='nav-link text-light' to="/">Playstation 4</Link>
-                        </li>
-                        <li className="nav-item ">
-                            <Link className='nav-link text-light' to="/">Playstation 5</Link>
-                        </li>
-                        <li className="nav-item ">
-                            <Link className='nav-link text-light' to="/">Ofertas</Link>
-                        </li>
-                        <li className="nav-item">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" className="bi bi-cart" viewBox="0 0 16 16">
-                                <path d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5M3.102 4l1.313 7h8.17l1.313-7zM5 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4m7 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4m-7 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2m7 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2"/>
-                            </svg>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <Sidebar visible={sidebarVisible} onHide={hideSidebar} blockScroll={true}  header="Carro de compras" position="right">
-                <ItemsCart />
-            </Sidebar>
-            <Sidebar visible={isOpen} onHide={hideNavBar} blockScroll={true} className='sideBarIsOpen' header="LG Juegos Digitales" position="left">
 
-
-            <div className="">
-                <ul className="list-group ulDecoration ">
-                    <li className='list-group-item '><Link className='text-dark' to="/">Inicio</Link></li>
-                    <li className='list-group-item'><Link className='text-dark' to="/">Playstation 3</Link></li>
-                    <li className='list-group-item'><Link className='text-dark' to="/">Playstation 4</Link></li>
-                    <li className='list-group-item'><Link className='text-dark' to="/">Playstation 5</Link></li>
-                    <li className='list-group-item'><Link className='text-dark' to="/">Ofertas</Link></li>
-
-                </ul>
-                </div>
-            </Sidebar>
-        </nav> */ }
         <Logo />
 
             <Routes>

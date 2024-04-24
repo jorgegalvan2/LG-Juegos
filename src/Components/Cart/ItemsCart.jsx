@@ -1,7 +1,19 @@
-import React, { useState } from "react";
+import * as React from 'react';
+import { useState } from 'react';
 
-function ItemsCart() {
-  // Obtener el carrito actual del localStorage
+import AspectRatio from '@mui/joy/AspectRatio';
+import Button from '@mui/joy/Button';
+import Card from '@mui/joy/Card';
+import CardContent from '@mui/joy/CardContent';
+import CardActions from '@mui/joy/CardActions';
+import Typography from '@mui/joy/Typography';
+import Stack from '@mui/joy/Stack';
+import FormControl from '@mui/joy/FormControl';
+import FormLabel from '@mui/joy/FormLabel';
+import Switch from '@mui/joy/Switch';
+
+export default function ItemsCart() {
+  const [flex, setFlex] = React.useState(true);
   const [currentCart, setCurrentCart] = useState(JSON.parse(localStorage.getItem('cart')) || []);
 
   const totalPrice = currentCart.reduce((total, item) => total + item.price, 0);
@@ -14,36 +26,48 @@ function ItemsCart() {
   };
 
   return (
-    <div style={{ position: 'relative', minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
-      <div style={{ marginBottom: '50px', overflowY: 'auto', flex: '1' }}>
-        {currentCart.map(item => (
-          <div key={item.id} style={{ marginBottom: '20px', display: 'flex', alignItems: 'center' }}>
-            {/* Imagen del producto */}
-            <img className="img-fluid h-100" src={item.image} alt={item.name} style={{ width: '100px', marginRight: '20px' }} />
-
-            {/* Detalles del producto */}
-            <div>
-              <h4 className="fs-5">{item.name}</h4>
-              <p><strong>Precio:</strong> ${item.price}</p>
-              <p>{item.category}</p>
-              {/* Botón para eliminar el ítem */}
-              <button className="btn btn-danger" onClick={() => removeItem(item.id)}>Eliminar</button>
-              {/* Agregar más detalles del producto aquí si es necesario */}
-            </div>
-          </div>
-        ))}
-        {/* Mostrar mensaje si el carrito está vacío */}
-        {currentCart.length === 0 || !currentCart ? <p>El carrito está vacío.</p> : null}
-      </div>
-      {/* Mostrar el precio total */}
+    <>
+    {currentCart.map(item => (<Stack spacing={2} alignItems="center">
+      <Card
+        orientation="horizontal"
+        variant="outlined"
+        className={'my-1'}
+        sx={{ boxShadow: 'none', resize: 'horizontal', overflow: 'auto', width: 315, }}
+      >
+        <AspectRatio ratio="" flex={flex} sx={{ flexBasis: 120, width: '100%' }}>
+          <img src={item.image} alt="" className='img-fluid' />
+        </AspectRatio>
+        <CardContent>
+          <Typography level="body-xs">{item.category}</Typography>
+          <Typography level="title-sm" component="div">
+            {item.name}
+          </Typography>
+          <Typography level="body-lg">
+              ${item.price}
+          </Typography>
+          <Typography level="body-sm">
+              {item.level}
+          </Typography>
+          <CardActions buttonFlex="none">
+            <Button  color="danger" size="sm"  onClick={() => removeItem(item.id)}>
+              Eliminar
+            </Button>
+          </CardActions>
+        </CardContent>
+      </Card>
+    </Stack>))}
+    {currentCart.length === 0 || !currentCart ? <p>El carrito está vacío.</p> : null}
+    
       {currentCart.length > 0 && (
-        <div style={{ position: 'fixed', bottom: '0', left: '', height:'90px', width: '320px', backgroundColor: '#fff', textAlign: 'center', alignItems:'center',  margin:'auto', paddingTop: '5px', borderTop: '1px solid #ccc' }}>
-          <p className="d-block marginCart">Total: ${totalPrice.toFixed(2)}</p>
-          <button  className="btn BrandColor text-light marginCart">Comprar</button>
-        </div>
-      )}
-    </div>
+        <>
+            <div className='mt-5 pt-5'>
+
+            </div>
+            <div style={{ position: 'fixed', bottom: '0', left: '', height:'90px', width: '320px', backgroundColor: '#fff', textAlign: 'center', alignItems:'center',  margin:'auto', paddingTop: '5px', borderTop: '1px solid #ccc', zIndex: 2 }}>
+              <p className="d-block marginCart">Total: ${totalPrice.toFixed(2)}</p>
+              <button  className="btn BrandColor text-light marginCart">Comprar</button>
+            </div>
+            </> )}
+      </>
   );
 }
-
-export default ItemsCart;

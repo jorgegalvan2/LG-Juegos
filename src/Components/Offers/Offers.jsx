@@ -40,20 +40,19 @@ function Offers({item}) {
 
   const productTemplate = (product) => {
     return (
-      <div className="row align-items-stretch px-2" style={{ height: '350px' }} onClick={() => showProductDetails(product)}>
-      <div className="">
-          <img src={product.image} alt={product.name} className="img-fluid" />
-      </div>
-      <div className="col-md-9 d-flex flex-column">
-          <div>
-              <h4 className="fs-5">{product.name}</h4>
-              <h6 className="mt-0">${product.price}</h6>
-          </div>
-          <div className="mt-auto">
-              <button className="btn BrandColor text-light w-100 rounded-0">Ver</button>
-          </div>
-      </div>
-  </div>
+      <div className="d-flex flex-column align-center m-3 stylesCardOffers "  onClick={() => showProductDetails(product)}>
+
+        <div className="">
+            <img src={product.image} alt={product.name} className="img-fluid"/>
+        </div>
+        <div className='m-auto'>
+            <div >
+                <h3 className="fs-5 m">{product.name}</h3>
+                <p className="m-0">${product.price}</p>
+            </div>
+        </div>
+
+    </div>
 
   
   
@@ -97,6 +96,7 @@ const addToCart = () => {
         value={products} 
         numScroll={1} 
         numVisible={3} 
+        showNavigators={false}
         responsiveOptions={responsiveOptions} 
         itemTemplate={productTemplate} 
         circular={true}

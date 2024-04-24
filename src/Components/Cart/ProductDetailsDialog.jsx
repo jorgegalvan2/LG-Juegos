@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Dialog } from 'primereact/dialog';
 
-function ProductDetailsDialog({ product, onClose, onAddToCart }) {
+function ProductDetailsDialog({ product, onClose, onAddToCart  }) {
   const [selectedPriceType, setSelectedPriceType] = useState('primary');
 
   const handleRadioChange = (event) => {
@@ -71,7 +71,7 @@ function ProductDetailsDialog({ product, onClose, onAddToCart }) {
         <p className='mt-3 mb-5'>{product.description}</p>
       </div>
       <div className="dialog-footer BrandColor">
-        <button className='btn text-light' onClick={onAddToCart}>Agregar al carrito</button>
+        <button className='btn text-light' onClick={() => onAddToCart(selectedPriceType)}>Agregar al carrito</button>
       </div>
     </Dialog>
   );
