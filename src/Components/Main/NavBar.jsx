@@ -122,15 +122,12 @@ export default function PrimarySearchAppBar() {
             LG Juegos Digitales
           </Typography>
 
-       
-
                   <Autocomplete
                     id="free-solo-demo"
-                    
                     fullWidth={true}
-                    options={ProductService.map((option) => option.name)}
+                    options={ProductService.map((option) => `${option.name} - ${option.category}`)}
                     className='text-light my-2 stylesInputNavBar'
-                    renderInput={(params) => <TextField className='stylesInputNavBar' {...params} label="Buscar..." />}
+                    renderInput={(params) => <TextField {...params} label="Buscar..." />}
                   />
   
           <Box sx={{ flexGrow: 1 }} />

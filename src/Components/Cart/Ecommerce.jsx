@@ -125,29 +125,29 @@ function Ecommerce({item}) {
           </div>
           <div className="row justify-content-center  ">
           {filteredProducts.map(product => (
-            <div key={product.id} className="col-6 col-lg-2 mb-3 border-0" onClick={() => showProductDetails(product)} style={{ cursor: 'pointer' }}>
-              <div className="card h-100 ">
-                <img src={product.image} className="card-img-top" alt={product.name} style={{ height: '200px', objectFit: 'cover' }} />
+            <div key={product.id} className="col-5 col-lg-2 mb-3 border-0 p-0 stylesCardOffers mx-2"  onClick={() => showProductDetails(product)} style={{ cursor: 'pointer',  height: '350px' }}>
+              <div className="card  border-0 h-100">
+                <div className='position-relative'>
+                  <div className="position-absolute bottom-0 start-0 badgeStyle p-1  ms-2 mb-1"><span className=''>{product.category}</span></div>
+                  <img src={product.image} className="img-fluid" alt={product.name}  />                  
+                </div>
                 <div className="card-body">
                   <h5 className="card-title">{product.name}</h5>
-                  <p className="card-text">{product.category}</p>
                   {product.offerPrice ? (
                     <div  className='row justify-content-center'>
                       <div className='col-12'>
-                        <p className="d-inline-block me-1  oldPriceNotOffer">${product.price}</p>
+                        <p className="d-inline-block me-1 oldPriceNotOffer">${product.price}</p>
                         <p className="d-inline-block ms-1"><strong>${product.offerPrice}</strong></p>
                       </div>
-
                     </div>
                   ) : (
                     <p className="card-text">${product.price}</p>
                   )}
                 </div>
-                <div className="card-footer BrandColor">
-                  <button className="btn  text-light btn-block">Ver</button>
-                </div>
               </div>
             </div>
+          
+          
           ))}
           </div>
         </div>
