@@ -1,7 +1,7 @@
 import FIFA19_PS3 from '../assets/img/Catalogue/PS3/FIFA-19-PS3.jpg';
 import GTAV_PS3 from '../assets/img/Catalogue/PS3/GTA-V-PS3.jpg';
 import CODIW_PS4 from '../assets/img/Catalogue/PS4/COD-IW-PS4.jpg';
-import FIFA24_PS4 from '../assets/img/Catalogue/PS4/FIFA-24-PS4.jpg';
+import FIFA24_PS4 from '../assets/img/Catalogue/PS3/FIFA-19-TRY.jpeg';
 import GTAV_PS4 from '../assets/img/Catalogue/PS4/GTA-V-PS4.jpg';
 import LBP_PS4 from '../assets/img/Catalogue/PS4/LBP-PS4.jpg';
 
@@ -13,7 +13,7 @@ const data =[
     "description": "Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego.",
     "price": 7742,
     "offerPrice": 5900,
-    "image": FIFA19_PS3 
+    "image": FIFA24_PS4 
   },
   { 
     "id": 2,
@@ -22,7 +22,7 @@ const data =[
     "description":"Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego.",
     "price": 14900,
     "offerPrice": 11500,
-    "image": GTAV_PS3 
+    "image": FIFA24_PS4 
     },
   { 
     "id": 3,
@@ -33,7 +33,7 @@ const data =[
     "offerPrice": 11500,
     "secondaryPrice": 9900,
     "offerSecondaryPrice": 8000,
-    "image": CODIW_PS4 
+    "image": FIFA24_PS4 
     },
   { 
     "id": 4,
@@ -42,7 +42,7 @@ const data =[
     "description":"Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego.",
     "price": 12000,
     "secondaryPrice": 4000,
-    "image": GTAV_PS4 
+    "image": FIFA24_PS4 
     },
   { 
     "id": 5,
@@ -51,7 +51,7 @@ const data =[
     "description":"Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego.",
     "price": 12400,
     "secondaryPrice": 5500,
-    "image": LBP_PS4 
+    "image": FIFA24_PS4 
     },
     
   {

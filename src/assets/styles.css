@@ -58,6 +58,9 @@
   border: 1px !important;
   background-color: #000000f6 !important;
   color: #f0f0f0 !important;
+  border-color: #f0f0f0;
+  font-size: 0.76em;
+  font-weight: 700;
 }
 
 .dialog-footer {
@@ -232,7 +235,8 @@
 
 .stylesCardOffers{
   box-shadow: 0px 0px 10px black;
-  height: 330px;
+  border-radius: 10px;
+
 }
 
 .vv{

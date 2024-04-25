@@ -125,14 +125,13 @@ function Ecommerce({item}) {
           </div>
           <div className="row justify-content-center  ">
           {filteredProducts.map(product => (
-            <div key={product.id} className="col-5 col-lg-2 mb-3 border-0 p-0 stylesCardOffers mx-2"  onClick={() => showProductDetails(product)} style={{ cursor: 'pointer',  height: '350px' }}>
-              <div className="card  border-0 h-100">
+            <div key={product.id} className="col-5 col-lg-2 mb-3 rounded-start-2 p-0 stylesCardOffers mx-2 rounded-3"  onClick={() => showProductDetails(product)} style={{ cursor: 'pointer',   }}>
+              <div className="card border-0 h-100">
                 <div className='position-relative'>
                   <div className="position-absolute bottom-0 start-0 badgeStyle p-1  ms-2 mb-1"><span className=''>{product.category}</span></div>
                   <img src={product.image} className="img-fluid" alt={product.name}  />                  
                 </div>
                 <div className="card-body">
-                  <h5 className="card-title">{product.name}</h5>
                   {product.offerPrice ? (
                     <div  className='row justify-content-center'>
                       <div className='col-12'>

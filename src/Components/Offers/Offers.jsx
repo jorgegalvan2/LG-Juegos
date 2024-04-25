@@ -46,8 +46,7 @@ function Offers({item}) {
             <img src={product.image} alt={product.name} className="img-fluid"/>
         </div>
         <div className='m-auto'>
-            <div >
-                <h3 className="fs-5 m">{product.name}</h3>
+            <div className='my-3'>
                 <p className="m-0">${product.price}</p>
             </div>
         </div>
