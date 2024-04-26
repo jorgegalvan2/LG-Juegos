@@ -1,7 +1,25 @@
-import React, { useState } from 'react';
-import { Dialog } from 'primereact/dialog';
+// ProductDetails.js
+import { useEffect, useState } from 'react';
+import ProductService from './../services/ProductService.jsx'
+import { useParams } from 'react-router';
 
-function ProductDetailsDialog({ product, onClose, onAddToCart  }) {
+function ProductDetails() {
+  const { id } = useParams();
+  const productId = parseInt(id);
+
+  const [game, setGame] = useState()
+  const [product, setProduct] = useState()
+
+  useEffect(() =>{
+    console.log(productId)
+    const product = ProductService.find(product => product.id === productId);
+    if (product) {
+      setProduct(product);
+    }
+
+
+  },[id]) // Asegúrate de que useEffect se ejecute cada vez que el ID cambie
+
   const [selectedPriceType, setSelectedPriceType] = useState('primary');
 
   const handleRadioChange = (event) => {
@@ -9,8 +27,9 @@ function ProductDetailsDialog({ product, onClose, onAddToCart  }) {
   };
 
   return (
-
-      <div className='row justify-content-center text-center p-0'>
+    <main className='container-fluid mt-5'>
+      {product && 
+        <div className='row justify-content-center text-center p-0'>
         <img className='img-fluid col-12 p-0' src={product.imageDetails} alt={product.title} />
         <p className='text-center fs-5 mt-3'>{product.category}</p>
         
@@ -79,9 +98,9 @@ function ProductDetailsDialog({ product, onClose, onAddToCart  }) {
         )}
 
         <p className='mt-3 '>{product.description}</p>
-      </div>
-
+      </div>}
+    </main>
   );
 }
 
-export default ProductDetailsDialog;
+export default ProductDetails;

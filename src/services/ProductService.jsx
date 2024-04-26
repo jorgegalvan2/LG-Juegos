@@ -1,10 +1,8 @@
-import FIFA19_PS3 from '../assets/img/Catalogue/PS3/FIFA-19-PS3.jpg';
-import GTAV_PS3 from '../assets/img/Catalogue/PS3/GTA-V-PS3.jpg';
-import CODIW_PS4 from '../assets/img/Catalogue/PS4/COD-IW-PS4.jpg';
-import FIFA24_PS4 from '../assets/img/Catalogue/PS3/FIFA-19-TRY.jpeg';
-import GTAV_PS4 from '../assets/img/Catalogue/PS4/GTA-V-PS4.jpg';
-import LBP_PS4 from '../assets/img/Catalogue/PS4/LBP-PS4.jpg';
 
+import GTAV from '../assets/img/Catalogue/GTA-V.jpeg';
+import FIFA24 from '../assets/img/Catalogue/FIFA-24.jpeg';
+
+import FIFA24_ProductDetails from '../assets/img/Catalogue/imgDetails/FIFA-24.jpeg';
 const data =[
   { 
     "id": 1,
@@ -13,7 +11,8 @@ const data =[
     "description": "Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego.",
     "price": 7742,
     "offerPrice": 5900,
-    "image": FIFA24_PS4 
+    "image": FIFA24,
+    "imageDetails": FIFA24_ProductDetails 
   },
   { 
     "id": 2,
@@ -22,7 +21,8 @@ const data =[
     "description":"Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego.",
     "price": 14900,
     "offerPrice": 11500,
-    "image": FIFA24_PS4 
+    "image": GTAV,
+    "imageDetails": FIFA24_ProductDetails 
     },
   { 
     "id": 3,
@@ -33,7 +33,8 @@ const data =[
     "offerPrice": 11500,
     "secondaryPrice": 9900,
     "offerSecondaryPrice": 8000,
-    "image": FIFA24_PS4 
+    "image": FIFA24,
+    "imageDetails": FIFA24_ProductDetails 
     },
   { 
     "id": 4,
@@ -42,7 +43,8 @@ const data =[
     "description":"Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego.",
     "price": 12000,
     "secondaryPrice": 4000,
-    "image": FIFA24_PS4 
+    "image": FIFA24,
+    "imageDetails": FIFA24_ProductDetails 
     },
   { 
     "id": 5,
@@ -51,7 +53,8 @@ const data =[
     "description":"Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego.",
     "price": 12400,
     "secondaryPrice": 5500,
-    "image": FIFA24_PS4 
+    "image": FIFA24,
+    "imageDetails": FIFA24_ProductDetails 
     },
     
   {
@@ -60,8 +63,11 @@ const data =[
     "category": "PS4",
     "description":"EA SPORTS FC™ 24 es el comienzo del futuro del fútbol. Con este título innovador y auténtico, te sentirás mucho más cerca del juego gracias a una experiencia futbolística más real que nunca y a la compañía de los mejores jugadores de los equipos, ligas y competencias más grandes del mundo. Descubre un nivel de realismo sin igual en cada partido gracias a tres tecnologías revolucionarias: HyperMotionV, PlayStyles optimizado por Opta y el motor Frostbite™ mejorado.Con más de 19.000 jugadores licenciados, 700 equipos y 30 ligas, como UEFA Champions League masculina y femenina, EA SPORTS FC 24 brinda un nivel de autenticidad sin igual en el campo de juego.",
     "price": 24000,
+    "offerPrice": 11500,
     "secondaryPrice": 5500,
-    "image": FIFA24_PS4 }
+    "image": FIFA24 ,
+    "imageDetails": FIFA24_ProductDetails 
+  }
 ]
 
 export default data

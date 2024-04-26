@@ -21,6 +21,7 @@ import { Routes, Route, Link } from 'react-router-dom'
 import Logo from './Components/Logo.jsx';
 import ItemsCart from './Components/Cart/ItemsCart.jsx';
 import NavBar from './Components/Main/NavBar.jsx'
+import ProductDetails from "./Pages/ProductDetails.jsx"
 
 
 
@@ -71,7 +72,7 @@ function App(){
 
             <Routes>
                 <Route path="/" element={<Home addItem={onItems}/>}/>
-
+                <Route path="/producto/:id" element={<ProductDetails/>}/>
                 <Route path="*" element={<div><h1>404</h1><p>Esta pagina no se encuentra disponible.</p></div>}/>
             </Routes>
 

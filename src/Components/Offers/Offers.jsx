@@ -43,13 +43,9 @@ function Offers({item}) {
       <div className="d-flex flex-column align-center m-3 stylesCardOffers "  onClick={() => showProductDetails(product)}>
 
         <div className="">
-            <img src={product.image} alt={product.name} className="img-fluid"/>
+            <img src={product.image} alt={product.name} className="img-fluid  rounded-3"/>
         </div>
-        <div className='m-auto'>
-            <div className='my-3'>
-                <p className="m-0">${product.price}</p>
-            </div>
-        </div>
+
 
     </div>
 
