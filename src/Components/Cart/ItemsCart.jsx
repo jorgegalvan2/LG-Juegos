@@ -34,9 +34,9 @@ export default function ItemsCart() {
         className={'my-1'}
         sx={{ boxShadow: 'none', resize: 'horizontal', overflow: 'auto', width: 315, }}
       >
-        <AspectRatio ratio="" flex={flex} sx={{ flexBasis: 120, width: '100%' }}>
-          <img src={item.image} alt="" className='img-fluid' />
-        </AspectRatio>
+
+          <img src={item.image} alt="" className='img-fluid imgItemsCart rounded-4' />
+
         <CardContent>
           <Typography level="body-xs">{item.category}</Typography>
           <Typography level="title-sm" component="div">

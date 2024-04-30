@@ -23,6 +23,7 @@ function Ecommerce({item}) {
   useEffect(() => {
     setProducts(ProductService);
     setFilteredProducts(ProductService);
+    console.log(ProductService)
     const categoriesData = [...new Set(ProductService.map(product => product.category))];
     setCategories(['Todos', ...categoriesData]);
     setSelectedCategory('Todos')
@@ -65,50 +66,13 @@ function Ecommerce({item}) {
     setSidebarVisible(false);
   };
 
-  const showProductDetails = (product) => {
-    setSelectedProduct(product);
-  };
-
-  const hideProductDetails = () => {
-    setSelectedProduct(null);
-  };
 
   /*    "price": 19900,
     "offerPrice": 11500,
     "secondaryPrice": 9900,
     "offerSecondaryPrice": 8000,*/
 
-  const addToCart = (levelGame) => {
-    let priceDinamic
-    if(levelGame == 'primary' && selectedProduct.offerPrice){
-      priceDinamic = selectedProduct.offerPrice
-    } else if (levelGame == 'primary' && !selectedProduct.offerPrice){
-      priceDinamic = selectedProduct.price
-    } else if (levelGame !== 'primary' && selectedProduct.offerSecondaryPrice){
-      priceDinamic = selectedProduct.offerSecondaryPrice
-    } else if (levelGame !== 'primary' && !selectedProduct.offerSecondaryPrice){
-      priceDinamic = selectedProduct.secondaryPrice
-    }
 
-    const cartItem = {
-      id: selectedProduct.id, // Otra propiedad única para identificar el selectedProducto
-      name: selectedProduct.name,
-      price: priceDinamic,
-      image: selectedProduct.image,
-      level: levelGame == 'primary' ? 'Primaria' : 'Secundaria',
-      category: selectedProduct.category
-    };
-  
-    // Obtener el carrito actual del localStorage o crear uno nuevo si no existe
-    const currentCart = JSON.parse(localStorage.getItem('cart')) || [];
-    currentCart.push(cartItem);
-  
-    // Guardar el carrito actualizado en el localStorage
-    localStorage.setItem('cart', JSON.stringify(currentCart));
-    NotifyHelper.notifySuccess("Listo!")
-    setSelectedProduct(null);
-    item(cartItem)
-  };
   
 
   return (
@@ -128,7 +92,7 @@ function Ecommerce({item}) {
 
           <div className="row justify-content-center  ">
           {filteredProducts.map(product => (
-            <Link to={`/producto/${product.id}`} className='col-5 col-lg-2 mb-3 rounded-start-2 p-0  mx-2 rounded-3' key={product.id}>
+            <Link to={`/producto/${product.id}`} className='col-5 col-lg-2 mb-3 rounded-start-2 p-0  mx-2 rounded-3 decorationLinks' key={product.id}>
             <div key={product.id} className=""  onClick={() => showProductDetails(product)} style={{ cursor: 'pointer',   }}>
               <div className="card border-0 h-100">
                 <div className='position-relative'>
@@ -136,8 +100,13 @@ function Ecommerce({item}) {
                   <img src={product.image} className="img-fluid rounded-2 stylesCardOffers" alt={product.name}  />                  
                 </div>
                 <div className="card-body p-0 mt-1">
+                <div className='text-start'>
+                  <span className='genderStyle'>{product.gender}</span>
+
+                  </div>
                   {product.offerPrice ? (
                     <div  className='row text-start'>
+
                       <div className='col-12'>
                         <p className="d-inline-block me-1 oldPriceNotOffer">${product.price}</p>
                         <p className="d-inline-block ms-1"><strong>${product.offerPrice}</strong></p>

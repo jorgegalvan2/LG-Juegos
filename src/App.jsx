@@ -68,7 +68,7 @@ function App(){
 
         <NavBar />
 
-        <Logo />
+     
 
             <Routes>
                 <Route path="/" element={<Home addItem={onItems}/>}/>

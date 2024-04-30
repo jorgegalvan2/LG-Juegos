@@ -114,7 +114,21 @@
 }
 
 
+.imgItemsCart{
+  width: 130px;
+  height: 130px;
+  object-fit: contain;
+}
 
+.genderStyle{
+  color: #6b6b6b;
+  font-size: 0.8em;
+}
+
+.decorationLinks{
+  text-decoration: none !important;
+
+}
 
 .colorButtons{
   background-color: rgb(255, 255, 255) !important;  

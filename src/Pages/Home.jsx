@@ -1,4 +1,4 @@
-
+import Logo from './../Components/Logo.jsx'
 import Ecommerce from "../Components/Cart/Ecommerce"
 import Offers from "../Components/Offers/Offers"
 import { ToastContainer, toast } from 'react-toastify';
@@ -12,8 +12,11 @@ function Home({addItem}){
     addItem(aa)
   }
   return (
-    <main className="container-fluid">
+    <>
+    <Logo />
 
+    <main className="container-fluid  mx-0">
+      
       <section className="row justify-content-center text-center">
         <article className="col-12 px-0 navbar-transition">
           <Offers selectedItem={item}/>
@@ -39,6 +42,7 @@ function Home({addItem}){
                 />
           
     </main>
+    </>
   )
 }
 
