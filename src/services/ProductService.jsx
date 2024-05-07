@@ -6,7 +6,7 @@ import FIFA24_ProductDetails from '../assets/img/Catalogue/imgDetails/FIFA-24.jp
 const data =[
   { 
     "id": 1,
-    "name": "FIFA 19",
+    "title": "FIFA 19",
     "category": "PS3",
     "gender":"Deportes",
     "description": "Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego.",
@@ -17,7 +17,7 @@ const data =[
   },
   { 
     "id": 2,
-    "name": "GTA V",
+    "title": "GTA V",
     "category": "PS3",
     "gender":"Acción",
     "description":"Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego.",
@@ -28,7 +28,7 @@ const data =[
     },
   { 
     "id": 3,
-    "name": "COD: Infinite Warfare",
+    "title": "COD: Infinite Warfare",
     "category": "PS4",
     "gender":"Acción",
     "description":"Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego.",
@@ -41,8 +41,9 @@ const data =[
     },
   { 
     "id": 4,
-    "name": "GTA V",
+    "title": "GTA V",
     "category": "PS4",
+    "quantity": 1,
     "gender":"Acción",
     "description":"Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego.",
     "price": 12000,
@@ -52,8 +53,9 @@ const data =[
     },
   { 
     "id": 5,
-    "name": "Little big planet",
+    "title": "Little big planet",
     "category": "PS4",
+    "quantity": 1,
     "gender":"Aventura",
     "description":"Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego. Descripción de ejemplo que tendrá un juego.",
     "price": 12400,
@@ -64,7 +66,7 @@ const data =[
     
   {
     "id": 6,
-    "name": "FIFA 24",
+    "title": "FIFA 24",
     "category": "PS4",
     "gender":"Deportes",
     "description":"EA SPORTS FC™ 24 es el comienzo del futuro del fútbol. Con este título innovador y auténtico, te sentirás mucho más cerca del juego gracias a una experiencia futbolística más real que nunca y a la compañía de los mejores jugadores de los equipos, ligas y competencias más grandes del mundo. Descubre un nivel de realismo sin igual en cada partido gracias a tres tecnologías revolucionarias: HyperMotionV, PlayStyles optimizado por Opta y el motor Frostbite™ mejorado.Con más de 19.000 jugadores licenciados, 700 equipos y 30 ligas, como UEFA Champions League masculina y femenina, EA SPORTS FC 24 brinda un nivel de autenticidad sin igual en el campo de juego.",

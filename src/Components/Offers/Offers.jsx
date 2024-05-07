@@ -1,7 +1,7 @@
 import { Carousel } from 'primereact/carousel';
 
 import ProductsService from './../../services/ProductService.jsx'
-import ProductDetailsDialog from '../Cart/ProductDetailsDialog.jsx';
+import ProductDetailsDialog from '../../Pages/ProductDetails.jsx';
 import * as NotifyHelper from '../../helpers/notify.js'
 import { useEffect, useState } from 'react';
 
@@ -14,13 +14,13 @@ function Offers({item}) {
   const responsiveOptions = [
     {
         breakpoint: '1400px',
-        numVisible: 8,
-        numScroll: 1
+        numVisible: 4,
+        numScroll: 2
     },
     {
         breakpoint: '1199px',
-        numVisible: 3,
-        numScroll: 1
+        numVisible: 4,
+        numScroll: 3
     },
     {
         breakpoint: '767px',
@@ -85,8 +85,10 @@ const addToCart = () => {
 
   return (
 
-    <div className="">
-      <h2 className='my-5'>Juegos en oferta</h2>
+    <div className="row justify-content-center">
+      <h2 className='my-5 '>Juegos en oferta</h2>
+      <div className='col-12 col-lg-6'>
+
       <Carousel 
         value={products} 
         numScroll={1} 
@@ -105,7 +107,8 @@ const addToCart = () => {
           onAddToCart={addToCart} 
         />
       }
-
+        
+        </div>
     </div>
 
     

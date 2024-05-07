@@ -100,7 +100,7 @@ export default function PrimarySearchAppBar() {
 
   return (
     <>
-    <Box sx={{ flexGrow: 1 }}>
+    <Box sx={{ flexGrow: 1 }} >
       <AppBar className='BrandColor' position="fixed">
         <Toolbar>
         <IconButton
@@ -124,14 +124,14 @@ export default function PrimarySearchAppBar() {
 
                   <Autocomplete
                     id="free-solo-demo"
-                    fullWidth={true}
+                    
                     options={ProductService.map((option) => `${option.name} - ${option.category}`)}
-                    className='text-light my-2 stylesInputNavBar'
+                    className='text-light my-2 stylesInputNavBar '
                     renderInput={(params) => <TextField {...params} label="Buscar..." />}
                   />
-  
-          <Box sx={{ flexGrow: 1 }} />
-          <Box sx={{ display: { xs: 'none', sm: 'block' } }}>
+
+
+          <Box sx={{ display: { xs: 'none', sm: 'block'} } } className={'dd'}>
             {navItems.map((item) => (
               <Button key={item} sx={{ color: '#fff' }}>
                 {item}
@@ -158,11 +158,11 @@ export default function PrimarySearchAppBar() {
     </Sidebar>
     <Sidebar visible={menuSidebar} onHide={handleMenuSidebarHide} blockScroll={true} header="LG Juegos Digitales" position="left">
       <ul className="list-group ulDecoration ">
-        <li className='list-group-item '><Link className='text-dark' to="/">Inicio</Link></li>
-        <li className='list-group-item'><Link className='text-dark' to="/">Playstation 3</Link></li>
-        <li className='list-group-item'><Link className='text-dark' to="/">Playstation 4</Link></li>
-        <li className='list-group-item'><Link className='text-dark' to="/">Playstation 5</Link></li>
-        <li className='list-group-item'><Link className='text-dark' to="/">Ofertas</Link></li>
+        <li className='list-group-item '><Link className='text-dark' to="/" onClick={() => setMenuSidebar(false)}>Inicio</Link></li>
+        <li className='list-group-item'><Link className='text-dark' to="/" onClick={() => setMenuSidebar(false)}>Playstation 3</Link></li>
+        <li className='list-group-item'><Link className='text-dark' to="/" onClick={() => setMenuSidebar(false)}>Playstation 4</Link></li>
+        <li className='list-group-item'><Link className='text-dark' to="/" onClick={() => setMenuSidebar(false)}>Playstation 5</Link></li>
+        <li className='list-group-item'><Link className='text-dark' to="/" onClick={() => setMenuSidebar(false)}>Ofertas</Link></li>
       </ul>
     
     </Sidebar>

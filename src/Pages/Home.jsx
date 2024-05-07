@@ -5,12 +5,15 @@ import { ToastContainer, toast } from 'react-toastify';
 import * as NotifyHelper from "../helpers/notify"
 
 
+
+
+import { useState } from 'react';
+import { redirect } from 'react-router';
+
 function Home({addItem}){
 
 
-  const item = (aa) => {
-    addItem(aa)
-  }
+
   return (
     <>
     <Logo />
@@ -18,14 +21,17 @@ function Home({addItem}){
     <main className="container-fluid  mx-0">
       
       <section className="row justify-content-center text-center">
-        <article className="col-12 px-0 navbar-transition">
-          <Offers selectedItem={item}/>
+        <article className="col-12 navbar-transition">
+          <Offers />
         </article>
         <article className="col-12 mt-4">
 
-          <Ecommerce item={item}  />
+          <Ecommerce />
 
         </article>
+
+
+
     </section>
 
     <ToastContainer

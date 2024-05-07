@@ -3,7 +3,6 @@ import { InputText } from 'primereact/inputtext';
 import { Button } from 'primereact/button';
 import { Sidebar } from 'primereact/sidebar';
 import ProductService from './../../services/ProductService.jsx';
-import ProductDetailsDialog from './ProductDetailsDialog.jsx';
 
 
 import * as NotifyHelper from '../../helpers/notify.js'
@@ -44,7 +43,7 @@ function Ecommerce({item}) {
 
   const filterProductsBySearchTerm = (term) => {
     const filteredProducts = products.filter(product =>
-      product.name.toLowerCase().includes(term.toLowerCase())
+      product.title.toLowerCase().includes(term.toLowerCase())
     );
     setFilteredProducts(filteredProducts);
   };
@@ -66,13 +65,6 @@ function Ecommerce({item}) {
     setSidebarVisible(false);
   };
 
-
-  /*    "price": 19900,
-    "offerPrice": 11500,
-    "secondaryPrice": 9900,
-    "offerSecondaryPrice": 8000,*/
-
-
   
 
   return (
@@ -93,11 +85,11 @@ function Ecommerce({item}) {
           <div className="row justify-content-center  ">
           {filteredProducts.map(product => (
             <Link to={`/producto/${product.id}`} className='col-5 col-lg-2 mb-3 rounded-start-2 p-0  mx-2 rounded-3 decorationLinks' key={product.id}>
-            <div key={product.id} className=""  onClick={() => showProductDetails(product)} style={{ cursor: 'pointer',   }}>
+            <div key={product.id}  style={{ cursor: 'pointer',   }}>
               <div className="card border-0 h-100">
                 <div className='position-relative'>
                   <div className="position-absolute bottom-0 start-0 badgeStyle p-1  ms-2 mb-1"><span className=''>{product.category}</span></div>
-                  <img src={product.image} className="img-fluid rounded-2 stylesCardOffers" alt={product.name}  />                  
+                  <img src={product.image} className="img-fluid rounded-2 stylesCardOffers" alt={product.title}  />                  
                 </div>
                 <div className="card-body p-0 mt-1">
                 <div className='text-start'>

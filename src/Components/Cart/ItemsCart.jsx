@@ -1,22 +1,25 @@
 import * as React from 'react';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
-import AspectRatio from '@mui/joy/AspectRatio';
+import * as PaymentService from './../../services/payment.services.js'
+
 import Button from '@mui/joy/Button';
 import Card from '@mui/joy/Card';
 import CardContent from '@mui/joy/CardContent';
 import CardActions from '@mui/joy/CardActions';
 import Typography from '@mui/joy/Typography';
 import Stack from '@mui/joy/Stack';
-import FormControl from '@mui/joy/FormControl';
-import FormLabel from '@mui/joy/FormLabel';
-import Switch from '@mui/joy/Switch';
+
+import { initMercadoPago, Wallet } from '@mercadopago/sdk-react'
+import { useNavigate } from 'react-router-dom';
+
 
 export default function ItemsCart() {
   const [flex, setFlex] = React.useState(true);
   const [currentCart, setCurrentCart] = useState(JSON.parse(localStorage.getItem('cart')) || []);
+  const navigate = useNavigate()
 
-  const totalPrice = currentCart.reduce((total, item) => total + item.price, 0);
+  const totalPrice = currentCart.reduce((total, item) => total + item.unit_price, 0);
 
   // Función para eliminar un ítem del carrito
   const removeItem = (itemId) => {
@@ -24,6 +27,23 @@ export default function ItemsCart() {
     localStorage.setItem('cart', JSON.stringify(updatedCart));
     setCurrentCart(updatedCart);
   };
+
+  useEffect(() =>{
+    console.log(currentCart)
+  },[])
+
+  const [preferenceId, setPreferenceId] = useState(null)
+  initMercadoPago('TEST-0b51da36-a519-4986-a25d-f054723c52d5');
+
+  const createPreference = () => {
+    console.log(currentCart)
+    PaymentService.payment(currentCart)
+      .then((id) => {
+        //setPreferenceId(id.id)
+
+        navigate(`/payment/${id.id.id}`)
+      })
+  }
 
   return (
     <>
@@ -40,10 +60,10 @@ export default function ItemsCart() {
         <CardContent>
           <Typography level="body-xs">{item.category}</Typography>
           <Typography level="title-sm" component="div">
-            {item.name}
+            {item.title}
           </Typography>
           <Typography level="body-lg">
-              ${item.price}
+              ${item.unit_price}
           </Typography>
           <Typography level="body-sm">
               {item.level}
@@ -64,8 +84,11 @@ export default function ItemsCart() {
 
             </div>
             <div style={{ position: 'fixed', bottom: '0', left: '', height:'90px', width: '320px', backgroundColor: '#fff', textAlign: 'center', alignItems:'center',  margin:'auto', paddingTop: '5px', borderTop: '1px solid #ccc', zIndex: 2 }}>
-              <p className="d-block marginCart">Total: ${totalPrice.toFixed(2)}</p>
-              <button  className="btn BrandColor text-light marginCart">Comprar</button>
+              <p className="d-block marginCart"> 
+                <button className='btn BrandColor text-light marginCart' onClick={createPreference}>Comprar</button>
+                {preferenceId && 
+                <Wallet initialization={{ preferenceId: preferenceId}} />
+                }</p>
             </div>
             </> )}
       </>
