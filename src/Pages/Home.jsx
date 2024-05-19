@@ -9,6 +9,7 @@ import * as NotifyHelper from "../helpers/notify"
 
 import { useState } from 'react';
 import { redirect } from 'react-router';
+import { Link } from 'react-router-dom';
 
 function Home({addItem}){
 
@@ -23,7 +24,11 @@ function Home({addItem}){
       <section className="row justify-content-center text-center">
         <article className="col-12 navbar-transition">
           <Offers />
+          
         </article>
+        <div>
+        <Link to={'/resellers/games'} >Reventa</Link>
+        </div>
         <article className="col-12 mt-4">
 
           <Ecommerce />
