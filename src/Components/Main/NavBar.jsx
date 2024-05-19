@@ -1,4 +1,5 @@
 import * as React from 'react';
+import { useState, useEffect } from 'react';
 import { styled, alpha } from '@mui/material/styles';
 import AppBar from '@mui/material/AppBar';
 import Box from '@mui/material/Box';
@@ -10,7 +11,7 @@ import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import MenuIcon from '@mui/icons-material/Menu';
 import SearchIcon from '@mui/icons-material/Search';
 
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 
 import PropTypes from 'prop-types';
 
@@ -49,9 +50,23 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
 }));
 
 const drawerWidth = 240;
-const navItems = ['Home', 'About', 'Contact'];
+const navItems = ['PS3', 'PS4', 'PS5', 'PSPLUS', 'Ofertas'];
 
 export default function PrimarySearchAppBar() {
+
+  const navigate = useNavigate();
+  const [selectedProduct, setSelectedProduct] = useState(null);
+
+  const handleProductChange = (event, newValue) => {
+    if (newValue) {
+      console.log('Selected product name:', newValue.name);
+      setSelectedProduct(newValue.name);
+      navigate(`/producto/${newValue.id}`);
+    } else {
+      console.log('No product selected');
+      setSelectedProduct(null);
+    }
+  };
 
   const [cartSidebar, setCartSidebar] = React.useState(null);
   const [menuSidebar, setMenuSidebar] = React.useState(null);
@@ -122,23 +137,24 @@ export default function PrimarySearchAppBar() {
             LG Juegos Digitales
           </Typography>
 
-                  <Autocomplete
-                    id="free-solo-demo"
-                    
-                    options={ProductService.map((option) => `${option.name} - ${option.category}`)}
-                    className='text-light my-2 stylesInputNavBar '
-                    renderInput={(params) => <TextField {...params} label="Buscar..." />}
-                  />
+            <Autocomplete
+              id="free-solo-demo"
+              options={ProductService}
+              getOptionLabel={(option) => `${option.title} - ${option.category}`}
+              className="text-light my-2 stylesInputNavBar"
+              renderInput={(params) => <TextField {...params} label="Buscar..." />}
+              onChange={handleProductChange}
+            />
 
 
-          <Box sx={{ display: { xs: 'none', sm: 'block'} } } className={'dd'}>
+          <Box sx={{ display: { xs: 'none', lg: 'block'} } } className={'dd'}>
             {navItems.map((item) => (
               <Button key={item} sx={{ color: '#fff' }}>
                 {item}
               </Button>
             ))}
           </Box>
-          <Box sx={{ display: { xs: 'flex', md: 'none' } }}>
+          <Box sx={{ display: { xs: 'flex'} }}>
             <IconButton
               size="large"
               aria-label="show more"

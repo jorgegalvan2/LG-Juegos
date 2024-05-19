@@ -35,7 +35,7 @@ export default function ItemsCart() {
   const [preferenceId, setPreferenceId] = useState(null)
   initMercadoPago('TEST-0b51da36-a519-4986-a25d-f054723c52d5');
 
-  const createPreference = () => {
+  /*const createPreference = () => {
     console.log(currentCart)
     PaymentService.payment(currentCart)
       .then((id) => {
@@ -43,6 +43,10 @@ export default function ItemsCart() {
 
         navigate(`/payment/${id.id.id}`)
       })
+  }*/
+
+  const createPreference = () =>{
+    navigate('/payment/1')
   }
 
   return (

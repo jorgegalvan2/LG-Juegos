@@ -68,12 +68,17 @@ function ProductDetails() {
   return (
     <main className='container-fluid mt-5 pt-4'>
       {product && 
-        <div className='row justify-content-center text-center p-0'>
-        <img className='img-fluid col-12 p-0 imgProductDetails' src={product.imageDetails} alt={product.title} />
-  
+        <div className='row justify-content-center text-center p-0 marginDetails'>
+        <img className='img-fluid col-12 col-lg-4 p-0 imgProductDetails' src={product.imageDetails} alt={product.title} />
+        <div className='col-10 col-lg-6'>
+
           {product.category === 'PS3' ? (
             <div className="row justify-content-center mt-3">
+              <div className='mt-3'>
+                <p>{product.category === 'PS3' ? 'Playstation 3' : null}</p>
+              </div>
               <div className='col-12 text-center'> 
+                <p className='d-block'>Precio</p>
                 <div className="d-inline-block me-1 oldPriceNotOffer">${product.offerPrice ? product.price : product.offerPrice}</div>
                 {product.offerPrice && <div className="d-inline-block ms-1">${product.offerPrice}</div>}
               </div>
@@ -112,18 +117,28 @@ function ProductDetails() {
           
           (
           <>
-            <div className="btn-group mt-5" role="group" aria-label="Basic radio toggle button group">
-              <input type="radio" className={`btn-check  ${selectedPriceType == 'primary' ? '' : 'btn-warning'}`} name="priceType" id="primaryRadio" value="primary" onChange={handleRadioChange} checked={selectedPriceType === 'primary'} />
-              <label className={`btn ${selectedPriceType == 'primary' ? 'btn-warning' : 'border'}`} htmlFor="primaryRadio">Primaria</label>
-    
-              <input type="radio" className={`btn-check `} name="priceType" id="secondaryRadio" value="secondary" onChange={handleRadioChange} checked={selectedPriceType === 'secondary'} />
-              <label className={`btn ${selectedPriceType == 'secondary' ? 'btn-warning' : 'border'}`} htmlFor="secondaryRadio">Secundaria</label>
-            </div>
-            
+
+              <div className='mt-4'>
+                <p >{product.category === 'PS4' ? 'Playstation 4' : 'Playstation 5'}</p>
+              </div>
+
+            <div className='col-12 align-items-center'>
+              <div className="btn-group " role="group" aria-label="Basic radio toggle button group">
+                <input type="radio" className={`btn-check  ${selectedPriceType == 'primary' ? '' : 'btn-warning'}`} name="priceType" id="primaryRadio" value="primary" onChange={handleRadioChange} checked={selectedPriceType === 'primary'} />
+                <label className={`btn ${selectedPriceType == 'primary' ? 'btn-warning' : 'border'}`} htmlFor="primaryRadio">Primaria</label>
+      
+                <input type="radio" className={`btn-check `} name="priceType" id="secondaryRadio" value="secondary" onChange={handleRadioChange} checked={selectedPriceType === 'secondary'} />
+                <label className={`btn ${selectedPriceType == 'secondary' ? 'btn-warning' : 'border'}`} htmlFor="secondaryRadio">Secundaria</label>
+              </div>
+            </div> 
+         
+
             <div className="row justify-content-center mt-3">
               {selectedPriceType === 'primary' ?
               <>
+
               <div className='col-12 text-center'>
+                <p className='d-block'>Precio</p>
                 <div className={`d-inline-block me-1 ${product.offerPrice ? 'oldPriceNotOffer' : 'offerPrice'}`}>{'$' + ' ' + product.price}</div>
                 {product.offerPrice && <div className={`d-inline-block ms-1 offerPrice`}>{'$' + ' ' + product.offerPrice}</div>}
               </div>
@@ -162,11 +177,12 @@ function ProductDetails() {
               :
               <>
               <div className='col-12 text-center'>
-                <div className={`d-inline-block me-1 ${product.offerSecondaryPrice ? 'oldPriceNotOffer' : 'offerPrice'}`}>{'$' + ' ' + product.secondaryPrice}</div>
+                <p className='d-block mb-1'>Precio</p>
+                <div className={`d-inline-block me-1 mt-3 ${product.offerSecondaryPrice ? 'oldPriceNotOffer' : 'offerPrice'}`}>{'$' + ' ' + product.secondaryPrice}</div>
                 {product.offerSecondaryPrice && <div className={`d-inline-block ms-1 offerPrice`}>{'$' + ' ' + product.offerSecondaryPrice}</div>}
               </div>
 
-              <div className='col-9'>
+              <div className='col-9 '>
                 <button className='btn btn-warning  rounded-4 my-4 mx-2 px-4' onClick={() => addToCart(selectedPriceType)}>Agregar al carrito</button>
               </div>
 
@@ -203,9 +219,13 @@ function ProductDetails() {
             </div>
           </>
         )}
+          
+        </div>
+        <div className='col-10'>
 
-        <p className='mt-3 '>{product.description}</p>
-        
+          <p className='my-5'>{product.description}</p>
+                 
+        </div> 
       </div>}
 
       <ToastContainer

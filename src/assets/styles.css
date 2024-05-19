@@ -335,13 +335,43 @@
   max-height: 100%;
 }
 
+.cuoteStyle{
+  font-size: 0.6em;
+  color: green;
+}
 
+.heigthListResellers{
+  height: 50px;
+}
+
+.listResellerStyles{
+  border-left: 0;
+  border-right: 0;
+}
+
+.imgStyleReseller{
+  height: 60px;
+  width: 60px;
+  object-fit: contain;
+}
+
+
+
+@media screen and (max-width: 750px) {
+  .categorysWeb{
+    display: none;
+  }
+}
 
 @media screen and (min-width: 750px) {
 
   .main-container {
     height: 500px;
 
+  }
+
+  .marginDetails{
+    margin-top: 100px !important;
   }
 
   

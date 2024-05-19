@@ -47,13 +47,13 @@ function PaymentPage() {
 
   return (
 
-    <main className='container-fluid'>
+    <main className='container-fluid marginNavBar'>
 
-    {currentCart.map(item => (<Stack spacing={2} alignItems="center" className={'marginNavBar'}>
+    {currentCart.map(item => (<Stack spacing={2} alignItems="center" className={''}>
       <Card
         orientation="horizontal"
         variant="outlined"
-        className={''}
+        className={'mb-4'}
         sx={{ boxShadow: 'none', resize: 'horizontal', overflow: 'auto', width: 315, }}
       >
 
@@ -102,10 +102,13 @@ function PaymentPage() {
                 </ul>
               </div>
 
-              <p className="d-block marginCart"> 
-                {preferenceId && 
+              <p className="d-block marginCart text-center"> 
+                <button className='btn btn-success'>Whatsapp</button>
+                </p>
+                
+                {/*{preferenceId && 
                 <Wallet initialization={{ preferenceId: id}} />
-                }</p>
+                }  */}
 
 
 

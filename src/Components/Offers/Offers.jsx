@@ -4,6 +4,7 @@ import ProductsService from './../../services/ProductService.jsx'
 import ProductDetailsDialog from '../../Pages/ProductDetails.jsx';
 import * as NotifyHelper from '../../helpers/notify.js'
 import { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
 
 
 function Offers({item}) {
@@ -13,18 +14,18 @@ function Offers({item}) {
 
   const responsiveOptions = [
     {
-        breakpoint: '1400px',
-        numVisible: 4,
+        breakpoint: '2000px',
+        numVisible: 6,
         numScroll: 2
     },
     {
         breakpoint: '1199px',
-        numVisible: 4,
-        numScroll: 3
+        numVisible: 5,
+        numScroll: 1
     },
     {
         breakpoint: '767px',
-        numVisible: 2,
+        numVisible: 4,
         numScroll: 1
     },
     {
@@ -39,60 +40,27 @@ function Offers({item}) {
 
 
   const productTemplate = (product) => {
-    return (
+    return ( 
       <div className="d-flex flex-column align-center m-3 stylesCardOffers "  onClick={() => showProductDetails(product)}>
+        <Link to={`/producto/${product.id}`} className='' key={product.id}>
+                <div className="">
+                    <img src={product.image} alt={product.name} className="img-fluid  rounded-3"/>
+                </div>
+        </Link>
 
-        <div className="">
-            <img src={product.image} alt={product.name} className="img-fluid  rounded-3"/>
-        </div>
-
-
-    </div>
-
-  
-  
-    );
-};
-
-const showProductDetails = (product) => {
-  setSelectedProduct(product);
-};
-
-const hideProductDetails = () => {
-  setSelectedProduct(null);
-};
-
-const addToCart = () => {
-  const cartItem = {
-    id: selectedProduct.id, // Otra propiedad única para identificar el selectedProducto
-    name: selectedProduct.name,
-    price: selectedProduct.secondaryPrice ? selectedProduct.secondaryPrice : selectedProduct.price,
-    image: selectedProduct.image,
-    category: selectedProduct.category
-  };
-
-  // Obtener el carrito actual del localStorage o crear uno nuevo si no existe
-  const currentCart = JSON.parse(localStorage.getItem('cart')) || [];
-  currentCart.push(cartItem);
-
-  // Guardar el carrito actualizado en el localStorage
-  localStorage.setItem('cart', JSON.stringify(currentCart));
-  NotifyHelper.notifySuccess("Listo!")
-  setSelectedProduct(null);
-  item(cartItem)
-};
+            </div>
+            );
+        };
 
 
   return (
 
     <div className="row justify-content-center">
       <h2 className='my-5 '>Juegos en oferta</h2>
-      <div className='col-12 col-lg-6'>
+      <div className='col-11 col-lg-8'>
 
       <Carousel 
         value={products} 
-        numScroll={1} 
-        numVisible={3} 
         showNavigators={false}
         responsiveOptions={responsiveOptions} 
         itemTemplate={productTemplate} 
