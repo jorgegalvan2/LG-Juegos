@@ -8,8 +8,20 @@ import { Link } from 'react-router-dom';
 
 
 function Offers({item}) {
-  const [products,setProducts] = useState()
+  const [allProducts,setAllProducts] = useState([])
+  const [productsPs3,setProductsPs3] = useState([])
+  const [productsPs4,setProductsPs4] = useState([])
+  const [productsPs5,setProductsPs5] = useState([])
   const [selectedProduct, setSelectedProduct] = useState(null);
+
+  useEffect(() => {
+    setAllProducts(ProductsService)
+
+      setProductsPs3(ProductsService.filter(product => product.category === 'PS3'));
+      setProductsPs4(ProductsService.filter(product => product.category === 'PS4'));
+      setProductsPs5(ProductsService.filter(product => product.category === 'PS5'));
+
+  },[])
 
 
   const responsiveOptions = [
@@ -34,9 +46,7 @@ function Offers({item}) {
         numScroll: 1
     }
 ];
-  useEffect(() => {
-    setProducts(ProductsService)
-  })
+
 
 
   const productTemplate = (product) => {
@@ -55,27 +65,49 @@ function Offers({item}) {
 
   return (
 
-    <div className="row justify-content-center">
-      <h2 className='my-5 '>Juegos en oferta</h2>
-      <div className='col-11 col-lg-8'>
+    <div className="row justify-content-center  mt-5">
 
-      <Carousel 
-        value={products} 
-        showNavigators={false}
-        responsiveOptions={responsiveOptions} 
-        itemTemplate={productTemplate} 
-        circular={true}
-        autoplayInterval={1200}
-        />
+        {productsPs3.length > 0 && <div className='col-11 col-lg-8 mb-5'>
+          <h2>Ofertas PS3</h2>
+          <Carousel 
+            value={productsPs3} 
+            showNavigators={false}
+            responsiveOptions={responsiveOptions} 
+            itemTemplate={productTemplate} 
+            showIndicators={false}
+            circular={true}
+            autoplayInterval={1200}
+            />
+        </div>}
 
-      {selectedProduct && 
-        <ProductDetailsDialog 
-          product={selectedProduct} 
-          onClose={hideProductDetails} 
-          onAddToCart={addToCart} 
-        />
-      }
-        
+        <div className='col-11 col-lg-8 mb-5'>
+
+          <h2>Ofertas PS4</h2>
+
+          <Carousel 
+            value={productsPs4} 
+            showNavigators={false}
+            responsiveOptions={responsiveOptions} 
+            itemTemplate={productTemplate} 
+            showIndicators={false}
+            circular={true}
+            autoplayInterval={1200}
+            />
+        </div>
+
+        <div className='col-11 col-lg-8 mb-5'>
+          <h2>Ofertas PS5</h2>
+
+          <Carousel 
+            value={productsPs5} 
+            showNavigators={false}
+            responsiveOptions={responsiveOptions} 
+            itemTemplate={productTemplate} 
+            showIndicators={false}
+            circular={true}
+            autoplayInterval={1200}
+            />
+
         </div>
     </div>
 
