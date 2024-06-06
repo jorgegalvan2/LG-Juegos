@@ -22,6 +22,7 @@ function ProductDetails() {
     const product = ProductService.find(product => product.id === productId);
     if (product) {
       setProduct(product);
+      console.log(product)
     }
 
 
@@ -62,7 +63,6 @@ function ProductDetails() {
     // Guardar el carrito actualizado en el localStorage
     localStorage.setItem('cart', JSON.stringify(currentCart));
     NotifyHelper.notifySuccess("Listo!")
-    console.log(currentCart)
   };
 
   return (
@@ -74,6 +74,9 @@ function ProductDetails() {
 
           {product.category === 'PS3' ? (
             <div className="row justify-content-center mt-3">
+            <div>
+              {product.title}
+            </div>
               <div className='mt-3'>
                 <p>{product.category === 'PS3' ? 'Playstation 3' : null}</p>
               </div>
@@ -117,7 +120,9 @@ function ProductDetails() {
           
           (
           <>
-
+            <div className='mt-4'>
+              <b>{product.title}</b>
+            </div>
               <div className='mt-4'>
                 <p >{product.category === 'PS4' ? 'Playstation 4' : 'Playstation 5'}</p>
               </div>

@@ -149,9 +149,11 @@ export default function PrimarySearchAppBar() {
 
           <Box sx={{ display: { xs: 'none', lg: 'block'} } } className={'dd'}>
             {navItems.map((item) => (
-              <Button key={item} sx={{ color: '#fff' }}>
-                {item}
-              </Button>
+              <Link to={`/ecommerce?category=${item}`} className='text-end'>
+                  <Button key={item} sx={{ color: '#fff' }}>
+                  {item}
+                </Button>
+              </Link>
             ))}
           </Box>
           <Box sx={{ display: { xs: 'flex'} }}>
@@ -175,10 +177,10 @@ export default function PrimarySearchAppBar() {
     <Sidebar visible={menuSidebar} onHide={handleMenuSidebarHide} blockScroll={true} header="LG Juegos Digitales" position="left">
       <ul className="list-group ulDecoration ">
         <li className='list-group-item '><Link className='text-dark' to="/" onClick={() => setMenuSidebar(false)}>Inicio</Link></li>
-        <li className='list-group-item'><Link className='text-dark' to="/" onClick={() => setMenuSidebar(false)}>Playstation 3</Link></li>
-        <li className='list-group-item'><Link className='text-dark' to="/" onClick={() => setMenuSidebar(false)}>Playstation 4</Link></li>
-        <li className='list-group-item'><Link className='text-dark' to="/" onClick={() => setMenuSidebar(false)}>Playstation 5</Link></li>
-        <li className='list-group-item'><Link className='text-dark' to="/" onClick={() => setMenuSidebar(false)}>Ofertas</Link></li>
+        <li className='list-group-item'><Link className='text-dark' to="/ecommerce?category=PS3" onClick={() => setMenuSidebar(false)}>Playstation 3</Link></li>
+        <li className='list-group-item'><Link className='text-dark' to="/ecommerce?category=PS4" onClick={() => setMenuSidebar(false)}>Playstation 4</Link></li>
+        <li className='list-group-item'><Link className='text-dark' to="/ecommerce?category=PS5" onClick={() => setMenuSidebar(false)}>Playstation 5</Link></li>
+        <li className='list-group-item'><Link className='text-dark' to="/ecommerce?category=Offers" onClick={() => setMenuSidebar(false)}>Ofertas</Link></li>
       </ul>
     
     </Sidebar>

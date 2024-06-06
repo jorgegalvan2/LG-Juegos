@@ -24,6 +24,7 @@ import NavBar from './Components/Main/NavBar.jsx'
 import ProductDetails from "./Pages/ProductDetails.jsx"
 import PaymentPage from "./Pages/PaymentPage.jsx"
 import ResellersPage from "./Pages/ResellersPage.jsx"
+import Ecommerce from './Components/Cart/Ecommerce.jsx';
 
 
 
@@ -75,6 +76,7 @@ function App(){
                 <Route path="/" element={<Home addItem={onItems}/>}/>
                 <Route path="/producto/:id" element={<ProductDetails/>}/>
                 <Route path="/payment/:id" element={<PaymentPage/>}/>
+                <Route path="/ecommerce" element={<Ecommerce />} />
                 <Route path="/resellers/games" element={<ResellersPage/>}/>
                 <Route path="*" element={<div><h1>404</h1><p>Esta pagina no se encuentra disponible.</p></div>}/>
             </Routes>
@@ -95,7 +97,7 @@ function App(){
                     </li>
                 </ul>
 
-                <p className="text-light text-center mt-3 ">&copy; 2024 | LG Juegos digitales </p>
+                <p className="text-light text-center mt-3 ">&copy; 2024 | LG Juegos digitales <Link to={'/resellers/games'}>Revendedores</Link> </p>
             </div>
         </footer>
 

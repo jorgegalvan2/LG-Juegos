@@ -27,9 +27,9 @@ function Home({addItem}){
           
         </article>
         <div>
-        <Link to={'/resellers/games'} className='btn btn-warning'>Reventa </Link>
+        
         </div>
-        <article className="col-12 mt-4">
+        <article className="col-12">
 
           <Ecommerce />
 
