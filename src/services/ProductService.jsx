@@ -18,10 +18,12 @@ import BATTLEFIELD_5 from '../assets/img/Catalogue/Playstation_4_5/BATTLEFIELD_5
 import BATTLEFIELD_HARDLINE from '../assets/img/Catalogue/Playstation_4_5/BATTLEFIELD_HARDLINE.jpeg';
 import BLADE from '../assets/img/Catalogue/Playstation_4_5/BLADE.jpeg';
 import BLOODBORNE from '../assets/img/Catalogue/Playstation_4_5/BLOODBORNE.jpeg';
+import BOB_ESPONJA from '../assets/img/Catalogue/Playstation_4_5/BOB_ESPONJA.jpeg';
 import BORDERLANDS_3 from '../assets/img/Catalogue/Playstation_4_5/BORDERLANDS_3.jpeg';
 import BORDERLANDS_3_NEXT_LEVEL_EDITION from '../assets/img/Catalogue/Playstation_4_5/BORDERLANDS_3_NEXT_LEVEL_EDITION.jpeg';
 import BUS_SIMULATOR from '../assets/img/Catalogue/Playstation_4_5/BUS_SIMULATOR.jpeg';
 import CARS_3_DRIVEN_TO_WIN from '../assets/img/Catalogue/Playstation_4_5/CARS_3_DRIVEN_TO_WIN.jpeg';
+import CODMW from '../assets/img/Catalogue/Playstation_4_5/CODMW.jpeg';
 import COD_BLACK_OPS_3 from '../assets/img/Catalogue/Playstation_4_5/COD_BLACK_OPS_3.jpeg';
 import COD_BLACK_OPS_4 from '../assets/img/Catalogue/Playstation_4_5/COD_BLACK_OPS_4.jpeg';
 import COD_COLD_WAR from '../assets/img/Catalogue/Playstation_4_5/COD_COLD_WAR.jpeg';
@@ -36,7 +38,9 @@ import CRASHBANDICOOT4 from '../assets/img/Catalogue/Playstation_4_5/CRASHBANDIC
 import CRASH_INSANE_TRILOGY from '../assets/img/Catalogue/Playstation_4_5/CRASH_INSANE_TRILOGY.jpeg';
 import CRASH_NITRO_FUELED from '../assets/img/Catalogue/Playstation_4_5/CRASH_NITRO_FUELED.jpeg';
 import CRASH_TEAM_RUMBLE from '../assets/img/Catalogue/Playstation_4_5/CRASH_TEAM_RUMBLE.jpeg';
+import CRASH_TRILOGY from '../assets/img/Catalogue/Playstation_4_5/CRASH_TRILOGY.jpeg';
 import CUPHEAD from '../assets/img/Catalogue/Playstation_4_5/CUPHEAD.jpeg';
+import CUPHEAD_2 from '../assets/img/Catalogue/Playstation_4_5/CUPHEAD_2.jpeg';
 import CYBERPUNK from '../assets/img/Catalogue/Playstation_4_5/CYBERPUNK.jpeg';
 import DAKAR from '../assets/img/Catalogue/Playstation_4_5/DAKAR.jpeg';
 import DARK_SOULS_3 from '../assets/img/Catalogue/Playstation_4_5/DARK_SOULS_3.jpeg';
@@ -59,6 +63,7 @@ import FARCRY_4 from '../assets/img/Catalogue/Playstation_4_5/FARCRY_4.jpeg';
 import FARCRY_5 from '../assets/img/Catalogue/Playstation_4_5/FARCRY_5.jpeg';
 import FARCRY_6 from '../assets/img/Catalogue/Playstation_4_5/FARCRY_6.jpeg';
 import FIFA_24 from '../assets/img/Catalogue/Playstation_4_5/FIFA_24.jpeg';
+import FIVE_NIGHTS_AT_FREDDYS from '../assets/img/Catalogue/Playstation_4_5/FIVE_NIGHTS_AT_FREDDYS.jpeg';
 import FRIDAY_THE_13 from '../assets/img/Catalogue/Playstation_4_5/FRIDAY_THE_13.jpeg';
 import GOTHAM_KNIGHTS from '../assets/img/Catalogue/Playstation_4_5/GOTHAM_KNIGHTS.jpeg';
 import GOW from '../assets/img/Catalogue/Playstation_4_5/GOW.jpeg';
@@ -74,12 +79,14 @@ import HELLO_NEIGHBOR_2 from '../assets/img/Catalogue/Playstation_4_5/HELLO_NEIG
 import HITMAN_WORLD from '../assets/img/Catalogue/Playstation_4_5/HITMAN_WORLD.jpeg';
 import HOGWARTS_LEGACY from '../assets/img/Catalogue/Playstation_4_5/HOGWARTS_LEGACY.jpeg';
 import INJUSTICE_ULTIMATE_EDITION from '../assets/img/Catalogue/Playstation_4_5/INJUSTICE_ULTIMATE_EDITION.jpeg';
+import JURASSIC_PARK_EVOLUTION_2 from '../assets/img/Catalogue/Playstation_4_5/JURASSIC_PARK_EVOLUTION_2.jpeg';
 import JUST_CAUSE_3 from '../assets/img/Catalogue/Playstation_4_5/JUST_CAUSE_3.jpeg';
 import LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA from '../assets/img/Catalogue/Playstation_4_5/LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA.jpeg';
 import LEGO_2K_DRIVE from '../assets/img/Catalogue/Playstation_4_5/LEGO_2K_DRIVE.jpeg';
 import LEGO_MARVEL_AVENGERS from '../assets/img/Catalogue/Playstation_4_5/LEGO_MARVEL_AVENGERS.jpeg';
 import LEGO_MARVEL_COLLECTION from '../assets/img/Catalogue/Playstation_4_5/LEGO_MARVEL_COLLECTION.jpeg';
 import LEGO_STAR_WARS from '../assets/img/Catalogue/Playstation_4_5/LEGO_STAR_WARS.jpeg';
+import MIDNIGHT_SUNS from '../assets/img/Catalogue/Playstation_4_5/MIDNIGHT_SUNS.jpeg';
 import MINECRAFT from '../assets/img/Catalogue/Playstation_4_5/MINECRAFT.jpeg';
 import MINECRAFT_LEGENDS from '../assets/img/Catalogue/Playstation_4_5/MINECRAFT_LEGENDS.jpeg';
 import MK11 from '../assets/img/Catalogue/Playstation_4_5/MK11.jpeg';
@@ -87,14 +94,20 @@ import MK11_ULTIMATE from '../assets/img/Catalogue/Playstation_4_5/MK11_ULTIMATE
 import MK11_ULTIMATE_INJUSTICE from '../assets/img/Catalogue/Playstation_4_5/MK11_ULTIMATE_INJUSTICE.jpeg';
 import MK_1 from '../assets/img/Catalogue/Playstation_4_5/MK_1.jpeg';
 import MK_XL from '../assets/img/Catalogue/Playstation_4_5/MK_XL.jpeg';
+import MOTOGP_22 from '../assets/img/Catalogue/Playstation_4_5/MOTOGP_22.jpeg';
 import MOTOGP_24 from '../assets/img/Catalogue/Playstation_4_5/MOTOGP_24.jpeg';
 import MX_VS_ATV_LEGENDS from '../assets/img/Catalogue/Playstation_4_5/MX_VS_ATV_LEGENDS.jpeg';
+import NARUTO_SHIPUDEN_STORM_4 from '../assets/img/Catalogue/Playstation_4_5/NARUTO_SHIPUDEN_STORM_4.jpeg';
 import NBA_2K23 from '../assets/img/Catalogue/Playstation_4_5/NBA_2K23.jpeg';
 import NBA_2K24 from '../assets/img/Catalogue/Playstation_4_5/NBA_2K24.jpeg';
+import NFS from '../assets/img/Catalogue/Playstation_4_5/NFS.jpeg';
 import NFS_UNBOUND from '../assets/img/Catalogue/Playstation_4_5/NFS_UNBOUND.jpeg';
+import ONE_PIECE_ODYSSEY from '../assets/img/Catalogue/Playstation_4_5/ONE_PIECE_ODYSSEY.jpeg';
 import OVERCOOKED_2 from '../assets/img/Catalogue/Playstation_4_5/OVERCOOKED_2.jpeg';
 import PAYDAY_3 from '../assets/img/Catalogue/Playstation_4_5/PAYDAY_3.jpeg';
 import PGA_TOUR from '../assets/img/Catalogue/Playstation_4_5/PGA_TOUR.jpeg';
+import PLANTS_VS_ZOMBIES_2 from '../assets/img/Catalogue/Playstation_4_5/PLANTS_VS_ZOMBIES_2.jpeg';
+import PRINCE_OF_PERSIA_THE_LOST_CROW from '../assets/img/Catalogue/Playstation_4_5/PRINCE_OF_PERSIA_THE_LOST_CROW.jpeg';
 import PROJECT_CARS_3 from '../assets/img/Catalogue/Playstation_4_5/PROJECT_CARS_3.jpeg';
 import RACOON_EDITION from '../assets/img/Catalogue/Playstation_4_5/RACOON_EDITION.jpeg';
 import RE4 from '../assets/img/Catalogue/Playstation_4_5/RE4.jpeg';
@@ -108,23 +121,29 @@ import RESIDENT_EVIL_3 from '../assets/img/Catalogue/Playstation_4_5/RESIDENT_EV
 import RESIDENT_EVIL_5 from '../assets/img/Catalogue/Playstation_4_5/RESIDENT_EVIL_5.jpeg';
 import RESIDENT_EVIL_BIOHAZARD from '../assets/img/Catalogue/Playstation_4_5/RESIDENT_EVIL_BIOHAZARD.jpeg';
 import RESIDENT_EVIL_VILLAGE_GOLD_EDITION from '../assets/img/Catalogue/Playstation_4_5/RESIDENT_EVIL_VILLAGE_GOLD_EDITION.jpeg';
+import RIDERS_REPUBLIC from '../assets/img/Catalogue/Playstation_4_5/RIDERS_REPUBLIC.jpeg';
 import ROBOCOP_ROGUE_CITY from '../assets/img/Catalogue/Playstation_4_5/ROBOCOP_ROGUE_CITY.jpeg';
 import SAINTS_ROW from '../assets/img/Catalogue/Playstation_4_5/SAINTS_ROW.jpeg';
 import SEVEN_DAYS_TO_DIE from '../assets/img/Catalogue/Playstation_4_5/SEVEN_DAYS_TO_DIE.jpeg';
 import SONIC_FORCES from '../assets/img/Catalogue/Playstation_4_5/SONIC_FORCES.jpeg';
 import SONIC_FRONTIERS from '../assets/img/Catalogue/Playstation_4_5/SONIC_FRONTIERS.jpeg';
+import SONIC_ORIGINS from '../assets/img/Catalogue/Playstation_4_5/SONIC_ORIGINS.jpeg';
 import SONIC_SUPERSTARS from '../assets/img/Catalogue/Playstation_4_5/SONIC_SUPERSTARS.jpeg';
 import SPIDERMAN from '../assets/img/Catalogue/Playstation_4_5/SPIDERMAN.jpeg';
 import SPONGEBOB_BATTLE_FOR_BIKINI_BOTTOM from '../assets/img/Catalogue/Playstation_4_5/SPONGEBOB_BATTLE_FOR_BIKINI_BOTTOM.jpeg';
 import STARWARS_BATTLEFRONT from '../assets/img/Catalogue/Playstation_4_5/STARWARS_BATTLEFRONT.jpeg';
 import STARWARS_BATTLEFRONT_2 from '../assets/img/Catalogue/Playstation_4_5/STARWARS_BATTLEFRONT_2.jpeg';
+import SUBNAUTICA from '../assets/img/Catalogue/Playstation_4_5/SUBNAUTICA.jpeg';
 import SUICIDE_SQUAD from '../assets/img/Catalogue/Playstation_4_5/SUICIDE_SQUAD.jpeg';
 import SUPERCROSS_6 from '../assets/img/Catalogue/Playstation_4_5/SUPERCROSS_6.jpeg';
 import TEKKEN_7 from '../assets/img/Catalogue/Playstation_4_5/TEKKEN_7.jpeg';
+import THE_CREW_MOTORFEST from '../assets/img/Catalogue/Playstation_4_5/THE_CREW_MOTORFEST.jpeg';
 import THE_LAST_OF_US_PART_1 from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_PART_1.jpeg';
 import THE_LAST_OF_US_PART_2 from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_PART_2.jpeg';
 import THE_LAST_OF_US_PART_2_REMASTERED from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_PART_2_REMASTERED.jpeg';
 import THE_LAST_OF_US_REMASTERED from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_REMASTERED.jpeg';
+import THE_WALKING_DEAD_DESTINIES from '../assets/img/Catalogue/Playstation_4_5/THE_WALKING_DEAD_DESTINIES.jpeg';
+import TOMB_RAIDER_1_2_3 from '../assets/img/Catalogue/Playstation_4_5/TOMB_RAIDER_1_2_3.jpeg';
 import TOM_CLANCY_GHOST_RECON_BREAKPOINT from '../assets/img/Catalogue/Playstation_4_5/TOM_CLANCY_GHOST_RECON_BREAKPOINT.jpeg';
 import TOM_CLANCY_GHOST_RECON_WILDLANDS from '../assets/img/Catalogue/Playstation_4_5/TOM_CLANCY_GHOST_RECON_WILDLANDS.jpeg';
 import TOPSPIN2K25 from '../assets/img/Catalogue/Playstation_4_5/TOPSPIN2K25.jpeg';
@@ -156,15 +175,18 @@ import DETAILS_BATTLEFIELD_5 from '../assets/img/Catalogue/imgDetails-PS4-PS5/BA
 import DETAILS_BATTLEFRONT_HARDLINE from '../assets/img/Catalogue/imgDetails-PS4-PS5/BATTLEFRONT_HARDLINE.jpeg';
 import DETAILS_BLADE from '../assets/img/Catalogue/imgDetails-PS4-PS5/BLADE.jpeg';
 import DETAILS_BLOODBORNE from '../assets/img/Catalogue/imgDetails-PS4-PS5/BLOODBORNE.jpeg';
+import DETAILS_BOB_ESPONJA from '../assets/img/Catalogue/imgDetails-PS4-PS5/BOB_ESPONJA.jpeg';
 import DETAILS_BORDERLANDS_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/BORDERLANDS-3.jpeg';
 import DETAILS_BUS_SIMULATOR from '../assets/img/Catalogue/imgDetails-PS4-PS5/BUS_SIMULATOR.jpeg';
+import DETAILS_CARS_3_DRIVENTOWIN from '../assets/img/Catalogue/imgDetails-PS4-PS5/CARS-3-DRIVENTOWIN.jpeg';
 import DETAILS_CARS_3_DRIVEN_TO_WIN from '../assets/img/Catalogue/imgDetails-PS4-PS5/CARS_3_DRIVEN_TO_WIN.jpeg';
+import DETAILS_COD_COLD_WAR from '../assets/img/Catalogue/imgDetails-PS4-PS5/COD-COLD-WAR.jpeg';
 import DETAILS_CODMW from '../assets/img/Catalogue/imgDetails-PS4-PS5/CODMW.jpeg';
 import DETAILS_COD_BLACK_OPS_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/COD_BLACK_OPS_3.jpeg';
 import DETAILS_COD_BLACK_OPS_4 from '../assets/img/Catalogue/imgDetails-PS4-PS5/COD_BLACK_OPS_4.jpeg';
-import DETAILS_COD_COLD_WAR from '../assets/img/Catalogue/imgDetails-PS4-PS5/COD_COLD_WAR.jpeg';
 import DETAILS_COD_GHOSTS from '../assets/img/Catalogue/imgDetails-PS4-PS5/COD_GHOSTS.jpeg';
 import DETAILS_COD_INFINITE_WARFARE from '../assets/img/Catalogue/imgDetails-PS4-PS5/COD_INFINITE_WARFARE.jpeg';
+import DETAILS_COD_MW from '../assets/img/Catalogue/imgDetails-PS4-PS5/COD_MW.jpeg';
 import DETAILS_COD_MW_2 from '../assets/img/Catalogue/imgDetails-PS4-PS5/COD_MW_2.jpeg';
 import DETAILS_COD_MW_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/COD_MW_3.jpeg';
 import DETAILS_COD_VANGUARD from '../assets/img/Catalogue/imgDetails-PS4-PS5/COD_VANGUARD.jpeg';
@@ -174,6 +196,7 @@ import DETAILS_CRASH_INSANE_TRILOGY from '../assets/img/Catalogue/imgDetails-PS4
 import DETAILS_CRASH_TEAM_RUMBLE from '../assets/img/Catalogue/imgDetails-PS4-PS5/CRASH_TEAM_RUMBLE.jpeg';
 import DETAILS_CRASH_TRILOGY from '../assets/img/Catalogue/imgDetails-PS4-PS5/CRASH_TRILOGY.jpeg';
 import DETAILS_CUPHEAD from '../assets/img/Catalogue/imgDetails-PS4-PS5/CUPHEAD.jpeg';
+import DETAILS_CUPHEAD_2 from '../assets/img/Catalogue/imgDetails-PS4-PS5/CUPHEAD_2.jpeg';
 import DETAILS_CYBERPUNK from '../assets/img/Catalogue/imgDetails-PS4-PS5/CYBERPUNK.jpeg';
 import DETAILS_DAKAR from '../assets/img/Catalogue/imgDetails-PS4-PS5/DAKAR.jpeg';
 import DETAILS_DARK_SOULS_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/DARK_SOULS_3.jpeg';
@@ -196,6 +219,7 @@ import DETAILS_FARCRY5 from '../assets/img/Catalogue/imgDetails-PS4-PS5/FARCRY5.
 import DETAILS_FARCRY_4 from '../assets/img/Catalogue/imgDetails-PS4-PS5/FARCRY_4.jpeg';
 import DETAILS_FARCRY_6 from '../assets/img/Catalogue/imgDetails-PS4-PS5/FARCRY_6.jpeg';
 import DETAILS_FIFA_24 from '../assets/img/Catalogue/imgDetails-PS4-PS5/FIFA-24.jpeg';
+import DETAILS_FIVE_NIGHTS_AT_FREDDYS from '../assets/img/Catalogue/imgDetails-PS4-PS5/FIVE_NIGHTS_AT_FREDDYS.jpeg';
 import DETAILS_FRIDAY_THE_13 from '../assets/img/Catalogue/imgDetails-PS4-PS5/FRIDAY_THE_13.jpeg';
 import DETAILS_GOTHAM_KNIGHTS from '../assets/img/Catalogue/imgDetails-PS4-PS5/GOTHAM_KNIGHTS.jpeg';
 import DETAILS_GOW from '../assets/img/Catalogue/imgDetails-PS4-PS5/GOW.jpeg';
@@ -207,14 +231,17 @@ import DETAILS_GTA_SAN_ANDRAS from '../assets/img/Catalogue/imgDetails-PS4-PS5/G
 import DETAILS_GTA_TRILOGY from '../assets/img/Catalogue/imgDetails-PS4-PS5/GTA_TRILOGY.jpeg';
 import DETAILS_GTA_V from '../assets/img/Catalogue/imgDetails-PS4-PS5/GTA_V.jpeg';
 import DETAILS_HEAVY_RAIN_BEYOND_TWO_SOULS_EDITION from '../assets/img/Catalogue/imgDetails-PS4-PS5/HEAVY_RAIN_BEYOND_TWO_SOULS_EDITION.jpeg';
+import DETAILS_HELLO_NEIGHBOR_2 from '../assets/img/Catalogue/imgDetails-PS4-PS5/HELLO_NEIGHBOR_2.jpeg';
 import DETAILS_HITMAN_WORLD from '../assets/img/Catalogue/imgDetails-PS4-PS5/HITMAN_WORLD.jpeg';
 import DETAILS_HOGWARTS_LEGACY from '../assets/img/Catalogue/imgDetails-PS4-PS5/HOGWARTS-LEGACY.jpeg';
 import DETAILS_INJUSTICE_ULTIMATE_EDITION from '../assets/img/Catalogue/imgDetails-PS4-PS5/INJUSTICE_ULTIMATE_EDITION.jpeg';
+import DETAILS_JURASSIC_WORLD_EVOLUTION_2 from '../assets/img/Catalogue/imgDetails-PS4-PS5/JURASSIC_WORLD_EVOLUTION_2.jpeg';
 import DETAILS_JUST_CAUSE_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/JUST_CAUSE_3.jpeg';
 import DETAILS_LEGO_2K_DRIVE from '../assets/img/Catalogue/imgDetails-PS4-PS5/LEGO_2K_DRIVE.jpeg';
 import DETAILS_LEGO_AVENGERS from '../assets/img/Catalogue/imgDetails-PS4-PS5/LEGO_AVENGERS.jpeg';
 import DETAILS_LEGO_MARVEL_COLLECTION from '../assets/img/Catalogue/imgDetails-PS4-PS5/LEGO_MARVEL_COLLECTION.jpeg';
 import DETAILS_LEGO_STAR_WARS from '../assets/img/Catalogue/imgDetails-PS4-PS5/LEGO_STAR_WARS.jpeg';
+import DETAILS_MIDNIGHT_SUNS from '../assets/img/Catalogue/imgDetails-PS4-PS5/MIDNIGHT_SUNS.jpeg';
 import DETAILS_MINECRAFT from '../assets/img/Catalogue/imgDetails-PS4-PS5/MINECRAFT.jpeg';
 import DETAILS_MINECRAFT_LEGENDS from '../assets/img/Catalogue/imgDetails-PS4-PS5/MINECRAFT_LEGENDS.jpeg';
 import DETAILS_MK11 from '../assets/img/Catalogue/imgDetails-PS4-PS5/MK11.jpeg';
@@ -223,38 +250,51 @@ import DETAILS_MK11_ULTIMATE_INJUSTICE from '../assets/img/Catalogue/imgDetails-
 import DETAILS_MKXL from '../assets/img/Catalogue/imgDetails-PS4-PS5/MKXL.jpeg';
 import DETAILS_MK_1 from '../assets/img/Catalogue/imgDetails-PS4-PS5/MK_1.jpeg';
 import DETAILS_MOTOGP_24 from '../assets/img/Catalogue/imgDetails-PS4-PS5/MOTOGP-24.jpeg';
+import DETAILS_MOTOGP_22 from '../assets/img/Catalogue/imgDetails-PS4-PS5/MOTOGP_22.jpeg';
 import DETAILS_MX_VS_ATV_LEGENDS from '../assets/img/Catalogue/imgDetails-PS4-PS5/MX_VS_ATV_LEGENDS.jpeg';
 import DETAILS_NARUTOSTORM4 from '../assets/img/Catalogue/imgDetails-PS4-PS5/NARUTOSTORM4.jpeg';
+import DETAILS_NARUTO_SHIPUDEN_NINJA_STORM from '../assets/img/Catalogue/imgDetails-PS4-PS5/NARUTO_SHIPUDEN_NINJA_STORM.jpeg';
 import DETAILS_NBA2K23 from '../assets/img/Catalogue/imgDetails-PS4-PS5/NBA2K23.jpeg';
 import DETAILS_NBA2K24 from '../assets/img/Catalogue/imgDetails-PS4-PS5/NBA2K24.jpeg';
+import DETAILS_NFS from '../assets/img/Catalogue/imgDetails-PS4-PS5/NFS.jpeg';
 import DETAILS_NFS_UNBOUND from '../assets/img/Catalogue/imgDetails-PS4-PS5/NFS_UNBOUND.jpeg';
+import DETAILS_ONE_PIECE_ODYSSEY from '../assets/img/Catalogue/imgDetails-PS4-PS5/ONE_PIECE_ODYSSEY.jpeg';
 import DETAILS_OVERCOOKED_2 from '../assets/img/Catalogue/imgDetails-PS4-PS5/OVERCOOKED_2.jpeg';
 import DETAILS_PAYDAY_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/PAYDAY_3.jpeg';
 import DETAILS_PGA_TOUR from '../assets/img/Catalogue/imgDetails-PS4-PS5/PGA_TOUR.jpeg';
+import DETAILS_PLANTS_VS_ZOMBIES_2 from '../assets/img/Catalogue/imgDetails-PS4-PS5/PLANTS_VS_ZOMBIES_2.jpeg';
+import DETAILS_PRINCE_OF_PERSIA_THE_LOST_CROWN from '../assets/img/Catalogue/imgDetails-PS4-PS5/PRINCE_OF_PERSIA_THE_LOST_CROWN.jpeg';
 import DETAILS_PROJECT_CARS_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/PROJECT-CARS-3.jpeg';
 import DETAILS_RACCOON_CITY_EDITION from '../assets/img/Catalogue/imgDetails-PS4-PS5/RACCOON_CITY_EDITION.jpeg';
 import DETAILS_RE4 from '../assets/img/Catalogue/imgDetails-PS4-PS5/RE4.jpeg';
 import DETAILS_RE4_REMASTERED from '../assets/img/Catalogue/imgDetails-PS4-PS5/RE4_REMASTERED.jpeg';
 import DETAILS_RE6 from '../assets/img/Catalogue/imgDetails-PS4-PS5/RE6.jpeg';
 import DETAILS_RED_DEAD_REDEMPTION_2 from '../assets/img/Catalogue/imgDetails-PS4-PS5/RED_DEAD_REDEMPTION_2.jpeg';
+import DETAILS_RIDERS_REPUBLIC from '../assets/img/Catalogue/imgDetails-PS4-PS5/RIDERS_REPUBLIC.jpeg';
 import DETAILS_ROBOCOP from '../assets/img/Catalogue/imgDetails-PS4-PS5/ROBOCOP.jpeg';
 import DETAILS_SAINTS_ROW from '../assets/img/Catalogue/imgDetails-PS4-PS5/SAINTS_ROW.jpeg';
 import DETAILS_SEVEN_DAYS_TO_DIE from '../assets/img/Catalogue/imgDetails-PS4-PS5/SEVEN_DAYS_TO_DIE.jpeg';
 import DETAILS_SOMBRASDEGUERRA from '../assets/img/Catalogue/imgDetails-PS4-PS5/SOMBRASDEGUERRA.jpeg';
 import DETAILS_SONIC_FORCES from '../assets/img/Catalogue/imgDetails-PS4-PS5/SONIC_FORCES.jpeg';
 import DETAILS_SONIC_FRONTIERS from '../assets/img/Catalogue/imgDetails-PS4-PS5/SONIC_FRONTIERS.jpeg';
+import DETAILS_SONIC_ORIGINS from '../assets/img/Catalogue/imgDetails-PS4-PS5/SONIC_ORIGINS.jpeg';
 import DETAILS_SONIC_SUPERSTARS from '../assets/img/Catalogue/imgDetails-PS4-PS5/SONIC_SUPERSTARS.jpeg';
 import DETAILS_SPIDERMAN from '../assets/img/Catalogue/imgDetails-PS4-PS5/SPIDERMAN.jpeg';
 import DETAILS_SPONGEBOB_BATTLE_FOR_BIKINI_BOTTOM from '../assets/img/Catalogue/imgDetails-PS4-PS5/SPONGEBOB_BATTLE_FOR_BIKINI_BOTTOM.jpeg';
 import DETAILS_STAR_WARS_BATTLEFRONT from '../assets/img/Catalogue/imgDetails-PS4-PS5/STAR_WARS_BATTLEFRONT.jpeg';
 import DETAILS_STAR_WARS_BATTLEFRONT_2 from '../assets/img/Catalogue/imgDetails-PS4-PS5/STAR_WARS_BATTLEFRONT_2.jpeg';
+import DETAILS_SUBNAUTICA from '../assets/img/Catalogue/imgDetails-PS4-PS5/SUBNAUTICA.jpeg';
 import DETAILS_SUICIDE_SQUAD from '../assets/img/Catalogue/imgDetails-PS4-PS5/SUICIDE_SQUAD.jpeg';
 import DETAILS_SUPERCROSS_6 from '../assets/img/Catalogue/imgDetails-PS4-PS5/SUPERCROSS-6.jpeg';
 import DETAILS_TEKKEN_7 from '../assets/img/Catalogue/imgDetails-PS4-PS5/TEKKEN_7.jpeg';
 import DETAILS_THELASTOFUS_REMASTERED from '../assets/img/Catalogue/imgDetails-PS4-PS5/THELASTOFUS-REMASTERED.jpeg';
 import DETAILS_THELASTOFUS2 from '../assets/img/Catalogue/imgDetails-PS4-PS5/THELASTOFUS2.jpeg';
+import DETAILS_THE_CREW_MOTORFEST from '../assets/img/Catalogue/imgDetails-PS4-PS5/THE_CREW_MOTORFEST.jpeg';
+import DETAILS_THE_WALKING_DEAD_DESTINIES from '../assets/img/Catalogue/imgDetails-PS4-PS5/THE_WALKING_DEAD_DESTINIES.jpeg';
+import DETAILS_TOMB_RAIDER_1_2_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/TOMB_RAIDER_1_2_3.jpeg';
 import DETAILS_TOMCLANCY_GHOSTRECON_WILDLANDS from '../assets/img/Catalogue/imgDetails-PS4-PS5/TOMCLANCY-GHOSTRECON-WILDLANDS.jpeg';
 import DETAILS_TOMCLANCY_GHOSTRECON from '../assets/img/Catalogue/imgDetails-PS4-PS5/TOMCLANCY-GHOSTRECON.jpeg';
+import DETAILS_TOMCLANCY_RAINBOWS_SIEGE from '../assets/img/Catalogue/imgDetails-PS4-PS5/TOMCLANCY-RAINBOWS_SIEGE.jpeg';
 import DETAILS_TOPSPIN2K25 from '../assets/img/Catalogue/imgDetails-PS4-PS5/TOPSPIN2K25.jpeg';
 import DETAILS_WATCH_DOGS_LEGION from '../assets/img/Catalogue/imgDetails-PS4-PS5/WATCH_DOGS_LEGION.jpeg';
 import DETAILS_WRC10 from '../assets/img/Catalogue/imgDetails-PS4-PS5/WRC10.jpeg';
@@ -320,8 +360,8 @@ const data = [
         price: 53900,
         secondaryPrice: 53000,
         offerPrice: 18900,
-        image: AA, //--------------------------------------------
-        imageDetails: AA,
+        image: MIDNIGHT_SUNS, //--------------------------------------------
+        imageDetails: DETAILS_MIDNIGHT_SUNS,
         Date: 7 / 10 / 2022,
         precioReventa: 35,
     },
@@ -335,8 +375,8 @@ const data = [
         price: 53900,
         secondaryPrice: 53000,
         offerPrice: 18900,
-        image: AA, //--------------------------------------------
-        imageDetails: AA,
+        image: MIDNIGHT_SUNS, //--------------------------------------------
+        imageDetails: DETAILS_MIDNIGHT_SUNS,
         Date: 7 / 10 / 2022,
         precioReventa: 35,
     },
@@ -589,7 +629,7 @@ const data = [
             " ¡La experiencia MK11 definitiva! Juega como los protectores de la Tierra en las DOS aclamadas historias del juego, donde el tiempo se distorsiona en una lucha para impedir que Kronika regrese el tiempo y reinicie la historia. En esta batalla para salvar la existencia, se ponen a prueba amistades y se forjan nuevas alianzas. MK11 Ultimate cuenta con el reparto completo de 37 luchadores, incluyendo a los recientemente añadidos Rain, Mileena y Rambo.",
         price: 39900,
         secondaryPrice: 38900,
-        offerPrice: 19900,
+        offerPrice: 0,
         image: MK11_ULTIMATE,
         imageDetails: DETAILS_MK11_ULTIMATE,
         Date: 17 / 11 / 2020,
@@ -680,8 +720,8 @@ const data = [
         price: 25900,
         secondaryPrice: 24900,
         offerPrice: 20900,
-        image: AA,
-        imageDetails: AA,
+        image: CUPHEAD_2,
+        imageDetails: DETAILS_CUPHEAD_2,
         Date: 28 / 7 / 2020,
         precioReventa: 25,
     },
@@ -695,8 +735,8 @@ const data = [
         price: 25900,
         secondaryPrice: 24900,
         offerPrice: 20900,
-        image: AA,
-        imageDetails: AA,
+        image: CUPHEAD_2,
+        imageDetails: DETAILS_CUPHEAD_2,
         Date: 28 / 7 / 2020,
         precioReventa: 25,
     },
@@ -935,8 +975,8 @@ const data = [
         price: 54900,
         secondaryPrice: 54900,
         offerPrice: 0,
-        image: AA,
-        imageDetails: AA,
+        image: MOTOGP_22,
+        imageDetails: DETAILS_MOTOGP_22,
         Date: 8 / 6 / 2023,
         precioReventa: 30,
     },
@@ -950,8 +990,8 @@ const data = [
         price: 49900,
         secondaryPrice: 49900,
         offerPrice: 0,
-        image: AA,
-        imageDetails: AA,
+        image: MOTOGP_22,
+        imageDetails: DETAILS_MOTOGP_22,
         Date: 8 / 6 / 2023,
         precioReventa: 30,
     },
@@ -1145,8 +1185,8 @@ const data = [
         price: 35900,
         secondaryPrice: 35900,
         offerPrice: 10900,
-        image: AA,
-        imageDetails: AA,
+        image: NARUTO_SHIPUDEN_STORM_4,
+        imageDetails: DETAILS_NARUTO_SHIPUDEN_NINJA_STORM,
         Date: 3 / 0o2 / 2017,
         precioReventa: 25,
     },
@@ -1160,8 +1200,8 @@ const data = [
         price: 35900,
         secondaryPrice: 35900,
         offerPrice: 10900,
-        image: AA,
-        imageDetails: AA,
+        image: NARUTO_SHIPUDEN_STORM_4,
+        imageDetails: DETAILS_NARUTO_SHIPUDEN_NINJA_STORM,
         Date: 3 / 0o2 / 2017,
         precioReventa: 25,
     },
@@ -1460,8 +1500,8 @@ const data = [
         price: 10900,
         secondaryPrice: 9500,
         offerPrice: 0,
-        image: AA,
-        imageDetails: AA,
+        image: NFS,
+        imageDetails: DETAILS_NFS,
         Date: 3 / 11 / 2015,
         precioReventa: 12,
     },
@@ -1475,8 +1515,8 @@ const data = [
         price: 53900,
         secondaryPrice: 53900,
         offerPrice: 32900,
-        image: AA,
-        imageDetails: AA,
+        image: THE_CREW_MOTORFEST,
+        imageDetails: DETAILS_THE_CREW_MOTORFEST,
         Date: 13 / 9 / 2023,
         precioReventa: 35,
     },
@@ -1490,8 +1530,8 @@ const data = [
         price: 53900,
         secondaryPrice: 53900,
         offerPrice: 32900,
-        image: AA,
-        imageDetails: AA,
+        image: THE_CREW_MOTORFEST,
+        imageDetails: DETAILS_THE_CREW_MOTORFEST,
         Date: 13 / 9 / 2023,
         precioReventa: 35,
     },
@@ -1505,8 +1545,8 @@ const data = [
         price: 12900,
         secondaryPrice: 11900,
         offerPrice: 9000,
-        image: AA,
-        imageDetails: AA,
+        image: THE_CREW_MOTORFEST,
+        imageDetails: DETAILS_THE_CREW_MOTORFEST,
         Date: 23 / 2 / 2016,
         precioReventa: 12,
     },
@@ -1520,8 +1560,8 @@ const data = [
         price: 49900,
         secondaryPrice: 49900,
         offerPrice: 19900,
-        image: AA,
-        imageDetails: AA,
+        image: JURASSIC_PARK_EVOLUTION_2,
+        imageDetails: DETAILS_JURASSIC_WORLD_EVOLUTION_2,
         Date: 12 / 6 / 2018,
         precioReventa: 30,
     },
@@ -1535,8 +1575,8 @@ const data = [
         price: 49900,
         secondaryPrice: 49900,
         offerPrice: 19900,
-        image: AA,
-        imageDetails: AA,
+        image: JURASSIC_PARK_EVOLUTION_2,
+        imageDetails: DETAILS_JURASSIC_WORLD_EVOLUTION_2,
         Date: 12 / 6 / 2018,
         precioReventa: 30,
     },
@@ -1550,8 +1590,8 @@ const data = [
         price: 39900,
         secondaryPrice: 39900,
         offerPrice: 29900,
-        image: AA,
-        imageDetails: AA,
+        image: FIVE_NIGHTS_AT_FREDDYS,
+        imageDetails: DETAILS_FIVE_NIGHTS_AT_FREDDYS,
         Date: 16 / 12 / 2021,
         precioReventa: 25,
     },
@@ -1565,8 +1605,8 @@ const data = [
         price: 39900,
         secondaryPrice: 38900,
         offerPrice: 29900,
-        image: AA,
-        imageDetails: AA,
+        image: FIVE_NIGHTS_AT_FREDDYS,
+        imageDetails: DETAILS_FIVE_NIGHTS_AT_FREDDYS,
         Date: 16 / 12 / 2021,
         precioReventa: 25,
     },
@@ -1940,8 +1980,8 @@ const data = [
         price: 29900,
         secondaryPrice: 28900,
         offerPrice: 0,
-        image: AA,
-        imageDetails: AA,
+        image: BOB_ESPONJA,
+        imageDetails: DETAILS_BOB_ESPONJA,
         Date: 7 / 5 / 2019,
         precioReventa: 20,
     },
@@ -2450,8 +2490,8 @@ const data = [
         price: 39900,
         secondaryPrice: 38900,
         offerPrice: 30900,
-        image: AA,
-        imageDetails: AA,
+        image: PRINCE_OF_PERSIA_THE_LOST_CROW,
+        imageDetails: DETAILS_PRINCE_OF_PERSIA_THE_LOST_CROWN,
         Date: 18 / 11 / 2024,
         precioReventa: 35,
     },
@@ -2465,8 +2505,8 @@ const data = [
         price: 39900,
         secondaryPrice: 39900,
         offerPrice: 30900,
-        image: AA,
-        imageDetails: AA,
+        image: PRINCE_OF_PERSIA_THE_LOST_CROW,
+        imageDetails: DETAILS_PRINCE_OF_PERSIA_THE_LOST_CROWN,
         Date: 18 / 11 / 2024,
         precioReventa: 35,
     },
@@ -2480,8 +2520,8 @@ const data = [
         price: 25900,
         secondaryPrice: 25900,
         offerPrice: 19900,
-        image: AA,
-        imageDetails: AA,
+        image: SUBNAUTICA,
+        imageDetails: DETAILS_SUBNAUTICA,
         Date: 14 / 5 / 2021,
         precioReventa: 25,
     },
@@ -2495,8 +2535,8 @@ const data = [
         price: 25900,
         secondaryPrice: 25900,
         offerPrice: 19900,
-        image: AA,
-        imageDetails: AA,
+        image: SUBNAUTICA,
+        imageDetails: DETAILS_SUBNAUTICA,
         Date: 14 / 5 / 2021,
         precioReventa: 25,
     },
@@ -2510,8 +2550,8 @@ const data = [
         price: 30900,
         secondaryPrice: 30900,
         offerPrice: 10900,
-        image: AA,
-        imageDetails: AA,
+        image: RIDERS_REPUBLIC,
+        imageDetails: DETAILS_RIDERS_REPUBLIC,
         Date: 25 / 8 / 2023,
         precioReventa: 25,
     },
@@ -2525,8 +2565,8 @@ const data = [
         price: 30900,
         secondaryPrice: 30900,
         offerPrice: 10900,
-        image: AA,
-        imageDetails: AA,
+        image: RIDERS_REPUBLIC,
+        imageDetails: DETAILS_RIDERS_REPUBLIC,
         Date: 25 / 8 / 2023,
         precioReventa: 25,
     },
@@ -2540,8 +2580,8 @@ const data = [
         price: 29900,
         secondaryPrice: 28900,
         offerPrice: 15900,
-        image: AA,
-        imageDetails: AA,
+        image: SONIC_ORIGINS,
+        imageDetails: DETAILS_SONIC_ORIGINS,
         Date: 23 / 6 / 2022,
         precioReventa: 20,
     },
@@ -2555,8 +2595,8 @@ const data = [
         price: 29900,
         secondaryPrice: 28900,
         offerPrice: 10900,
-        image: AA,
-        imageDetails: AA,
+        image: SONIC_ORIGINS,
+        imageDetails: DETAILS_SONIC_ORIGINS,
         Date: 23 / 6 / 2022,
         precioReventa: 20,
     },
@@ -2600,8 +2640,8 @@ const data = [
         price: 29900,
         secondaryPrice: 29900,
         offerPrice: 12900,
-        image: AA,
-        imageDetails: AA,
+        image: ONE_PIECE_ODYSSEY,
+        imageDetails: DETAILS_ONE_PIECE_ODYSSEY,
         Date: 13 / 1 / 2023,
         precioReventa: 25,
     },
@@ -2615,8 +2655,8 @@ const data = [
         price: 24900,
         secondaryPrice: 24900,
         offerPrice: 12900,
-        image: AA,
-        imageDetails: AA,
+        image: ONE_PIECE_ODYSSEY,
+        imageDetails: DETAILS_ONE_PIECE_ODYSSEY,
         Date: 13 / 1 / 2023,
         precioReventa: 25,
     },
@@ -2630,8 +2670,8 @@ const data = [
         price: 39900,
         secondaryPrice: 38900,
         offerPrice: 20900,
-        image: AA,
-        imageDetails: AA,
+        image: THE_WALKING_DEAD_DESTINIES,
+        imageDetails: DETAILS_THE_WALKING_DEAD_DESTINIES,
         Date: 17 / 11 / 2023,
         precioReventa: 30,
     },
@@ -2645,8 +2685,8 @@ const data = [
         price: 39900,
         secondaryPrice: 39900,
         offerPrice: 19900,
-        image: AA,
-        imageDetails: AA,
+        image: THE_WALKING_DEAD_DESTINIES,
+        imageDetails: DETAILS_THE_WALKING_DEAD_DESTINIES,
         Date: 17 / 11 / 2023,
         precioReventa: 30,
     },
@@ -2661,7 +2701,7 @@ const data = [
         secondaryPrice: 29900,
         offerPrice: 25900,
         image: HELLO_NEIGHBOR_2,
-        imageDetails: AA,
+        imageDetails: DETAILS_HELLO_NEIGHBOR_2,
         Date: 6 / 12 / 2022,
         precioReventa: 20,
     },
@@ -2676,7 +2716,7 @@ const data = [
         secondaryPrice: 28900,
         offerPrice: 24900,
         image: HELLO_NEIGHBOR_2,
-        imageDetails: AA,
+        imageDetails: DETAILS_HELLO_NEIGHBOR_2,
         Date: 6 / 12 / 2022,
         precioReventa: 20,
     },
@@ -2720,8 +2760,8 @@ const data = [
         price: 24900,
         secondaryPrice: 24900,
         offerPrice: 19900,
-        image: AA,
-        imageDetails: AA,
+        image: TOMB_RAIDER_1_2_3,
+        imageDetails: DETAILS_TOMB_RAIDER_1_2_3,
         Date: 14 / 2 / 2024,
         precioReventa: 25,
     },
@@ -2735,8 +2775,8 @@ const data = [
         price: 24900,
         secondaryPrice: 24900,
         offerPrice: 19900,
-        image: AA,
-        imageDetails: AA,
+        image: TOMB_RAIDER_1_2_3,
+        imageDetails: DETAILS_TOMB_RAIDER_1_2_3,
         Date: 14 / 2 / 2024,
         precioReventa: 25,
     },
@@ -2870,8 +2910,8 @@ const data = [
         price: 29900,
         secondaryPrice: 29900,
         offerPrice: 15900,
-        image: WRC_10,
-        imageDetails: DETAILS_WRC10,
+        image: WRC_GENERATIONS,
+        imageDetails: DETAILS_WRC_GENERATIONS,
         Date: 3 / 11 / 2021,
         precioReventa: 30,
     },
@@ -2885,8 +2925,8 @@ const data = [
         price: 29900,
         secondaryPrice: 29900,
         offerPrice: 10900,
-        image: WRC_10,
-        imageDetails: DETAILS_WRC10,
+        image: WRC_GENERATIONS,
+        imageDetails: DETAILS_WRC_GENERATIONS,
         Date: 3 / 11 / 2021,
         precioReventa: 30,
     },
@@ -3184,7 +3224,7 @@ const data = [
             "Regresa al Reino de la Cebolla y organiza tu equipo de chefs en un cooperativo clásico o en partidas en línea de hasta cuatro jugadores. Aférrate a tu delantal... es hora de salvar el mundo (¡otra vez!). Ya salvaste al mundo del Glotón Eterno. Ahora surgió una nueva amenaza y es hora de volver a las cocinas para detener al Pan Demonium.",
         price: 19900,
         secondaryPrice: 19800,
-        offerPrice: 8900,
+        offerPrice: 0 ,
         image: OVERCOOKED_2,
         imageDetails: DETAILS_OVERCOOKED_2,
         Date: 7 / 8 / 2018,
@@ -3199,7 +3239,7 @@ const data = [
             "Regresa al Reino de la Cebolla y organiza tu equipo de chefs en un cooperativo clásico o en partidas en línea de hasta cuatro jugadores. Aférrate a tu delantal... es hora de salvar el mundo (¡otra vez!). Ya salvaste al mundo del Glotón Eterno. Ahora surgió una nueva amenaza y es hora de volver a las cocinas para detener al Pan Demonium.",
         price: 19900,
         secondaryPrice: 19800,
-        offerPrice: 8900,
+        offerPrice: 0 ,
         image: OVERCOOKED_2,
         imageDetails: DETAILS_OVERCOOKED_2,
         Date: 7 / 8 / 2018,
@@ -3759,6 +3799,36 @@ const data = [
         imageDetails: DETAILS_PAYDAY_3,
         Date: 21 / 9 / 2023,
         precioReventa: 39,
+    },
+    {
+        id: 235,
+        title: "Tom Clancy's Rainbow Six Siege",
+        category: "PS4",
+        gender: "Accion",
+        description:
+            "Tom Clancy's Rainbow Six® Siege es un shooter realista, táctico, de élite y por equipos donde una planificación y una ejecución cuidadosas son la clave para conseguir la victoria. Presenta un gameplay ataque-defensa de cinco contra cinco e intensos combates de rango cercano en entornos destructibles.",
+        price: 19900,
+        secondaryPrice: 19900,
+        offerPrice: 9900,
+        image: PAYDAY_3,
+        imageDetails: DETAILS_PAYDAY_3,
+        Date: 12 / 3 / 2024,
+        precioReventa: 9,
+    },
+    {
+        id: 236,
+        title: "Tom Clancy's Rainbow Six Siege",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "Tom Clancy's Rainbow Six® Siege es un shooter realista, táctico, de élite y por equipos donde una planificación y una ejecución cuidadosas son la clave para conseguir la victoria. Presenta un gameplay ataque-defensa de cinco contra cinco e intensos combates de rango cercano en entornos destructibles.",
+        price: 19900,
+        secondaryPrice: 19900,
+        offerPrice: 9900,
+        image: PAYDAY_3,
+        imageDetails: DETAILS_PAYDAY_3,
+        Date: 12 / 3 / 2024,
+        precioReventa: 9,
     },
 ];
 

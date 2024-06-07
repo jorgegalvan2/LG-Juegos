@@ -12,7 +12,7 @@ import Logo from '../Logo.jsx';
 function Ecommerce({ item }) {
   const location = useLocation();
   const queryParams = new URLSearchParams(location.search);
-  const initialCategory = queryParams.get('category') || 'PS4'; // Predeterminado a PS4
+  const initialCategory = queryParams.get('category'); // Predeterminado a PS4
   const [products, setProducts] = useState([]);
   const [filteredProducts, setFilteredProducts] = useState(ProductService);
   const [categories, setCategories] = useState([]);
@@ -22,12 +22,10 @@ function Ecommerce({ item }) {
   const [selectedProduct, setSelectedProduct] = useState(null);
   const [sortOrder, setSortOrder] = useState(''); // Estado para el orden de precios
 
-  
   useEffect(() => {
     filterProducts();
   }, [selectedCategory, searchTerm, sortOrder]); // Añade sortOrder al useEffect
 
-  
   useEffect(() => {
     if (ProductService && ProductService.length > 0) {
       setProducts(ProductService);
@@ -44,19 +42,20 @@ function Ecommerce({ item }) {
     const category = params.get('category');
     if (category) {
       setSelectedCategory(category);
+      console.log(params, category)
     }
   }, [location]);
 
   const filterProducts = () => {
     let filtered = products;
 
-    if (!selectedCategory.endsWith(' - Ofertas')) {
-      filtered = products.filter(product => product.category === selectedCategory);
-    }
-
-    if (selectedCategory.endsWith(' - Ofertas')) {
-      const baseCategory = selectedCategory.split(' - ')[0];
-      filtered = products.filter(product => product.category === baseCategory && product.offerPrice);
+    if (selectedCategory) {
+      if (selectedCategory.endsWith(' - Ofertas')) {
+        const category = selectedCategory.replace(' - Ofertas', '');
+        filtered = products.filter(product => product.category === category && product.offerPrice);
+      } else {
+        filtered = products.filter(product => product.category === selectedCategory);
+      }
     }
 
     if (searchTerm) {
@@ -111,7 +110,7 @@ function Ecommerce({ item }) {
           <div className='col-2 categorysWeb'>
             <div className="">
               <h2>Categorías</h2>
-              <ul className="list-group">
+              <ul className="list-group list-group-flush">
                 {categories.map(category => (
                   <li key={category}>
                     <div
