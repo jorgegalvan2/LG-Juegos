@@ -52,7 +52,7 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
 const drawerWidth = 240;
 const navItems = ['PS3', 'PS4', 'PS5', 'PSPLUS', 'Ofertas'];
 
-export default function PrimarySearchAppBar() {
+export default function NavBar() {
 
   const navigate = useNavigate();
   const [selectedProduct, setSelectedProduct] = useState(null);

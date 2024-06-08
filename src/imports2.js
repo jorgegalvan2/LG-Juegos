@@ -1,5 +1,5 @@
-import 3_ASSASINS from '../assets/img/Catalogue/imgDetails-PS4-PS5/3_ASSASINS.jpeg';
-import 3_CRASH from '../assets/img/Catalogue/imgDetails-PS4-PS5/3_CRASH.jpeg';
+import ASSASINS_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/3_ASSASINS.jpeg';
+import CRASH_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/3_CRASH.jpeg';
 import ALANWAKE2 from '../assets/img/Catalogue/imgDetails-PS4-PS5/ALANWAKE2.jpeg';
 import ARK from '../assets/img/Catalogue/imgDetails-PS4-PS5/ARK.jpeg';
 import ASEMBLANCE from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASEMBLANCE.jpeg';

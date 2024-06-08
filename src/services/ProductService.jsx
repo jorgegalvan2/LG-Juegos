@@ -1,3 +1,66 @@
+import ASSASINS_CREED_ROGUE from '../assets/img/Catalogue/Playstation-3/ASSASINS_CREED_ROGUE.jpeg';
+import BATMAN_3_BEYOND_GOTHAM from '../assets/img/Catalogue/Playstation-3/BATMAN_3_BEYOND_GOTHAM.jpeg';
+import BATTLEFIELD_4_PS3 from '../assets/img/Catalogue/Playstation-3/BATTLEFIELD_4.jpeg';
+import CALL_OF_DUTY_BLACK_OPS from '../assets/img/Catalogue/Playstation-3/CALL_OF_DUTY_BLACK_OPS.jpeg';
+import CALL_OF_DUTY_BLACK_OPS_2 from '../assets/img/Catalogue/Playstation-3/CALL_OF_DUTY_BLACK_OPS_2.jpeg';
+import CALL_OF_DUTY_BLACK_OPS_3 from '../assets/img/Catalogue/Playstation-3/CALL_OF_DUTY_BLACK_OPS_3.jpeg';
+import CARS_3_DRIVEN_TO_WIN_PS3 from '../assets/img/Catalogue/Playstation-3/CARS_3_DRIVEN_TO_WIN.jpeg';
+import DIRT_3 from '../assets/img/Catalogue/Playstation-3/DIRT_3.jpeg';
+import DRAGON_AGE_INQUISITION_PS3 from '../assets/img/Catalogue/Playstation-3/DRAGON_AGE_INQUISITION.jpeg';
+import F1_2014 from '../assets/img/Catalogue/Playstation-3/F1_2014.jpeg';
+import FARMING_SIMULATOR_15 from '../assets/img/Catalogue/Playstation-3/FARMING_SIMULATOR_15.jpeg';
+import FIFA_18 from '../assets/img/Catalogue/Playstation-3/FIFA_18.jpeg';
+import FIFA_19 from '../assets/img/Catalogue/Playstation-3/FIFA_19.jpeg';
+import FIFA_STREET from '../assets/img/Catalogue/Playstation-3/FIFA_STREET.jpeg';
+import FIGHT_NIGHT_CHAMPION from '../assets/img/Catalogue/Playstation-3/FIGHT_NIGHT_CHAMPION.jpeg';
+import GOD_OF_WAR_ASENSION from '../assets/img/Catalogue/Playstation-3/GOD_OF_WAR_ASENSION.jpeg';
+import GRAN_TURISMO_6 from '../assets/img/Catalogue/Playstation-3/GRAN_TURISMO_6.jpeg';
+import GTA_SAN_ANDRAS from '../assets/img/Catalogue/Playstation-3/GTA_SAN_ANDRAS.jpeg';
+import GTA_V_PS3 from '../assets/img/Catalogue/Playstation-3/GTA_V.jpeg';
+import HITMAN_ABSOLUTION from '../assets/img/Catalogue/Playstation-3/HITMAN_ABSOLUTION.jpeg';
+import INJUSTICE_GODS_AMONG_US_ULTIMATE_EDITION from '../assets/img/Catalogue/Playstation-3/INJUSTICE_GODS_AMONG_US_ULTIMATE_EDITION.jpeg';
+import JUST_CAUSE_2 from '../assets/img/Catalogue/Playstation-3/JUST_CAUSE_2.jpeg';
+import JUST_DANCE_2017 from '../assets/img/Catalogue/Playstation-3/JUST_DANCE_2017.jpeg';
+import JUST_DANCE_2018 from '../assets/img/Catalogue/Playstation-3/JUST_DANCE_2018.jpeg';
+import LEGO_HARRY_POTTER from '../assets/img/Catalogue/Playstation-3/LEGO_HARRY_POTTER.jpeg';
+import LEGO_JURASSIC_WORLD from '../assets/img/Catalogue/Playstation-3/LEGO_JURASSIC_WORLD.jpeg';
+import LEGO_VENGADORES from '../assets/img/Catalogue/Playstation-3/LEGO_VENGADORES.jpeg';
+import LITTLE_BIG_PLANET_3 from '../assets/img/Catalogue/Playstation-3/LITTLE_BIG_PLANET_3.jpeg';
+import METAL_GEAR_SOLID_THE_PANTOM_PAIN from '../assets/img/Catalogue/Playstation-3/METAL_GEAR_SOLID_THE_PANTOM_PAIN.jpeg';
+import METAL_GEAR_SOLID_V from '../assets/img/Catalogue/Playstation-3/METAL_GEAR_SOLID_V.jpeg';
+import MINECRAFT_PS3 from '../assets/img/Catalogue/Playstation-3/MINECRAFT.jpeg';
+import MINECRAFT_STORY_MODE from '../assets/img/Catalogue/Playstation-3/MINECRAFT_STORY_MODE.jpeg';
+import MORTAL_KOMBAT_KOMPLETE_EDITION from '../assets/img/Catalogue/Playstation-3/MORTAL_KOMBAT_KOMPLETE_EDITION.jpeg';
+import MOTO_GP_15 from '../assets/img/Catalogue/Playstation-3/MOTO_GP_15.jpeg';
+import NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM from '../assets/img/Catalogue/Playstation-3/NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM.jpeg';
+import NBA_2K16 from '../assets/img/Catalogue/Playstation-3/NBA_2K16.jpeg';
+import NBA_2K17 from '../assets/img/Catalogue/Playstation-3/NBA_2K17.jpeg';
+import NBA_2K18 from '../assets/img/Catalogue/Playstation-3/NBA_2K18.jpeg';
+import NEED_FOR_SPEED_MOST_WANTED from '../assets/img/Catalogue/Playstation-3/NEED_FOR_SPEED_MOST_WANTED.jpeg';
+import NEED_FOR_SPEED_RIVALS from '../assets/img/Catalogue/Playstation-3/NEED_FOR_SPEED_RIVALS.jpeg';
+import ONE_PIECE_PIRATE_WARRIORS_3 from '../assets/img/Catalogue/Playstation-3/ONE_PIECE_PIRATE_WARRIORS_3.jpeg';
+import PES_2016 from '../assets/img/Catalogue/Playstation-3/PES_2016.jpeg';
+import PES_2018 from '../assets/img/Catalogue/Playstation-3/PES_2018.jpeg';
+import PLANTS_VS_ZOMBIES_GARDEN_WARFARE from '../assets/img/Catalogue/Playstation-3/PLANTS_VS_ZOMBIES_GARDEN_WARFARE.jpeg';
+import RED_DEAD_REDEMPTION from '../assets/img/Catalogue/Playstation-3/RED_DEAD_REDEMPTION.jpeg';
+import RED_DEAD_REDEMPTION_YEAR_EDITION from '../assets/img/Catalogue/Playstation-3/RED_DEAD_REDEMPTION_YEAR_EDITION.jpeg';
+import RESIDENT_EVIL_5_PS3 from '../assets/img/Catalogue/Playstation-3/RESIDENT_EVIL_5.jpeg';
+import RESIDENT_EVIL_6 from '../assets/img/Catalogue/Playstation-3/RESIDENT_EVIL_6.jpeg';
+import SHADOW_OF_MORDOR from '../assets/img/Catalogue/Playstation-3/SHADOW_OF_MORDOR.jpeg';
+import SNIPER_ELITE_3_ULTIMATE_EDITION from '../assets/img/Catalogue/Playstation-3/SNIPER_ELITE_3_ULTIMATE_EDITION.jpeg';
+import SONIC_GENERATIONS from '../assets/img/Catalogue/Playstation-3/SONIC_GENERATIONS.jpeg';
+import STREET_FIGHTER from '../assets/img/Catalogue/Playstation-3/STREET_FIGHTER.jpeg';
+import THE_EVIL_WITHIN from '../assets/img/Catalogue/Playstation-3/THE_EVIL_WITHIN.jpeg';
+import THE_LAST_OF_US from '../assets/img/Catalogue/Playstation-3/THE_LAST_OF_US.jpeg';
+import ULTIMATE_ACTION_TRIPLE_PACK from '../assets/img/Catalogue/Playstation-3/ULTIMATE_ACTION_TRIPLE_PACK.jpeg';
+import UNCHARTED_3_DRAKE_DECEPTION from '../assets/img/Catalogue/Playstation-3/UNCHARTED_3_DRAKE_DECEPTION.jpeg';
+import WATCH_DOGS from '../assets/img/Catalogue/Playstation-3/WATCH_DOGS.jpeg';
+import WRC_4 from '../assets/img/Catalogue/Playstation-3/WRC_4.jpeg';
+import WRC_5 from '../assets/img/Catalogue/Playstation-3/WRC_5.jpeg';
+import W_2K17 from '../assets/img/Catalogue/Playstation-3/W_2K17.jpeg';
+
+// PHOTOS PLAYSTATION 4 /////////////////////////////////////
+
 import ASSASINS_3 from '../assets/img/Catalogue/Playstation_4_5/3_ASSASINS.jpeg';
 import CRASH_3 from '../assets/img/Catalogue/Playstation_4_5/3_CRASH.jpeg';
 import ALAN_WAKE_2 from '../assets/img/Catalogue/Playstation_4_5/ALAN_WAKE_2.jpeg';
@@ -130,7 +193,6 @@ import SONIC_FRONTIERS from '../assets/img/Catalogue/Playstation_4_5/SONIC_FRONT
 import SONIC_ORIGINS from '../assets/img/Catalogue/Playstation_4_5/SONIC_ORIGINS.jpeg';
 import SONIC_SUPERSTARS from '../assets/img/Catalogue/Playstation_4_5/SONIC_SUPERSTARS.jpeg';
 import SPIDERMAN from '../assets/img/Catalogue/Playstation_4_5/SPIDERMAN.jpeg';
-import SPONGEBOB_BATTLE_FOR_BIKINI_BOTTOM from '../assets/img/Catalogue/Playstation_4_5/SPONGEBOB_BATTLE_FOR_BIKINI_BOTTOM.jpeg';
 import STARWARS_BATTLEFRONT from '../assets/img/Catalogue/Playstation_4_5/STARWARS_BATTLEFRONT.jpeg';
 import STARWARS_BATTLEFRONT_2 from '../assets/img/Catalogue/Playstation_4_5/STARWARS_BATTLEFRONT_2.jpeg';
 import SUBNAUTICA from '../assets/img/Catalogue/Playstation_4_5/SUBNAUTICA.jpeg';
@@ -280,7 +342,6 @@ import DETAILS_SONIC_FRONTIERS from '../assets/img/Catalogue/imgDetails-PS4-PS5/
 import DETAILS_SONIC_ORIGINS from '../assets/img/Catalogue/imgDetails-PS4-PS5/SONIC_ORIGINS.jpeg';
 import DETAILS_SONIC_SUPERSTARS from '../assets/img/Catalogue/imgDetails-PS4-PS5/SONIC_SUPERSTARS.jpeg';
 import DETAILS_SPIDERMAN from '../assets/img/Catalogue/imgDetails-PS4-PS5/SPIDERMAN.jpeg';
-import DETAILS_SPONGEBOB_BATTLE_FOR_BIKINI_BOTTOM from '../assets/img/Catalogue/imgDetails-PS4-PS5/SPONGEBOB_BATTLE_FOR_BIKINI_BOTTOM.jpeg';
 import DETAILS_STAR_WARS_BATTLEFRONT from '../assets/img/Catalogue/imgDetails-PS4-PS5/STAR_WARS_BATTLEFRONT.jpeg';
 import DETAILS_STAR_WARS_BATTLEFRONT_2 from '../assets/img/Catalogue/imgDetails-PS4-PS5/STAR_WARS_BATTLEFRONT_2.jpeg';
 import DETAILS_SUBNAUTICA from '../assets/img/Catalogue/imgDetails-PS4-PS5/SUBNAUTICA.jpeg';
@@ -305,6 +366,865 @@ import DETAILS_WWE_2K24 from '../assets/img/Catalogue/imgDetails-PS4-PS5/WWE-2K2
 import AA from "../assets/img/logo-lg.png";
 
 const data = [
+    { 
+        "id": 3,  
+        "title": "Fifa 19 Legacy Edition",
+        "category": "PS3",
+        "gender":"Deportes",
+        "description":"FIFA es el videojuego de fútbol más vendido de la actualidad y con más de 25 años de desarrollo. Vas a poder jugar con tus equipos y futbolistas preferidos en diversos modos. ¡Preparate para convertirte en campeón de todas las copas y torneos!",
+        "price": 6900,
+        "offerPrice": 3900 ,
+        "image": FIFA_19,
+        "imageDetails": FIFA_19,
+        "Date": 13/9/2018,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "Minecraft",
+        "category": "PS3",
+        "gender":"Aventura",
+        "description":"¡Descubre un mundo de infinitas aventuras y creatividad con Minecraft para PS3! Construye, explora y sobrevive en un universo pixelado lleno de posibilidades ilimitadas. ¡Crea tu propio mundo y hazlo tuyo hoy mismo!",
+        "price": 6900,
+        "offerPrice": 4900 ,
+        "image": MINECRAFT_PS3,
+        "imageDetails": MINECRAFT_PS3,
+        "Date": 17/12/2013,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "Black Ops 3",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":" Combinando realidad con ficción, Call of Duty es un juego único por su calidad de desarrollo. Su objetivo es que cada jugador logre conquistar todas las misiones, ya sea en una batalla contra otros ejércitos o combatiendo zombies. Sus gráficos, jugabilidad, desafíos e historias han hecho de la franquicia una de las más destacadas dentro de los videojuegos en primera persona.",
+        "price": 4900,
+        "offerPrice": 3900 ,
+        "image": COD_BLACK_OPS_3,
+        "imageDetails": COD_BLACK_OPS_3,
+        "Date": 17/12/2013,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "Black Ops 2 Gold Edition",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":" Call of Duty: Black Ops II es el segundo juego de la saga Call of Duty en presentar la futura tecnología de la guerra, y el primero en presentar historias de ramificación impulsados por elección del jugador, así como la selección de armas antes de comenzar las misiones del modo historia.",
+        "price": 4900,
+        "offerPrice":  0,
+        "image": CALL_OF_DUTY_BLACK_OPS_2,
+        "imageDetails": CALL_OF_DUTY_BLACK_OPS_2,
+        "Date": 12/11/2012,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "Fifa Street",
+        "category": "PS3",
+        "gender":"Deportes",
+        "description":" ¡Prepárate para vivir la emoción del fútbol callejero con FIFA Street para PS3! Domina las calles, muestra tus habilidades y desafía a los mejores jugadores. ¡Siente la intensidad en cada partido!",
+        "price": 6900,
+        "offerPrice": 3900 ,
+        "image": FIFA_STREET,
+        "imageDetails": FIFA_STREET,
+        "Date": 12/11/2012,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "Lego Harry Potter",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Prepárate para un viaje mágico a Hogwarts con LEGO Harry Potter en PS3!. Revive las aventuras de Harry, Hermione y Ron mientras exploras el mundo mágico en bloques. ¡Desata tu magia con este emocionante juego lleno de hechizos, misterios y diversión para toda la familia!",
+        "price": 6900,
+        "offerPrice": 3900 ,
+        "image": LEGO_HARRY_POTTER,
+        "imageDetails": LEGO_HARRY_POTTER,
+        "Date": 24/6/2010,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "Farming Simulator 15",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Prepárate para experimentar la auténtica vida en el campo con Farming Simulator 15 para PS3! Sumérgete en la emoción de cultivar tus propias tierras, criar animales y gestionar tu propia granja.",
+        "price": 4900,
+        "offerPrice": 3900 ,
+        "image": FARMING_SIMULATOR_15,
+        "imageDetails": FARMING_SIMULATOR_15,
+        "Date": 30/9/2014,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "Gran Turismo 6",
+        "category": "PS3",
+        "gender":"Carreras",
+        "description":"¡Prepárate para una experiencia de conducción inigualable con Gran Turismo 6 para PS3! Domina el volante de los coches más emblemáticos del mundo en pistas realistas y desafiantes. Con gráficos impresionantes y controles precisos, sentirás la emoción de la competición como nunca antes.",
+        "price": 10900,
+        "offerPrice": 6900 ,
+        "image": GRAN_TURISMO_6,
+        "imageDetails": GRAN_TURISMO_6,
+        "Date": 9/12/2013,
+        "precioReventa": 4900
+        },
+    { 
+        "id": 3,  
+        "title": "Ultimate Action Triple Pack ",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Prepárate para una experiencia de conducción inigualable con Gran Turismo 6 para PS3! Domina el volante de los coches más emblemáticos del mundo en pistas realistas y desafiantes. Con gráficos impresionantes y controles precisos, sentirás la emoción de la competición como nunca antes.",
+        "price": 9900,
+        "offerPrice": 6900 ,
+        "image": ULTIMATE_ACTION_TRIPLE_PACK,
+        "imageDetails": ULTIMATE_ACTION_TRIPLE_PACK,
+        "Date": 31/9/2014,
+        "precioReventa": 4900
+        },
+    { 
+        "id": 3,  
+        "title": "GTA San Andreas ",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Experimenta la icónica saga GTA en su máximo esplendor con GTA San Andreas para PS3! Sumérgete en el vibrante mundo abierto de Los Santos y sus alrededores mientras asumes el papel de Carl “CJ” Johnson, un ex pandillero que regresa a su hogar para enfrentar su pasado turbulento.",
+        "price": 9900,
+        "offerPrice": 5900 ,
+        "image": GTA_SAN_ANDREAS,
+        "imageDetails": GTA_SAN_ANDREAS,
+        "Date": 31/9/2014,
+        "precioReventa": 5900
+        },
+    { 
+        "id": 3,  
+        "title": "Just Cause 2 ",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"Prepárate para la adrenalina! En Just Cause 2 para PS3, explora un vasto mundo abierto lleno de acción, caos y posibilidades ilimitadas. ¡Desata el caos y la diversión!",
+        "price": 3900,
+        "offerPrice":  0,
+        "image": JUST_CAUSE_2,
+        "imageDetails": JUST_CAUSE_2,
+        "Date": 23/3/2010,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "Dragon Age Inquisition",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"Prepárate para la adrenalina! En Just Cause 2 para PS3, explora un vasto mundo abierto lleno de acción, caos y posibilidades ilimitadas. ¡Desata el caos y la diversión!",
+        "price": 3900,
+        "offerPrice": 0 ,
+        "image": DRAGON_AGE_INQUISITION,
+        "imageDetails": DETAILS_DRAGON_AGE_INQUISITION,
+        "Date": 18/11/2014,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "Dirt 3",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"Domina los terrenos más desafiantes del mundo mientras compites contra los mejores pilotos en una variedad de circuitos y condiciones climáticas extremas.",
+        "price": 9900,
+        "offerPrice": 6900 ,
+        "image": DIRT_3,
+        "imageDetails": DIRT_3,
+        "Date": 18/11/2014,
+        "precioReventa": 5900
+        },
+    { 
+        "id": 3,  
+        "title": "Assassins Creed Rogue",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Sumérgete en la oscuridad y abraza tu destino con Assassin’s Creed Rogue para PS3! Descubre un mundo de intriga, traición y acción en esta épica aventura de mundo abierto.",
+        "price": 5900,
+        "offerPrice": 0 ,
+        "image": ASSASINS_CREED_ROGUE,
+        "imageDetails": ASSASINS_CREED_ROGUE,
+        "Date": 11/11/2014,
+        "precioReventa": 4900
+        },
+    { 
+        "id": 3,  
+        "title": "Battlefield 4 Premium",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Prepárate para vivir la experiencia definitiva de la guerra moderna con Battlefield 4 para PS3! Sumérgete en intensos combates multijugador y emocionantes campañas para un jugador en este épico shooter de acción en primera persona.",
+        "price": 5900,
+        "offerPrice": 3900 ,
+        "image": BATTLEFIELD_4,
+        "imageDetails": BATTLEFIELD_4,
+        "Date": 18/2/2014,
+        "precioReventa": 3900
+        },
+    { 
+        "id": 3,  
+        "title": "Call Of Duty Black Ops",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"Sumérgete en una historia envolvente llena de giros y vueltas, mientras te embarcas en misiones clandestinas en algunos de los escenarios más peligrosos del mundo.",
+        "price": 4900,
+        "offerPrice": 0 ,
+        "image": CALL_OF_DUTY_BLACK_OPS,
+        "imageDetails": CALL_OF_DUTY_BLACK_OPS,
+        "Date": 9/11/2010,
+        "precioReventa": 3900
+        },
+    { 
+        "id": 3,  
+        "title": "Pes 18",
+        "category": "PS3",
+        "gender":"Deportes",
+        "description":"Sumérgete en el campo de juego y experimenta la intensidad de cada partido con gráficos impresionantes y una jugabilidad ultra realista.",
+        "price": 3900,
+        "offerPrice": 2900 ,
+        "image": PES_2018,
+        "imageDetails": PES_2018,
+        "Date": 12/9/2017,
+        "precioReventa": 2200
+        },
+    { 
+        "id": 3,  
+        "title": "Pes 16",
+        "category": "PS3",
+        "gender":"Deportes",
+        "description":"Sumérgete en el campo de juego y experimenta la intensidad de cada partido con gráficos impresionantes y una jugabilidad ultra realista.",
+        "price": 2900,
+        "offerPrice": 0 ,
+        "image": PES_2016,
+        "imageDetails": PES_2016,
+        "Date": 15/9/2015,
+        "precioReventa": 2200
+        },
+    { 
+        "id": 3,  
+        "title": "NBA 2K18",
+        "category": "PS3",
+        "gender":"Deportes",
+        "description":"Sumérgete en la cancha con gráficos de vanguardia, controles precisos y una jugabilidad inmersiva que te hará sentir como un verdadero profesional.",
+        "price": 7900,
+        "offerPrice": 3900 ,
+        "image": NBA_2K18,
+        "imageDetails": NBA_2K18,
+        "Date": 15/9/2015,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "NBA 2K17",
+        "category": "PS3",
+        "gender":"Deportes",
+        "description":"Sumérgete en la cancha con gráficos de vanguardia, controles precisos y una jugabilidad inmersiva que te hará sentir como un verdadero profesional.",
+        "price": 3900,
+        "offerPrice": 0 ,
+        "image": NBA_2K17,
+        "imageDetails": NBA_2K17,
+        "Date": 15/9/2015,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "NBA 2K16",
+        "category": "PS3",
+        "gender":"Deportes",
+        "description":"Sumérgete en la cancha con gráficos de vanguardia, controles precisos y una jugabilidad inmersiva que te hará sentir como un verdadero profesional.",
+        "price": 3900,
+        "offerPrice": 0 ,
+        "image": NBA_2K16,
+        "imageDetails": NBA_2K16,
+        "Date": 15/9/2015,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "Fifa 18",
+        "category": "PS3",
+        "gender":"Deportes",
+        "description":"¡Sumérgete en la emoción del fútbol con FIFA 18 para PS3! Experimenta la autenticidad del hermoso juego con gráficos realistas y una jugabilidad fluida. Compite en emocionantes partidos para alcanzar la gloria futbolística. ¡Hazte con FIFA 18 y lleva tu pasión por el fútbol a otro nivel!",
+        "price": 2900,
+        "offerPrice": 2500 ,
+        "image": FIFA_18,
+        "imageDetails": FIFA_18,
+        "Date": 15/9/2017,
+        "precioReventa": 1900
+        },
+    { 
+        "id": 3,  
+        "title": "Wwe 2K17",
+        "category": "PS3",
+        "gender":"Lucha",
+        "description":"¡Prepárate para la acción y la emoción en el ring con WWE 2K17 para PS3! Sumérgete en el mundo del wrestling profesional con gráficos impresionantes, movimientos realistas y una auténtica experiencia de lucha libre. Domina el cuadrilátero con una amplia selección de superestrellas de la WWE, incluidas leyendas icónicas y nuevos talentos emergentes",
+        "price": 4900,
+        "offerPrice": 4000 ,
+        "image": W_2K17,
+        "imageDetails": W_2K17,
+        "Date": 11/10/2016,
+        "precioReventa": 3900
+        },
+    { 
+        "id": 3,  
+        "title": "Mortal Kombat 9 Komplete Edition",
+        "category": "PS3",
+        "gender":"Lucha",
+        "description":"¡Prepárate para la batalla definitiva en Mortal Kombat 9 Komplete Edition para PS3! Experimenta la brutalidad sin límites con gráficos impresionantes, combates intensos y una historia cautivadora. ¡Domina a tus oponentes con movimientos especiales y fatalities asombrosos.",
+        "price": 4900,
+        "offerPrice": 3900 ,
+        "image": MORTAL_KOMBAT_KOMPLETE_EDITION,
+        "imageDetails": MORTAL_KOMBAT_KOMPLETE_EDITION,
+        "Date": 19/4/2011,
+        "precioReventa": 3900
+        },
+    { 
+        "id": 3,  
+        "title": "Ultra Street Fighter IV ",
+        "category": "PS3",
+        "gender":"Lucha",
+        "description":"Con Ultra Street Fighter IV para PS3! Sumérgete en el emocionante mundo de la lucha callejera con este juego de lucha legendario. Con gráficos mejorados y una jugabilidad fluida, cada combate es una experiencia épica llena de adrenalina.",
+        "price": 3900,
+        "offerPrice": 0 ,
+        "image": AA,
+        "imageDetails": AA,
+        "Date": 18/4/2014,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "Fight Night Champion ",
+        "category": "PS3",
+        "gender":"Lucha",
+        "description":"¡Prepárate para la pelea de tu vida con Fight Night Champion para PS3! Sumérgete en un mundo de boxeo ultra realista donde cada golpe cuenta. Experimenta gráficos impresionantes, controles intuitivos y una jugabilidad inmersiva que te dejará sin aliento.",
+        "price": 2900,
+        "offerPrice": 0 ,
+        "image": FIGHT_NIGHT_CHAMPION,
+        "imageDetails": FIGHT_NIGHT_CHAMPION,
+        "Date": 26/4/2010,
+        "precioReventa": 2500
+        },
+    { 
+        "id": 3,  
+        "title": "Cars 3  ",
+        "category": "PS3",
+        "gender":"Carreras",
+        "description":"¡Prepárate para vivir la emoción de las carreras con Cars 3 para PS3! En este trepidante juego, te sumergirás en el mundo de Rayo McQueen y sus amigos, compitiendo en emocionantes pistas y desafiando tus habilidades de conducción al límite.",
+        "price": 5900,
+        "offerPrice": 3900 ,
+        "image": CARS_3_DRIVEN_TO_WIN_PS3,
+        "imageDetails": CARS_3_DRIVEN_TO_WIN_PS3,
+        "Date": 13/5/2017,
+        "precioReventa": 2500
+        },
+    { 
+        "id": 3,  
+        "title": "F1 2014 ",
+        "category": "PS3",
+        "gender":"Carreras",
+        "description":"¡Prepárate para sentir la emoción de la Fórmula 1 en tus manos con F1 2014 para PS3! Sumérgete en el mundo de las carreras de alta velocidad con gráficos impresionantes y una jugabilidad increíblemente realista. Conduce por los circuitos más emblemáticos del mundo mientras compites contra los mejores pilotos del deporte.",
+        "price": 5900,
+        "offerPrice": 3900  ,
+        "image": F1_2014,
+        "imageDetails": F1_2014,
+        "Date": 13/5/2017,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "MotoGP 15",
+        "category": "PS3",
+        "gender":"Carreras",
+        "description":"¡Prepárate para sentir la emoción de la Fórmula 1 en tus manos con F1 2014 para PS3! Sumérgete en el mundo de las carreras de alta velocidad con gráficos impresionantes y una jugabilidad increíblemente realista. Conduce por los circuitos más emblemáticos del mundo mientras compites contra los mejores pilotos del deporte.",
+        "price": 5900,
+        "offerPrice": 4900  ,
+        "image": MOTO_GP_15,
+        "imageDetails": MOTO_GP_15,
+        "Date": 24/6/2015,
+        "precioReventa": 3900
+        },
+    { 
+        "id": 3,  
+        "title": "WRC 4 ",
+        "category": "PS3",
+        "gender":"Carreras",
+        "description":"¡Prepárate para sentir la emoción de la Fórmula 1 en tus manos con F1 2014 para PS3! Sumérgete en el mundo de las carreras de alta velocidad con gráficos impresionantes y una jugabilidad increíblemente realista. Conduce por los circuitos más emblemáticos del mundo mientras compites contra los mejores pilotos del deporte.",
+        "price": 3900,
+        "offerPrice": 3500  ,
+        "image": WRC_4,
+        "imageDetails": WRC_4,
+        "Date": 24/6/2015,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "Need For Speed Rivals",
+        "category": "PS3",
+        "gender":"Carreras",
+        "description":"¡Prepárate para la adrenalina pura con Need For Speed Rivals en PS3! Sumérgete en un mundo de carreras ilegales y persecuciones policiales intensas donde la línea entre la ley y el caos se desdibuja. En este juego emocionante, tendrás la oportunidad de elegir entre ser un temerario corredor callejero o un implacable policía.",
+        "price": 5900,
+        "offerPrice": 4900 ,
+        "image": NEED_FOR_SPEED_RIVALS,
+        "imageDetails": NEED_FOR_SPEED_RIVALS,
+        "Date": 15/11/2013,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "WRC 5",
+        "category": "PS3",
+        "gender":"Carreras",
+        "description":"¡Prepárate para la emoción de la competición más intensa en el mundo del rally! Con WRC 5 para PS3, experimentarás la adrenalina de correr por los terrenos más desafiantes del mundo. Desde nevados paisajes hasta peligrosos caminos de tierra, cada carrera te llevará al límite de tus habilidades de conducción.",
+        "price": 4900,
+        "offerPrice": 4500,
+        "image": WRC_5,
+        "imageDetails": WRC_5,
+        "Date": 15/11/2013,
+        "precioReventa": 3900
+        },
+    { 
+        "id": 3,  
+        "title": "Plants vs Zombies Garden Warfare",
+        "category": "PS3",
+        "gender":"Carreras",
+        "description":"¡Prepárate para la batalla más divertida y loca con Plants vs. Zombies Garden Warfare para PS3! Sumérgete en un mundo lleno de acción, estrategia y diversión sin fin mientras las plantas y los zombis se enfrentan en épicas batallas.",
+        "price": 3900,
+        "offerPrice": 0  ,
+        "image": PLANTS_VS_ZOMBIES_GARDEN_WARFARE,
+        "imageDetails": PLANTS_VS_ZOMBIES_GARDEN_WARFARE,
+        "Date": 5/5/2009,
+        "precioReventa": 3000
+        },
+    { 
+        "id": 3,  
+        "title": "Lego Jurassic World",
+        "category": "PS3",
+        "gender":"Aventura",
+        "description":"¡Experimenta la emoción de Jurassic World en LEGO! Únete a tus dinosaurios favoritos y revive momentos épicos de la película mientras construyes y exploras. Sumérgete en la aventura ahora.",
+        "price": 3900,
+        "offerPrice": 0 ,
+        "image": LEGO_JURASSIC_WORLD,
+        "imageDetails": LEGO_JURASSIC_WORLD,
+        "Date": 12/6/2015,
+        "precioReventa": 3000
+        },
+    { 
+        "id": 3,  
+        "title": "Lego Batman 3",
+        "category": "PS3",
+        "gender":"Aventura",
+        "description":"¡Prepárate para la aventura definitiva de Batman en LEGO Batman 3 para PS3! Únete al Caballero Oscuro y otros héroes en una misión para salvar el universo de villanos cósmicos. Explora mundos increíbles, resuelve acertijos desafiantes y lucha contra enemigos poderosos mientras desbloqueas personajes y habilidades nuevas.",
+        "price": 3900,
+        "offerPrice": 0  ,
+        "image": AA,
+        "imageDetails": AA,
+        "Date": 11/11/2014,
+        "precioReventa": 3000
+        },
+    { 
+        "id": 3,  
+        "title": "Lego Marvel Avengers",
+        "category": "PS3",
+        "gender":"Aventura",
+        "description":"¡Únete a los superhéroes de Marvel en una aventura épica con LEGO Marvel Avengers para PS3! Disfruta de emocionantes misiones, combates divertidos y la libertad de explorar el vasto universo de Marvel. ¡Construye, lucha y salva el mundo!",
+        "price": 3900,
+        "offerPrice": 0  ,
+        "image": LEGO_MARVEL_AVENGERS,
+        "imageDetails": LEGO_MARVEL_AVENGERS,
+        "Date": 26/1/2016,
+        "precioReventa": 3000
+        },
+    { 
+        "id": 3,  
+        "title": "Minecraft Story Mode",
+        "category": "PS3",
+        "gender":"Aventura",
+        "description":"¡Embárcate en una emocionante aventura con Minecraft Story Mode para PS3! Descubre un mundo de bloques lleno de misterios, desafíos y decisiones que cambiarán tu destino. Cada elección que tomes influirá en el curso de tu épica historia. Explora nuevos mundos, forja amistades inesperadas y enfréntate a peligrosos enemigos. Esta edicion incluye todos los episodios.",
+        "price": 7900,
+        "offerPrice":  4900 ,
+        "image": MINECRAFT_STORY_MODE,
+        "imageDetails": MINECRAFT_STORY_MODE,
+        "Date": 13/10/2015,
+        "precioReventa": 4000
+        },
+    { 
+        "id": 3,  
+        "title": "Sonic Generations",
+        "category": "PS3",
+        "gender":"Carreras",
+        "description":"¡Sumérgete en una experiencia de juego única con Sonic Generations para PS3! Este juego combina lo mejor de los clásicos y los modernos en una aventura llena de velocidad y diversión. Corre a través de niveles emblemáticos mientras juegas como el clásico Sonic o su versión moderna, cada uno con habilidades únicas.",
+        "price": 7900,
+        "offerPrice": 4900  ,
+        "image": SONIC_GENERATIONS,
+        "imageDetails": SONIC_GENERATIONS,
+        "Date": 1/1/2011,
+        "precioReventa": 4000
+        },
+    { 
+        "id": 3,  
+        "title": "Watch Dogs",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Sumérgete en un mundo de hackeo y acción trepidante con Watch Dogs para PS3! Controla la ciudad de Chicago con tus habilidades de hackeo, desde cambiar los semáforos hasta acceder a información confidencial. ¡Cada decisión cuenta en este emocionante juego de mundo abierto.",
+        "price": 6900,
+        "offerPrice": 3900  ,
+        "image": WATCH_DOGS,
+        "imageDetails": WATCH_DOGS,
+        "Date": 26/5/2014,
+        "precioReventa": 3000
+        },
+    { 
+        "id": 3,  
+        "title": "Uncharted 3",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Sumérgete en la experiencia definitiva de Uncharted 3 con la edición Game of the Year para PS3! Descubre emocionantes aventuras, gráficos impresionantes y una jugabilidad épica mientras Nathan Drake se enfrenta a peligros inimaginables en busca de tesoros legendarios.",
+        "price": 5900,
+        "offerPrice": 0 ,
+        "image": UNCHARTED_3_DRAKE_DECEPTION,
+        "imageDetails": UNCHARTED_3_DRAKE_DECEPTION,
+        "Date": 1/11/2011,
+        "precioReventa": 4500
+        },
+    { 
+        "id": 3,  
+        "title": "The Last Of Us",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"Sumérgete en el apocalipsis de The Last of Us para PS3. Vive una emocionante narrativa, gráficos impresionantes y una jugabilidad envolvente. ¡Una obra maestra del gaming que no te puedes perder!",
+        "price": 6900,
+        "offerPrice": 3900 ,
+        "image": THE_LAST_OF_US,
+        "imageDetails": THE_LAST_OF_US,
+        "Date": 14/6/2013,
+        "precioReventa": 4500
+        },
+    { 
+        "id": 3,  
+        "title": "The Evil Within",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Prepárate para una experiencia aterradora llena de suspenso con The Evil Within para PS3, criaturas terroríficas y giros impactantes en este juego de survival horror de alta calidad! Los jugadores vivirán la tensión junto al detective Sebastian Castellanos quien descubrirá un misterioso secreto que lo dejará inmerso en una pesadilla.",
+        "price": 3900,
+        "offerPrice": 0  ,
+        "image": THE_EVIL_WITHIN,
+        "imageDetails": THE_EVIL_WITHIN,
+        "Date": 14/10/2014,
+        "precioReventa": 3500
+        },
+    { 
+        "id": 3,  
+        "title": "Sniper Elite 3 Ultimate ",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Prepárate para la acción y la precisión con Sniper Elite 3 Ultimate para PS3! Sumérgete en intensas misiones de francotirador en entornos realistas y disfruta de la emoción de eliminar objetivos a larga distancia. Con gráficos impresionantes y una jugabilidad emocionante, ¡este juego te mantendrá al borde de tu asiento!",
+        "price": 3900,
+        "offerPrice": 0  ,
+        "image": SNIPER_ELITE_3_ULTIMATE_EDITION,
+        "imageDetails": SNIPER_ELITE_3_ULTIMATE_EDITION,
+        "Date": 26/6/2014,
+        "precioReventa": 3500
+        },
+    { 
+        "id": 3,  
+        "title": "Middle Earth Shadow of Mordor ",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Sumérgete en la épica aventura de Middle Earth Shadow of Mordor para PS3! Domina el poder del Anillo Único y desafía a Sauron en un emocionante mundo abierto. ¡Combina sigilo, combate y estrategia para forjar tu propio destino en la Tierra Media!",
+        "price": 6900,
+        "offerPrice":3900 ,
+        "image": SHADOW_OF_MORDOR,
+        "imageDetails": SHADOW_OF_MORDOR,
+        "Date": 30/9/2014,
+        "precioReventa": 3900
+        },
+    { 
+        "id": 3,  
+        "title": "Resident Evil 6 Ultimate",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Sumérgete en el caos y la emoción con Resident Evil 6 Ultimate Edition para PS3! Experimenta una aventura épica llena de acción, terror y giros inesperados. Domina habilidades únicas de combate y lucha contra hordas de enemigos para salvar el mundo",
+        "price": 6900,
+        "offerPrice": 3900  ,
+        "image": RESIDENT_EVIL_6,
+        "imageDetails": RESIDENT_EVIL_6,
+        "Date": 2/10/2012,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "Resident Evil 5 Gold ",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Experimenta el apocalipsis zombi en alta definición con Resident Evil 5 Gold para PS3! Únete a Chris Redfield y Sheva Alomar en una lucha desesperada contra las fuerzas del mal en África. ¡Prepárate para sobrevivir en un mundo infestado de monstruos y conspiraciones mortales!",
+        "price": 5900,
+        "offerPrice": 3900  ,
+        "image": RESIDENT_EVIL_5_PS3,
+        "imageDetails": RESIDENT_EVIL_5_PS3,
+        "Date": 2/10/2012,
+        "precioReventa": 3900
+        },
+    { 
+        "id": 3,  
+        "title": "Red Dead Redemption",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Sumérgete en el legendario Salvaje Oeste con Red Dead Redemption para PS3! Embárcate en una épica aventura llena de acción, forajidos, y paisajes impresionantes. Descubre secretos, completa misiones emocionantes y vive la vida del vaquero definitivo.",
+        "price": 10900,
+        "offerPrice": 8900  ,
+        "image": RED_DEAD_REDEMPTION,
+        "imageDetails": RED_DEAD_REDEMPTION,
+        "Date": 18/5/2010,
+        "precioReventa": 6900
+        },
+    { 
+        "id": 3,  
+        "title": "Red Dead Redemption + Undead Nightmare ",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Sumérgete en el legendario Salvaje Oeste con Red Dead Redemption para PS3! Embárcate en una épica aventura llena de acción, forajidos, y paisajes impresionantes. Descubre secretos, completa misiones emocionantes y vive la vida del vaquero definitivo. Incluye DLC Undead Nightmare.",
+        "price": 19900,
+        "offerPrice": 10900  ,
+        "image": RED_DEAD_REDEMPTION_YEAR_EDITION,
+        "imageDetails": RED_DEAD_REDEMPTION_YEAR_EDITION,
+        "Date": 18/5/2010,
+        "precioReventa": 9900
+        },
+    { 
+        "id": 3,  
+        "title": "One Piece Pirate Warriors ",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Prepárate para zarpar en una aventura épica con One Piece Pirate Warriors 3 para PS3! Únete a Luffy y sus valientes compañeros en su búsqueda para convertirse en el Rey de los Piratas. Conviértete en un maestro de la lucha mientras derrotas a hordas de enemigos con habilidades únicas y combos devastadores.",
+        "price": 8900,
+        "offerPrice": 0  ,
+        "image": ONE_PIECE_PIRATE_WARRIORS_3,
+        "imageDetails": ONE_PIECE_PIRATE_WARRIORS_3,
+        "Date": 18/5/2010,
+        "precioReventa": 7900
+        },
+    { 
+        "id": 3,  
+        "title": "Need For Speed Most Wanted",
+        "category": "PS3",
+        "gender":"Carreras",
+        "description":"Sumérgete en un mundo de velocidad y adrenalina mientras compites en desafiantes carreras y evitas a la policía en emocionantes persecuciones. Personaliza tu auto, domina las calles y demuestra que eres el mejor corredor.",
+        "price": 4900,
+        "offerPrice": 0  ,
+        "image": NEED_FOR_SPEED_MOST_WANTED,
+        "imageDetails": NEED_FOR_SPEED_MOST_WANTED,
+        "Date": 30/10/2012,
+        "precioReventa": 3900
+        },
+    { 
+        "id": 3,  
+        "title": "Naruto Shippuden Ultimate Ninja Storm Revolution",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Prepárate para la batalla definitiva en Naruto Shippuden: Ultimate Ninja Storm Revolution para PS3! Domina técnicas ninja, desbloquea poderosos personajes y participa en intensas peleas en este emocionante juego de lucha.",
+        "price": 5900,
+        "offerPrice": 0  ,
+        "image": NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM,
+        "imageDetails": NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM,
+        "Date": 11/9/2014,
+        "precioReventa": 3900
+        },
+    { 
+        "id": 3,  
+        "title": "Metal Gear Solid V",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"Prepárate para una aventura épica con Metal Gear Solid V! Experimenta la emoción del sigilo y la acción en este juego increíblemente detallado y persuasivo. ¡Compra ahora y descubre la magia de Metal Gear Solid V en tu PS3!",
+        "price": 3900,
+        "offerPrice": 0  ,
+        "image": METAL_GEAR_SOLID_V,
+        "imageDetails": METAL_GEAR_SOLID_V,
+        "Date": 1/9/2015,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "Metal Gear Solid V Ground Zeroes",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"Experimenta el sigilo de alta calidad y la emocionante jugabilidad táctica en este título épico de la aclamada serie Metal Gear. Embárcate en misiones secretas, desbloquea habilidades y sumérgete en una narrativa envolvente. ¡Consigue ya este increíble juego de acción furtiva para tu consola PS3 y vive una experiencia inolvidable!",
+        "price": 3900,
+        "offerPrice": 0  ,
+        "image": METAL_GEAR_SOLID_THE_PANTOM_PAIN,
+        "imageDetails": METAL_GEAR_SOLID_THE_PANTOM_PAIN,
+        "Date": 18/3/2014,
+        "precioReventa": 2900
+        },
+    { 
+        "id": 3,  
+        "title": "Little Big Planet 3",
+        "category": "PS3",
+        "gender":"Aventura",
+        "description":"¡Descubre un mundo lleno de creatividad y diversión en Little Big Planet 3 para PS3! Únete a Sackboy y sus amigos en emocionantes aventuras, personaliza tu propio nivel y disfruta de horas de entretenimiento y creatividad ilimitada con este emocionante juego!",
+        "price": 6000,
+        "offerPrice": 4900 ,
+        "image": LITTLE_BIG_PLANET_3,
+        "imageDetails": LITTLE_BIG_PLANET_3,
+        "Date": 18/11/2014,
+        "precioReventa": 2500
+        },
+    { 
+        "id": 3,  
+        "title": "Just Dance 2018",
+        "category": "PS3",
+        "gender":"Danza",
+        "description":"¡Prepárate para bailar sin parar con Just Dance 2018 para PS3! Con los últimos éxitos musicales, modos de juego emocionantes y gráficos impresionantes, esta entrega lleva la diversión a otro nivel y desata tu ritmo interior!",
+        "price": 3900,
+        "offerPrice":0 ,
+        "image": JUST_DANCE_2018,
+        "imageDetails": JUST_DANCE_2018,
+        "Date": 18/11/2014,
+        "precioReventa": 3500
+        },
+    { 
+        "id": 3,  
+        "title": "Just Dance 2017",
+        "category": "PS3",
+        "gender":"Danza",
+        "description":"¡Lleva la fiesta a tu hogar con Just Dance 2017 para PS3! Con más de 40 éxitos musicales y coreografías vibrantes, este juego te hará moverte y sudar. Con controles intuitivos y modos de juego emocionantes, ¡prepárate para bailar toda la noche!",
+        "price": 5900,
+        "offerPrice": 0,
+        "image": JUST_DANCE_2017,
+        "imageDetails": JUST_DANCE_2017,
+        "Date": 18/11/2014,
+        "precioReventa": 5500
+        },
+    { 
+        "id": 3,  
+        "title": "Injustice Gods Among Us Ultimate Edition",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Experimenta la batalla definitiva entre héroes y villanos en Injustice: Gods Among Us Ultimate Edition para PS3! Desbloquea personajes icónicos, domina poderes sobrenaturales y lucha por la justicia en este emocionante juego de lucha. ¡Tenelo ahora!",
+        "price": 3900,
+        "offerPrice": 0 ,
+        "image": INJUSTICE_GODS_AMONG_US_ULTIMATE_EDITION,
+        "imageDetails": INJUSTICE_GODS_AMONG_US_ULTIMATE_EDITION,
+        "Date": 16/4/2013,
+        "precioReventa": 3000
+        },
+    { 
+        "id": 3,  
+        "title": "Hitman",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Experimenta la adrenalina del sigilo y la estrategia con Hitman Absolution! Sumérgete en un mundo de intrigas y misterios mientras ejecutas misiones emocionantes. Descarga ahora y demuestra tus habilidades de asesino.",
+        "price": 3900,
+        "offerPrice": 0 ,
+        "image": HITMAN_ABSOLUTION,
+        "imageDetails": HITMAN_ABSOLUTION,
+        "Date": 20/11/2012,
+        "precioReventa": 3000
+        },
+    { 
+        "id": 3,  
+        "title": "GTA V",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Prepárate para la aventura definitiva en Los Santos con GTA V para PS3! Explora un vasto mundo abierto lleno de acción, misiones emocionantes y personajes inolvidables. ¡Descubre por qué este juego es un clásico imperdible!",
+        "price": 5900,
+        "offerPrice": 3900  ,
+        "image": GTA_V,
+        "imageDetails": GTA_V,
+        "Date": 17/9/2013,
+        "precioReventa": 3000
+        },
+    { 
+        "id": 3,  
+        "title": "God Of War Ascension",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"¡Prepárate para vivir la épica batalla de God of War: Ascension en PS3! Sumérgete en un mundo mitológico repleto de acción, gráficos impresionantes y una narrativa envolvente. Domina poderes divinos y enfrenta desafíos épicos. ¡Tenelo hoy mismo y únete a la leyenda!",
+        "price": 4900,
+        "offerPrice": 3900  ,
+        "image": GOD_OF_WAR_ASENSION,
+        "imageDetails": GOD_OF_WAR_ASENSION,
+        "Date": 17/9/2013,
+        "precioReventa": 2500
+        },
+        { 
+        "id": 3,  
+        "title": "Resident Evil 0 HD",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"Esta precuela revela las verdades que dan sentido a toda la saga en una edición remasterizada pero con lo mejor del juego original. Los jugadores podrán revivir horas de tensión con capítulos llenos de suspenso, desafíos, misterios y, sobre todo, enemigos.",
+        "price": 6900,
+        "offerPrice": 3900  ,
+        "image": RESIDENT_EVIL_0,
+        "imageDetails": RESIDENT_EVIL_0,
+        "Date": 17/9/2013,
+        "precioReventa": 2500
+        },
+        { 
+        "id": 3,  
+        "title": "Battlefield Hardline",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"Ambientada en escenarios urbanos, esta entrega se aleja de las guerras clásicas para sumergirse en un drama policial moderno. En el rol de Nick Mendoza, los jugadores deberán conseguir restablecer o infringir el orden, depende de qué lado de la ley elijan.",
+        "price": 6900,
+        "offerPrice": 3900  ,
+        "image": BATTLEFIELD_HARDLINE,
+        "imageDetails": BATTLEFIELD_HARDLINE,
+        "Date": 17/9/2013,
+        "precioReventa": 2500
+        },
+        { 
+        "id": 3,  
+        "title": "Dragon Ball Xenoverse",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"Nuevos mapas y una misteriosa ciudad son dos de las principales características de esta entrega. Con un giro en la historia, los jugadores serán protagonistas de impresionantes batallas en un entorno impredecible, con más de 400 artículos para personalizar un estilo de pelea como nunca antes.",
+        "price": 6900,
+        "offerPrice": 3900  ,
+        "image": AA,
+        "imageDetails": AA,
+        "Date": 17/9/2013,
+        "precioReventa": 2500
+        },
+        { 
+        "id": 3,  
+        "title": "Dragon Ball Xenoverse + Todos los Dlc",
+        "category": "PS3",
+        "gender":"Accion",
+        "description":"Nuevos mapas y una misteriosa ciudad son dos de las principales características de esta entrega. Con un giro en la historia, los jugadores serán protagonistas de impresionantes batallas en un entorno impredecible, con más de 400 artículos para personalizar un estilo de pelea como nunca antes.",
+        "price": 6900,
+        "offerPrice": 3900  ,
+        "image": AA,
+        "imageDetails": AA,
+        "Date": 17/9/2013,
+        "precioReventa": 2500
+        },
+        { 
+            "id": 3,  
+            "title": "Destiny The Taken King",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"Una edición legendaria que reúne incluye el juego base, las expansiones I y II y The Taken King. Los jugadores podrán disfrutar de impresionantes batallas con un potenciador de personajes que permite estar listo para el combate en cualquier momento y lugar.",
+            "price": 6900,
+            "offerPrice": 3900  ,
+            "image": AA,
+            "imageDetails": AA,
+            "Date": 17/9/2013,
+            "precioReventa": 2500
+            },
+            { 
+            "id": 3,  
+            "title": "Farcry 4",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"Ambientado en Kyrat, una peligrosa región del Himalaya sometida al régimen de un rey autoproclamado, esta aventura es una de las más desafiantes. Los jugadores podrán usar una gran variedad de armas, vehículos y animales para cambiar la historia en un exótico y salvaje mundo abierto.",
+            "price": 6900,
+            "offerPrice": 3900  ,
+            "image": FARCRY_4,
+            "imageDetails": FARCRY_4,
+            "Date": 17/9/2013,
+            "precioReventa": 2500
+            },
+        
     {
         id: 1,
         title: "TopSpin 2K25",
@@ -1065,8 +1985,8 @@ const data = [
         price: 19900,
         secondaryPrice: 18900,
         offerPrice: 10900,
-        image: AA,
-        imageDetails: AA,
+        image: GOW_REMASTERED,
+        imageDetails: DETAILS_GOW_REMASTERED,
         Date: 20 / 4 / 2018,
         precioReventa: 12,
     },
@@ -2730,8 +3650,8 @@ const data = [
         price: 59900,
         secondaryPrice: 59900,
         offerPrice: 29900,
-        image: CRASH_INSANE_TRILOGY,
-        imageDetails: DETAILS_CRASH_INSANE_TRILOGY,
+        image: AA,
+        imageDetails: AA,
         Date: 20 / 12 / 2023,
         precioReventa: 30,
     },
@@ -2745,8 +3665,8 @@ const data = [
         price: 59900,
         secondaryPrice: 59900,
         offerPrice: 19900,
-        image: CRASH_INSANE_TRILOGY,
-        imageDetails: DETAILS_CRASH_INSANE_TRILOGY,
+        image: AA,
+        imageDetails: AA,
         Date: 20 / 12 / 2023,
         precioReventa: 30,
     },
@@ -3375,8 +4295,8 @@ const data = [
         price: 79900,
         secondaryPrice: 79800,
         offerPrice: 29000,
-        image: AA,
-        imageDetails: AA,
+        image: CRASH_3,
+        imageDetails: DETAILS_CRASH_3,
         Date: 7 / 7 / 2019,
         precioReventa: 45,
     },
@@ -3390,8 +4310,8 @@ const data = [
         price: 79900,
         secondaryPrice: 79800,
         offerPrice: 29000,
-        image: AA,
-        imageDetails: AA,
+        image: CRASH_3,
+        imageDetails: DETAILS_CRASH_3,
         Date: 7 / 7 / 2019,
         precioReventa: 45,
     },

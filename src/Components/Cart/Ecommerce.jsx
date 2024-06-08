@@ -14,9 +14,9 @@ function Ecommerce({ item }) {
   const queryParams = new URLSearchParams(location.search);
   const initialCategory = queryParams.get('category'); // Predeterminado a PS4
   const [products, setProducts] = useState([]);
-  const [filteredProducts, setFilteredProducts] = useState(ProductService);
+  const [filteredProducts, setFilteredProducts] = useState([]);
   const [categories, setCategories] = useState([]);
-  const [selectedCategory, setSelectedCategory] = useState(initialCategory); // Predeterminado a PS4
+  const [selectedCategory, setSelectedCategory] = useState(); // Predeterminado a PS4
   const [searchTerm, setSearchTerm] = useState('');
   const [sidebarVisible, setSidebarVisible] = useState(false);
   const [selectedProduct, setSelectedProduct] = useState(null);
@@ -27,14 +27,12 @@ function Ecommerce({ item }) {
   }, [selectedCategory, searchTerm, sortOrder]); // Añade sortOrder al useEffect
 
   useEffect(() => {
-    if (ProductService && ProductService.length > 0) {
+   
       setProducts(ProductService);
       setFilteredProducts(ProductService.filter(product => product.category === 'PS4'));
       const categoriesData = [...new Set(ProductService.map(product => product.category))];
       setCategories(categoriesData);
-      setSelectedCategory(initialCategory);
-      console.log(ProductService.filter(product => product.category === 'PS4'))
-    }
+
   }, [ProductService, initialCategory]);
 
   useEffect(() => {
@@ -42,9 +40,8 @@ function Ecommerce({ item }) {
     const category = params.get('category');
     if (category) {
       setSelectedCategory(category);
-      console.log(params, category)
     }
-  }, [location]);
+  }, [location, initialCategory]);
 
   const filterProducts = () => {
     let filtered = products;
