@@ -127,7 +127,7 @@ function Ecommerce({ item }) {
                     Ofertas
                   </div>
                   {showOfferOptions && (
-                    <ul className="list-group list-group-flush">
+                    <ul className="list-group list-group-flush no-bullets">
                       {categories.map(category => (
                         <li key={category}>
                           <div
@@ -190,45 +190,47 @@ function Ecommerce({ item }) {
         </div>
         <Sidebar visible={sidebarVisible} onHide={closeSidebar}>
           <div className="">
-            <h2>Categorías</h2>
-            <ul className="list-group">
-              {categories.map(category => (
-                <li key={category}>
-                  <div
-                    className={`list-group-item ${selectedCategory === category && 'active'}`}
-                    onClick={() => handleCategoryChange(category)}
-                  >
-                    {category}
+          <div className="">
+              <h2>Categorías</h2>
+              <ul className="list-group list-group-flush no-bullets">
+                {categories.map(category => (
+                  <li key={category}>
+                    <div
+                      className={`list-group-item ${selectedCategory === category && 'active'}`}
+                      onClick={() => handleCategoryChange(category)}
+                    >
+                      {category}
+                    </div>
+                  </li>
+                ))}
+                <li>
+                  <div className={`list-group-item ${showOfferOptions && 'active'}`} onClick={toggleOfferOptions}>
+                    Ofertas
                   </div>
+                  {showOfferOptions && (
+                    <ul className="list-group list-group-flush no-bullets">
+                      {categories.map(category => (
+                        <li key={category}>
+                          <div
+                            className={`list-group-item ${selectedCategory === `${category} - Ofertas` && 'active'}`}
+                            onClick={() => handleCategoryChange(`${category} - Ofertas`)}
+                          >
+                            {category} - Ofertas
+                          </div>
+                        </li>
+                      ))}
+                    </ul>
+                  )}
                 </li>
-              ))}
-              <li>
-                <div className={`list-group-item ${showOfferOptions && 'active'}`} onClick={toggleOfferOptions}>
-                  Ofertas
-                </div>
-                {showOfferOptions && (
-                  <ul className="list-group list-group-flush">
-                    {categories.map(category => (
-                      <li key={category}>
-                        <div
-                          className={`list-group-item ${selectedCategory === `${category} - Ofertas` && 'active'}`}
-                          onClick={() => handleCategoryChange(`${category} - Ofertas`)}
-                        >
-                          {category} - Ofertas
-                        </div>
-                      </li>
-                    ))}
-                  </ul>
-                )}
-              </li>
-            </ul>
-          </div>
-          <div className="mt-4">
-            <h2>Ordenar por Precio</h2>
-            <ul className="list-group">
-              <li className={`list-group-item ${sortOrder === 'asc' && 'active'}`} onClick={() => handleSortOrderChange('asc')}>Precio: Menor a Mayor</li>
-              <li className={`list-group-item ${sortOrder === 'desc' && 'active'}`} onClick={() => handleSortOrderChange('desc')}>Precio: Mayor a Menor</li>
-            </ul>
+              </ul>
+            </div>
+            <div className="mt-4">
+              <h2>Ordenar por Precio</h2>
+              <ul className="list-group">
+                <li className={`list-group-item ${sortOrder === 'asc' && 'active'}`} onClick={() => handleSortOrderChange('asc')}>Precio: Menor a Mayor</li>
+                <li className={`list-group-item ${sortOrder === 'desc' && 'active'}`} onClick={() => handleSortOrderChange('desc')}>Precio: Mayor a Menor</li>
+              </ul>
+            </div>
           </div>
         </Sidebar>
       </div>
