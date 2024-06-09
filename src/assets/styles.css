@@ -234,6 +234,13 @@
 .ulDecoration li a{
   text-decoration: none !important;
 }
+
+.no-bullets {
+  list-style-type: none;
+  padding: 0; /* Opcional: Para quitar el espacio de padding por defecto */
+  margin: 0;  /* Opcional: Para quitar el margen por defecto */
+}
+
 .offerPrice{
   font-size: 1.2em;
 }
@@ -300,6 +307,10 @@
 
 .stylesInputNavBar label {
   color: wheat !important;
+}
+
+.stylesInputNavBar input {
+  color: rgb(255, 255, 255) !important;
 }
 
 .stylesInputNavBar{

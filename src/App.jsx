@@ -84,7 +84,7 @@ function App(){
 
         <footer className="container-fluid BrandColor ">
             <div className="row">
-                <ul className="text-center text-light ulDecoration">
+                <ul className="text-center text-light ulDecoration no-bullets">
                     <li className="mt-4">LG Juegos digitales</li>
                     <li className="mt-4">Contacto</li>
                     <li className="mt-4"><a target="_blank" href="#" className="text-light"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" className="bi bi-instagram" viewBox="0 0 16 16">

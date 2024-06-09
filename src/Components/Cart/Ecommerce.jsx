@@ -21,13 +21,13 @@ function Ecommerce({ item }) {
   const [sidebarVisible, setSidebarVisible] = useState(false);
   const [selectedProduct, setSelectedProduct] = useState(null);
   const [sortOrder, setSortOrder] = useState(''); // Estado para el orden de precios
+  const [showOfferOptions, setShowOfferOptions] = useState(false); // Estado para mostrar opciones de ofertas
 
   useEffect(() => {
     filterProducts();
   }, [selectedCategory, searchTerm, sortOrder]); // Añade sortOrder al useEffect
 
   useEffect(() => {
-   
       setProducts(ProductService);
       setFilteredProducts(ProductService.filter(product => product.category === 'PS4'));
       const categoriesData = [...new Set(ProductService.map(product => product.category))];
@@ -90,6 +90,10 @@ function Ecommerce({ item }) {
     setSidebarVisible(false);
   };
 
+  const toggleOfferOptions = () => {
+    setShowOfferOptions(!showOfferOptions);
+  };
+
   return (
     <>
       {queryParams.size !== 0 && <Logo />}
@@ -107,7 +111,7 @@ function Ecommerce({ item }) {
           <div className='col-2 categorysWeb'>
             <div className="">
               <h2>Categorías</h2>
-              <ul className="list-group list-group-flush">
+              <ul className="list-group list-group-flush no-bullets">
                 {categories.map(category => (
                   <li key={category}>
                     <div
@@ -116,14 +120,27 @@ function Ecommerce({ item }) {
                     >
                       {category}
                     </div>
-                    <div
-                      className={`list-group-item ${selectedCategory === `${category} - Ofertas` && 'active'}`}
-                      onClick={() => handleCategoryChange(`${category} - Ofertas`)}
-                    >
-                      {category} - Ofertas
-                    </div>
                   </li>
                 ))}
+                <li>
+                  <div className={`list-group-item ${showOfferOptions && 'active'}`} onClick={toggleOfferOptions}>
+                    Ofertas
+                  </div>
+                  {showOfferOptions && (
+                    <ul className="list-group list-group-flush">
+                      {categories.map(category => (
+                        <li key={category}>
+                          <div
+                            className={`list-group-item ${selectedCategory === `${category} - Ofertas` && 'active'}`}
+                            onClick={() => handleCategoryChange(`${category} - Ofertas`)}
+                          >
+                            {category} - Ofertas
+                          </div>
+                        </li>
+                      ))}
+                    </ul>
+                  )}
+                </li>
               </ul>
             </div>
             <div className="mt-4">
@@ -183,14 +200,27 @@ function Ecommerce({ item }) {
                   >
                     {category}
                   </div>
-                  <div
-                    className={`list-group-item ${selectedCategory === `${category} - Ofertas` && 'active'}`}
-                    onClick={() => handleCategoryChange(`${category} - Ofertas`)}
-                  >
-                    {category} - Ofertas
-                  </div>
                 </li>
               ))}
+              <li>
+                <div className={`list-group-item ${showOfferOptions && 'active'}`} onClick={toggleOfferOptions}>
+                  Ofertas
+                </div>
+                {showOfferOptions && (
+                  <ul className="list-group list-group-flush">
+                    {categories.map(category => (
+                      <li key={category}>
+                        <div
+                          className={`list-group-item ${selectedCategory === `${category} - Ofertas` && 'active'}`}
+                          onClick={() => handleCategoryChange(`${category} - Ofertas`)}
+                        >
+                          {category} - Ofertas
+                        </div>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </li>
             </ul>
           </div>
           <div className="mt-4">

@@ -15,7 +15,7 @@ import FIFA_STREET from '../assets/img/Catalogue/Playstation-3/FIFA_STREET.jpeg'
 import FIGHT_NIGHT_CHAMPION from '../assets/img/Catalogue/Playstation-3/FIGHT_NIGHT_CHAMPION.jpeg';
 import GOD_OF_WAR_ASENSION from '../assets/img/Catalogue/Playstation-3/GOD_OF_WAR_ASENSION.jpeg';
 import GRAN_TURISMO_6 from '../assets/img/Catalogue/Playstation-3/GRAN_TURISMO_6.jpeg';
-import GTA_SAN_ANDRAS from '../assets/img/Catalogue/Playstation-3/GTA_SAN_ANDRAS.jpeg';
+import GTA_SAN_ANDREAS_PS3 from '../assets/img/Catalogue/Playstation-3/GTA_SAN_ANDREAS.jpeg';
 import GTA_V_PS3 from '../assets/img/Catalogue/Playstation-3/GTA_V.jpeg';
 import HITMAN_ABSOLUTION from '../assets/img/Catalogue/Playstation-3/HITMAN_ABSOLUTION.jpeg';
 import INJUSTICE_GODS_AMONG_US_ULTIMATE_EDITION from '../assets/img/Catalogue/Playstation-3/INJUSTICE_GODS_AMONG_US_ULTIMATE_EDITION.jpeg';
@@ -214,6 +214,8 @@ import W2K24 from '../assets/img/Catalogue/Playstation_4_5/W2K24.jpeg';
 import WATCH_DOGS_LEGION from '../assets/img/Catalogue/Playstation_4_5/WATCH_DOGS_LEGION.jpeg';
 import WRC_10 from '../assets/img/Catalogue/Playstation_4_5/WRC_10.jpeg';
 import WRC_GENERATIONS from '../assets/img/Catalogue/Playstation_4_5/WRC_GENERATIONS.jpeg';
+import DIRT_5 from '../assets/img/Catalogue/Playstation_4_5/DIRT_5.jpeg';
+import SKULL_AND_BONES from '../assets/img/Catalogue/Playstation_4_5/SKULL_AND_BONES.jpeg';
 
 // DETAILS ///////////////////////////////////////////////////////////////////////////////
 
@@ -362,12 +364,14 @@ import DETAILS_WRC10 from '../assets/img/Catalogue/imgDetails-PS4-PS5/WRC10.jpeg
 import DETAILS_WRC_GENERATIONS from '../assets/img/Catalogue/imgDetails-PS4-PS5/WRC_GENERATIONS.jpeg';
 import DETAILS_WWE_2K23 from '../assets/img/Catalogue/imgDetails-PS4-PS5/WWE-2K23.jpeg';
 import DETAILS_WWE_2K24 from '../assets/img/Catalogue/imgDetails-PS4-PS5/WWE-2K24.jpeg';
+import DETAILS_DIRT_5 from '../assets/img/Catalogue/imgDetails-PS4-PS5/DIRT_5.jpeg';
+import DETAILS_SKULL_AND_BONES from '../assets/img/Catalogue/imgDetails-PS4-PS5/SKULL_AND_BONES.jpeg';
 
 import AA from "../assets/img/logo-lg.png";
 
 const data = [
     { 
-        "id": 3,  
+        "id": 237,  
         "title": "Fifa 19 Legacy Edition",
         "category": "PS3",
         "gender":"Deportes",
@@ -380,7 +384,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 238,  
         "title": "Minecraft",
         "category": "PS3",
         "gender":"Aventura",
@@ -393,7 +397,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 239,  
         "title": "Black Ops 3",
         "category": "PS3",
         "gender":"Accion",
@@ -406,7 +410,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 240,  
         "title": "Black Ops 2 Gold Edition",
         "category": "PS3",
         "gender":"Accion",
@@ -419,7 +423,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 241,  
         "title": "Fifa Street",
         "category": "PS3",
         "gender":"Deportes",
@@ -432,7 +436,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 242,  
         "title": "Lego Harry Potter",
         "category": "PS3",
         "gender":"Accion",
@@ -445,7 +449,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 243,  
         "title": "Farming Simulator 15",
         "category": "PS3",
         "gender":"Accion",
@@ -458,7 +462,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 244,  
         "title": "Gran Turismo 6",
         "category": "PS3",
         "gender":"Carreras",
@@ -471,7 +475,7 @@ const data = [
         "precioReventa": 4900
         },
     { 
-        "id": 3,  
+        "id": 245,  
         "title": "Ultimate Action Triple Pack ",
         "category": "PS3",
         "gender":"Accion",
@@ -484,20 +488,20 @@ const data = [
         "precioReventa": 4900
         },
     { 
-        "id": 3,  
+        "id": 246,  
         "title": "GTA San Andreas ",
         "category": "PS3",
         "gender":"Accion",
         "description":"¡Experimenta la icónica saga GTA en su máximo esplendor con GTA San Andreas para PS3! Sumérgete en el vibrante mundo abierto de Los Santos y sus alrededores mientras asumes el papel de Carl “CJ” Johnson, un ex pandillero que regresa a su hogar para enfrentar su pasado turbulento.",
         "price": 9900,
         "offerPrice": 5900 ,
-        "image": GTA_SAN_ANDREAS,
-        "imageDetails": GTA_SAN_ANDREAS,
+        "image": GTA_SAN_ANDREAS_PS3,
+        "imageDetails": GTA_SAN_ANDREAS_PS3,
         "Date": 31/9/2014,
         "precioReventa": 5900
         },
     { 
-        "id": 3,  
+        "id": 247,  
         "title": "Just Cause 2 ",
         "category": "PS3",
         "gender":"Accion",
@@ -510,7 +514,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 248,  
         "title": "Dragon Age Inquisition",
         "category": "PS3",
         "gender":"Accion",
@@ -523,7 +527,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 249,  
         "title": "Dirt 3",
         "category": "PS3",
         "gender":"Accion",
@@ -536,7 +540,7 @@ const data = [
         "precioReventa": 5900
         },
     { 
-        "id": 3,  
+        "id": 250,  
         "title": "Assassins Creed Rogue",
         "category": "PS3",
         "gender":"Accion",
@@ -549,7 +553,7 @@ const data = [
         "precioReventa": 4900
         },
     { 
-        "id": 3,  
+        "id": 251,  
         "title": "Battlefield 4 Premium",
         "category": "PS3",
         "gender":"Accion",
@@ -562,7 +566,7 @@ const data = [
         "precioReventa": 3900
         },
     { 
-        "id": 3,  
+        "id": 252,  
         "title": "Call Of Duty Black Ops",
         "category": "PS3",
         "gender":"Accion",
@@ -575,7 +579,7 @@ const data = [
         "precioReventa": 3900
         },
     { 
-        "id": 3,  
+        "id": 253,  
         "title": "Pes 18",
         "category": "PS3",
         "gender":"Deportes",
@@ -588,7 +592,7 @@ const data = [
         "precioReventa": 2200
         },
     { 
-        "id": 3,  
+        "id": 254,  
         "title": "Pes 16",
         "category": "PS3",
         "gender":"Deportes",
@@ -601,7 +605,7 @@ const data = [
         "precioReventa": 2200
         },
     { 
-        "id": 3,  
+        "id": 255,  
         "title": "NBA 2K18",
         "category": "PS3",
         "gender":"Deportes",
@@ -614,7 +618,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 256,  
         "title": "NBA 2K17",
         "category": "PS3",
         "gender":"Deportes",
@@ -627,7 +631,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 257,  
         "title": "NBA 2K16",
         "category": "PS3",
         "gender":"Deportes",
@@ -640,7 +644,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 258,  
         "title": "Fifa 18",
         "category": "PS3",
         "gender":"Deportes",
@@ -653,7 +657,7 @@ const data = [
         "precioReventa": 1900
         },
     { 
-        "id": 3,  
+        "id": 259,  
         "title": "Wwe 2K17",
         "category": "PS3",
         "gender":"Lucha",
@@ -666,7 +670,7 @@ const data = [
         "precioReventa": 3900
         },
     { 
-        "id": 3,  
+        "id": 260,  
         "title": "Mortal Kombat 9 Komplete Edition",
         "category": "PS3",
         "gender":"Lucha",
@@ -679,7 +683,7 @@ const data = [
         "precioReventa": 3900
         },
     { 
-        "id": 3,  
+        "id": 261,  
         "title": "Ultra Street Fighter IV ",
         "category": "PS3",
         "gender":"Lucha",
@@ -692,7 +696,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 262,  
         "title": "Fight Night Champion ",
         "category": "PS3",
         "gender":"Lucha",
@@ -705,7 +709,7 @@ const data = [
         "precioReventa": 2500
         },
     { 
-        "id": 3,  
+        "id": 263,  
         "title": "Cars 3  ",
         "category": "PS3",
         "gender":"Carreras",
@@ -718,7 +722,7 @@ const data = [
         "precioReventa": 2500
         },
     { 
-        "id": 3,  
+        "id": 264,  
         "title": "F1 2014 ",
         "category": "PS3",
         "gender":"Carreras",
@@ -731,7 +735,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 265,  
         "title": "MotoGP 15",
         "category": "PS3",
         "gender":"Carreras",
@@ -744,7 +748,7 @@ const data = [
         "precioReventa": 3900
         },
     { 
-        "id": 3,  
+        "id": 266,  
         "title": "WRC 4 ",
         "category": "PS3",
         "gender":"Carreras",
@@ -757,7 +761,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 267,  
         "title": "Need For Speed Rivals",
         "category": "PS3",
         "gender":"Carreras",
@@ -770,7 +774,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 268,  
         "title": "WRC 5",
         "category": "PS3",
         "gender":"Carreras",
@@ -783,7 +787,7 @@ const data = [
         "precioReventa": 3900
         },
     { 
-        "id": 3,  
+        "id": 269,  
         "title": "Plants vs Zombies Garden Warfare",
         "category": "PS3",
         "gender":"Carreras",
@@ -796,7 +800,7 @@ const data = [
         "precioReventa": 3000
         },
     { 
-        "id": 3,  
+        "id": 270,  
         "title": "Lego Jurassic World",
         "category": "PS3",
         "gender":"Aventura",
@@ -809,20 +813,20 @@ const data = [
         "precioReventa": 3000
         },
     { 
-        "id": 3,  
+        "id": 271,  
         "title": "Lego Batman 3",
         "category": "PS3",
         "gender":"Aventura",
         "description":"¡Prepárate para la aventura definitiva de Batman en LEGO Batman 3 para PS3! Únete al Caballero Oscuro y otros héroes en una misión para salvar el universo de villanos cósmicos. Explora mundos increíbles, resuelve acertijos desafiantes y lucha contra enemigos poderosos mientras desbloqueas personajes y habilidades nuevas.",
         "price": 3900,
         "offerPrice": 0  ,
-        "image": AA,
-        "imageDetails": AA,
+        "image": BATMAN_3_BEYOND_GOTHAM,
+        "imageDetails": BATMAN_3_BEYOND_GOTHAM,
         "Date": 11/11/2014,
         "precioReventa": 3000
         },
     { 
-        "id": 3,  
+        "id": 272,  
         "title": "Lego Marvel Avengers",
         "category": "PS3",
         "gender":"Aventura",
@@ -835,7 +839,7 @@ const data = [
         "precioReventa": 3000
         },
     { 
-        "id": 3,  
+        "id": 273,  
         "title": "Minecraft Story Mode",
         "category": "PS3",
         "gender":"Aventura",
@@ -848,7 +852,7 @@ const data = [
         "precioReventa": 4000
         },
     { 
-        "id": 3,  
+        "id": 274,  
         "title": "Sonic Generations",
         "category": "PS3",
         "gender":"Carreras",
@@ -861,7 +865,7 @@ const data = [
         "precioReventa": 4000
         },
     { 
-        "id": 3,  
+        "id": 275,  
         "title": "Watch Dogs",
         "category": "PS3",
         "gender":"Accion",
@@ -874,7 +878,7 @@ const data = [
         "precioReventa": 3000
         },
     { 
-        "id": 3,  
+        "id": 276,  
         "title": "Uncharted 3",
         "category": "PS3",
         "gender":"Accion",
@@ -887,7 +891,7 @@ const data = [
         "precioReventa": 4500
         },
     { 
-        "id": 3,  
+        "id": 277,  
         "title": "The Last Of Us",
         "category": "PS3",
         "gender":"Accion",
@@ -900,7 +904,7 @@ const data = [
         "precioReventa": 4500
         },
     { 
-        "id": 3,  
+        "id": 278,  
         "title": "The Evil Within",
         "category": "PS3",
         "gender":"Accion",
@@ -913,7 +917,7 @@ const data = [
         "precioReventa": 3500
         },
     { 
-        "id": 3,  
+        "id": 279,  
         "title": "Sniper Elite 3 Ultimate ",
         "category": "PS3",
         "gender":"Accion",
@@ -926,7 +930,7 @@ const data = [
         "precioReventa": 3500
         },
     { 
-        "id": 3,  
+        "id": 280,  
         "title": "Middle Earth Shadow of Mordor ",
         "category": "PS3",
         "gender":"Accion",
@@ -939,7 +943,7 @@ const data = [
         "precioReventa": 3900
         },
     { 
-        "id": 3,  
+        "id": 281,  
         "title": "Resident Evil 6 Ultimate",
         "category": "PS3",
         "gender":"Accion",
@@ -952,7 +956,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 282,  
         "title": "Resident Evil 5 Gold ",
         "category": "PS3",
         "gender":"Accion",
@@ -965,7 +969,7 @@ const data = [
         "precioReventa": 3900
         },
     { 
-        "id": 3,  
+        "id": 283,  
         "title": "Red Dead Redemption",
         "category": "PS3",
         "gender":"Accion",
@@ -978,7 +982,7 @@ const data = [
         "precioReventa": 6900
         },
     { 
-        "id": 3,  
+        "id": 284,  
         "title": "Red Dead Redemption + Undead Nightmare ",
         "category": "PS3",
         "gender":"Accion",
@@ -991,7 +995,7 @@ const data = [
         "precioReventa": 9900
         },
     { 
-        "id": 3,  
+        "id": 285,  
         "title": "One Piece Pirate Warriors ",
         "category": "PS3",
         "gender":"Accion",
@@ -1004,7 +1008,7 @@ const data = [
         "precioReventa": 7900
         },
     { 
-        "id": 3,  
+        "id": 286,  
         "title": "Need For Speed Most Wanted",
         "category": "PS3",
         "gender":"Carreras",
@@ -1017,7 +1021,7 @@ const data = [
         "precioReventa": 3900
         },
     { 
-        "id": 3,  
+        "id": 287,  
         "title": "Naruto Shippuden Ultimate Ninja Storm Revolution",
         "category": "PS3",
         "gender":"Accion",
@@ -1030,7 +1034,7 @@ const data = [
         "precioReventa": 3900
         },
     { 
-        "id": 3,  
+        "id": 288,  
         "title": "Metal Gear Solid V",
         "category": "PS3",
         "gender":"Accion",
@@ -1043,7 +1047,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 289,  
         "title": "Metal Gear Solid V Ground Zeroes",
         "category": "PS3",
         "gender":"Accion",
@@ -1056,7 +1060,7 @@ const data = [
         "precioReventa": 2900
         },
     { 
-        "id": 3,  
+        "id": 290,  
         "title": "Little Big Planet 3",
         "category": "PS3",
         "gender":"Aventura",
@@ -1069,7 +1073,7 @@ const data = [
         "precioReventa": 2500
         },
     { 
-        "id": 3,  
+        "id": 291,  
         "title": "Just Dance 2018",
         "category": "PS3",
         "gender":"Danza",
@@ -1082,7 +1086,7 @@ const data = [
         "precioReventa": 3500
         },
     { 
-        "id": 3,  
+        "id": 292,  
         "title": "Just Dance 2017",
         "category": "PS3",
         "gender":"Danza",
@@ -1095,7 +1099,7 @@ const data = [
         "precioReventa": 5500
         },
     { 
-        "id": 3,  
+        "id": 293,  
         "title": "Injustice Gods Among Us Ultimate Edition",
         "category": "PS3",
         "gender":"Accion",
@@ -1108,7 +1112,7 @@ const data = [
         "precioReventa": 3000
         },
     { 
-        "id": 3,  
+        "id": 294,  
         "title": "Hitman",
         "category": "PS3",
         "gender":"Accion",
@@ -1121,7 +1125,7 @@ const data = [
         "precioReventa": 3000
         },
     { 
-        "id": 3,  
+        "id": 295,  
         "title": "GTA V",
         "category": "PS3",
         "gender":"Accion",
@@ -1134,7 +1138,7 @@ const data = [
         "precioReventa": 3000
         },
     { 
-        "id": 3,  
+        "id": 296,  
         "title": "God Of War Ascension",
         "category": "PS3",
         "gender":"Accion",
@@ -1147,7 +1151,7 @@ const data = [
         "precioReventa": 2500
         },
         { 
-        "id": 3,  
+        "id": 297,  
         "title": "Resident Evil 0 HD",
         "category": "PS3",
         "gender":"Accion",
@@ -1160,7 +1164,7 @@ const data = [
         "precioReventa": 2500
         },
         { 
-        "id": 3,  
+        "id": 298,  
         "title": "Battlefield Hardline",
         "category": "PS3",
         "gender":"Accion",
@@ -1173,7 +1177,7 @@ const data = [
         "precioReventa": 2500
         },
         { 
-        "id": 3,  
+        "id": 299,  
         "title": "Dragon Ball Xenoverse",
         "category": "PS3",
         "gender":"Accion",
@@ -1186,7 +1190,7 @@ const data = [
         "precioReventa": 2500
         },
         { 
-        "id": 3,  
+        "id": 300,  
         "title": "Dragon Ball Xenoverse + Todos los Dlc",
         "category": "PS3",
         "gender":"Accion",
@@ -1199,7 +1203,7 @@ const data = [
         "precioReventa": 2500
         },
         { 
-            "id": 3,  
+            "id": 301,  
             "title": "Destiny The Taken King",
             "category": "PS3",
             "gender":"Accion",
@@ -1212,7 +1216,7 @@ const data = [
             "precioReventa": 2500
             },
             { 
-            "id": 3,  
+            "id": 302,  
             "title": "Farcry 4",
             "category": "PS3",
             "gender":"Accion",
@@ -1224,7 +1228,6 @@ const data = [
             "Date": 17/9/2013,
             "precioReventa": 2500
             },
-        
     {
         id: 1,
         title: "TopSpin 2K25",
@@ -3530,8 +3533,8 @@ const data = [
         price: 45900,
         secondaryPrice: 45900,
         offerPrice: 19900,
-        image: AA,
-        imageDetails: AA,
+        image: DIRT_5,
+        imageDetails: DETAILS_DIRT_5,
         Date: 12 / 11 / 2020,
         precioReventa: 30,
     },
@@ -3545,8 +3548,8 @@ const data = [
         price: 45900,
         secondaryPrice: 45900,
         offerPrice: 12900,
-        image: AA,
-        imageDetails: AA,
+        image: DIRT_5,
+        imageDetails: DETAILS_DIRT_5,
         Date: 12 / 11 / 2020,
         precioReventa: 30,
     },
@@ -4460,8 +4463,8 @@ const data = [
         price: 53900,
         secondaryPrice: 53800,
         offerPrice: 32900,
-        image: GRAN_TURISMO_SPORT,
-        imageDetails: DETAILS_GRAN_TURISMO_SPORT,
+        image: GRAN_TURISMO_7,
+        imageDetails: DETAILS_GRAN_TURISMO_7,
         Date: 4 / 3 / 2022,
         precioReventa: 35,
     },
@@ -4670,8 +4673,8 @@ const data = [
         price: 53900,
         secondaryPrice: 53900,
         offerPrice: 29900,
-        image: AA,
-        imageDetails: AA,
+        image: SKULL_AND_BONES,
+        imageDetails: DETAILS_SKULL_AND_BONES,
         Date: 15 / 2 / 2024,
         precioReventa: 39,
     },
@@ -4750,6 +4753,7 @@ const data = [
         Date: 12 / 3 / 2024,
         precioReventa: 9,
     },
+    
 ];
 
 export default data;
