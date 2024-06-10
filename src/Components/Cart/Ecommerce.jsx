@@ -166,18 +166,18 @@ function Ecommerce({ item }) {
                         <div className='text-start'>
                           <span className='genderStyle'>{product.gender}</span>
                         </div>
-                        {product.offerPrice ? (
+                        {product.offerPrice != 0 ? (
                           <div className='row text-start'>
-                            <div className='col-12'>
+                            <div className='col-12 text-start'>
                               <p className="d-inline-block me-1 mb-0 oldPriceNotOffer">${product.price}</p>
                               <p className="d-inline-block ms-1 mb-0"><strong>${product.offerPrice}</strong></p>
-                              <span className='d-block'>3 o 6 cuotas sin interés</span>
+                              <span className='d-block  cuoteStyle'>Cuota simple 6x $ {Math.round(product.offerPrice * 1.38 / 6)}</span>
                             </div>
                           </div>
                         ) : (
                           <>
                             <p className="card-text text-start mb-0">${product.price}</p>
-                            <span className='d-block cuoteStyle'>3 o 6 cuotas sin interés</span>
+                            <span className='d-block cuoteStyle'>Cuota simple 6x $ {Math.round(product.price * 1.38 / 6)}</span>
                           </>
                         )}
                       </div>
