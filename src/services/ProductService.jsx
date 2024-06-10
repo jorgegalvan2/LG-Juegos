@@ -58,6 +58,33 @@ import WATCH_DOGS from '../assets/img/Catalogue/Playstation-3/WATCH_DOGS.jpeg';
 import WRC_4 from '../assets/img/Catalogue/Playstation-3/WRC_4.jpeg';
 import WRC_5 from '../assets/img/Catalogue/Playstation-3/WRC_5.jpeg';
 import W_2K17 from '../assets/img/Catalogue/Playstation-3/W_2K17.jpeg';
+import ASSASINS_3 from '../assets/img/Catalogue/Playstation-3/W_2K17.jpeg';
+import CRASH_NITRO_FUELED_SPYRO from '../assets/img/Catalogue/Playstation-3/CRASH_NITRO_FUELED_SPYRO.jpeg';
+import CRASH_TEAM_RUMBLE_BANDICOOT_4 from '../assets/img/Catalogue/Playstation-3/CRASH_TEAM_RUMBLE_BANDICOOT_4.jpeg';
+import DETINY_THE_TAKEN_KING from '../assets/img/Catalogue/Playstation-3/DETINY_THE_TAKEN_KING.jpeg';
+import DRAGON_BALL_XENOVERSE from '../assets/img/Catalogue/Playstation-3/DRAGON_BALL_XENOVERSE.jpeg';
+import TOM_CLANCYS_RAINBOWS_SIEGE from '../assets/img/Catalogue/Playstation-3/TOM_CLANCYS_RAINBBOWS_SIEGE.jpeg';
+import ULTRA_SREET_FIGHTER from '../assets/img/Catalogue/Playstation-3/ULTRA_SREET_FIGHTER.jpeg';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // PHOTOS PLAYSTATION 4 /////////////////////////////////////
 
@@ -217,6 +244,20 @@ import WRC_GENERATIONS from '../assets/img/Catalogue/Playstation_4_5/WRC_GENERAT
 import DIRT_5 from '../assets/img/Catalogue/Playstation_4_5/DIRT_5.jpeg';
 import SKULL_AND_BONES from '../assets/img/Catalogue/Playstation_4_5/SKULL_AND_BONES.jpeg';
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // DETAILS ///////////////////////////////////////////////////////////////////////////////
 
 import DETAILS_ASSASINS_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/3_ASSASINS.jpeg';
@@ -366,6 +407,9 @@ import DETAILS_WWE_2K23 from '../assets/img/Catalogue/imgDetails-PS4-PS5/WWE-2K2
 import DETAILS_WWE_2K24 from '../assets/img/Catalogue/imgDetails-PS4-PS5/WWE-2K24.jpeg';
 import DETAILS_DIRT_5 from '../assets/img/Catalogue/imgDetails-PS4-PS5/DIRT_5.jpeg';
 import DETAILS_SKULL_AND_BONES from '../assets/img/Catalogue/imgDetails-PS4-PS5/SKULL_AND_BONES.jpeg';
+import DETAILS_RE_2 from '../assets/img/Catalogue/imgDetails-PS4-PS5/RE_2.jpeg';
+import DETAILS_RE_5 from '../assets/img/Catalogue/imgDetails-PS4-PS5/RE_5.jpeg';
+
 
 import AA from "../assets/img/logo-lg.png";
 
@@ -690,8 +734,8 @@ const data = [
         "description":"Con Ultra Street Fighter IV para PS3! Sumérgete en el emocionante mundo de la lucha callejera con este juego de lucha legendario. Con gráficos mejorados y una jugabilidad fluida, cada combate es una experiencia épica llena de adrenalina.",
         "price": 3900,
         "offerPrice": 0 ,
-        "image": AA,
-        "imageDetails": AA,
+        "image": ULTRA_SREET_FIGHTER,
+        "imageDetails": ULTRA_SREET_FIGHTER,
         "Date": 18/4/2014,
         "precioReventa": 2900
         },
@@ -1184,8 +1228,8 @@ const data = [
         "description":"Nuevos mapas y una misteriosa ciudad son dos de las principales características de esta entrega. Con un giro en la historia, los jugadores serán protagonistas de impresionantes batallas en un entorno impredecible, con más de 400 artículos para personalizar un estilo de pelea como nunca antes.",
         "price": 6900,
         "offerPrice": 3900  ,
-        "image": AA,
-        "imageDetails": AA,
+        "image": DRAGON_BALL_XENOVERSE,
+        "imageDetails": DRAGON_BALL_XENOVERSE,
         "Date": 17/9/2013,
         "precioReventa": 2500
         },
@@ -1210,8 +1254,8 @@ const data = [
             "description":"Una edición legendaria que reúne incluye el juego base, las expansiones I y II y The Taken King. Los jugadores podrán disfrutar de impresionantes batallas con un potenciador de personajes que permite estar listo para el combate en cualquier momento y lugar.",
             "price": 6900,
             "offerPrice": 3900  ,
-            "image": AA,
-            "imageDetails": AA,
+            "image": DESTINY,
+            "imageDetails": DESTINY,
             "Date": 17/9/2013,
             "precioReventa": 2500
             },
@@ -1344,7 +1388,7 @@ const data = [
         secondaryPrice: 30900,
         offerPrice: 11900,
         image: RESIDENT_EVIL_2, //-------------------------------
-        imageDetails: AA,
+        imageDetails: DETAILS_RE_2,
         Date: 24 / 3 / 2023,
         precioReventa: 15,
     },
@@ -1359,7 +1403,7 @@ const data = [
         secondaryPrice: 30900,
         offerPrice: 11900,
         image: RESIDENT_EVIL_2, //-------------------------------
-        imageDetails: AA,
+        imageDetails: DETAILS_RE_5,
         Date: 24 / 3 / 2023,
         precioReventa: 15,
     },
@@ -1374,7 +1418,7 @@ const data = [
         secondaryPrice: 20900,
         offerPrice: 13900,
         image: RESIDENT_EVIL_5, //-----------------------------------
-        imageDetails: AA,
+        imageDetails: DETAILS_RE_5,
         Date: 28 / 6 / 2016,
         precioReventa: 13,
     },
@@ -1389,7 +1433,7 @@ const data = [
         secondaryPrice: 20900,
         offerPrice: 13900,
         image: RESIDENT_EVIL_5, //-----------------------------------
-        imageDetails: AA,
+        imageDetails: DETAILS_RE_5,
         Date: 28 / 6 / 2016,
         precioReventa: 10,
     },
@@ -3653,8 +3697,8 @@ const data = [
         price: 59900,
         secondaryPrice: 59900,
         offerPrice: 29900,
-        image: AA,
-        imageDetails: AA,
+        image: CRASH_TEAM_RUMBLE_BANDICOOT_4,
+        imageDetails: CRASH_TEAM_RUMBLE_BANDICOOT_4,
         Date: 20 / 12 / 2023,
         precioReventa: 30,
     },
@@ -3668,8 +3712,8 @@ const data = [
         price: 59900,
         secondaryPrice: 59900,
         offerPrice: 19900,
-        image: AA,
-        imageDetails: AA,
+        image: CRASH_TEAM_RUMBLE_BANDICOOT_4,
+        imageDetails: CRASH_TEAM_RUMBLE_BANDICOOT_4,
         Date: 20 / 12 / 2023,
         precioReventa: 30,
     },
@@ -4733,8 +4777,8 @@ const data = [
         price: 19900,
         secondaryPrice: 19900,
         offerPrice: 9900,
-        image: PAYDAY_3,
-        imageDetails: DETAILS_PAYDAY_3,
+        image: TOM_CLANCYS_RAINBOWS_SIEGE,
+        imageDetails: DETAILS_TOMCLANCY_RAINBOWS_SIEGE,
         Date: 12 / 3 / 2024,
         precioReventa: 9,
     },
@@ -4748,8 +4792,8 @@ const data = [
         price: 19900,
         secondaryPrice: 19900,
         offerPrice: 9900,
-        image: PAYDAY_3,
-        imageDetails: DETAILS_PAYDAY_3,
+        image: TOM_CLANCYS_RAINBOWS_SIEGE,
+        imageDetails: DETAILS_TOMCLANCY_RAINBOWS_SIEGE,
         Date: 12 / 3 / 2024,
         precioReventa: 9,
     },
