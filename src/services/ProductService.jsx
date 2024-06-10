@@ -58,14 +58,13 @@ import WATCH_DOGS from '../assets/img/Catalogue/Playstation-3/WATCH_DOGS.jpeg';
 import WRC_4 from '../assets/img/Catalogue/Playstation-3/WRC_4.jpeg';
 import WRC_5 from '../assets/img/Catalogue/Playstation-3/WRC_5.jpeg';
 import W_2K17 from '../assets/img/Catalogue/Playstation-3/W_2K17.jpeg';
-import ASSASINS_3 from '../assets/img/Catalogue/Playstation-3/W_2K17.jpeg';
+import ASSASINS_3_PS3 from '../assets/img/Catalogue/Playstation-3/W_2K17.jpeg';
 import CRASH_NITRO_FUELED_SPYRO from '../assets/img/Catalogue/Playstation-3/CRASH_NITRO_FUELED_SPYRO.jpeg';
 import CRASH_TEAM_RUMBLE_BANDICOOT_4 from '../assets/img/Catalogue/Playstation-3/CRASH_TEAM_RUMBLE_BANDICOOT_4.jpeg';
-import DETINY_THE_TAKEN_KING from '../assets/img/Catalogue/Playstation-3/DETINY_THE_TAKEN_KING.jpeg';
 import DRAGON_BALL_XENOVERSE from '../assets/img/Catalogue/Playstation-3/DRAGON_BALL_XENOVERSE.jpeg';
 import TOM_CLANCYS_RAINBOWS_SIEGE from '../assets/img/Catalogue/Playstation-3/TOM_CLANCYS_RAINBBOWS_SIEGE.jpeg';
-import ULTRA_SREET_FIGHTER from '../assets/img/Catalogue/Playstation-3/ULTRA_SREET_FIGHTER.jpeg';
-
+import ULTRA_SREET_FIGHTER from '../assets/img/Catalogue/Playstation-3/ULTRA_STREET_FIGHTER.jpeg';
+import DESTINY from '../assets/img/Catalogue/Playstation-3/DESTINY_THE_TAKEN_KING.jpeg';
 
 
 
