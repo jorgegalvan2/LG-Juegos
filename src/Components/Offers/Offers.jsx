@@ -59,7 +59,7 @@ function Offers({ item }) {
       {productsPs3.length > 0 && (
         <div className='col-11 col-lg-8 mb-5'>
             <div className='row justify-content-center'>
-              <h2 className='col-7 mb-0 fs-5'>OFERTAS - PS3</h2>  
+              <h2 className='col-7 mb-0 fs-5'>OFERTAS  PS3</h2>  
               <Link to="/ecommerce?category=PS3" className='col-5 m-auto'>VER TODOS...</Link>
             </div>
           <Carousel
@@ -76,7 +76,7 @@ function Offers({ item }) {
       )}
       <div className='col-11 col-lg-8 mb-5'>
         <div className='row justify-content-center'>
-          <h2 className='col-7 mb-0 fs-5'>OFERTAS PS4</h2>  
+          <h2 className='col-7 mb-0 fs-5'>OFERTAS  PS4</h2>  
           <Link to="/ecommerce?category=PS4" className='col-5 m-auto'>VER TODOS...</Link>
         </div>
         <Carousel
@@ -91,7 +91,7 @@ function Offers({ item }) {
       </div>
       <div className='col-11 col-lg-8'>
         <div className='row justify-content-center'>
-          <h2 className='col-7 mb-0 fs-5'>OFERTAS - PS5</h2>  
+          <h2 className='col-7 mb-0 fs-5'>OFERTAS  PS5</h2>  
           <Link to="/ecommerce?category=PS5" className='col-5 m-auto'>VER TODOS...</Link>
         </div>
         <Carousel

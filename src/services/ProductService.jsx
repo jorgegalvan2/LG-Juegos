@@ -58,14 +58,14 @@ import WATCH_DOGS from '../assets/img/Catalogue/Playstation-3/WATCH_DOGS.jpeg';
 import WRC_4 from '../assets/img/Catalogue/Playstation-3/WRC_4.jpeg';
 import WRC_5 from '../assets/img/Catalogue/Playstation-3/WRC_5.jpeg';
 import W_2K17 from '../assets/img/Catalogue/Playstation-3/W_2K17.jpeg';
-import ASSASINS_3_PS3 from '../assets/img/Catalogue/Playstation-3/W_2K17.jpeg';
+import ASSASINS_3_PS3 from '../assets/img/Catalogue/Playstation-3/3_ASSASINS.jpeg';
 import CRASH_NITRO_FUELED_SPYRO from '../assets/img/Catalogue/Playstation-3/CRASH_NITRO_FUELED_SPYRO.jpeg';
 import CRASH_TEAM_RUMBLE_BANDICOOT_4 from '../assets/img/Catalogue/Playstation-3/CRASH_TEAM_RUMBLE_BANDICOOT_4.jpeg';
 import DRAGON_BALL_XENOVERSE from '../assets/img/Catalogue/Playstation-3/DRAGON_BALL_XENOVERSE.jpeg';
+import XENOVERSE_DLC from '../assets/img/Catalogue/Playstation-3/XENOVERSE_DLC.jpeg';
 import TOM_CLANCYS_RAINBOWS_SIEGE from '../assets/img/Catalogue/Playstation-3/TOM_CLANCYS_RAINBBOWS_SIEGE.jpeg';
 import ULTRA_SREET_FIGHTER from '../assets/img/Catalogue/Playstation-3/ULTRA_STREET_FIGHTER.jpeg';
 import DESTINY from '../assets/img/Catalogue/Playstation-3/DESTINY_THE_TAKEN_KING.jpeg';
-
 
 
 
@@ -242,6 +242,14 @@ import WRC_10 from '../assets/img/Catalogue/Playstation_4_5/WRC_10.jpeg';
 import WRC_GENERATIONS from '../assets/img/Catalogue/Playstation_4_5/WRC_GENERATIONS.jpeg';
 import DIRT_5 from '../assets/img/Catalogue/Playstation_4_5/DIRT_5.jpeg';
 import SKULL_AND_BONES from '../assets/img/Catalogue/Playstation_4_5/SKULL_AND_BONES.jpeg';
+import ABSOLUTE_DEDUCTION_BUNDLE from '../assets/img/Catalogue/Playstation_4_5/ABSOLUTE_DEDUCTION_BUNDLE.jpeg';
+import AVATAR_FRONTIERS_OF_PANDORA from '../assets/img/Catalogue/Playstation_4_5/AVATAR_FRONTIERS_OF_PANDORA.jpeg';
+import CREED from '../assets/img/Catalogue/Playstation_4_5/CREED.jpeg';
+import F1_24 from '../assets/img/Catalogue/Playstation_4_5/F1_24.jpeg';
+import HORIZON from '../assets/img/Catalogue/Playstation_4_5/HORIZON.jpeg';
+import IT_TAKES_TWO from '../assets/img/Catalogue/Playstation_4_5/IT_TAKES_TWO.jpeg';
+import TEKKEN_8 from '../assets/img/Catalogue/Playstation_4_5/TEKKEN_8.jpeg';
+import WOLFENSTEIN from '../assets/img/Catalogue/Playstation_4_5/WOLFENSTEIN.jpeg';
 
 
 
@@ -408,6 +416,13 @@ import DETAILS_DIRT_5 from '../assets/img/Catalogue/imgDetails-PS4-PS5/DIRT_5.jp
 import DETAILS_SKULL_AND_BONES from '../assets/img/Catalogue/imgDetails-PS4-PS5/SKULL_AND_BONES.jpeg';
 import DETAILS_RE_2 from '../assets/img/Catalogue/imgDetails-PS4-PS5/RE_2.jpeg';
 import DETAILS_RE_5 from '../assets/img/Catalogue/imgDetails-PS4-PS5/RE_5.jpeg';
+import DETAILS_HORIZON_FORBIDDEN_WEST from '../assets/img/Catalogue/imgDetails-PS4-PS5/HORIZON_FORBIDDEN_WEST.jpeg';
+import DETAILS_WOLFENSTEIN from '../assets/img/Catalogue/imgDetails-PS4-PS5/WOLFENSTEIN.jpeg';
+import DETAILS_IT_TAKES_TWO from '../assets/img/Catalogue/imgDetails-PS4-PS5/IT_TAKES_TWO.jpeg';
+import DETAILS_F1_24 from '../assets/img/Catalogue/imgDetails-PS4-PS5/F1_24.jpeg';
+import DETAILS_ABSOLUTE_DEDUCTION_BUNDLE from '../assets/img/Catalogue/imgDetails-PS4-PS5/ABSOLUTE_DEDUCTION_BUNDLE.jpeg';
+import DETAILS_CREED from '../assets/img/Catalogue/imgDetails-PS4-PS5/CREED.jpeg';
+import DETAILS_AVATAR_FRONTIERS_OF_PANDORA from '../assets/img/Catalogue/imgDetails-PS4-PS5/AVATAR_FRONTIERS_OF_PANDORA.jpeg';
 
 
 import AA from "../assets/img/logo-lg.png";
@@ -424,7 +439,7 @@ const data = [
         "image": FIFA_19,
         "imageDetails": FIFA_19,
         "Date": 13/9/2018,
-        "precioReventa": 2900
+        "precioReventa": 3500
         },
     { 
         "id": 238,  
@@ -433,11 +448,11 @@ const data = [
         "gender":"Aventura",
         "description":"¡Descubre un mundo de infinitas aventuras y creatividad con Minecraft para PS3! Construye, explora y sobrevive en un universo pixelado lleno de posibilidades ilimitadas. ¡Crea tu propio mundo y hazlo tuyo hoy mismo!",
         "price": 6900,
-        "offerPrice": 4900 ,
+        "offerPrice": 3900 ,
         "image": MINECRAFT_PS3,
         "imageDetails": MINECRAFT_PS3,
         "Date": 17/12/2013,
-        "precioReventa": 2900
+        "precioReventa": 3500
         },
     { 
         "id": 239,  
@@ -450,7 +465,7 @@ const data = [
         "image": COD_BLACK_OPS_3,
         "imageDetails": COD_BLACK_OPS_3,
         "Date": 17/12/2013,
-        "precioReventa": 2900
+        "precioReventa": 3500
         },
     { 
         "id": 240,  
@@ -463,7 +478,7 @@ const data = [
         "image": CALL_OF_DUTY_BLACK_OPS_2,
         "imageDetails": CALL_OF_DUTY_BLACK_OPS_2,
         "Date": 12/11/2012,
-        "precioReventa": 2900
+        "precioReventa": 3500
         },
     { 
         "id": 241,  
@@ -944,7 +959,7 @@ const data = [
         "image": THE_LAST_OF_US,
         "imageDetails": THE_LAST_OF_US,
         "Date": 14/6/2013,
-        "precioReventa": 4500
+        "precioReventa": 3500
         },
     { 
         "id": 278,  
@@ -1022,7 +1037,7 @@ const data = [
         "image": RED_DEAD_REDEMPTION,
         "imageDetails": RED_DEAD_REDEMPTION,
         "Date": 18/5/2010,
-        "precioReventa": 6900
+        "precioReventa": 7900
         },
     { 
         "id": 284,  
@@ -1113,7 +1128,7 @@ const data = [
         "image": LITTLE_BIG_PLANET_3,
         "imageDetails": LITTLE_BIG_PLANET_3,
         "Date": 18/11/2014,
-        "precioReventa": 2500
+        "precioReventa": 2900
         },
     { 
         "id": 291,  
@@ -1191,7 +1206,7 @@ const data = [
         "image": GOD_OF_WAR_ASENSION,
         "imageDetails": GOD_OF_WAR_ASENSION,
         "Date": 17/9/2013,
-        "precioReventa": 2500
+        "precioReventa": 3500
         },
         { 
         "id": 297,  
@@ -1204,7 +1219,7 @@ const data = [
         "image": RESIDENT_EVIL_0,
         "imageDetails": RESIDENT_EVIL_0,
         "Date": 17/9/2013,
-        "precioReventa": 2500
+        "precioReventa": 3000
         },
         { 
         "id": 298,  
@@ -1240,10 +1255,10 @@ const data = [
         "description":"Nuevos mapas y una misteriosa ciudad son dos de las principales características de esta entrega. Con un giro en la historia, los jugadores serán protagonistas de impresionantes batallas en un entorno impredecible, con más de 400 artículos para personalizar un estilo de pelea como nunca antes.",
         "price": 6900,
         "offerPrice": 3900  ,
-        "image": AA,
-        "imageDetails": AA,
+        "image": XENOVERSE_DLC,
+        "imageDetails": XENOVERSE_DLC,
         "Date": 17/9/2013,
-        "precioReventa": 2500
+        "precioReventa": 3500
         },
         { 
             "id": 301,  
@@ -1256,7 +1271,7 @@ const data = [
             "image": DESTINY,
             "imageDetails": DESTINY,
             "Date": 17/9/2013,
-            "precioReventa": 2500
+            "precioReventa": 2900
             },
             { 
             "id": 302,  
@@ -1269,7 +1284,7 @@ const data = [
             "image": FARCRY_4,
             "imageDetails": FARCRY_4,
             "Date": 17/9/2013,
-            "precioReventa": 2500
+            "precioReventa": 2900
             },
     {
         id: 1,
@@ -1446,8 +1461,8 @@ const data = [
         price: 59900,
         secondaryPrice: 59000,
         offerPrice: 22900,
-        image: CRASH_NITRO,
-        imageDetails: DETAILS_CRASH_NITRO,
+        image: CRASH_NITRO_FUELED_SPYRO,
+        imageDetails: CRASH_NITRO_FUELED_SPYRO,
         Date: 24 / 3 / 2023,
         precioReventa: 35,
     },
@@ -1461,10 +1476,10 @@ const data = [
         price: 59900,
         secondaryPrice: 59000,
         offerPrice: 22900,
-        image: CRASH_NITRO,
-        imageDetails: DETAILS_CRASH_NITRO,
+        image: CRASH_NITRO_FUELED_SPYRO,
+        imageDetails: CRASH_NITRO_FUELED_SPYRO,
         Date: 24 / 3 / 2023,
-        precioReventa: 29,
+        precioReventa: 35,
     },
     {
         id: 14,
@@ -1494,7 +1509,7 @@ const data = [
         image: CRASH_NITRO,
         imageDetails: DETAILS_CRASH_NITRO,
         Date: 24 / 10 / 2019,
-        precioReventa: 21,
+        precioReventa: 25,
     },
     {
         id: 16,
@@ -1509,7 +1524,7 @@ const data = [
         image: CRASH_NITRO,
         imageDetails: DETAILS_CRASH_NITRO,
         Date: 24 / 10 / 2019,
-        precioReventa: 21,
+        precioReventa: 25,
     },
     {
         id: 17,
@@ -1599,7 +1614,7 @@ const data = [
         image: MK11_ULTIMATE,
         imageDetails: DETAILS_MK11_ULTIMATE,
         Date: 17 / 11 / 2020,
-        precioReventa: 25,
+        precioReventa: 35,
     },
     {
         id: 23,
@@ -1764,7 +1779,7 @@ const data = [
         image: W2K24,
         imageDetails: DETAILS_WWE_2K24,
         Date: 8 / 3 / 2024,
-        precioReventa: 25,
+        precioReventa: 35,
     },
     {
         id: 34,
@@ -2435,11 +2450,11 @@ const data = [
             "Una cadena de asesinatos rituales amenaza a Bright Falls, una comunidad de un pequeño pueblo rodeado por la naturaleza del Noroeste del Pacífico. Saga Anderson, una hábil agente del FBI con reputación de resolver casos imposibles, llega para investigar. El caso de Anderson empeora rápidamente hasta convertirse en una pesadilla cuando descubre las páginas de una historia de terror que se vuelve realidad a su alrededor.",
         price: 49900,
         secondaryPrice: 49900,
-        offerPrice: 35900,
+        offerPrice: 45900,
         image: ALAN_WAKE_2,
         imageDetails: DETAILS_ALANWAKE2,
         Date: 27 / 10 / 2023,
-        precioReventa: 40,
+        precioReventa: 45,
     },
     {
         id: 80,
@@ -2511,8 +2526,8 @@ const data = [
         price: 12900,
         secondaryPrice: 11900,
         offerPrice: 9000,
-        image: THE_CREW_MOTORFEST,
-        imageDetails: DETAILS_THE_CREW_MOTORFEST,
+        image: PLANTS_VS_ZOMBIES_GARDEN_WARFARE,
+        imageDetails: PLANTS_VS_ZOMBIES_GARDEN_WARFARE,
         Date: 23 / 2 / 2016,
         precioReventa: 12,
     },
@@ -4071,8 +4086,8 @@ const data = [
         price: 76800,
         secondaryPrice: 75800,
         offerPrice: 39900,
-        image: GOTHAM_KNIGHTS,
-        imageDetails: DETAILS_GOTHAM_KNIGHTS,
+        image: ASSASINS_3_PS3,
+        imageDetails: DETAILS_ASSASINS_3,
         Date: 18 / 11 / 2020,
         precioReventa: 40,
     },
@@ -4086,7 +4101,7 @@ const data = [
         price: 79800,
         secondaryPrice: 79800,
         offerPrice: 29900,
-        image: ASSASINS_3,
+        image: ASSASINS_3_PS3,
         imageDetails: DETAILS_ASSASINS_3,
         Date: 18 / 11 / 2020,
         precioReventa: 40,
@@ -4566,7 +4581,7 @@ const data = [
         price: 30900,
         secondaryPrice: 30800,
         offerPrice: 19900,
-        image: GTA_SAN_ANDREAS,
+        image: GTA_SAN_ANDREAS_PS3,
         imageDetails: DETAILS_GTA_SAN_ANDRAS,
         Date: 5 / 12 / 2015,
         precioReventa: 35,
@@ -4581,7 +4596,7 @@ const data = [
         price: 30900,
         secondaryPrice: 30800,
         offerPrice: 19900,
-        image: GTA_SAN_ANDREAS,
+        image: GTA_SAN_ANDREAS_PS3,
         imageDetails: DETAILS_GTA_SAN_ANDRAS,
         Date: 5 / 12 / 2015,
         precioReventa: 35,
@@ -4796,6 +4811,247 @@ const data = [
         Date: 12 / 3 / 2024,
         precioReventa: 9,
     },
+    {
+        id: 500,
+        title: "Grand Theft Auto V",
+        category: "PS4",
+        gender: "Accion",
+        description:
+            "Un joven estafador callejero, un ladrón de bancos retirado y un psicópata aterrador se ven involucrados con lo peor y más desquiciado del mundo criminal, del gobierno de los EE. UU. y de la industria del espectáculo, y tendrán que llevar a cabo una serie de peligrosos golpes para sobrevivir en una ciudad implacable en la que no pueden confiar en nadie. Y mucho menos los unos en los otros.",
+        price: 19900,
+        secondaryPrice: 19900,
+        offerPrice: 15900,
+        image: GTA_V,
+        imageDetails: DETAILS_GTA_V,
+        Date: 15 / 6 / 2022,
+        precioReventa: 12,
+    },
+    {
+        id: 501,
+        title: "Grand Theft Auto V",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "Un joven estafador callejero, un ladrón de bancos retirado y un psicópata aterrador se ven involucrados con lo peor y más desquiciado del mundo criminal, del gobierno de los EE. UU. y de la industria del espectáculo, y tendrán que llevar a cabo una serie de peligrosos golpes para sobrevivir en una ciudad implacable en la que no pueden confiar en nadie. Y mucho menos los unos en los otros.",
+        price: 19900,
+        secondaryPrice: 19900,
+        offerPrice: 15900,
+        image: GTA_V,
+        imageDetails: DETAILS_GTA_V,
+        Date: 15 / 6 / 2022,
+        precioReventa: 12,
+    },
+    {
+        id: 502,
+        title: "Wolfenstein: Youngblood - Deluxe Edition",
+        category: "PS4",
+        gender: "Accion",
+        description:
+            "Diecinueve años después de los acontecimientos de Wolfenstein II, BJ Blazkowicz ha desaparecido tras una misión en el París ocupado por los nazis. Ahora, después de unos cuantos años de entrenamiento de su aguerrido padre, las hijas gemelas de B. J., Jess y Soph Blazkowicz, deben entrar en acción.",
+        price: 29900,
+        secondaryPrice: 29900,
+        offerPrice: 15900,
+        image: WOLFENSTEIN,
+        imageDetails: DETAILS_WOLFENSTEIN,
+        Date: 26 / 7 / 2019,
+        precioReventa: 12,
+    },
+    {
+        id: 503,
+        title: "Wolfenstein: Youngblood - Deluxe Edition",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "Diecinueve años después de los acontecimientos de Wolfenstein II, BJ Blazkowicz ha desaparecido tras una misión en el París ocupado por los nazis. Ahora, después de unos cuantos años de entrenamiento de su aguerrido padre, las hijas gemelas de B. J., Jess y Soph Blazkowicz, deben entrar en acción.",
+        price: 15900,
+        secondaryPrice: 15900,
+        offerPrice: 0,
+        image: WOLFENSTEIN,
+        imageDetails: DETAILS_WOLFENSTEIN,
+        Date: 26 / 7 / 2019,
+        precioReventa: 12,
+    },
+    {
+        id: 504,
+        title: "Creed Rise to Glory",
+        category: "PS4",
+        gender: "Pelea",
+        description:
+            "Sé el protagonista de vibrantes combates de boxeo mezclados con la emoción cinemática de una película taquillera en Creed: Rise to Glory™. Lucha y forja tu leyenda más allá del ring como Adonis Creed. Enfréntate cara a cara con los mejores oponentes del mundo en una experiencia de boxeo en la que puedes entrenar, pelear y ganar como un Creed.",
+        price: 19900,
+        secondaryPrice: 19900,
+        offerPrice: 12900,
+        image: CREED,
+        imageDetails: DETAILS_CREED,
+        Date: 25 / 9 / 2018,
+        precioReventa: 10,
+    },
+    {
+        id: 505,
+        title: "Creed Rise to Glory",
+        category: "PS5",
+        gender: "Pelea",
+        description:
+            "Sé el protagonista de vibrantes combates de boxeo mezclados con la emoción cinemática de una película taquillera en Creed: Rise to Glory™. Lucha y forja tu leyenda más allá del ring como Adonis Creed. Enfréntate cara a cara con los mejores oponentes del mundo en una experiencia de boxeo en la que puedes entrenar, pelear y ganar como un Creed.",
+        price: 19900,
+        secondaryPrice: 19900,
+        offerPrice: 12900,
+        image: CREED,
+        imageDetails: DETAILS_CREED,
+        Date: 25 / 9 / 2018,
+        precioReventa: 10,
+    },
+    {
+        id: 506,
+        title: "Horizon Forbidden West",
+        category: "PS4",
+        gender: "Accion",
+        description:
+            "Únete a Aloy mientras desafía el Oeste Prohibido, una frontera majestuosa, aunque peligrosa, en la que se ocultan nuevas y misteriosas amenazas.",
+        price: 49900,
+        secondaryPrice: 49900,
+        offerPrice: 35900,
+        image: HORIZON,
+        imageDetails: DETAILS_HORIZON_FORBIDDEN_WEST,
+        Date: 18 / 2 / 2022,
+        precioReventa: 30,
+    },
+    {
+        id: 507,
+        title: "Horizon Forbidden West",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "Únete a Aloy mientras desafía el Oeste Prohibido, una frontera majestuosa, aunque peligrosa, en la que se ocultan nuevas y misteriosas amenazas.",
+        price: 49900,
+        secondaryPrice: 49900,
+        offerPrice: 35900,
+        image: HORIZON,
+        imageDetails: DETAILS_HORIZON_FORBIDDEN_WEST,
+        Date: 18 / 2 / 2022,
+        precioReventa: 30,
+    },
+    {
+        id: 508,
+        title: "It Takes Two",
+        category: "PS4",
+        gender: "Unico",
+        description:
+            "Emprende el viaje más alocado de tu vida en It Takes Two, una aventura de plataformas que combina varios géneros, creada específicamente para el modo cooperativo. Invita a un amigo a jugar gratis con el Pase de amigo** y a trabajar en conjunto para afrontar una gran variedad de desafíos de juego alegremente disruptivos.",
+        price: 29900,
+        secondaryPrice: 29900,
+        offerPrice: 20900,
+        image: IT_TAKES_TWO,
+        imageDetails: DETAILS_IT_TAKES_TWO,
+        Date: 26 / 3 / 2021,
+        precioReventa: 20,
+    },
+    {
+        id: 509,
+        title: "It Takes Two",
+        category: "PS5",
+        gender: "Unico",
+        description:
+            "Emprende el viaje más alocado de tu vida en It Takes Two, una aventura de plataformas que combina varios géneros, creada específicamente para el modo cooperativo. Invita a un amigo a jugar gratis con el Pase de amigo** y a trabajar en conjunto para afrontar una gran variedad de desafíos de juego alegremente disruptivos.",
+        price: 29900,
+        secondaryPrice: 29900,
+        offerPrice: 20900,
+        image: IT_TAKES_TWO,
+        imageDetails: DETAILS_IT_TAKES_TWO,
+        Date: 26 / 3 / 2021,
+        precioReventa: 20,
+    },
+    {
+        id: 510,
+        title: "Sherlock Holmes - Paquete de Deducción Absoluta",
+        category: "PS4",
+        gender: "Accion",
+        description:
+            "Emplea tu mente para investigar y tu voluntad parar resistirte a la locura.¡Prueba dos facetas distintas del trabajo de detective! En el papel del joven Sherlock Holmes, emplea una lógica de acero, tus poderes de deducción y un conocimiento enciclopédico de las ciencias forenses para resolver hasta los crímenes más complicados. Como Charles Winfield Reed, un marino de la armada estadounidense y veterano de la I Guerra Mundial devenido en detective privado, resuelve el misterio de una extraña inundación y enfréntate a la locura que emana de otros mundos.",
+        price: 39900,
+        secondaryPrice: 39900,
+        offerPrice: 30900,
+        image: ABSOLUTE_DEDUCTION_BUNDLE,
+        imageDetails: DETAILS_ABSOLUTE_DEDUCTION_BUNDLE,
+        Date: 21 / 7 / 2022,
+        precioReventa: 30,
+    },
+    {
+        id: 511,
+        title: "Sherlock Holmes - Paquete de Deducción Absoluta",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "Emplea tu mente para investigar y tu voluntad parar resistirte a la locura.¡Prueba dos facetas distintas del trabajo de detective! En el papel del joven Sherlock Holmes, emplea una lógica de acero, tus poderes de deducción y un conocimiento enciclopédico de las ciencias forenses para resolver hasta los crímenes más complicados. Como Charles Winfield Reed, un marino de la armada estadounidense y veterano de la I Guerra Mundial devenido en detective privado, resuelve el misterio de una extraña inundación y enfréntate a la locura que emana de otros mundos.",
+        price: 39900,
+        secondaryPrice: 39900,
+        offerPrice: 30900,
+        image: ABSOLUTE_DEDUCTION_BUNDLE,
+        imageDetails: DETAILS_ABSOLUTE_DEDUCTION_BUNDLE,
+        Date: 21 / 7 / 2022,
+        precioReventa: 30,
+    },
+    {
+        id: 512,
+        title: "F1 24",
+        category: "PS4",
+        gender: "Carreras",
+        description:
+            "Sé una de las 20 personas al volante con EA SPORTS™ F1® 24, el videojuego oficial del 2024 FIA Formula One World Championship™. Corónate con la victoria en busca de una carrera profesional en la F1® que defina tu legado, la primera gran actualización a este modo de juego desde 2016. Maneja como las grandes estrellas y siéntete en armonía con el coche gracias al nuevo sistema de EA SPORTS Dynamic Handling. Enciende tu pasión y conecta con tus equipos y pilotos favoritos mientras demuestras que tienes lo necesario para ganar en nuevos modos y experiencias.",
+        price: 45900,
+        secondaryPrice: 45900,
+        offerPrice: 0,
+        image: F1_24,
+        imageDetails: DETAILS_F1_24,
+        Date: 31 / 5 / 2024,
+        precioReventa: 35,
+    },
+    {
+        id: 513,
+        title: "F1 24",
+        category: "PS5",
+        gender: "Carreras",
+        description:
+            "Sé una de las 20 personas al volante con EA SPORTS™ F1® 24, el videojuego oficial del 2024 FIA Formula One World Championship™. Corónate con la victoria en busca de una carrera profesional en la F1® que defina tu legado, la primera gran actualización a este modo de juego desde 2016. Maneja como las grandes estrellas y siéntete en armonía con el coche gracias al nuevo sistema de EA SPORTS Dynamic Handling. Enciende tu pasión y conecta con tus equipos y pilotos favoritos mientras demuestras que tienes lo necesario para ganar en nuevos modos y experiencias.",
+        price: 45900,
+        secondaryPrice: 45900,
+        offerPrice: 0,
+        image: F1_24,
+        imageDetails: DETAILS_F1_24,
+        Date: 31 / 5 / 2024,
+        precioReventa: 35,
+    },
+    {
+        id: 514,
+        title: "Tekken 8",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "32 luchadores para una nueva generación .Diseños de personajes completamente nuevos. Modelos sofisticados y altamente detallados creados desde cero, y gráficos de alta fidelidad que sobrepasan los límites del hardware de última generación y añaden realismo a los emblemáticos combates de TEKKEN. Entornos vivos y escenarios destructibles se combinan para generar una extraordinaria sensación de inmersión y dar lugar a la experiencia de juego definitiva.",
+        price: 53900,
+        secondaryPrice: 53900,
+        offerPrice: 49900,
+        image: TEKKEN_8,
+        imageDetails: TEKKEN_8,
+        Date: 25 / 1 / 2024,
+        precioReventa: 45,
+    },
+    {
+        id: 515,
+        title: "Avatar: Frontiers of Pandora",
+        category: "PS5",
+        gender: "Unico",
+        description:
+            "Avatar: Frontiers of Pandora™ es un juego de acción y aventura en primera persona que se desarrolla en la inexplorada Frontera Occidental de Pandora. Eres na'vi, la corporación militar humana conocida como la RDA te secuestró y te ha entrenado y moldeado para cumplir con sus objetivos. Quince años más tarde, vuelves a ser libre, pero sientes que te encuentras entre extraños en tu propio mundo. Vuelve a conectar con tu herencia perdida, descubre qué significa realmente ser na'vi y únete a otros clanes para proteger Pandora de la RDA.",
+        price: 53900,
+        secondaryPrice: 53900,
+        offerPrice: 49900,
+        image: AVATAR_FRONTIERS_OF_PANDORA,
+        imageDetails: DETAILS_AVATAR_FRONTIERS_OF_PANDORA,
+        Date: 7 / 12 / 2023,
+        precioReventa: 45,
+    },
+
     
 ];
 
