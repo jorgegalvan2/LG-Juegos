@@ -50,7 +50,7 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
 }));
 
 const drawerWidth = 240;
-const navItems = ['PS3', 'PS4', 'PS5', 'PSPLUS', 'Ofertas'];
+const navItems = ['PS3', 'PS4', 'PS5'];
 
 export default function NavBar() {
 
@@ -180,7 +180,6 @@ export default function NavBar() {
         <li className='list-group-item'><Link className='text-dark' to="/ecommerce?category=PS3" onClick={() => setMenuSidebar(false)}>Playstation 3</Link></li>
         <li className='list-group-item'><Link className='text-dark' to="/ecommerce?category=PS4" onClick={() => setMenuSidebar(false)}>Playstation 4</Link></li>
         <li className='list-group-item'><Link className='text-dark' to="/ecommerce?category=PS5" onClick={() => setMenuSidebar(false)}>Playstation 5</Link></li>
-        <li className='list-group-item'><Link className='text-dark' to="/ecommerce?category=Offers" onClick={() => setMenuSidebar(false)}>Ofertas</Link></li>
       </ul>
     
     </Sidebar>
