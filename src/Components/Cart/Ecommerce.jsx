@@ -41,6 +41,7 @@ function Ecommerce({ item }) {
     if (category) {
       setSelectedCategory(category);
     }
+
   }, [location, initialCategory]);
 
   const filterProducts = () => {
@@ -96,7 +97,7 @@ function Ecommerce({ item }) {
 
   return (
     <>
-      {queryParams.size !== 0 && <Logo />}
+      {queryParams.category !== 'PS3' || queryParams.category !== 'PS4' || queryParams.category !== 'PS5' && <Logo />}
 
       <div className="container-fluid mt-5 pt-5">
         <div className="row justify-content-center">

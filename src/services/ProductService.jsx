@@ -1,12 +1,24 @@
+import ASSASINS_3_PS3 from '../assets/img/Catalogue/Playstation-3/3_ASSASINS.jpeg';
+import ALIEN_ISOLATION from '../assets/img/Catalogue/Playstation-3/ALIEN_ISOLATION.jpeg';
+import ASSASINS_CREED_BLACKFLAG from '../assets/img/Catalogue/Playstation-3/ASSASINS_CREED_BLACKFLAG.jpeg';
 import ASSASINS_CREED_ROGUE from '../assets/img/Catalogue/Playstation-3/ASSASINS_CREED_ROGUE.jpeg';
+import ASSASINS_CREED_ROGUE_REMASTERED from '../assets/img/Catalogue/Playstation-3/ASSASINS_CREED_ROGUE_REMASTERED.jpeg';
+import ATTACK_ON_TITAN from '../assets/img/Catalogue/Playstation-3/ATTACK_ON_TITAN.jpeg';
 import BATMAN_3_BEYOND_GOTHAM from '../assets/img/Catalogue/Playstation-3/BATMAN_3_BEYOND_GOTHAM.jpeg';
 import BATTLEFIELD_4_PS3 from '../assets/img/Catalogue/Playstation-3/BATTLEFIELD_4.jpeg';
+import BRAVE from '../assets/img/Catalogue/Playstation-3/BRAVE.jpeg';
+import CALL_OF_DUTY_ADVANCED_WARFARE from '../assets/img/Catalogue/Playstation-3/CALL_OF_DUTY_ADVANCED_WARFARE.jpeg';
 import CALL_OF_DUTY_BLACK_OPS from '../assets/img/Catalogue/Playstation-3/CALL_OF_DUTY_BLACK_OPS.jpeg';
 import CALL_OF_DUTY_BLACK_OPS_2 from '../assets/img/Catalogue/Playstation-3/CALL_OF_DUTY_BLACK_OPS_2.jpeg';
 import CALL_OF_DUTY_BLACK_OPS_3 from '../assets/img/Catalogue/Playstation-3/CALL_OF_DUTY_BLACK_OPS_3.jpeg';
+import CALL_OF_DUTY_GHOSTS from '../assets/img/Catalogue/Playstation-3/CALL_OF_DUTY_GHOSTS.jpeg';
 import CARS_3_DRIVEN_TO_WIN_PS3 from '../assets/img/Catalogue/Playstation-3/CARS_3_DRIVEN_TO_WIN.jpeg';
+import CRASH_NITRO_FUELED_SPYRO from '../assets/img/Catalogue/Playstation-3/CRASH_NITRO_FUELED_SPYRO.jpeg';
+import CRASH_TEAM_RUMBLE_BANDICOOT_4 from '../assets/img/Catalogue/Playstation-3/CRASH_TEAM_RUMBLE_BANDICOOT_4.jpeg';
+import DESTINY from '../assets/img/Catalogue/Playstation-3/DESTINY_THE_TAKEN_KING.jpeg';
 import DIRT_3 from '../assets/img/Catalogue/Playstation-3/DIRT_3.jpeg';
 import DRAGON_AGE_INQUISITION_PS3 from '../assets/img/Catalogue/Playstation-3/DRAGON_AGE_INQUISITION.jpeg';
+import DRAGON_BALL_XENOVERSE from '../assets/img/Catalogue/Playstation-3/DRAGON_BALL_XENOVERSE.jpeg';
 import F1_2014 from '../assets/img/Catalogue/Playstation-3/F1_2014.jpeg';
 import FARMING_SIMULATOR_15 from '../assets/img/Catalogue/Playstation-3/FARMING_SIMULATOR_15.jpeg';
 import FIFA_18 from '../assets/img/Catalogue/Playstation-3/FIFA_18.jpeg';
@@ -24,8 +36,11 @@ import JUST_DANCE_2017 from '../assets/img/Catalogue/Playstation-3/JUST_DANCE_20
 import JUST_DANCE_2018 from '../assets/img/Catalogue/Playstation-3/JUST_DANCE_2018.jpeg';
 import LEGO_HARRY_POTTER from '../assets/img/Catalogue/Playstation-3/LEGO_HARRY_POTTER.jpeg';
 import LEGO_JURASSIC_WORLD from '../assets/img/Catalogue/Playstation-3/LEGO_JURASSIC_WORLD.jpeg';
+import LEGO_MARVEL_SUPERHEROES from '../assets/img/Catalogue/Playstation-3/LEGO_MARVEL_SUPERHEROES.jpeg';
+import LEGO_STAR_WARS_PS3 from '../assets/img/Catalogue/Playstation-3/LEGO_STAR_WARS.jpeg';
 import LEGO_VENGADORES from '../assets/img/Catalogue/Playstation-3/LEGO_VENGADORES.jpeg';
 import LITTLE_BIG_PLANET_3 from '../assets/img/Catalogue/Playstation-3/LITTLE_BIG_PLANET_3.jpeg';
+import MAX_PAYNE_3 from '../assets/img/Catalogue/Playstation-3/MAX_PAYNE_3.jpeg';
 import METAL_GEAR_SOLID_THE_PANTOM_PAIN from '../assets/img/Catalogue/Playstation-3/METAL_GEAR_SOLID_THE_PANTOM_PAIN.jpeg';
 import METAL_GEAR_SOLID_V from '../assets/img/Catalogue/Playstation-3/METAL_GEAR_SOLID_V.jpeg';
 import MINECRAFT_PS3 from '../assets/img/Catalogue/Playstation-3/MINECRAFT.jpeg';
@@ -52,20 +67,15 @@ import SONIC_GENERATIONS from '../assets/img/Catalogue/Playstation-3/SONIC_GENER
 import STREET_FIGHTER from '../assets/img/Catalogue/Playstation-3/STREET_FIGHTER.jpeg';
 import THE_EVIL_WITHIN from '../assets/img/Catalogue/Playstation-3/THE_EVIL_WITHIN.jpeg';
 import THE_LAST_OF_US from '../assets/img/Catalogue/Playstation-3/THE_LAST_OF_US.jpeg';
+import TOM_CLANCYS_RAINBBOWS_SIEGE from '../assets/img/Catalogue/Playstation-3/TOM_CLANCYS_RAINBBOWS_SIEGE.jpeg';
 import ULTIMATE_ACTION_TRIPLE_PACK from '../assets/img/Catalogue/Playstation-3/ULTIMATE_ACTION_TRIPLE_PACK.jpeg';
+import ULTRA_STREET_FIGHTER from '../assets/img/Catalogue/Playstation-3/ULTRA_STREET_FIGHTER.jpeg';
 import UNCHARTED_3_DRAKE_DECEPTION from '../assets/img/Catalogue/Playstation-3/UNCHARTED_3_DRAKE_DECEPTION.jpeg';
 import WATCH_DOGS from '../assets/img/Catalogue/Playstation-3/WATCH_DOGS.jpeg';
 import WRC_4 from '../assets/img/Catalogue/Playstation-3/WRC_4.jpeg';
 import WRC_5 from '../assets/img/Catalogue/Playstation-3/WRC_5.jpeg';
 import W_2K17 from '../assets/img/Catalogue/Playstation-3/W_2K17.jpeg';
-import ASSASINS_3_PS3 from '../assets/img/Catalogue/Playstation-3/3_ASSASINS.jpeg';
-import CRASH_NITRO_FUELED_SPYRO from '../assets/img/Catalogue/Playstation-3/CRASH_NITRO_FUELED_SPYRO.jpeg';
-import CRASH_TEAM_RUMBLE_BANDICOOT_4 from '../assets/img/Catalogue/Playstation-3/CRASH_TEAM_RUMBLE_BANDICOOT_4.jpeg';
-import DRAGON_BALL_XENOVERSE from '../assets/img/Catalogue/Playstation-3/DRAGON_BALL_XENOVERSE.jpeg';
 import XENOVERSE_DLC from '../assets/img/Catalogue/Playstation-3/XENOVERSE_DLC.jpeg';
-import TOM_CLANCYS_RAINBOWS_SIEGE from '../assets/img/Catalogue/Playstation-3/TOM_CLANCYS_RAINBBOWS_SIEGE.jpeg';
-import ULTRA_SREET_FIGHTER from '../assets/img/Catalogue/Playstation-3/ULTRA_STREET_FIGHTER.jpeg';
-import DESTINY from '../assets/img/Catalogue/Playstation-3/DESTINY_THE_TAKEN_KING.jpeg';
 
 
 
@@ -618,8 +628,8 @@ const data = [
         "description":"¡Prepárate para vivir la experiencia definitiva de la guerra moderna con Battlefield 4 para PS3! Sumérgete en intensos combates multijugador y emocionantes campañas para un jugador en este épico shooter de acción en primera persona.",
         "price": 5900,
         "offerPrice": 3900 ,
-        "image": BATTLEFIELD_4,
-        "imageDetails": BATTLEFIELD_4,
+        "image": BATTLEFIELD_4_PS3,
+        "imageDetails": BATTLEFIELD_4_PS3,
         "Date": 18/2/2014,
         "precioReventa": 3900
         },
@@ -748,8 +758,8 @@ const data = [
         "description":"Con Ultra Street Fighter IV para PS3! Sumérgete en el emocionante mundo de la lucha callejera con este juego de lucha legendario. Con gráficos mejorados y una jugabilidad fluida, cada combate es una experiencia épica llena de adrenalina.",
         "price": 3900,
         "offerPrice": 0 ,
-        "image": ULTRA_SREET_FIGHTER,
-        "imageDetails": ULTRA_SREET_FIGHTER,
+        "image": ULTRA_STREET_FIGHTER,
+        "imageDetails": ULTRA_STREET_FIGHTER,
         "Date": 18/4/2014,
         "precioReventa": 2900
         },
@@ -1190,8 +1200,8 @@ const data = [
         "description":"¡Prepárate para la aventura definitiva en Los Santos con GTA V para PS3! Explora un vasto mundo abierto lleno de acción, misiones emocionantes y personajes inolvidables. ¡Descubre por qué este juego es un clásico imperdible!",
         "price": 5900,
         "offerPrice": 3900  ,
-        "image": GTA_V,
-        "imageDetails": GTA_V,
+        "image": GTA_V_PS3,
+        "imageDetails": GTA_V_PS3,
         "Date": 17/9/2013,
         "precioReventa": 3000
         },
@@ -1286,7 +1296,164 @@ const data = [
             "Date": 17/9/2013,
             "precioReventa": 2900
             },
-    {
+            { 
+            "id": 303,  
+            "title": "Alien Isolation",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"En una atmósfera que incluye temor, peligro y un alienígena impredecible, los jugadores encarnan el papel de Amanda, quien lucha por sobrevivir y cumplir su objetivo de saber cuál es la verdad detrás de la desaparición de su madre.",
+            "price": 6900,
+            "offerPrice": 4900  ,
+            "image": ALIEN_ISOLATION,
+            "imageDetails": ALIEN_ISOLATION,
+            "Date": 6/10/2014,
+            "precioReventa": 4500
+            },
+            { 
+            "id": 304,  
+            "title": "Assassins Creed Rouge",
+            "category": "PS3",
+            "gender":"Aventura",
+            "description":"¡Sumérgete en la oscuridad y abraza tu destino con Assassin’s Creed Rogue para PS3! Descubre un mundo de intriga, traición y acción en esta épica aventura de mundo abierto.",
+            "price": 6900,
+            "offerPrice": 3500  ,
+            "image": ASSASINS_CREED_ROGUE,
+            "imageDetails": ASSASINS_CREED_ROGUE,
+            "Date": 19/1/2014,
+            "precioReventa": 3000
+            },
+            { 
+            "id": 305,  
+            "title": "Assassins Creed IV Black Flag",
+            "category": "PS3",
+            "gender":"Aventura",
+            "description":"¡Zarpa hacia una aventura épica con Assassin’s Creed IV: Black Flag para PS3! Explora el Caribe como un temido pirata, lucha en batallas navales emocionantes y descubre tesoros ocultos en islas exóticas. Sumérgete en una historia épica de traición y venganza. Conviértete en el capitán de tu propio barco y domina los mares.",
+            "price": 6900,
+            "offerPrice": 3900  ,
+            "image": ASSASINS_CREED_BLACKFLAG,
+            "imageDetails": ASSASINS_CREED_BLACKFLAG,
+            "Date": 13/11/2014,
+            "precioReventa": 3500
+            },
+            { 
+            "id": 306,  
+            "title": "Attack on Titan",
+            "category": "PS3",
+            "gender":"Aventura",
+            "description":"Una batalla en la que Eren y sus compañeros tendrán que hacer frente a los Titans, devoradores de humanos. Experimenta el mundo del anime y adéntrate de lleno en la historia.",
+            "price": 12900,
+            "offerPrice": 8900  ,
+            "image": ATTACK_ON_TITAN,
+            "imageDetails": ATTACK_ON_TITAN,
+            "Date": 19/1/2016,
+            "precioReventa": 8000
+            },
+            { 
+            "id": 307,  
+            "title": "Brave",
+            "category": "PS3",
+            "gender":"Aventura",
+            "description":"Esta aventura combina escenarios impresionantes con energía mágica para terminar con una plaga que amenaza al planeta. En el papel de Mérida, la mejor arquera del reino, los jugadores deberán explorar un mundo que esconde enemigos para derrotar con los poderes del fuego, hielo, viento y tierra.",
+            "price": 9900,
+            "offerPrice": 7900  ,
+            "image": BRAVE,
+            "imageDetails": BRAVE,
+            "Date": 19/6/2012,
+            "precioReventa": 7000
+            },
+            
+            { 
+                "id": 308,  
+                "title": "Call of Duty: Advanced Warfare",
+                "category": "PS3",
+                "gender":"Accion",
+                "description":"¡Prepárate para una experiencia de combate futurista con Call of Duty Advanced Warfare para PS3 Digital! Domina el campo de batalla con armas avanzadas, gráficos impresionantes y un modo multijugador emocionante.",
+                "price": 7900,
+                "offerPrice": 3900  ,
+                "image": CALL_OF_DUTY_ADVANCED_WARFARE,
+                "imageDetails": CALL_OF_DUTY_ADVANCED_WARFARE,
+                "Date": 3/11/2014,
+                "precioReventa": 3500
+            },
+        { 
+            "id": 309,  
+            "title": "Call of DutyGhost",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"¡Prepárate para la batalla con Call of Duty Ghosts para PS3 Digital! Sumérgete en un mundo de combate intenso y emocionante. Domina el campo de batalla con armas poderosas y modos de juego emocionantes. Descarga ahora y únete a la acción.",
+            "price": 7900,
+            "offerPrice": 3900  ,
+            "image": CALL_OF_DUTY_GHOSTS,
+            "imageDetails": CALL_OF_DUTY_GHOSTS,
+            "Date": 5/11/2013,
+            "precioReventa": 3500
+        },
+        { 
+            "id": 310,  
+            "title": "Formula 1",
+            "category": "PS3",
+            "gender":"Carreras",
+            "description":"¡Prepárate para sentir la emoción de la Fórmula 1 en tus manos con F1 2014 para PS3! Sumérgete en el mundo de las carreras de alta velocidad con gráficos impresionantes y una jugabilidad increíblemente realista. Conduce por los circuitos más emblemáticos del mundo mientras compites contra los mejores pilotos del deporte.",
+            "price": 7900,
+            "offerPrice": 3900  ,
+            "image": F1_2014,
+            "imageDetails": F1_2014,
+            "Date": 17/10/2014,
+            "precioReventa": 3500
+        },
+        { 
+            "id": 311,  
+            "title": "Lego Star Wars The Force Awakens",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"LEGO Star Wars: The Force Awakens presenta una nueva mecánica de juego con el sistema mejorado multiconstrucción para que los jugadores elijan entre múltiples opciones de construcción para avanzar en el juego, o participen en nuevas batallas blaster intensas por primera vez, usando el entorno para rechazar a la Primera Orden.",
+            "price": 7900,
+            "offerPrice": 3900  ,
+            "image": LEGO_STAR_WARS_PS3,
+            "imageDetails": LEGO_STAR_WARS_PS3,
+            "Date": 13/6/2016,
+            "precioReventa": 3500
+        },
+        { 
+            "id": 312,  
+            "title": "Lego Marvel Super Heroes",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"¡Embárcate en una aventura épica con LEGO Marvel Super Heroes para PS3! En este emocionante juego, podrás unirte a tus superhéroes favoritos de Marvel, como Spider-Man, Iron Man y Hulk, mientras luchas contra villanos icónicos como Loki y el Doctor ",
+            "price": 7900,
+            "offerPrice": 4900  ,
+            "image": LEGO_MARVEL_SUPERHEROES,
+            "imageDetails": LEGO_MARVEL_SUPERHEROES,
+            "Date": 15/10/2013,
+            "precioReventa": 4500
+        },
+        { 
+            "id": 313,  
+            "title": "Max Payne 3",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"¡Sumérgete en la oscuridad implacable de Max Payne 3 para PS3 y prepárate para una experiencia de juego intensa y emocionante como ninguna otra! Bienvenido al mundo sombrío y cautivador de Max Payne, donde la acción sin límites y la narrativa envolvente se unen para crear una experiencia que te dejará sin aliento desde el primer momento hasta el último disparo.",
+            "price": 7900,
+            "offerPrice": 4900  ,
+            "image": MAX_PAYNE_3,
+            "imageDetails": MAX_PAYNE_3,
+            "Date": 15/5/2012,
+            "precioReventa": 4500
+        },
+        { 
+            "id": 314,  
+            "title": "Naruto Shipuddem Storm Revolution",
+            "category": "PS3",
+            "gender":"Pelea",
+            "description":"Naruto ha logrado calar muy hondo en el corazón de muchas personas y, para ¿despedirse? como es debido de los jugadores de PS3, el ninja de Konoha regresa con un título cargado de acción, jutsus y material muy jugoso.",
+            "price": 7900,
+            "offerPrice": 5900  ,
+            "image": NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM,
+            "imageDetails": NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM,
+            "Date": 1/9/2014,
+            "precioReventa": 5500
+        },
+        {
         id: 1,
         title: "TopSpin 2K25",
         category: "PS4",
@@ -4791,7 +4958,7 @@ const data = [
         price: 19900,
         secondaryPrice: 19900,
         offerPrice: 9900,
-        image: TOM_CLANCYS_RAINBOWS_SIEGE,
+        image: TOM_CLANCYS_RAINBBOWS_SIEGE,
         imageDetails: DETAILS_TOMCLANCY_RAINBOWS_SIEGE,
         Date: 12 / 3 / 2024,
         precioReventa: 9,
@@ -4806,7 +4973,7 @@ const data = [
         price: 19900,
         secondaryPrice: 19900,
         offerPrice: 9900,
-        image: TOM_CLANCYS_RAINBOWS_SIEGE,
+        image: TOM_CLANCYS_RAINBBOWS_SIEGE,
         imageDetails: DETAILS_TOMCLANCY_RAINBOWS_SIEGE,
         Date: 12 / 3 / 2024,
         precioReventa: 9,
