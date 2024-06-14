@@ -82,8 +82,8 @@ function ProductDetails() {
               </div>
               <div className='col-12 text-center'> 
                 <p className='d-block'>Precio</p>
-                <div className="d-inline-block me-1 oldPriceNotOffer">${product.offerPrice ? product.price : product.offerPrice}</div>
-                {product.offerPrice && <div className="d-inline-block ms-1">${product.offerPrice}</div>}
+                <div className={`d-inline-block me-1 ${product.offerPrice != 0 && 'oldPriceNotOffer'}`}>${product.price}</div>
+                {product.offerPrice != 0 && <div className="d-inline-block ms-1">${product.offerPrice}</div>}
               </div>
 
               <div className='col-9'>
@@ -144,8 +144,8 @@ function ProductDetails() {
 
               <div className='col-12 text-center'>
                 <p className='d-block'>Precio</p>
-                <div className={`d-inline-block me-1 ${product.offerPrice ? 'oldPriceNotOffer' : 'offerPrice'}`}>{'$' + ' ' + product.price}</div>
-                {product.offerPrice && <div className={`d-inline-block ms-1 offerPrice`}>{'$' + ' ' + product.offerPrice}</div>}
+                <div className={`d-inline-block me-1 ${product.offerPrice != 0 ? 'oldPriceNotOffer' : 'offerPrice'}`}>{'$' + ' ' + product.price}</div>
+                {product.offerPrice != 0 && <div className={`d-inline-block ms-1 offerPrice`}>{'$' + ' ' + product.offerPrice}</div>}
               </div>
 
               <div className='col-9'>

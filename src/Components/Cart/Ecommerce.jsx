@@ -63,9 +63,19 @@ function Ecommerce({ item }) {
     }
 
     if (sortOrder) {
-      filtered.sort((a, b) => sortOrder === 'asc' ? a.price - b.price : b.price - a.price);
+      filtered.sort((a, b) => {
+        // Obtener el precio que se utilizará para la comparación
+        const priceA = a.offerPrice > 0 ? a.offerPrice : a.price;
+        const priceB = b.offerPrice > 0 ? b.offerPrice : b.price;
+    
+        // Realizar la comparación según el orden
+        if (sortOrder === 'asc') {
+          return priceA - priceB;
+        } else {
+          return priceB - priceA;
+        }
+      });
     }
-
     setFilteredProducts(filtered);
   };
 
