@@ -64,7 +64,6 @@ import RESIDENT_EVIL_6 from '../assets/img/Catalogue/Playstation-3/RESIDENT_EVIL
 import SHADOW_OF_MORDOR from '../assets/img/Catalogue/Playstation-3/SHADOW_OF_MORDOR.jpeg';
 import SNIPER_ELITE_3_ULTIMATE_EDITION from '../assets/img/Catalogue/Playstation-3/SNIPER_ELITE_3_ULTIMATE_EDITION.jpeg';
 import SONIC_GENERATIONS from '../assets/img/Catalogue/Playstation-3/SONIC_GENERATIONS.jpeg';
-import STREET_FIGHTER from '../assets/img/Catalogue/Playstation-3/STREET_FIGHTER.jpeg';
 import THE_EVIL_WITHIN from '../assets/img/Catalogue/Playstation-3/THE_EVIL_WITHIN.jpeg';
 import THE_LAST_OF_US from '../assets/img/Catalogue/Playstation-3/THE_LAST_OF_US.jpeg';
 import TOM_CLANCYS_RAINBBOWS_SIEGE from '../assets/img/Catalogue/Playstation-3/TOM_CLANCYS_RAINBBOWS_SIEGE.jpeg';
@@ -77,7 +76,17 @@ import WRC_5 from '../assets/img/Catalogue/Playstation-3/WRC_5.jpeg';
 import W_2K17 from '../assets/img/Catalogue/Playstation-3/W_2K17.jpeg';
 import XENOVERSE_DLC from '../assets/img/Catalogue/Playstation-3/XENOVERSE_DLC.jpeg';
 
-
+import CALL_OF_DUTY_ADVANCED_WARFARE_PRO_EDITION from '../assets/img/Catalogue/Playstation-3/CALL_OF_DUTY_ADVANCED_WARFARE_PRO_EDITION.jpeg';
+import CALL_OF_DUTY_WW2 from '../assets/img/Catalogue/Playstation-3/CALL_OF_DUTY_WW2.jpeg';
+import DIABLO from '../assets/img/Catalogue/Playstation-3/DIABLO.jpeg';
+import FARCRY_3_FARCRY_4 from '../assets/img/Catalogue/Playstation-3/FARCRY_3_FARCRY_4.jpeg';
+import FARCRY_4_GOLD_EDITION from '../assets/img/Catalogue/Playstation-3/FARCRY_4_GOLD_EDITION.jpeg';
+import INJUSTICE_2 from '../assets/img/Catalogue/Playstation-3/INJUSTICE_2.jpeg';
+//import INJUSTICE_2_SLEEPING_DOGS_TOMB_RAIDER from '../assets/img/Catalogue/Playstation-3/JUST_CAUSE_2_SLEEPING_DOGS_TOMB_RAIDER.jpeg';
+import LEGO_MARVEL_AVENGERS_DELUXE_EDITION from '../assets/img/Catalogue/Playstation-3/LEGO_MARVEL_AVENGERS_DELUXE_EDITION.jpeg';
+import PAYDAY_2 from '../assets/img/Catalogue/Playstation-3/PAYDAY_2.jpeg';
+import PES_2017 from '../assets/img/Catalogue/Playstation-3/PES_2017.jpeg';
+import TOYSTORY_3 from '../assets/img/Catalogue/Playstation-3/TOY_STORY_3.jpeg';
 
 
 
@@ -260,8 +269,18 @@ import HORIZON from '../assets/img/Catalogue/Playstation_4_5/HORIZON.jpeg';
 import IT_TAKES_TWO from '../assets/img/Catalogue/Playstation_4_5/IT_TAKES_TWO.jpeg';
 import TEKKEN_8 from '../assets/img/Catalogue/Playstation_4_5/TEKKEN_8.jpeg';
 import WOLFENSTEIN from '../assets/img/Catalogue/Playstation_4_5/WOLFENSTEIN.jpeg';
-
-
+import CALL_OF_DUTY_BO3 from '../assets/img/Catalogue/Playstation_4_5/CALL_OF_DUTY_BO3.jpeg';
+import CALL_OF_DUTY_WW3 from '../assets/img/Catalogue/Playstation_4_5/CALL_OF_DUTY_WW3.jpeg';
+import GRID_LEGENDS from '../assets/img/Catalogue/Playstation_4_5/GRID_LEGENDS.jpeg';
+import INJUSTICE_2_PS4 from '../assets/img/Catalogue/Playstation_4_5/INJUSTICE_2.jpeg';
+import LIKE_A_DRAGON from '../assets/img/Catalogue/Playstation_4_5/LIKE_A_DRAGON.jpeg';
+import MINECRAFT_DUNGEONS from '../assets/img/Catalogue/Playstation_4_5/MINECRAFT_DUNGEONS.jpeg';
+import SONIC_COLORS from '../assets/img/Catalogue/Playstation_4_5/SONIC_COLORS.jpeg';
+import SONIC_MANIA from '../assets/img/Catalogue/Playstation_4_5/SONIC_MANIA.jpeg';
+import STAR_OCEAN from '../assets/img/Catalogue/Playstation_4_5/STAR_OCEAN.jpeg';
+import STREET_FIGHTER from '../assets/img/Catalogue/Playstation_4_5/STREET_FIGHTER.jpeg';
+import TEAM_SONIC_RACING from '../assets/img/Catalogue/Playstation_4_5/TEAM_SONIC_RACING.jpeg';
+import FIFA_23 from '../assets/img/Catalogue/Playstation_4_5/TEAM_SONIC_RACING.jpeg';
 
 
 
@@ -433,6 +452,17 @@ import DETAILS_F1_24 from '../assets/img/Catalogue/imgDetails-PS4-PS5/F1_24.jpeg
 import DETAILS_ABSOLUTE_DEDUCTION_BUNDLE from '../assets/img/Catalogue/imgDetails-PS4-PS5/ABSOLUTE_DEDUCTION_BUNDLE.jpeg';
 import DETAILS_CREED from '../assets/img/Catalogue/imgDetails-PS4-PS5/CREED.jpeg';
 import DETAILS_AVATAR_FRONTIERS_OF_PANDORA from '../assets/img/Catalogue/imgDetails-PS4-PS5/AVATAR_FRONTIERS_OF_PANDORA.jpeg';
+import DETAILS_CALL_OF_DUTY_BO3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/CALL_OF_DUTY_WW3.jpeg';
+import DETAILS_CALL_OF_DUTY_WW3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/CALL_OF_DUTY_WW3.jpeg';
+import DETAILS_GRID_LEGENDS from '../assets/img/Catalogue/imgDetails-PS4-PS5/GRID_LEGENDS.jpeg';
+import DETAILS_INJUSTICE_2 from '../assets/img/Catalogue/imgDetails-PS4-PS5/INJUSTICE_2.jpeg';
+import DETAILS_LIKE_A_DRAGON from '../assets/img/Catalogue/imgDetails-PS4-PS5/LIKE_A_DRAGON.jpeg';
+ //import DETAILS_MINECRAFT_DUNGEONS from '../assets/img/Catalogue/imgDetails-PS4-PS5/MINECRAFT_DUNGEONS.jpeg';
+import DETAILS_SONIC_COLORS from '../assets/img/Catalogue/imgDetails-PS4-PS5/SONIC_COLORS.jpeg';
+import DETAILS_SONIC_MANIA from '../assets/img/Catalogue/imgDetails-PS4-PS5/SONIC_MANIA.jpeg';
+import DETAILS_STAR_OCEAN from '../assets/img/Catalogue/imgDetails-PS4-PS5/STAR_OCEAN.jpeg';
+import DETAILS_STREET_FIGHTER from '../assets/img/Catalogue/imgDetails-PS4-PS5/STREET_FIGHTER.jpeg';
+//import DETAILS_TEAM_SONIC_RACING from '../assets/img/Catalogue/imgDetails-PS4-PS5/TEAM_SONIC_RACING.jpeg';
 
 
 import AA from "../assets/img/logo-lg.png";
@@ -1377,7 +1407,7 @@ const data = [
             },
         { 
             "id": 309,  
-            "title": "Call of DutyGhost",
+            "title": "Call of Duty Ghost",
             "category": "PS3",
             "gender":"Accion",
             "description":"¡Prepárate para la batalla con Call of Duty Ghosts para PS3 Digital! Sumérgete en un mundo de combate intenso y emocionante. Domina el campo de batalla con armas poderosas y modos de juego emocionantes. Descarga ahora y únete a la acción.",
@@ -1452,6 +1482,123 @@ const data = [
             "imageDetails": NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM,
             "Date": 1/9/2014,
             "precioReventa": 6990
+        },
+        { 
+            "id": 315,  
+            "title": "Call Of Duty Advanced Warfare Pro Edition",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"Call of Duty®: Advanced Warfare imagina los campos de batalla del futuro, donde la tecnología y la estrategia han evolucionado hasta dar paso a una nueva era de combate. El actor ganador de un Óscar Kevin Spacey interpreta a Jonathan Irons, uno de los hombres más poderosos del mundo, para dar forma a esta escalofriante visión del futuro de la guerra.",
+            "price": 12900,
+            "offerPrice": 9690  ,
+            "image": CALL_OF_DUTY_ADVANCED_WARFARE_PRO_EDITION,
+            "imageDetails": CALL_OF_DUTY_ADVANCED_WARFARE_PRO_EDITION,
+            "Date": 28/10/2014,
+            "precioReventa": 8990
+        },
+        { 
+            "id": 316,  
+            "title": "Farcry 4 + Farcry 3",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"Un combo para experimentar el bien y el mal de modos completamente variados. Los jugadores podrán elegir entre peligrosas aventuras con la mafia de la mano de Vito y Joe, enfrentamientos con el ejército de mercenarios de Jason Brody o desafíos impredecibles para liberar a Kyrat de un poderoso tirano.",
+            "price": 12900,
+            "offerPrice": 8490  ,
+            "image": FARCRY_3_FARCRY_4,
+            "imageDetails": FARCRY_3_FARCRY_4,
+            "Date": 28/10/2014,
+            "precioReventa": 7990
+        },
+        { 
+            "id": 317,  
+            "title": "Pes 17",
+            "category": "PS3",
+            "gender":"Deportes",
+            "description":"Con un sistema de juego mejorado por tecnologías como Precise Pass, Team Control o Real Touch, los jugadores podrán tener un mayor control sobre sus jugadores, el equipo y la pelota para disfrutar de una entrega renovada pero que no pierde la simplicidad y diversión de sus inicios.",
+            "price": 6900,
+            "offerPrice": 2990  ,
+            "image": PES_2017,
+            "imageDetails": PES_2017,
+            "Date": 28/10/2016,
+            "precioReventa": 1990
+        },
+        { 
+            "id": 318,  
+            "title": "Payday 2",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"PAYDAY 2: CRIMEWAVE EDITION es un shooter cooperativo para 4 jugadores, en el que debes atracar bancos con tus amigos para sacaros una buena pasta. La edición Crimewave tiene un motor gráfico mejorado para consolas",
+            "price": 6900,
+            "offerPrice": 3690  ,
+            "image": PAYDAY_2,
+            "imageDetails": PAYDAY_2,
+            "Date": 16/6/2015,
+            "precioReventa": 2990
+        },
+        { 
+            "id": 319,  
+            "title": "Farcry 4 Gold Edition",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"Far Cry Edición Gold incluye la Edición Limitada y el pase de temporada. Está diseñada para todos los fans de la saga y para cualquier persona que quiera vivir la experiencia de juego más completa con Far Cy 4.",
+            "price": 6900,
+            "offerPrice": 5990  ,
+            "image": FARCRY_4_GOLD_EDITION,
+            "imageDetails": FARCRY_4_GOLD_EDITION,
+            "Date": 18/11/2014,
+            "precioReventa": 5000
+        },
+        { 
+            "id": 319,  
+            "title": "Lego Marvel's Vengadores Deluxe",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"Los Vengadores se reúnen! Compra la Edición de lujo y obtén acceso al Pase de temporada completo con más de 40 personajes y 5 niveles nuevos emocionantes basados en contenido enfocado en los Agentes de S.H.I.E.L.D. de Marvel y las versiones clásicas del cómic de la Pantera Negra, el Dr. Extraño, el Capitán Marvel y los Maestros del Mal",
+            "price": 10900,
+            "offerPrice": 7990  ,
+            "image": LEGO_MARVEL_AVENGERS_DELUXE_EDITION,
+            "imageDetails": LEGO_MARVEL_AVENGERS_DELUXE_EDITION,
+            "Date": 26/1/2016,
+            "precioReventa": 6990
+        },
+        { 
+            "id": 320,  
+            "title": "Battlefield 4",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"Battlefield 4 es el innovador éxito de ventas de acción a base de momentos que difuminan la línea entre el juego y la gloria. Con la potencia y la fidelidad de nueva generación de Frostbite™ 3, Battlefield 4 proporciona una experiencia visceral y dramática sin igual.",
+            "price": 6900,
+            "offerPrice": 2990  ,
+            "image": BATTLEFIELD_4,
+            "imageDetails": BATTLEFIELD_4,
+            "Date": 29/11/2013,
+            "precioReventa": 2590
+        },
+        { 
+            "id": 321,  
+            "title": "Diablo 3 Reaper of Souls Ultimate Evil Edition",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"La edición Ultimate Evil potencia el juego base con la expansión Reaper of Souls y el nuevo modo Aventura para obtener mejores recompensas. Los jugadores podrán vivir esta experiencia como brujo, cazador de demonios, monje o mago mientras aprenden a dominar nuevas habilidades y poderes mortales.",
+            "price": 8900,
+            "offerPrice": 4990  ,
+            "image": DIABLO,
+            "imageDetails": DIABLO,
+            "Date": 25/3/2014,
+            "precioReventa": 4990
+        },
+        { 
+            "id": 323,  
+            "title": "Toy Story 3",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"Basada en la famosa película de Disney, esta aventura para consolas trae nuevas posibilidades para vivir increíbles aventuras junto a sus protagonistas. Los jugadores deberán acompañar al Sheriff Woody y su incondicional amigo Buzz Lightyear en una misión para salvar la vida de muchos juguetes.",
+            "price": 8900,
+            "offerPrice": 4990  ,
+            "image": TOYSTORY_3,
+            "imageDetails": TOYSTORY_3,
+            "Date": 15/6/2010,
+            "precioReventa": 3990
         },
         {
         id: 1,
@@ -1567,7 +1714,7 @@ const data = [
             "Publicado originalmente en 1998, Resident Evil 2, uno de los juegos más icónicos de todos los tiempos, regresa completamente reinventado para las consolas de nueva generación. Juega campañas individuales tanto para Leon Kennedy como para Claire Redfield con una flamante nueva vista en 3.ª persona mientras exploras las áreas infestadas de zombis de Raccoon City, ahora reconstruido espectacularmente con el motor RE Engine de Capcom. Nuevos rompecabezas, tramas y áreas para que tanto los nuevos fans como los más veteranos descubran terroríficas nuevas sorpresas.",
         price: 30900,
         secondaryPrice: 30900,
-        offerPrice: 11900,
+        offerPrice: 15900,
         image: RESIDENT_EVIL_2, //-------------------------------
         imageDetails: DETAILS_RE_2,
         Date: 24 / 3 / 2023,
@@ -1582,7 +1729,7 @@ const data = [
             "Publicado originalmente en 1998, Resident Evil 2, uno de los juegos más icónicos de todos los tiempos, regresa completamente reinventado para las consolas de nueva generación. Juega campañas individuales tanto para Leon Kennedy como para Claire Redfield con una flamante nueva vista en 3.ª persona mientras exploras las áreas infestadas de zombis de Raccoon City, ahora reconstruido espectacularmente con el motor RE Engine de Capcom. Nuevos rompecabezas, tramas y áreas para que tanto los nuevos fans como los más veteranos descubran terroríficas nuevas sorpresas.",
         price: 30900,
         secondaryPrice: 30900,
-        offerPrice: 11900,
+        offerPrice: 15900,
         image: RESIDENT_EVIL_2, //-------------------------------
         imageDetails: DETAILS_RE_5,
         Date: 24 / 3 / 2023,
@@ -2227,7 +2374,7 @@ const data = [
             "Ciudades abandonadas reclamadas por la naturaleza. Una población diezmada por una plaga moderna. Los supervivientes se matan entre sí para tener comida, armas y todo aquello que pueda caer en sus manos. Joel, un superviviente brutal, y Ellie, una adolescente increíblemente lista para su edad, tendrán que trabajar juntos si desean sobrevivir a su travesía a través de los EE. UU.",
         price: 19900,
         secondaryPrice: 19900,
-        offerPrice: 16900,
+        offerPrice: 0,
         image: THE_LAST_OF_US_REMASTERED,
         imageDetails: DETAILS_THELASTOFUS_REMASTERED,
         Date: 21 / 7 / 2014,
@@ -2587,7 +2734,7 @@ const data = [
             "Arma tu equipo y vive el pasado, el presente y el futuro de la cultura del baloncesto en NBA 2K24. Disfruta de una experiencia auténtica y completa con opciones personalizadas ilimitadas de MyPLAYER, en MyCAREER. Colecciona una gran variedad de leyendas y arma tu alineación ideal en MyTEAM. Siente una mayor respuesta en el juego y disfruta de visuales mejoradas mientras juegas con tus equipos favoritos de la NBA y la WNBA en JUEGA AHORA.",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 10900,
+        offerPrice: 29900,
         image: NBA_2K24,
         imageDetails: DETAILS_NBA2K24,
         Date: 8 / 9 / 2023,
@@ -2602,7 +2749,7 @@ const data = [
             "Arma tu equipo y vive el pasado, el presente y el futuro de la cultura del baloncesto en NBA 2K24. Disfruta de una experiencia auténtica y completa con opciones personalizadas ilimitadas de MyPLAYER, en MyCAREER. Colecciona una gran variedad de leyendas y arma tu alineación ideal en MyTEAM. Siente una mayor respuesta en el juego y disfruta de visuales mejoradas mientras juegas con tus equipos favoritos de la NBA y la WNBA en JUEGA AHORA.",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 10900,
+        offerPrice: 29900,
         image: NBA_2K24,
         imageDetails: DETAILS_NBA2K24,
         Date: 8 / 9 / 2023,
@@ -2812,7 +2959,7 @@ const data = [
             "Vive la historia de Basim, un astuto ladrón callejero que busca respuestas y justicia mientras recorre las bulliciosas calles del Bagdad del siglo IX. La antigua y misteriosa organización de los Ocultos cambiará su destino de una forma que nunca habría imaginado y lo convertirá en un Maestro Asesino letal.",
         price: 39900,
         secondaryPrice: 39900,
-        offerPrice: 20900,
+        offerPrice: 24900,
         image: ASSASINS_MIRAGE,
         imageDetails: DETAILS_ASSASINSCREED_MIRAGE,
         Date: 4 / 10 / 2023,
@@ -2827,7 +2974,7 @@ const data = [
             "Vive la historia de Basim, un astuto ladrón callejero que busca respuestas y justicia mientras recorre las bulliciosas calles del Bagdad del siglo IX. La antigua y misteriosa organización de los Ocultos cambiará su destino de una forma que nunca habría imaginado y lo convertirá en un Maestro Asesino letal.",
         price: 39900,
         secondaryPrice: 38900,
-        offerPrice: 20900,
+        offerPrice: 24900,
         image: ASSASINS_MIRAGE,
         imageDetails: DETAILS_ASSASINSCREED_MIRAGE,
         Date: 4 / 10 / 2023,
@@ -3937,7 +4084,7 @@ const data = [
             "Explora las místicas Northstar Islands en esta versión de las clásicas aventuras de acción y plataformas en 2D de Sonic. Juega con Sonic, Tails, Knuckles y Amy y aprovecha los nuevos poderes Emerald para moverte y atacar de mil formas. Visita escenarios maravillosos e inéditos a solas o en compañía de hasta 3 jugadores más y evita que el Dr. Eggman, Fang y un nuevo y misterioso adversario conviertan a los animales gigantes de las islas en Badniks antes de que sea tarde. ",
         price: 45900,
         secondaryPrice: 48900,
-        offerPrice: 19900,
+        offerPrice: 29900,
         image: SONIC_SUPERSTARS,
         imageDetails: DETAILS_SONIC_SUPERSTARS,
         Date: 17 / 10 / 2023,
@@ -3952,7 +4099,7 @@ const data = [
             "Explora las místicas Northstar Islands en esta versión de las clásicas aventuras de acción y plataformas en 2D de Sonic. Juega con Sonic, Tails, Knuckles y Amy y aprovecha los nuevos poderes Emerald para moverte y atacar de mil formas. Visita escenarios maravillosos e inéditos a solas o en compañía de hasta 3 jugadores más y evita que el Dr. Eggman, Fang y un nuevo y misterioso adversario conviertan a los animales gigantes de las islas en Badniks antes de que sea tarde. ",
         price: 45900,
         secondaryPrice: 44900,
-        offerPrice: 19900,
+        offerPrice: 29900,
         image: SONIC_SUPERSTARS,
         imageDetails: DETAILS_SONIC_SUPERSTARS,
         Date: 17 / 10 / 2023,
@@ -4402,7 +4549,7 @@ const data = [
             "En SONIC FORCES, el malvado Dr. Eggman ha conquistado gran parte del mundo con la ayuda de un villano misterioso y poderoso llamado Infinite. Ahora deberás ayudar a Sonic a reclutar un ejército para rescatar el mundo de las garras del caos y la destrucción. ",
         price: 19900,
         secondaryPrice: 19800,
-        offerPrice: 9000,
+        offerPrice: 9900,
         image: SONIC_FORCES,
         imageDetails: DETAILS_SONIC_FORCES,
         Date: 23 / 1 / 2018,
@@ -4417,7 +4564,7 @@ const data = [
             "En SONIC FORCES, el malvado Dr. Eggman ha conquistado gran parte del mundo con la ayuda de un villano misterioso y poderoso llamado Infinite. Ahora deberás ayudar a Sonic a reclutar un ejército para rescatar el mundo de las garras del caos y la destrucción. ",
         price: 19900,
         secondaryPrice: 19800,
-        offerPrice: 9000,
+        offerPrice: 9900,
         image: SONIC_FORCES,
         imageDetails: DETAILS_SONIC_FORCES,
         Date: 23 / 1 / 2018,
@@ -5217,6 +5364,366 @@ const data = [
         imageDetails: DETAILS_AVATAR_FRONTIERS_OF_PANDORA,
         Date: 7 / 12 / 2023,
         precioReventa: 45,
+    },
+    {
+        id: 516,
+        title: "Street Fighter 6",
+        category: "PS4",
+        gender: "Pelea",
+        description:
+            "Un catálogo diverso de 18 luchadores Juega con los maestros legendarios y los nuevos favoritos del público, como Ryu, Chun-Li, Luke, Jamie y muchos más, en esta nueva edición donde cada personaje cuenta con rediseños impresionantes y especiales cinemáticos emocionantes.",
+        price: 45900,
+        secondaryPrice: 45900,
+        offerPrice: 30900,
+        image: STREET_FIGHTER,
+        imageDetails: DETAILS_STREET_FIGHTER,
+        Date: 2 / 6 / 2023,
+        precioReventa: 35,
+    },
+    {
+        id: 517,
+        title: "Street Fighter 6",
+        category: "PS5",
+        gender: "Pelea",
+        description:
+            "Un catálogo diverso de 18 luchadores Juega con los maestros legendarios y los nuevos favoritos del público, como Ryu, Chun-Li, Luke, Jamie y muchos más, en esta nueva edición donde cada personaje cuenta con rediseños impresionantes y especiales cinemáticos emocionantes.",
+        price: 45900,
+        secondaryPrice: 45900,
+        offerPrice: 30900,
+        image: STREET_FIGHTER,
+        imageDetails: DETAILS_STREET_FIGHTER,
+        Date: 2 / 6 / 2023,
+        precioReventa: 35,
+    },
+    {
+        id: 518,
+        title: "Call of Duty WWII",
+        category: "PS4",
+        gender: "Accion",
+        description:
+            "Call of Duty® regresa a sus raíces con Call of Duty®: WWII, una experiencia sobrecogedora que redefine la Segunda Guerra Mundial para una nueva generación. Vive el combate clásico de Call of Duty, los lazos de camaradería y la naturaleza despiadada de la guerra contra una potencia que sume al mundo en la tiranía.",
+        price: 25900,
+        secondaryPrice: 5900,
+        offerPrice: 15900,
+        image: CALL_OF_DUTY_WW3,
+        imageDetails: DETAILS_CALL_OF_DUTY_WW3,
+        Date: 8 / 5 / 2018,
+        precioReventa: 15,
+    },
+    {
+        id: 519,
+        title: "Call of Duty WWII",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "Call of Duty® regresa a sus raíces con Call of Duty®: WWII, una experiencia sobrecogedora que redefine la Segunda Guerra Mundial para una nueva generación. Vive el combate clásico de Call of Duty, los lazos de camaradería y la naturaleza despiadada de la guerra contra una potencia que sume al mundo en la tiranía.",
+        price: 25900,
+        secondaryPrice: 5900,
+        offerPrice: 15900,
+        image: CALL_OF_DUTY_WW3,
+        imageDetails: DETAILS_CALL_OF_DUTY_WW3,
+        Date: 8 / 5 / 2018,
+        precioReventa: 15,
+    },
+    {
+        id: 520,
+        title: "Minecraft Dungeons",
+        category: "PS4",
+        gender: "Accion",
+        description:
+            "¡Disfruta un juego totalmente nuevo de acción y aventura, inspirado en los títulos clásicos de exploración de mazmorras y basado en el universo de Minecraft! ¡Recorre las mazmorras por tu cuenta o en compañía de tus amigos! Hasta cuatro jugadores pueden combatir juntos en los niveles muy variados, llenos de acción y tesoros, mientras cumplen la misión de salvar a los aldeanos y derrotar al malvado Archillano.",
+        price: 25900,
+        secondaryPrice: 25900,
+        offerPrice: 20900,
+        image: MINECRAFT_DUNGEONS,
+        imageDetails: MINECRAFT_DUNGEONS,
+        Date: 26 / 5 / 2020,
+        precioReventa: 25,
+    },
+    {
+        id: 520,
+        title: "Minecraft Dungeons",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "¡Disfruta un juego totalmente nuevo de acción y aventura, inspirado en los títulos clásicos de exploración de mazmorras y basado en el universo de Minecraft! ¡Recorre las mazmorras por tu cuenta o en compañía de tus amigos! Hasta cuatro jugadores pueden combatir juntos en los niveles muy variados, llenos de acción y tesoros, mientras cumplen la misión de salvar a los aldeanos y derrotar al malvado Archillano.",
+        price: 25900,
+        secondaryPrice: 25900,
+        offerPrice: 20900,
+        image: MINECRAFT_DUNGEONS,
+        imageDetails: MINECRAFT_DUNGEONS,
+        Date: 26 / 5 / 2020,
+        precioReventa: 25,
+    },
+    {
+        id: 521,
+        title: "Star Ocean The Second Story R",
+        category: "PS4",
+        gender: "Juego de Rol",
+        description:
+            "Este remake, resucitado con una estética 2.5D única que fusiona personajes pixelados en 2D y entornos en 3D, ofrece todo lo que convirtió la entrega original en una obra de culto e incorpora nuevos elementos.¡Disfruta de nuevas mecánicas de batalla, doblaje completo en japonés e inglés, música original remasterizada, teletransporte y mucho más! Descubre la versión definitiva y modernizada de un JRPG clásico, perfecto para nuevos jugadores y para aficionados de toda la vida",
+        price: 49900,
+        secondaryPrice: 49900,
+        offerPrice: 0,
+        image: STAR_OCEAN,
+        imageDetails: DETAILS_STAR_OCEAN,
+        Date: 2 / 11 / 2023,
+        precioReventa: 40,
+    },
+    {
+        id: 522,
+        title: "Star Ocean The Second Story R",
+        category: "PS5",
+        gender: "Juego de Rol",
+        description:
+            "Este remake, resucitado con una estética 2.5D única que fusiona personajes pixelados en 2D y entornos en 3D, ofrece todo lo que convirtió la entrega original en una obra de culto e incorpora nuevos elementos.¡Disfruta de nuevas mecánicas de batalla, doblaje completo en japonés e inglés, música original remasterizada, teletransporte y mucho más! Descubre la versión definitiva y modernizada de un JRPG clásico, perfecto para nuevos jugadores y para aficionados de toda la vida",
+        price: 49900,
+        secondaryPrice: 49900,
+        offerPrice: 0,
+        image: STAR_OCEAN,
+        imageDetails: DETAILS_STAR_OCEAN,
+        Date: 2 / 11 / 2023,
+        precioReventa: 40,
+    },
+    {
+        id: 523,
+        title: "Team Sonic Racing",
+        category: "PS4",
+        gender: "Carreras",
+        description:
+            "Team Sonic Racing combina los mejores elementos de las vertiginosas carreras de arcade y de estilo competitivo. Enfréntate con amigos en intensas carreras multijugador, recorran juntos mundos impresionantes y trabajen como equipo compartiendo potenciadores e impulsos de velocidad.Equípate. Acelera. ¡Carreras en equipos a velocidad sónica!",
+        price: 39900,
+        secondaryPrice: 9900,
+        offerPrice: 29900,
+        image: TEAM_SONIC_RACING,
+        imageDetails: TEAM_SONIC_RACING,
+        Date: 21 / 5 / 2019,
+        precioReventa: 25,
+    },
+    {
+        id: 524,
+        title: "Team Sonic Racing",
+        category: "PS5",
+        gender: "Carreras",
+        description:
+            "Team Sonic Racing combina los mejores elementos de las vertiginosas carreras de arcade y de estilo competitivo. Enfréntate con amigos en intensas carreras multijugador, recorran juntos mundos impresionantes y trabajen como equipo compartiendo potenciadores e impulsos de velocidad.Equípate. Acelera. ¡Carreras en equipos a velocidad sónica!",
+        price: 39900,
+        secondaryPrice: 9900,
+        offerPrice: 29900,
+        image: TEAM_SONIC_RACING,
+        imageDetails: TEAM_SONIC_RACING,
+        Date: 21 / 5 / 2019,
+        precioReventa: 25,
+    },
+    {
+        id: 524,
+        title: "Like a Dragon Ishin",
+        category: "PS4",
+        gender: "Accion",
+        description:
+            "El Kioto de la década de 1860 está plagado de desigualdades generalizadas, y un samurái cambiará el curso de la historia en su búsqueda de la justicia. Coge la espada de Sakamoto Ryoma y aventúrate en Kioto para encontrar al asesino de tu padre, exculparte de un asesinato y restaurar tu honor. Al hacerlo, pondrás fin a la era samurái y cambiarás para siempre el futuro de Japón. Desenvaina tu espada, carga tu revólver y únete a la revolución en esta intensa aventura histórica que solo los creadores de Yakuza: Like a Dragon podrían producir.",
+        price: 49900,
+        secondaryPrice: 4900,
+        offerPrice: 45900,
+        image: LIKE_A_DRAGON,
+        imageDetails: DETAILS_LIKE_A_DRAGON,
+        Date: 21 / 2 / 2023,
+        precioReventa: 45,
+    },
+    {
+        id: 524,
+        title: "Like a Dragon Ishin",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "El Kioto de la década de 1860 está plagado de desigualdades generalizadas, y un samurái cambiará el curso de la historia en su búsqueda de la justicia. Coge la espada de Sakamoto Ryoma y aventúrate en Kioto para encontrar al asesino de tu padre, exculparte de un asesinato y restaurar tu honor. Al hacerlo, pondrás fin a la era samurái y cambiarás para siempre el futuro de Japón. Desenvaina tu espada, carga tu revólver y únete a la revolución en esta intensa aventura histórica que solo los creadores de Yakuza: Like a Dragon podrían producir.",
+        price: 49900,
+        secondaryPrice: 4900,
+        offerPrice: 45900,
+        image: LIKE_A_DRAGON,
+        imageDetails: DETAILS_LIKE_A_DRAGON,
+        Date: 21 / 2 / 2023,
+        precioReventa: 45,
+    },
+    {
+        id: 525,
+        title: "Sonic Mania",
+        category: "PS4",
+        gender: "Accion",
+        description:
+            "Disfruta del homenaje definitivo al pasado y al futuro en Sonic Mania. Una nueva aventura de Sonic con increíbles gráficos retro en HD y a 60 fps. Los distintos personajes con los que podrás jugar te permitirán ir a toda mecha, con Sonic, volar, con Tails, o machacar los obstáculos con el fortachón de Knuckles",
+        price: 19900,
+        secondaryPrice: 19900,
+        offerPrice: 0,
+        image: SONIC_MANIA,
+        imageDetails: DETAILS_SONIC_MANIA,
+        Date: 15 / 8 / 2017,
+        precioReventa: 20,
+    },
+    {
+        id: 526,
+        title: "Sonic Mania",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "Disfruta del homenaje definitivo al pasado y al futuro en Sonic Mania. Una nueva aventura de Sonic con increíbles gráficos retro en HD y a 60 fps. Los distintos personajes con los que podrás jugar te permitirán ir a toda mecha, con Sonic, volar, con Tails, o machacar los obstáculos con el fortachón de Knuckles",
+        price: 19900,
+        secondaryPrice: 19900,
+        offerPrice: 0,
+        image: SONIC_MANIA,
+        imageDetails: DETAILS_SONIC_MANIA,
+        Date: 15 / 8 / 2017,
+        precioReventa: 20,
+    },
+    {
+        id: 527,
+        title: "Sonic Colours",
+        category: "PS4",
+        gender: "Accion",
+        description:
+            "El Dr. Eggman ha construido un parque de atracciones interestelar y lo está haciendo funcionar gracias a unos seres llamados wisps que mantiene cautivos. Ayuda a Sonic a liberar a los wisps y descubre sus poderes en seis mundos llenos de peligros. Ahora con gráficos mejorados, nuevas funciones, un nuevo modo de juego y una jugabilidad renovada. ¡Disfrutarás de Sonic Colours como nunca antes!",
+        price: 49900,
+        secondaryPrice: 49900,
+        offerPrice: 39900,
+        image: SONIC_COLORS,
+        imageDetails: DETAILS_SONIC_COLORS,
+        Date: 7 / 9 / 2021,
+        precioReventa: 35,
+    },
+    {
+        id: 528,
+        title: "Sonic Colours",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "El Dr. Eggman ha construido un parque de atracciones interestelar y lo está haciendo funcionar gracias a unos seres llamados wisps que mantiene cautivos. Ayuda a Sonic a liberar a los wisps y descubre sus poderes en seis mundos llenos de peligros. Ahora con gráficos mejorados, nuevas funciones, un nuevo modo de juego y una jugabilidad renovada. ¡Disfrutarás de Sonic Colours como nunca antes!",
+        price: 49900,
+        secondaryPrice: 49900,
+        offerPrice: 39900,
+        image: SONIC_COLORS,
+        imageDetails: DETAILS_SONIC_COLORS,
+        Date: 7 / 9 / 2021,
+        precioReventa: 35,
+    },
+    {
+        id: 529,
+        title: "Injustic 2 Legendary Edition",
+        category: "PS4",
+        gender: "Accion",
+        description:
+            "Mejora y amplía la versión definitivae de tus héroes favoritos de DC en INJUSTICE 2, ganador del premio de IGN al mejor juego de lucha de 2017.",
+        price: 59900,
+        secondaryPrice: 59900,
+        offerPrice: 0,
+        image: INJUSTICE_2_PS4,
+        imageDetails: DETAILS_INJUSTICE_2,
+        Date: 27 / 3 / 2018,
+        precioReventa: 55,
+    },
+    {
+        id: 529,
+        title: "Injustic 2 Legendary Edition",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "Mejora y amplía la versión definitivae de tus héroes favoritos de DC en INJUSTICE 2, ganador del premio de IGN al mejor juego de lucha de 2017.",
+        price: 59900,
+        secondaryPrice: 59900,
+        offerPrice: 0,
+        image: INJUSTICE_2_PS4,
+        imageDetails: DETAILS_INJUSTICE_2,
+        Date: 27 / 3 / 2018,
+        precioReventa: 55,
+    },
+    {
+        id: 530,
+        title: "Call of Duty Black Ops 3 + Awakening",
+        category: "PS4",
+        gender: "Accion",
+        description:
+            "Call of Duty: Black Ops III combina tres modos de juego únicos: campaña, multijugador y Zombis para proporcionar a los fans la experiencia Call of Duty más profunda y ambiciosa hasta la fecha..",
+        price: 49900,
+        secondaryPrice: 49900,
+        offerPrice: 19900,
+        image: CALL_OF_DUTY_BO3,
+        imageDetails: DETAILS_CALL_OF_DUTY_BO3,
+        Date: 29 / 8 / 2017,
+        precioReventa: 25,
+    },
+    {
+        id: 540,
+        title: "Call of Duty Black Ops 3 + Awakening",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "Call of Duty: Black Ops III combina tres modos de juego únicos: campaña, multijugador y Zombis para proporcionar a los fans la experiencia Call of Duty más profunda y ambiciosa hasta la fecha..",
+        price: 49900,
+        secondaryPrice: 49900,
+        offerPrice: 19900,
+        image: CALL_OF_DUTY_BO3,
+        imageDetails: DETAILS_CALL_OF_DUTY_BO3,
+        Date: 29 / 8 / 2017,
+        precioReventa: 25,
+    },
+    {
+        id: 541,
+        title: "Resident Evil 3",
+        category: "PS4",
+        gender: "Accion",
+        description:
+            "Jill Valentine es una de las pocas personas que quedan en Raccoon City que han sido testigos de las atrocidades de Umbrella. Para detenerla, Umbrella decide usar su arma secreta definitiva: ¡Nemesis!",
+        price: 39900,
+        secondaryPrice: 39900,
+        offerPrice: 29900,
+        image: RESIDENT_EVIL_3,
+        imageDetails: RESIDENT_EVIL_3,
+        Date: 13 / 6 / 2022,
+        precioReventa: 25,
+    },
+    {
+        id: 542,
+        title: "Resident Evil 3",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "Jill Valentine es una de las pocas personas que quedan en Raccoon City que han sido testigos de las atrocidades de Umbrella. Para detenerla, Umbrella decide usar su arma secreta definitiva: ¡Nemesis!",
+        price: 39900,
+        secondaryPrice: 39900,
+        offerPrice: 29900,
+        image: RESIDENT_EVIL_3,
+        imageDetails: RESIDENT_EVIL_3,
+        Date: 13 / 6 / 2022,
+        precioReventa: 25,
+    },
+    {
+        id: 543,
+        title: "Grid Legends",
+        category: "PS4",
+        gender: "Carreras",
+        description:
+            "GRID Legends* te ofrece una gran competición automovilística y emociones increíbles por todo el mundo. Crea los eventos automovilísticos de tus sueños, participa en carreras multijugador en vivo, sé parte del drama de una historia de producción virtual inmersiva y disfruta la sensación de carreras de acción espectaculares.",
+        price: 49900,
+        secondaryPrice: 49900,
+        offerPrice: 19900,
+        image: GRID_LEGENDS,
+        imageDetails: DETAILS_GRID_LEGENDS,
+        Date: 25 / 2 / 2022,
+        precioReventa: 20,
+    },
+    {
+        id: 546,
+        title: "Fifa 23",
+        category: "PS5",
+        gender: "Deportes",
+        description:
+            "En esta edición te esperan los torneos más importantes de fútbol, como todo el contenido de la Copa Mundial de la FIFA Qatar 2022. Además de renovados modos de juego, cuenta con más de 19.000 jugadores, 700 equipos, 100 estadios y 30 ligas, con la autenticidad inigualable de FIFA.",
+        price: 20900,
+        secondaryPrice: 20900,
+        offerPrice: 0,
+        image: FIFA_23,
+        imageDetails: FIFA_23,
+        Date: 26 / 9 / 2022,
+        precioReventa: 20,
     },
 
     
