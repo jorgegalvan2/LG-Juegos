@@ -475,11 +475,11 @@ const data = [
         "gender":"Deportes",
         "description":"FIFA es el videojuego de fútbol más vendido de la actualidad y con más de 25 años de desarrollo. Vas a poder jugar con tus equipos y futbolistas preferidos en diversos modos. ¡Preparate para convertirte en campeón de todas las copas y torneos!",
         "price": 6900,
-        "offerPrice": 3990 ,
+        "offerPrice": 4990 ,
         "image": FIFA_19,
         "imageDetails": FIFA_19,
         "Date": 13/9/2018,
-        "precioReventa": 3500
+        "precioReventa": 4000
         },
     { 
         "id": 238,  
@@ -488,11 +488,11 @@ const data = [
         "gender":"Aventura",
         "description":"¡Descubre un mundo de infinitas aventuras y creatividad con Minecraft para PS3! Construye, explora y sobrevive en un universo pixelado lleno de posibilidades ilimitadas. ¡Crea tu propio mundo y hazlo tuyo hoy mismo!",
         "price": 6900,
-        "offerPrice": 3990 ,
+        "offerPrice": 4990 ,
         "image": MINECRAFT_PS3,
         "imageDetails": MINECRAFT_PS3,
         "Date": 17/12/2013,
-        "precioReventa": 3500
+        "precioReventa": 4500
         },
     { 
         "id": 239,  
@@ -501,11 +501,11 @@ const data = [
         "gender":"Accion",
         "description":" Combinando realidad con ficción, Call of Duty es un juego único por su calidad de desarrollo. Su objetivo es que cada jugador logre conquistar todas las misiones, ya sea en una batalla contra otros ejércitos o combatiendo zombies. Sus gráficos, jugabilidad, desafíos e historias han hecho de la franquicia una de las más destacadas dentro de los videojuegos en primera persona.",
         "price": 4900,
-        "offerPrice": 3990 ,
+        "offerPrice": 4990 ,
         "image": COD_BLACK_OPS_3,
         "imageDetails": COD_BLACK_OPS_3,
         "Date": 17/12/2013,
-        "precioReventa": 3500
+        "precioReventa": 4500
         },
     { 
         "id": 240,  
@@ -518,7 +518,7 @@ const data = [
         "image": CALL_OF_DUTY_BLACK_OPS_2,
         "imageDetails": CALL_OF_DUTY_BLACK_OPS_2,
         "Date": 12/11/2012,
-        "precioReventa": 3900
+        "precioReventa": 4500
         },
     { 
         "id": 241,  
@@ -531,7 +531,7 @@ const data = [
         "image": FIFA_STREET,
         "imageDetails": FIFA_STREET,
         "Date": 12/11/2012,
-        "precioReventa": 3300
+        "precioReventa": 3500
         },
     { 
         "id": 242,  
@@ -540,11 +540,11 @@ const data = [
         "gender":"Accion",
         "description":"¡Prepárate para un viaje mágico a Hogwarts con LEGO Harry Potter en PS3!. Revive las aventuras de Harry, Hermione y Ron mientras exploras el mundo mágico en bloques. ¡Desata tu magia con este emocionante juego lleno de hechizos, misterios y diversión para toda la familia!",
         "price": 6900,
-        "offerPrice": 3990 ,
+        "offerPrice": 4990 ,
         "image": LEGO_HARRY_POTTER,
         "imageDetails": LEGO_HARRY_POTTER,
         "Date": 24/6/2010,
-        "precioReventa": 3500
+        "precioReventa": 4500
         },
     { 
         "id": 243,  
@@ -553,11 +553,11 @@ const data = [
         "gender":"Accion",
         "description":"¡Prepárate para experimentar la auténtica vida en el campo con Farming Simulator 15 para PS3! Sumérgete en la emoción de cultivar tus propias tierras, criar animales y gestionar tu propia granja.",
         "price": 4900,
-        "offerPrice": 4500 ,
+        "offerPrice": 4900 ,
         "image": FARMING_SIMULATOR_15,
         "imageDetails": FARMING_SIMULATOR_15,
         "Date": 30/9/2014,
-        "precioReventa": 3900
+        "precioReventa": 4500
         },
     { 
         "id": 244,  
@@ -566,11 +566,11 @@ const data = [
         "gender":"Carreras",
         "description":"¡Prepárate para una experiencia de conducción inigualable con Gran Turismo 6 para PS3! Domina el volante de los coches más emblemáticos del mundo en pistas realistas y desafiantes. Con gráficos impresionantes y controles precisos, sentirás la emoción de la competición como nunca antes.",
         "price": 10900,
-        "offerPrice": 7900 ,
+        "offerPrice": 8900 ,
         "image": GRAN_TURISMO_6,
         "imageDetails": GRAN_TURISMO_6,
         "Date": 9/12/2013,
-        "precioReventa": 5900
+        "precioReventa": 7900
         },
     { 
         "id": 245,  
@@ -579,11 +579,11 @@ const data = [
         "gender":"Accion",
         "description":"¡Prepárate para una experiencia de conducción inigualable con Gran Turismo 6 para PS3! Domina el volante de los coches más emblemáticos del mundo en pistas realistas y desafiantes. Con gráficos impresionantes y controles precisos, sentirás la emoción de la competición como nunca antes.",
         "price": 9900,
-        "offerPrice": 7900 ,
+        "offerPrice": 8900 ,
         "image": ULTIMATE_ACTION_TRIPLE_PACK,
         "imageDetails": ULTIMATE_ACTION_TRIPLE_PACK,
         "Date": 31/9/2014,
-        "precioReventa": 6900
+        "precioReventa": 7900
         },
     { 
         "id": 246,  
@@ -592,11 +592,11 @@ const data = [
         "gender":"Accion",
         "description":"¡Experimenta la icónica saga GTA en su máximo esplendor con GTA San Andreas para PS3! Sumérgete en el vibrante mundo abierto de Los Santos y sus alrededores mientras asumes el papel de Carl “CJ” Johnson, un ex pandillero que regresa a su hogar para enfrentar su pasado turbulento.",
         "price": 9900,
-        "offerPrice": 7900 ,
+        "offerPrice": 8900 ,
         "image": GTA_SAN_ANDREAS_PS3,
         "imageDetails": GTA_SAN_ANDREAS_PS3,
         "Date": 31/9/2014,
-        "precioReventa": 5900
+        "precioReventa": 7900
         },
     { 
         "id": 247,  
@@ -631,11 +631,11 @@ const data = [
         "gender":"Accion",
         "description":"Domina los terrenos más desafiantes del mundo mientras compites contra los mejores pilotos en una variedad de circuitos y condiciones climáticas extremas.",
         "price": 9900,
-        "offerPrice": 7900 ,
+        "offerPrice": 8900 ,
         "image": DIRT_3,
         "imageDetails": DIRT_3,
         "Date": 18/11/2014,
-        "precioReventa": 5900
+        "precioReventa": 7900
         },
     { 
         "id": 250,  
@@ -687,7 +687,7 @@ const data = [
         "image": PES_2018,
         "imageDetails": PES_2018,
         "Date": 12/9/2017,
-        "precioReventa": 2900
+        "precioReventa": 3000
         },
     { 
         "id": 254,  
@@ -708,12 +708,12 @@ const data = [
         "category": "PS3",
         "gender":"Deportes",
         "description":"Sumérgete en la cancha con gráficos de vanguardia, controles precisos y una jugabilidad inmersiva que te hará sentir como un verdadero profesional.",
-        "price": 7900,
-        "offerPrice": 4900 ,
+        "price": 12900,
+        "offerPrice": 9900 ,
         "image": NBA_2K18,
         "imageDetails": NBA_2K18,
         "Date": 15/9/2015,
-        "precioReventa": 3900
+        "precioReventa": 9000
         },
     { 
         "id": 256,  
@@ -721,12 +721,12 @@ const data = [
         "category": "PS3",
         "gender":"Deportes",
         "description":"Sumérgete en la cancha con gráficos de vanguardia, controles precisos y una jugabilidad inmersiva que te hará sentir como un verdadero profesional.",
-        "price": 4900,
+        "price": 5900,
         "offerPrice": 0 ,
         "image": NBA_2K17,
         "imageDetails": NBA_2K17,
         "Date": 15/9/2015,
-        "precioReventa": 3900
+        "precioReventa": 5900
         },
     { 
         "id": 257,  
@@ -734,12 +734,12 @@ const data = [
         "category": "PS3",
         "gender":"Deportes",
         "description":"Sumérgete en la cancha con gráficos de vanguardia, controles precisos y una jugabilidad inmersiva que te hará sentir como un verdadero profesional.",
-        "price": 4900,
+        "price": 5900,
         "offerPrice": 0 ,
         "image": NBA_2K16,
         "imageDetails": NBA_2K16,
         "Date": 15/9/2015,
-        "precioReventa": 3900
+        "precioReventa": 5900
         },
     { 
         "id": 258,  
@@ -760,12 +760,12 @@ const data = [
         "category": "PS3",
         "gender":"Lucha",
         "description":"¡Prepárate para la acción y la emoción en el ring con WWE 2K17 para PS3! Sumérgete en el mundo del wrestling profesional con gráficos impresionantes, movimientos realistas y una auténtica experiencia de lucha libre. Domina el cuadrilátero con una amplia selección de superestrellas de la WWE, incluidas leyendas icónicas y nuevos talentos emergentes",
-        "price": 4900,
-        "offerPrice": 4000 ,
+        "price": 8900,
+        "offerPrice": 6900 ,
         "image": W_2K17,
         "imageDetails": W_2K17,
         "Date": 11/10/2016,
-        "precioReventa": 3900
+        "precioReventa": 6000
         },
     { 
         "id": 260,  
@@ -773,12 +773,12 @@ const data = [
         "category": "PS3",
         "gender":"Lucha",
         "description":"¡Prepárate para la batalla definitiva en Mortal Kombat 9 Komplete Edition para PS3! Experimenta la brutalidad sin límites con gráficos impresionantes, combates intensos y una historia cautivadora. ¡Domina a tus oponentes con movimientos especiales y fatalities asombrosos.",
-        "price": 5900,
-        "offerPrice": 4900 ,
+        "price": 10900,
+        "offerPrice": 7900 ,
         "image": MORTAL_KOMBAT_KOMPLETE_EDITION,
         "imageDetails": MORTAL_KOMBAT_KOMPLETE_EDITION,
         "Date": 19/4/2011,
-        "precioReventa": 3990
+        "precioReventa": 7000
         },
     { 
         "id": 261,  
@@ -786,12 +786,12 @@ const data = [
         "category": "PS3",
         "gender":"Lucha",
         "description":"Con Ultra Street Fighter IV para PS3! Sumérgete en el emocionante mundo de la lucha callejera con este juego de lucha legendario. Con gráficos mejorados y una jugabilidad fluida, cada combate es una experiencia épica llena de adrenalina.",
-        "price": 4900,
-        "offerPrice": 4500 ,
+        "price": 8900,
+        "offerPrice": 6500 ,
         "image": ULTRA_STREET_FIGHTER,
         "imageDetails": ULTRA_STREET_FIGHTER,
         "Date": 18/4/2014,
-        "precioReventa": 3990
+        "precioReventa": 6000
         },
     { 
         "id": 262,  
@@ -799,12 +799,12 @@ const data = [
         "category": "PS3",
         "gender":"Lucha",
         "description":"¡Prepárate para la pelea de tu vida con Fight Night Champion para PS3! Sumérgete en un mundo de boxeo ultra realista donde cada golpe cuenta. Experimenta gráficos impresionantes, controles intuitivos y una jugabilidad inmersiva que te dejará sin aliento.",
-        "price": 3900,
+        "price": 5900,
         "offerPrice": 0 ,
         "image": FIGHT_NIGHT_CHAMPION,
         "imageDetails": FIGHT_NIGHT_CHAMPION,
         "Date": 26/4/2010,
-        "precioReventa": 3500
+        "precioReventa": 5500
         },
     { 
         "id": 263,  
@@ -813,11 +813,11 @@ const data = [
         "gender":"Carreras",
         "description":"¡Prepárate para vivir la emoción de las carreras con Cars 3 para PS3! En este trepidante juego, te sumergirás en el mundo de Rayo McQueen y sus amigos, compitiendo en emocionantes pistas y desafiando tus habilidades de conducción al límite.",
         "price": 5900,
-        "offerPrice": 3900 ,
+        "offerPrice": 4900 ,
         "image": CARS_3_DRIVEN_TO_WIN_PS3,
         "imageDetails": CARS_3_DRIVEN_TO_WIN_PS3,
         "Date": 13/5/2017,
-        "precioReventa": 2990
+        "precioReventa": 3990
         },
     { 
         "id": 264,  
@@ -825,12 +825,12 @@ const data = [
         "category": "PS3",
         "gender":"Carreras",
         "description":"¡Prepárate para sentir la emoción de la Fórmula 1 en tus manos con F1 2014 para PS3! Sumérgete en el mundo de las carreras de alta velocidad con gráficos impresionantes y una jugabilidad increíblemente realista. Conduce por los circuitos más emblemáticos del mundo mientras compites contra los mejores pilotos del deporte.",
-        "price": 5900,
-        "offerPrice": 4900  ,
+        "price": 9900,
+        "offerPrice": 6900  ,
         "image": F1_2014,
         "imageDetails": F1_2014,
         "Date": 13/5/2017,
-        "precioReventa": 3900
+        "precioReventa": 6900
         },
     { 
         "id": 265,  
@@ -838,12 +838,12 @@ const data = [
         "category": "PS3",
         "gender":"Carreras",
         "description":"¡Prepárate para sentir la emoción de la Fórmula 1 en tus manos con F1 2014 para PS3! Sumérgete en el mundo de las carreras de alta velocidad con gráficos impresionantes y una jugabilidad increíblemente realista. Conduce por los circuitos más emblemáticos del mundo mientras compites contra los mejores pilotos del deporte.",
-        "price": 5900,
-        "offerPrice": 4900  ,
+        "price": 9900,
+        "offerPrice": 6900  ,
         "image": MOTO_GP_15,
         "imageDetails": MOTO_GP_15,
         "Date": 24/6/2015,
-        "precioReventa": 3900
+        "precioReventa": 6900
         },
     { 
         "id": 266,  
@@ -851,12 +851,12 @@ const data = [
         "category": "PS3",
         "gender":"Carreras",
         "description":"¡Prepárate para sentir la emoción de la Fórmula 1 en tus manos con F1 2014 para PS3! Sumérgete en el mundo de las carreras de alta velocidad con gráficos impresionantes y una jugabilidad increíblemente realista. Conduce por los circuitos más emblemáticos del mundo mientras compites contra los mejores pilotos del deporte.",
-        "price": 4900,
-        "offerPrice": 3990  ,
+        "price": 7900,
+        "offerPrice": 5990  ,
         "image": WRC_4,
         "imageDetails": WRC_4,
         "Date": 24/6/2015,
-        "precioReventa": 3500
+        "precioReventa": 5500
         },
     { 
         "id": 267,  
@@ -869,7 +869,7 @@ const data = [
         "image": NEED_FOR_SPEED_RIVALS,
         "imageDetails": NEED_FOR_SPEED_RIVALS,
         "Date": 15/11/2013,
-        "precioReventa": 7900
+        "precioReventa": 8900
         },
     { 
         "id": 268,  
@@ -877,12 +877,12 @@ const data = [
         "category": "PS3",
         "gender":"Carreras",
         "description":"¡Prepárate para la emoción de la competición más intensa en el mundo del rally! Con WRC 5 para PS3, experimentarás la adrenalina de correr por los terrenos más desafiantes del mundo. Desde nevados paisajes hasta peligrosos caminos de tierra, cada carrera te llevará al límite de tus habilidades de conducción.",
-        "price": 4900,
-        "offerPrice": 4500,
+        "price": 10900,
+        "offerPrice": 7500,
         "image": WRC_5,
         "imageDetails": WRC_5,
         "Date": 15/11/2013,
-        "precioReventa": 3900
+        "precioReventa": 6900
         },
     { 
         "id": 269,  
@@ -890,12 +890,12 @@ const data = [
         "category": "PS3",
         "gender":"Carreras",
         "description":"¡Prepárate para la batalla más divertida y loca con Plants vs. Zombies Garden Warfare para PS3! Sumérgete en un mundo lleno de acción, estrategia y diversión sin fin mientras las plantas y los zombis se enfrentan en épicas batallas.",
-        "price": 3900,
+        "price": 4900,
         "offerPrice": 0  ,
         "image": PLANTS_VS_ZOMBIES_GARDEN_WARFARE,
         "imageDetails": PLANTS_VS_ZOMBIES_GARDEN_WARFARE,
         "Date": 5/5/2009,
-        "precioReventa": 3000
+        "precioReventa": 4000
         },
     { 
         "id": 270,  
@@ -903,12 +903,12 @@ const data = [
         "category": "PS3",
         "gender":"Aventura",
         "description":"¡Experimenta la emoción de Jurassic World en LEGO! Únete a tus dinosaurios favoritos y revive momentos épicos de la película mientras construyes y exploras. Sumérgete en la aventura ahora.",
-        "price": 3900,
+        "price": 5900,
         "offerPrice": 0 ,
         "image": LEGO_JURASSIC_WORLD,
         "imageDetails": LEGO_JURASSIC_WORLD,
         "Date": 12/6/2015,
-        "precioReventa": 3000
+        "precioReventa": 5500
         },
     { 
         "id": 271,  
@@ -916,12 +916,12 @@ const data = [
         "category": "PS3",
         "gender":"Aventura",
         "description":"¡Prepárate para la aventura definitiva de Batman en LEGO Batman 3 para PS3! Únete al Caballero Oscuro y otros héroes en una misión para salvar el universo de villanos cósmicos. Explora mundos increíbles, resuelve acertijos desafiantes y lucha contra enemigos poderosos mientras desbloqueas personajes y habilidades nuevas.",
-        "price": 4900,
+        "price": 5900,
         "offerPrice": 0  ,
         "image": BATMAN_3_BEYOND_GOTHAM,
         "imageDetails": BATMAN_3_BEYOND_GOTHAM,
         "Date": 11/11/2014,
-        "precioReventa": 3990
+        "precioReventa": 4990
         },
     { 
         "id": 272,  
@@ -929,12 +929,12 @@ const data = [
         "category": "PS3",
         "gender":"Aventura",
         "description":"¡Únete a los superhéroes de Marvel en una aventura épica con LEGO Marvel Avengers para PS3! Disfruta de emocionantes misiones, combates divertidos y la libertad de explorar el vasto universo de Marvel. ¡Construye, lucha y salva el mundo!",
-        "price": 4900,
+        "price": 7900,
         "offerPrice": 0  ,
         "image": LEGO_MARVEL_AVENGERS,
         "imageDetails": LEGO_MARVEL_AVENGERS,
         "Date": 26/1/2016,
-        "precioReventa": 3990
+        "precioReventa": 6990
         },
     { 
         "id": 273,  
@@ -942,12 +942,12 @@ const data = [
         "category": "PS3",
         "gender":"Aventura",
         "description":"¡Embárcate en una emocionante aventura con Minecraft Story Mode para PS3! Descubre un mundo de bloques lleno de misterios, desafíos y decisiones que cambiarán tu destino. Cada elección que tomes influirá en el curso de tu épica historia. Explora nuevos mundos, forja amistades inesperadas y enfréntate a peligrosos enemigos. Esta edicion incluye todos los episodios.",
-        "price": 7900,
-        "offerPrice":  5900 ,
+        "price": 10900,
+        "offerPrice":  7900 ,
         "image": MINECRAFT_STORY_MODE,
         "imageDetails": MINECRAFT_STORY_MODE,
         "Date": 13/10/2015,
-        "precioReventa": 4900
+        "precioReventa": 7900
         },
     { 
         "id": 274,  
@@ -955,12 +955,12 @@ const data = [
         "category": "PS3",
         "gender":"Carreras",
         "description":"¡Sumérgete en una experiencia de juego única con Sonic Generations para PS3! Este juego combina lo mejor de los clásicos y los modernos en una aventura llena de velocidad y diversión. Corre a través de niveles emblemáticos mientras juegas como el clásico Sonic o su versión moderna, cada uno con habilidades únicas.",
-        "price": 7900,
-        "offerPrice": 5900  ,
+        "price": 10900,
+        "offerPrice": 8900  ,
         "image": SONIC_GENERATIONS,
         "imageDetails": SONIC_GENERATIONS,
         "Date": 1/1/2011,
-        "precioReventa": 4990
+        "precioReventa": 7990
         },
     { 
         "id": 275,  
@@ -969,11 +969,11 @@ const data = [
         "gender":"Accion",
         "description":"¡Sumérgete en un mundo de hackeo y acción trepidante con Watch Dogs para PS3! Controla la ciudad de Chicago con tus habilidades de hackeo, desde cambiar los semáforos hasta acceder a información confidencial. ¡Cada decisión cuenta en este emocionante juego de mundo abierto.",
         "price": 6900,
-        "offerPrice": 3900  ,
+        "offerPrice": 4900  ,
         "image": WATCH_DOGS,
         "imageDetails": WATCH_DOGS,
         "Date": 26/5/2014,
-        "precioReventa": 3500
+        "precioReventa": 4500
         },
     { 
         "id": 276,  
@@ -986,7 +986,7 @@ const data = [
         "image": UNCHARTED_3_DRAKE_DECEPTION,
         "imageDetails": UNCHARTED_3_DRAKE_DECEPTION,
         "Date": 1/11/2011,
-        "precioReventa": 5500
+        "precioReventa": 7500
         },
     { 
         "id": 277,  
@@ -994,12 +994,12 @@ const data = [
         "category": "PS3",
         "gender":"Accion",
         "description":"Sumérgete en el apocalipsis de The Last of Us para PS3. Vive una emocionante narrativa, gráficos impresionantes y una jugabilidad envolvente. ¡Una obra maestra del gaming que no te puedes perder!",
-        "price": 6900,
-        "offerPrice": 4900 ,
+        "price": 10900,
+        "offerPrice": 8900 ,
         "image": THE_LAST_OF_US,
         "imageDetails": THE_LAST_OF_US,
         "Date": 14/6/2013,
-        "precioReventa": 3990
+        "precioReventa": 7990
         },
     { 
         "id": 278,  
@@ -1007,12 +1007,12 @@ const data = [
         "category": "PS3",
         "gender":"Accion",
         "description":"¡Prepárate para una experiencia aterradora llena de suspenso con The Evil Within para PS3, criaturas terroríficas y giros impactantes en este juego de survival horror de alta calidad! Los jugadores vivirán la tensión junto al detective Sebastian Castellanos quien descubrirá un misterioso secreto que lo dejará inmerso en una pesadilla.",
-        "price": 3900,
+        "price": 5900,
         "offerPrice": 0  ,
         "image": THE_EVIL_WITHIN,
         "imageDetails": THE_EVIL_WITHIN,
         "Date": 14/10/2014,
-        "precioReventa": 3500
+        "precioReventa": 5500
         },
     { 
         "id": 279,  
@@ -1020,12 +1020,12 @@ const data = [
         "category": "PS3",
         "gender":"Accion",
         "description":"¡Prepárate para la acción y la precisión con Sniper Elite 3 Ultimate para PS3! Sumérgete en intensas misiones de francotirador en entornos realistas y disfruta de la emoción de eliminar objetivos a larga distancia. Con gráficos impresionantes y una jugabilidad emocionante, ¡este juego te mantendrá al borde de tu asiento!",
-        "price": 3900,
+        "price": 5900,
         "offerPrice": 0  ,
         "image": SNIPER_ELITE_3_ULTIMATE_EDITION,
         "imageDetails": SNIPER_ELITE_3_ULTIMATE_EDITION,
         "Date": 26/6/2014,
-        "precioReventa": 3500
+        "precioReventa": 5500
         },
     { 
         "id": 280,  
@@ -1034,11 +1034,11 @@ const data = [
         "gender":"Accion",
         "description":"¡Sumérgete en la épica aventura de Middle Earth Shadow of Mordor para PS3! Domina el poder del Anillo Único y desafía a Sauron en un emocionante mundo abierto. ¡Combina sigilo, combate y estrategia para forjar tu propio destino en la Tierra Media!",
         "price": 6900,
-        "offerPrice":3900 ,
+        "offerPrice":5900 ,
         "image": SHADOW_OF_MORDOR,
         "imageDetails": SHADOW_OF_MORDOR,
         "Date": 30/9/2014,
-        "precioReventa": 3900
+        "precioReventa": 5900
         },
     { 
         "id": 281,  
@@ -1046,12 +1046,12 @@ const data = [
         "category": "PS3",
         "gender":"Accion",
         "description":"¡Sumérgete en el caos y la emoción con Resident Evil 6 Ultimate Edition para PS3! Experimenta una aventura épica llena de acción, terror y giros inesperados. Domina habilidades únicas de combate y lucha contra hordas de enemigos para salvar el mundo",
-        "price": 6900,
-        "offerPrice": 3900  ,
+        "price": 10900,
+        "offerPrice": 7900  ,
         "image": RESIDENT_EVIL_6,
         "imageDetails": RESIDENT_EVIL_6,
         "Date": 2/10/2012,
-        "precioReventa": 2900
+        "precioReventa": 7900
         },
     { 
         "id": 282,  
@@ -1059,12 +1059,12 @@ const data = [
         "category": "PS3",
         "gender":"Accion",
         "description":"¡Experimenta el apocalipsis zombi en alta definición con Resident Evil 5 Gold para PS3! Únete a Chris Redfield y Sheva Alomar en una lucha desesperada contra las fuerzas del mal en África. ¡Prepárate para sobrevivir en un mundo infestado de monstruos y conspiraciones mortales!",
-        "price": 5900,
-        "offerPrice": 4900  ,
+        "price": 9900,
+        "offerPrice": 6900  ,
         "image": RESIDENT_EVIL_5_PS3,
         "imageDetails": RESIDENT_EVIL_5_PS3,
         "Date": 2/10/2012,
-        "precioReventa": 3990
+        "precioReventa": 6500
         },
     { 
         "id": 283,  
@@ -1072,12 +1072,12 @@ const data = [
         "category": "PS3",
         "gender":"Accion",
         "description":"¡Sumérgete en el legendario Salvaje Oeste con Red Dead Redemption para PS3! Embárcate en una épica aventura llena de acción, forajidos, y paisajes impresionantes. Descubre secretos, completa misiones emocionantes y vive la vida del vaquero definitivo.",
-        "price": 10900,
-        "offerPrice": 8900  ,
+        "price": 14900,
+        "offerPrice": 9900  ,
         "image": RED_DEAD_REDEMPTION,
         "imageDetails": RED_DEAD_REDEMPTION,
         "Date": 18/5/2010,
-        "precioReventa": 7900
+        "precioReventa": 9900
         },
     { 
         "id": 284,  
@@ -1086,11 +1086,11 @@ const data = [
         "gender":"Accion",
         "description":"¡Sumérgete en el legendario Salvaje Oeste con Red Dead Redemption para PS3! Embárcate en una épica aventura llena de acción, forajidos, y paisajes impresionantes. Descubre secretos, completa misiones emocionantes y vive la vida del vaquero definitivo. Incluye DLC Undead Nightmare.",
         "price": 19900,
-        "offerPrice": 12900  ,
+        "offerPrice": 14900  ,
         "image": RED_DEAD_REDEMPTION_YEAR_EDITION,
         "imageDetails": RED_DEAD_REDEMPTION_YEAR_EDITION,
         "Date": 18/5/2010,
-        "precioReventa": 11900
+        "precioReventa": 14900
         },
     { 
         "id": 285,  
@@ -1111,12 +1111,12 @@ const data = [
         "category": "PS3",
         "gender":"Carreras",
         "description":"Sumérgete en un mundo de velocidad y adrenalina mientras compites en desafiantes carreras y evitas a la policía en emocionantes persecuciones. Personaliza tu auto, domina las calles y demuestra que eres el mejor corredor.",
-        "price": 5900,
+        "price": 7900,
         "offerPrice": 0  ,
         "image": NEED_FOR_SPEED_MOST_WANTED,
         "imageDetails": NEED_FOR_SPEED_MOST_WANTED,
         "Date": 30/10/2012,
-        "precioReventa": 3990
+        "precioReventa": 6990
         },
     { 
         "id": 287,  
@@ -1124,12 +1124,12 @@ const data = [
         "category": "PS3",
         "gender":"Accion",
         "description":"¡Prepárate para la batalla definitiva en Naruto Shippuden: Ultimate Ninja Storm Revolution para PS3! Domina técnicas ninja, desbloquea poderosos personajes y participa en intensas peleas en este emocionante juego de lucha.",
-        "price": 5900,
+        "price": 8900,
         "offerPrice": 0  ,
         "image": NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM,
         "imageDetails": NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM,
         "Date": 11/9/2014,
-        "precioReventa": 3990
+        "precioReventa": 7990
         },
     { 
         "id": 288,  
@@ -1137,12 +1137,12 @@ const data = [
         "category": "PS3",
         "gender":"Accion",
         "description":"Prepárate para una aventura épica con Metal Gear Solid V! Experimenta la emoción del sigilo y la acción en este juego increíblemente detallado y persuasivo. ¡Compra ahora y descubre la magia de Metal Gear Solid V en tu PS3!",
-        "price": 3900,
+        "price": 5900,
         "offerPrice": 0  ,
         "image": METAL_GEAR_SOLID_V,
         "imageDetails": METAL_GEAR_SOLID_V,
         "Date": 1/9/2015,
-        "precioReventa": 2900
+        "precioReventa": 5900
         },
     { 
         "id": 289,  
@@ -1150,12 +1150,12 @@ const data = [
         "category": "PS3",
         "gender":"Accion",
         "description":"Experimenta el sigilo de alta calidad y la emocionante jugabilidad táctica en este título épico de la aclamada serie Metal Gear. Embárcate en misiones secretas, desbloquea habilidades y sumérgete en una narrativa envolvente. ¡Consigue ya este increíble juego de acción furtiva para tu consola PS3 y vive una experiencia inolvidable!",
-        "price": 4900,
+        "price": 5900,
         "offerPrice": 0  ,
         "image": METAL_GEAR_SOLID_THE_PANTOM_PAIN,
         "imageDetails": METAL_GEAR_SOLID_THE_PANTOM_PAIN,
         "Date": 18/3/2014,
-        "precioReventa": 3900
+        "precioReventa": 5900
         },
     { 
         "id": 290,  
@@ -1163,12 +1163,12 @@ const data = [
         "category": "PS3",
         "gender":"Aventura",
         "description":"¡Descubre un mundo lleno de creatividad y diversión en Little Big Planet 3 para PS3! Únete a Sackboy y sus amigos en emocionantes aventuras, personaliza tu propio nivel y disfruta de horas de entretenimiento y creatividad ilimitada con este emocionante juego!",
-        "price": 6000,
-        "offerPrice": 4900 ,
+        "price": 9000,
+        "offerPrice": 6900 ,
         "image": LITTLE_BIG_PLANET_3,
         "imageDetails": LITTLE_BIG_PLANET_3,
         "Date": 18/11/2014,
-        "precioReventa": 2900
+        "precioReventa": 6900
         },
     { 
         "id": 291,  
@@ -1176,12 +1176,12 @@ const data = [
         "category": "PS3",
         "gender":"Danza",
         "description":"¡Prepárate para bailar sin parar con Just Dance 2018 para PS3! Con los últimos éxitos musicales, modos de juego emocionantes y gráficos impresionantes, esta entrega lleva la diversión a otro nivel y desata tu ritmo interior!",
-        "price": 5900,
+        "price": 9900,
         "offerPrice":0 ,
         "image": JUST_DANCE_2018,
         "imageDetails": JUST_DANCE_2018,
         "Date": 18/11/2014,
-        "precioReventa": 4590
+        "precioReventa": 9590
         },
     { 
         "id": 292,  
@@ -1189,12 +1189,12 @@ const data = [
         "category": "PS3",
         "gender":"Danza",
         "description":"¡Lleva la fiesta a tu hogar con Just Dance 2017 para PS3! Con más de 40 éxitos musicales y coreografías vibrantes, este juego te hará moverte y sudar. Con controles intuitivos y modos de juego emocionantes, ¡prepárate para bailar toda la noche!",
-        "price": 6900,
+        "price": 9900,
         "offerPrice": 0,
         "image": JUST_DANCE_2017,
         "imageDetails": JUST_DANCE_2017,
         "Date": 18/11/2014,
-        "precioReventa": 5900
+        "precioReventa": 9900
         },
     { 
         "id": 293,  
@@ -1202,12 +1202,12 @@ const data = [
         "category": "PS3",
         "gender":"Accion",
         "description":"¡Experimenta la batalla definitiva entre héroes y villanos en Injustice: Gods Among Us Ultimate Edition para PS3! Desbloquea personajes icónicos, domina poderes sobrenaturales y lucha por la justicia en este emocionante juego de lucha. ¡Tenelo ahora!",
-        "price": 3900,
+        "price": 5900,
         "offerPrice": 0 ,
         "image": INJUSTICE_GODS_AMONG_US_ULTIMATE_EDITION,
         "imageDetails": INJUSTICE_GODS_AMONG_US_ULTIMATE_EDITION,
         "Date": 16/4/2013,
-        "precioReventa": 3000
+        "precioReventa": 5000
         },
     { 
         "id": 294,  
@@ -1215,12 +1215,12 @@ const data = [
         "category": "PS3",
         "gender":"Accion",
         "description":"¡Experimenta la adrenalina del sigilo y la estrategia con Hitman Absolution! Sumérgete en un mundo de intrigas y misterios mientras ejecutas misiones emocionantes. Descarga ahora y demuestra tus habilidades de asesino.",
-        "price": 4900,
+        "price": 7900,
         "offerPrice": 0 ,
         "image": HITMAN_ABSOLUTION,
         "imageDetails": HITMAN_ABSOLUTION,
         "Date": 20/11/2012,
-        "precioReventa": 3900
+        "precioReventa": 7900
         },
     { 
         "id": 295,  
@@ -1228,12 +1228,12 @@ const data = [
         "category": "PS3",
         "gender":"Accion",
         "description":"¡Prepárate para la aventura definitiva en Los Santos con GTA V para PS3! Explora un vasto mundo abierto lleno de acción, misiones emocionantes y personajes inolvidables. ¡Descubre por qué este juego es un clásico imperdible!",
-        "price": 5900,
-        "offerPrice": 3900  ,
+        "price": 9900,
+        "offerPrice": 6900  ,
         "image": GTA_V_PS3,
         "imageDetails": GTA_V_PS3,
         "Date": 17/9/2013,
-        "precioReventa": 3500
+        "precioReventa": 6500
         },
     { 
         "id": 296,  
@@ -1241,12 +1241,12 @@ const data = [
         "category": "PS3",
         "gender":"Accion",
         "description":"¡Prepárate para vivir la épica batalla de God of War: Ascension en PS3! Sumérgete en un mundo mitológico repleto de acción, gráficos impresionantes y una narrativa envolvente. Domina poderes divinos y enfrenta desafíos épicos. ¡Tenelo hoy mismo y únete a la leyenda!",
-        "price": 6900,
-        "offerPrice": 4900  ,
+        "price": 12900,
+        "offerPrice": 8900  ,
         "image": GOD_OF_WAR_ASENSION,
         "imageDetails": GOD_OF_WAR_ASENSION,
         "Date": 17/9/2013,
-        "precioReventa": 3990
+        "precioReventa": 7990
         },
         { 
         "id": 297,  
@@ -1254,12 +1254,12 @@ const data = [
         "category": "PS3",
         "gender":"Accion",
         "description":"Esta precuela revela las verdades que dan sentido a toda la saga en una edición remasterizada pero con lo mejor del juego original. Los jugadores podrán revivir horas de tensión con capítulos llenos de suspenso, desafíos, misterios y, sobre todo, enemigos.",
-        "price": 6900,
-        "offerPrice": 4900  ,
+        "price": 9900,
+        "offerPrice": 7900  ,
         "image": RESIDENT_EVIL_0,
         "imageDetails": RESIDENT_EVIL_0,
         "Date": 17/9/2013,
-        "precioReventa": 3990
+        "precioReventa": 6990
         },
         { 
         "id": 298,  
@@ -1267,12 +1267,12 @@ const data = [
         "category": "PS3",
         "gender":"Accion",
         "description":"Ambientada en escenarios urbanos, esta entrega se aleja de las guerras clásicas para sumergirse en un drama policial moderno. En el rol de Nick Mendoza, los jugadores deberán conseguir restablecer o infringir el orden, depende de qué lado de la ley elijan.",
-        "price": 6900,
-        "offerPrice": 3900  ,
+        "price": 10900,
+        "offerPrice": 6900  ,
         "image": BATTLEFIELD_HARDLINE,
         "imageDetails": BATTLEFIELD_HARDLINE,
         "Date": 17/9/2013,
-        "precioReventa": 2900
+        "precioReventa": 6900
         },
         { 
         "id": 299,  
@@ -1280,12 +1280,12 @@ const data = [
         "category": "PS3",
         "gender":"Accion",
         "description":"Nuevos mapas y una misteriosa ciudad son dos de las principales características de esta entrega. Con un giro en la historia, los jugadores serán protagonistas de impresionantes batallas en un entorno impredecible, con más de 400 artículos para personalizar un estilo de pelea como nunca antes.",
-        "price": 6900,
-        "offerPrice": 3900  ,
+        "price": 8900,
+        "offerPrice": 6900  ,
         "image": DRAGON_BALL_XENOVERSE,
         "imageDetails": DRAGON_BALL_XENOVERSE,
         "Date": 17/9/2013,
-        "precioReventa": 2990
+        "precioReventa": 5990
         },
         { 
         "id": 300,  
@@ -1293,12 +1293,12 @@ const data = [
         "category": "PS3",
         "gender":"Accion",
         "description":"Nuevos mapas y una misteriosa ciudad son dos de las principales características de esta entrega. Con un giro en la historia, los jugadores serán protagonistas de impresionantes batallas en un entorno impredecible, con más de 400 artículos para personalizar un estilo de pelea como nunca antes.",
-        "price": 6900,
-        "offerPrice": 5900  ,
+        "price": 12900,
+        "offerPrice": 8900  ,
         "image": XENOVERSE_DLC,
         "imageDetails": XENOVERSE_DLC,
         "Date": 17/9/2013,
-        "precioReventa": 3990
+        "precioReventa": 7990
         },
         { 
             "id": 301,  
@@ -1306,12 +1306,12 @@ const data = [
             "category": "PS3",
             "gender":"Accion",
             "description":"Una edición legendaria que reúne incluye el juego base, las expansiones I y II y The Taken King. Los jugadores podrán disfrutar de impresionantes batallas con un potenciador de personajes que permite estar listo para el combate en cualquier momento y lugar.",
-            "price": 6900,
-            "offerPrice": 4900  ,
+            "price": 10900,
+            "offerPrice": 7900  ,
             "image": DESTINY,
             "imageDetails": DESTINY,
             "Date": 17/9/2013,
-            "precioReventa": 3900
+            "precioReventa": 900
             },
             { 
             "id": 302,  
@@ -1332,12 +1332,12 @@ const data = [
             "category": "PS3",
             "gender":"Accion",
             "description":"En una atmósfera que incluye temor, peligro y un alienígena impredecible, los jugadores encarnan el papel de Amanda, quien lucha por sobrevivir y cumplir su objetivo de saber cuál es la verdad detrás de la desaparición de su madre.",
-            "price": 9900,
-            "offerPrice": 7900  ,
+            "price": 14900,
+            "offerPrice": 9900  ,
             "image": ALIEN_ISOLATION,
             "imageDetails": ALIEN_ISOLATION,
             "Date": 6/10/2014,
-            "precioReventa": 69900
+            "precioReventa": 9900
             },
             { 
             "id": 304,  
@@ -1345,12 +1345,12 @@ const data = [
             "category": "PS3",
             "gender":"Aventura",
             "description":"¡Sumérgete en la oscuridad y abraza tu destino con Assassin’s Creed Rogue para PS3! Descubre un mundo de intriga, traición y acción en esta épica aventura de mundo abierto.",
-            "price": 6900,
-            "offerPrice": 4900  ,
+            "price": 9900,
+            "offerPrice": 6900  ,
             "image": ASSASINS_CREED_ROGUE,
             "imageDetails": ASSASINS_CREED_ROGUE,
             "Date": 19/1/2014,
-            "precioReventa": 3990
+            "precioReventa": 6000
             },
             { 
             "id": 305,  
@@ -1359,11 +1359,11 @@ const data = [
             "gender":"Aventura",
             "description":"¡Zarpa hacia una aventura épica con Assassin’s Creed IV: Black Flag para PS3! Explora el Caribe como un temido pirata, lucha en batallas navales emocionantes y descubre tesoros ocultos en islas exóticas. Sumérgete en una historia épica de traición y venganza. Conviértete en el capitán de tu propio barco y domina los mares.",
             "price": 6900,
-            "offerPrice": 4900  ,
+            "offerPrice": 6900  ,
             "image": ASSASINS_CREED_BLACKFLAG,
             "imageDetails": ASSASINS_CREED_BLACKFLAG,
             "Date": 13/11/2014,
-            "precioReventa": 3990
+            "precioReventa": 5990
             },
             { 
             "id": 306,  
@@ -1372,11 +1372,11 @@ const data = [
             "gender":"Aventura",
             "description":"Una batalla en la que Eren y sus compañeros tendrán que hacer frente a los Titans, devoradores de humanos. Experimenta el mundo del anime y adéntrate de lleno en la historia.",
             "price": 12900,
-            "offerPrice": 8900  ,
+            "offerPrice": 10900  ,
             "image": ATTACK_ON_TITAN,
             "imageDetails": ATTACK_ON_TITAN,
             "Date": 19/1/2016,
-            "precioReventa": 8000
+            "precioReventa": 10000
             },
             { 
             "id": 307,  
@@ -1398,12 +1398,12 @@ const data = [
                 "category": "PS3",
                 "gender":"Accion",
                 "description":"¡Prepárate para una experiencia de combate futurista con Call of Duty Advanced Warfare para PS3 Digital! Domina el campo de batalla con armas avanzadas, gráficos impresionantes y un modo multijugador emocionante.",
-                "price": 7900,
-                "offerPrice": 4900  ,
+                "price": 10900,
+                "offerPrice": 8900  ,
                 "image": CALL_OF_DUTY_ADVANCED_WARFARE,
                 "imageDetails": CALL_OF_DUTY_ADVANCED_WARFARE,
                 "Date": 3/11/2014,
-                "precioReventa": 4500
+                "precioReventa": 8500
             },
         { 
             "id": 309,  
@@ -1411,12 +1411,12 @@ const data = [
             "category": "PS3",
             "gender":"Accion",
             "description":"¡Prepárate para la batalla con Call of Duty Ghosts para PS3 Digital! Sumérgete en un mundo de combate intenso y emocionante. Domina el campo de batalla con armas poderosas y modos de juego emocionantes. Descarga ahora y únete a la acción.",
-            "price": 7900,
-            "offerPrice": 5900  ,
+            "price": 10900,
+            "offerPrice": 8900  ,
             "image": CALL_OF_DUTY_GHOSTS,
             "imageDetails": CALL_OF_DUTY_GHOSTS,
             "Date": 5/11/2013,
-            "precioReventa": 4990
+            "precioReventa": 8500
         },
         { 
             "id": 310,  
@@ -1424,12 +1424,12 @@ const data = [
             "category": "PS3",
             "gender":"Carreras",
             "description":"¡Prepárate para sentir la emoción de la Fórmula 1 en tus manos con F1 2014 para PS3! Sumérgete en el mundo de las carreras de alta velocidad con gráficos impresionantes y una jugabilidad increíblemente realista. Conduce por los circuitos más emblemáticos del mundo mientras compites contra los mejores pilotos del deporte.",
-            "price": 7900,
-            "offerPrice": 4900  ,
+            "price": 9900,
+            "offerPrice": 7900  ,
             "image": F1_2014,
             "imageDetails": F1_2014,
             "Date": 17/10/2014,
-            "precioReventa": 3990
+            "precioReventa": 6990
         },
         { 
             "id": 311,  
@@ -1437,12 +1437,12 @@ const data = [
             "category": "PS3",
             "gender":"Accion",
             "description":"LEGO Star Wars: The Force Awakens presenta una nueva mecánica de juego con el sistema mejorado multiconstrucción para que los jugadores elijan entre múltiples opciones de construcción para avanzar en el juego, o participen en nuevas batallas blaster intensas por primera vez, usando el entorno para rechazar a la Primera Orden.",
-            "price": 7900,
-            "offerPrice": 4900  ,
+            "price": 12900,
+            "offerPrice": 8900  ,
             "image": LEGO_STAR_WARS_PS3,
             "imageDetails": LEGO_STAR_WARS_PS3,
             "Date": 13/6/2016,
-            "precioReventa": 3990
+            "precioReventa": 8900
         },
         { 
             "id": 312,  
@@ -1450,12 +1450,12 @@ const data = [
             "category": "PS3",
             "gender":"Accion",
             "description":"¡Embárcate en una aventura épica con LEGO Marvel Super Heroes para PS3! En este emocionante juego, podrás unirte a tus superhéroes favoritos de Marvel, como Spider-Man, Iron Man y Hulk, mientras luchas contra villanos icónicos como Loki y el Doctor ",
-            "price": 7900,
-            "offerPrice": 4900  ,
+            "price": 9900,
+            "offerPrice": 6900  ,
             "image": LEGO_MARVEL_SUPERHEROES,
             "imageDetails": LEGO_MARVEL_SUPERHEROES,
             "Date": 15/10/2013,
-            "precioReventa": 4500
+            "precioReventa": 6500
         },
         { 
             "id": 313,  
@@ -1468,7 +1468,7 @@ const data = [
             "image": MAX_PAYNE_3,
             "imageDetails": MAX_PAYNE_3,
             "Date": 15/5/2012,
-            "precioReventa": 5990
+            "precioReventa": 6900
         },
         { 
             "id": 314,  
@@ -1503,11 +1503,11 @@ const data = [
             "gender":"Accion",
             "description":"Un combo para experimentar el bien y el mal de modos completamente variados. Los jugadores podrán elegir entre peligrosas aventuras con la mafia de la mano de Vito y Joe, enfrentamientos con el ejército de mercenarios de Jason Brody o desafíos impredecibles para liberar a Kyrat de un poderoso tirano.",
             "price": 12900,
-            "offerPrice": 8490  ,
+            "offerPrice": 9500  ,
             "image": FARCRY_3_FARCRY_4,
             "imageDetails": FARCRY_3_FARCRY_4,
             "Date": 28/10/2014,
-            "precioReventa": 7990
+            "precioReventa": 8990
         },
         { 
             "id": 317,  
@@ -1520,7 +1520,7 @@ const data = [
             "image": PES_2017,
             "imageDetails": PES_2017,
             "Date": 28/10/2016,
-            "precioReventa": 1990
+            "precioReventa": 2990
         },
         { 
             "id": 318,  
@@ -1528,12 +1528,12 @@ const data = [
             "category": "PS3",
             "gender":"Accion",
             "description":"PAYDAY 2: CRIMEWAVE EDITION es un shooter cooperativo para 4 jugadores, en el que debes atracar bancos con tus amigos para sacaros una buena pasta. La edición Crimewave tiene un motor gráfico mejorado para consolas",
-            "price": 6900,
-            "offerPrice": 3690  ,
+            "price": 9900,
+            "offerPrice": 6590  ,
             "image": PAYDAY_2,
             "imageDetails": PAYDAY_2,
             "Date": 16/6/2015,
-            "precioReventa": 2990
+            "precioReventa": 5990
         },
         { 
             "id": 319,  
@@ -1541,12 +1541,12 @@ const data = [
             "category": "PS3",
             "gender":"Accion",
             "description":"Far Cry Edición Gold incluye la Edición Limitada y el pase de temporada. Está diseñada para todos los fans de la saga y para cualquier persona que quiera vivir la experiencia de juego más completa con Far Cy 4.",
-            "price": 6900,
-            "offerPrice": 5990  ,
+            "price": 9900,
+            "offerPrice": 7990  ,
             "image": FARCRY_4_GOLD_EDITION,
             "imageDetails": FARCRY_4_GOLD_EDITION,
             "Date": 18/11/2014,
-            "precioReventa": 5000
+            "precioReventa": 7000
         },
         { 
             "id": 319,  
@@ -1568,11 +1568,11 @@ const data = [
             "gender":"Accion",
             "description":"Battlefield 4 es el innovador éxito de ventas de acción a base de momentos que difuminan la línea entre el juego y la gloria. Con la potencia y la fidelidad de nueva generación de Frostbite™ 3, Battlefield 4 proporciona una experiencia visceral y dramática sin igual.",
             "price": 6900,
-            "offerPrice": 2990  ,
+            "offerPrice": 5990  ,
             "image": BATTLEFIELD_4,
             "imageDetails": BATTLEFIELD_4,
             "Date": 29/11/2013,
-            "precioReventa": 2590
+            "precioReventa": 5590
         },
         { 
             "id": 321,  
@@ -1580,12 +1580,12 @@ const data = [
             "category": "PS3",
             "gender":"Accion",
             "description":"La edición Ultimate Evil potencia el juego base con la expansión Reaper of Souls y el nuevo modo Aventura para obtener mejores recompensas. Los jugadores podrán vivir esta experiencia como brujo, cazador de demonios, monje o mago mientras aprenden a dominar nuevas habilidades y poderes mortales.",
-            "price": 8900,
-            "offerPrice": 4990  ,
+            "price": 10900,
+            "offerPrice": 8990  ,
             "image": DIABLO,
             "imageDetails": DIABLO,
             "Date": 25/3/2014,
-            "precioReventa": 4990
+            "precioReventa": 7990
         },
         { 
             "id": 323,  
@@ -1593,12 +1593,12 @@ const data = [
             "category": "PS3",
             "gender":"Accion",
             "description":"Basada en la famosa película de Disney, esta aventura para consolas trae nuevas posibilidades para vivir increíbles aventuras junto a sus protagonistas. Los jugadores deberán acompañar al Sheriff Woody y su incondicional amigo Buzz Lightyear en una misión para salvar la vida de muchos juguetes.",
-            "price": 8900,
-            "offerPrice": 4990  ,
+            "price": 10900,
+            "offerPrice": 7990  ,
             "image": TOYSTORY_3,
             "imageDetails": TOYSTORY_3,
             "Date": 15/6/2010,
-            "precioReventa": 3990
+            "precioReventa": 7990
         },
         {
         id: 1,
@@ -1609,11 +1609,11 @@ const data = [
             "Viaja por el mundo, compite en torneos icónicos y enfréntate a las mejores estrellas del tenis. Juega como Roger Federer, Serena Williams y muchos más. Domina la cancha en línea y conviértete en un campeón de Grand Slam.",
         price: 53900,
         secondaryPrice: 53000,
-        offerPrice: 35900,
+        offerPrice: 45900,
         image: TOPSPIN2K25,
         imageDetails: DETAILS_TOPSPIN2K25,
         Date: 26 / 4 / 2024,
-        precioReventa: 35,
+        precioReventa: 45,
     },
     {
         id: 2,
@@ -1624,11 +1624,11 @@ const data = [
             "Viaja por el mundo, compite en torneos icónicos y enfréntate a las mejores estrellas del tenis. Juega como Roger Federer, Serena Williams y muchos más. Domina la cancha en línea y conviértete en un campeón de Grand Slam.",
         price: 53900,
         secondaryPrice: 53000,
-        offerPrice: 35900,
+        offerPrice: 45900,
         image: TOPSPIN2K25,
         imageDetails: DETAILS_TOPSPIN2K25,
         Date: 26 / 4 / 2024,
-        precioReventa: 35,
+        precioReventa: 45,
     },
     {
         id: 3,
@@ -1654,11 +1654,11 @@ const data = [
             "Cuando la demoníaca Lilith y su temible horda se unen con las fuerzas malvadas de Hydra, llega el momento de recurrir al lado más oscuro de Marvel. Como Hunter, tu misión será llevar a la victoria a un novedoso equipo de superhéroes experimentados y de guerreros sobrenaturales. ¿Lograrán los legendarios Doctor Strange, Iron Man y Blade poner sus diferencias de lado ante la amenaza cada vez mayor de un apocalipsis? Para salvar el mundo, tendrás que crear alianzas y liderar a tu equipo: los legendarios Midnight Suns.",
         price: 53900,
         secondaryPrice: 53000,
-        offerPrice: 18900,
+        offerPrice: 20900,
         image: MIDNIGHT_SUNS, //--------------------------------------------
         imageDetails: DETAILS_MIDNIGHT_SUNS,
         Date: 7 / 10 / 2022,
-        precioReventa: 35,
+        precioReventa: 25,
     },
     {
         id: 5,
@@ -1669,11 +1669,11 @@ const data = [
             "Cuando la demoníaca Lilith y su temible horda se unen con las fuerzas malvadas de Hydra, llega el momento de recurrir al lado más oscuro de Marvel. Como Hunter, tu misión será llevar a la victoria a un novedoso equipo de superhéroes experimentados y de guerreros sobrenaturales. ¿Lograrán los legendarios Doctor Strange, Iron Man y Blade poner sus diferencias de lado ante la amenaza cada vez mayor de un apocalipsis? Para salvar el mundo, tendrás que crear alianzas y liderar a tu equipo: los legendarios Midnight Suns.",
         price: 53900,
         secondaryPrice: 53000,
-        offerPrice: 18900,
+        offerPrice: 29900,
         image: MIDNIGHT_SUNS, //--------------------------------------------
         imageDetails: DETAILS_MIDNIGHT_SUNS,
         Date: 7 / 10 / 2022,
-        precioReventa: 35,
+        precioReventa: 30,
     },
     {
         id: 6,
@@ -1774,11 +1774,11 @@ const data = [
             "Crash™ Team Racing Nitro-Fueled:La auténtica experiencia de CTR y mucho más contenido remasterizado al máximo de revoluciones. Vive la experiencia de los modos de juego, personajes, circuitos, potenciadores y controles originales. Superderrapa hacia la gloria con personajes, karts, circuitos y arenas adicionales de CTR. Arrasa a la competencia en el modo online.Spyro™ Reignited Trilogy:Las mismas quemaduras y la misma actitud ardiente, ahora a otro nivel. Reaviva el fuego con Spyro™ the Dragon, Spyro™ 2: Ripto's Rage! y Spyro™: Year of the Dragon. Explora reinos extensos, reencuéntrate con personalidades ardientes y revive la aventura en esta gloriosa versión completamente remasterizada.",
         price: 59900,
         secondaryPrice: 59000,
-        offerPrice: 22900,
+        offerPrice: 28900,
         image: CRASH_NITRO_FUELED_SPYRO,
         imageDetails: CRASH_NITRO_FUELED_SPYRO,
         Date: 24 / 3 / 2023,
-        precioReventa: 35,
+        precioReventa: 30,
     },
     {
         id: 13,
@@ -1789,11 +1789,11 @@ const data = [
             "Crash™ Team Racing Nitro-Fueled:La auténtica experiencia de CTR y mucho más contenido remasterizado al máximo de revoluciones. Vive la experiencia de los modos de juego, personajes, circuitos, potenciadores y controles originales. Superderrapa hacia la gloria con personajes, karts, circuitos y arenas adicionales de CTR. Arrasa a la competencia en el modo online.Spyro™ Reignited Trilogy:Las mismas quemaduras y la misma actitud ardiente, ahora a otro nivel. Reaviva el fuego con Spyro™ the Dragon, Spyro™ 2: Ripto's Rage! y Spyro™: Year of the Dragon. Explora reinos extensos, reencuéntrate con personalidades ardientes y revive la aventura en esta gloriosa versión completamente remasterizada.",
         price: 59900,
         secondaryPrice: 59000,
-        offerPrice: 22900,
+        offerPrice: 28900,
         image: CRASH_NITRO_FUELED_SPYRO,
         imageDetails: CRASH_NITRO_FUELED_SPYRO,
         Date: 24 / 3 / 2023,
-        precioReventa: 35,
+        precioReventa: 30,
     },
     {
         id: 14,
@@ -1804,11 +1804,11 @@ const data = [
             "Vive una Campaña dramática o reúne a tu equipo en el juego online definitivo con desafíos de Operaciones Especiales y una combinación de modos y mapas Multijugador.",
         price: 49900,
         secondaryPrice: 49900,
-        offerPrice: 14900,
+        offerPrice: 19900,
         image: COD_MW,
         imageDetails: DETAILS_CODMW,
         Date: 24 / 10 / 2019,
-        precioReventa: 15,
+        precioReventa: 19,
     },
     {
         id: 15,
@@ -1849,7 +1849,7 @@ const data = [
             "Únete a Kratos y Atreus en un viaje mítico en busca de respuestas antes de que llegue el Ragnarök. Juntos, padre e hijo deben darlo todo mientras visitan cada uno de los nueve reinos. A través de imponentes paisajes mitológicos, se enfrentarán a aterradores enemigos, desde dioses nórdicos hasta bestias salvajes, mientras se preparan para el enfrentamiento de sus vidas.",
         price: 52900,
         secondaryPrice: 52900,
-        offerPrice: 29900,
+        offerPrice: 35900,
         image: GOW_RAGNAROK,
         imageDetails: DETAILS_GOW_RAGNAROK,
         Date: 9 / 11 / 2022,
@@ -1864,7 +1864,7 @@ const data = [
             "Únete a Kratos y Atreus en un viaje mítico en busca de respuestas antes de que llegue el Ragnarök. Juntos, padre e hijo deben darlo todo mientras visitan cada uno de los nueve reinos. A través de imponentes paisajes mitológicos, se enfrentarán a aterradores enemigos, desde dioses nórdicos hasta bestias salvajes, mientras se preparan para el enfrentamiento de sus vidas.",
         price: 52900,
         secondaryPrice: 52900,
-        offerPrice: 29900,
+        offerPrice: 35900,
         image: GOW_RAGNAROK,
         imageDetails: DETAILS_GOW_RAGNAROK,
         Date: 9 / 11 / 2022,
@@ -1924,7 +1924,7 @@ const data = [
             " ¡La experiencia MK11 definitiva! Juega como los protectores de la Tierra en las DOS aclamadas historias del juego, donde el tiempo se distorsiona en una lucha para impedir que Kronika regrese el tiempo y reinicie la historia. En esta batalla para salvar la existencia, se ponen a prueba amistades y se forjan nuevas alianzas. MK11 Ultimate cuenta con el reparto completo de 37 luchadores, incluyendo a los recientemente añadidos Rain, Mileena y Rambo.",
         price: 39900,
         secondaryPrice: 38900,
-        offerPrice: 0,
+        offerPrice: 29900,
         image: MK11_ULTIMATE,
         imageDetails: DETAILS_MK11_ULTIMATE,
         Date: 17 / 11 / 2020,
@@ -1939,7 +1939,7 @@ const data = [
             " ¡La experiencia MK11 definitiva! Juega como los protectores de la Tierra en las DOS aclamadas historias del juego, donde el tiempo se distorsiona en una lucha para impedir que Kronika regrese el tiempo y reinicie la historia. En esta batalla para salvar la existencia, se ponen a prueba amistades y se forjan nuevas alianzas. MK11 Ultimate cuenta con el reparto completo de 37 luchadores, incluyendo a los recientemente añadidos Rain, Mileena y Rambo.",
         price: 39900,
         secondaryPrice: 38900,
-        offerPrice: 19900,
+        offerPrice: 29990,
         image: MK11_ULTIMATE,
         imageDetails: DETAILS_MK11_ULTIMATE,
         Date: 17 / 11 / 2020,
@@ -2012,13 +2012,13 @@ const data = [
         gender: "Accion",
         description:
             " En Cuphead, la pantalla se llenará de grandes jefes a los que se tendrán que enfrentar los jugadores, en un juego de acción inspirado por los dibujos animados de los años 30. Juega como Cuphead o como Mugman (en modo para un jugador o en cooperativo local) y descubran mundos extraños, consigan armas nuevas, aprendan poderosos supermovimientos y descubran secretos ocultos. ¡Todo esto, mientras intentan pagar la deuda que tienen con el diablo! En el contenido descargable de The Delicious Last Course, ¡Cuphead y Mugman vivirán aventuras en una isla nueva en compañía de la señorita Cáliz! Gracias a las armas nuevas, los amuletos nuevos y las habilidades nuevas de señorita Cáliz, podrás enfrentarte a jefes chiflados nuevos que presentarán varias transformaciones. ¡Ayuda al alegre Chef Saleroso en la última y desafiante aventura de Cuphead!",
-        price: 25900,
-        secondaryPrice: 24900,
-        offerPrice: 20900,
+        price: 35900,
+        secondaryPrice: 29900,
+        offerPrice: 30900,
         image: CUPHEAD_2,
         imageDetails: DETAILS_CUPHEAD_2,
         Date: 28 / 7 / 2020,
-        precioReventa: 25,
+        precioReventa: 30,
     },
     {
         id: 29,
@@ -2027,13 +2027,13 @@ const data = [
         gender: "Accion",
         description:
             " En Cuphead, la pantalla se llenará de grandes jefes a los que se tendrán que enfrentar los jugadores, en un juego de acción inspirado por los dibujos animados de los años 30. Juega como Cuphead o como Mugman (en modo para un jugador o en cooperativo local) y descubran mundos extraños, consigan armas nuevas, aprendan poderosos supermovimientos y descubran secretos ocultos. ¡Todo esto, mientras intentan pagar la deuda que tienen con el diablo! En el contenido descargable de The Delicious Last Course, ¡Cuphead y Mugman vivirán aventuras en una isla nueva en compañía de la señorita Cáliz! Gracias a las armas nuevas, los amuletos nuevos y las habilidades nuevas de señorita Cáliz, podrás enfrentarte a jefes chiflados nuevos que presentarán varias transformaciones. ¡Ayuda al alegre Chef Saleroso en la última y desafiante aventura de Cuphead!",
-        price: 25900,
-        secondaryPrice: 24900,
-        offerPrice: 20900,
+        price: 35900,
+        secondaryPrice: 29900,
+        offerPrice: 30900,
         image: CUPHEAD_2,
         imageDetails: DETAILS_CUPHEAD_2,
         Date: 28 / 7 / 2020,
-        precioReventa: 25,
+        precioReventa: 30,
     },
     {
         id: 30,
@@ -2063,7 +2063,7 @@ const data = [
         image: CRASH_INSANE_TRILOGY,
         imageDetails: DETAILS_CRASH_TRILOGY,
         Date: 30 / 6 / 2017,
-        precioReventa: 25,
+        precioReventa: 20,
     },
     {
         id: 32,
@@ -2078,7 +2078,7 @@ const data = [
         image: CRASH_INSANE_TRILOGY,
         imageDetails: DETAILS_CRASH_TRILOGY,
         Date: 30 / 6 / 2017,
-        precioReventa: 25,
+        precioReventa: 20,
     },
     {
         id: 33,
@@ -2089,11 +2089,11 @@ const data = [
             " WWE 2K24 tiene una lista de estrellas con leyendas de la WWE como 'Stone Cold' Steve Austin, Undertaker y Andre El Gigante, con superestrellas actuales de la WWE como 'La Pesadilla americana' Cody Rhodes, John Cena, Rhea Ripley y Roman Reigns, cuyos movimientos característicos se realzan por unos gráficos ultrarrealistas.",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 39900,
+        offerPrice: 45900,
         image: W2K24,
         imageDetails: DETAILS_WWE_2K24,
         Date: 8 / 3 / 2024,
-        precioReventa: 35,
+        precioReventa: 45,
     },
     {
         id: 34,
@@ -2104,11 +2104,11 @@ const data = [
             " WWE 2K24 tiene una lista de estrellas con leyendas de la WWE como 'Stone Cold' Steve Austin, Undertaker y Andre El Gigante, con superestrellas actuales de la WWE como 'La Pesadilla americana' Cody Rhodes, John Cena, Rhea Ripley y Roman Reigns, cuyos movimientos característicos se realzan por unos gráficos ultrarrealistas.",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 39900,
+        offerPrice: 45900,
         image: W2K24,
         imageDetails: DETAILS_WWE_2K24,
         Date: 8 / 3 / 2024,
-        precioReventa: 35,
+        precioReventa: 45,
     },
     {
         id: 35,
@@ -2134,7 +2134,7 @@ const data = [
             "Incluye la misión de la Tienda de Hogsmeade encantada, que te da acceso a una mazmorra adicional, el set cosmético del Comerciante y una tienda de Hogsmeade en el juego.Hogwarts Legacy es un RPG de acción en un mundo abierto ambientado en el universo de los libros de Harry Potter. Embárcate en una aventura que te llevará por lugares nuevos y conocidos, mientras descubres animales mágicos, personalizas tu personaje, elaboras pociones, dominas hechizos, mejoras tus talentos y te conviertes en el mago que siempre has querido ser.",
         price: 59900,
         secondaryPrice: 59900,
-        offerPrice: 30900,
+        offerPrice: 34900,
         image: HOGWARTS_LEGACY,
         imageDetails: DETAILS_HOGWARTS_LEGACY,
         Date: 10 / 2 / 2023,
@@ -2149,7 +2149,7 @@ const data = [
             "Incluye la misión de la Tienda de Hogsmeade encantada, que te da acceso a una mazmorra adicional, el set cosmético del Comerciante y una tienda de Hogsmeade en el juego.Hogwarts Legacy es un RPG de acción en un mundo abierto ambientado en el universo de los libros de Harry Potter. Embárcate en una aventura que te llevará por lugares nuevos y conocidos, mientras descubres animales mágicos, personalizas tu personaje, elaboras pociones, dominas hechizos, mejoras tus talentos y te conviertes en el mago que siempre has querido ser.",
         price: 59900,
         secondaryPrice: 59900,
-        offerPrice: 30900,
+        offerPrice: 34900,
         image: HOGWARTS_LEGACY,
         imageDetails: DETAILS_HOGWARTS_LEGACY,
         Date: 10 / 2 / 2023,
@@ -2164,11 +2164,11 @@ const data = [
             "Te damos la bienvenida al condado de Hope (Montana), la tierra de los libres y valientes, pero también el hogar de una secta apocalíptica llena de fanáticos. Enfréntate a su líder, Joseph Seed, y sus hermanos, los Heraldos, para prender la mecha de la resistencia y liberar a la comunidad asediada.",
         price: 39900,
         secondaryPrice: 38900,
-        offerPrice: 9900,
+        offerPrice: 12900,
         image: FARCRY_5,
         imageDetails: DETAILS_FARCRY5,
         Date: 10 / 2 / 2023,
-        precioReventa: 25,
+        precioReventa: 15,
     },
     {
         id: 39,
@@ -2179,11 +2179,11 @@ const data = [
             "Cinco años después de aquel peligroso viaje por un Estados Unidos que ha sido azotado por una pandemia, Ellie y Joel echaron raíces en Jackson, Wyoming. Vivir en una comunidad próspera de supervivientes les dio paz y estabilidad a pesar de la amenaza constante de los infectados y de otros supervivientes más desesperados. Cuando un evento violento altera la paz, Ellie emprende un viaje incansable en busca de justicia y de encontrar un cierre. Mientras caza uno a uno a los responsables, deberá enfrentar las devastadoras consecuencias físicas y emocionales de sus acciones.",
         price: 39900,
         secondaryPrice: 38900,
-        offerPrice: 24900,
+        offerPrice: 28900,
         image: THE_LAST_OF_US_PART_2,
         imageDetails: DETAILS_THELASTOFUS2,
         Date: 19 / 6 / 2020,
-        precioReventa: 25,
+        precioReventa: 28,
     },
     {
         id: 40,
@@ -2194,11 +2194,11 @@ const data = [
             "Cinco años después de aquel peligroso viaje por un Estados Unidos que ha sido azotado por una pandemia, Ellie y Joel echaron raíces en Jackson, Wyoming. Vivir en una comunidad próspera de supervivientes les dio paz y estabilidad a pesar de la amenaza constante de los infectados y de otros supervivientes más desesperados. Cuando un evento violento altera la paz, Ellie emprende un viaje incansable en busca de justicia y de encontrar un cierre. Mientras caza uno a uno a los responsables, deberá enfrentar las devastadoras consecuencias físicas y emocionales de sus acciones.",
         price: 39900,
         secondaryPrice: 38900,
-        offerPrice: 24900,
+        offerPrice: 28900,
         image: THE_LAST_OF_US_PART_2,
         imageDetails: DETAILS_THELASTOFUS2,
         Date: 19 / 6 / 2020,
-        precioReventa: 25,
+        precioReventa: 28,
     },
     {
         id: 41,
@@ -2209,11 +2209,11 @@ const data = [
             "EL NUEVO RPG DE ACCIÓN DE FANTASÍA. Levántate, tiznado, y déjate guiar por la gracia para esgrimir el poder del Anillo de Elden y convertirte en un Señor de Elden en las Tierras Intermedias.Un extenso mundo lleno de emoción Un extenso mundo donde los campos abiertos, con una amplia variedad de situaciones, y las enormes mazmorras, con diseños complejos y tridimensionales, se conectan con total fluidez. Al explorar, te acompaña el entusiasmo por descubrir amenazas desconocidas y abrumadoras, lo que produce una gran sensación de logro.",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 0,
+        offerPrice: 39900,
         image: ELDER_RING,
         imageDetails: DETAILS_ELDER_RING,
         Date: 25 / 2 / 2022,
-        precioReventa: 35,
+        precioReventa: 39,
     },
     {
         id: 42,
@@ -2224,11 +2224,11 @@ const data = [
             "EL NUEVO RPG DE ACCIÓN DE FANTASÍA. Levántate, tiznado, y déjate guiar por la gracia para esgrimir el poder del Anillo de Elden y convertirte en un Señor de Elden en las Tierras Intermedias.Un extenso mundo lleno de emoción Un extenso mundo donde los campos abiertos, con una amplia variedad de situaciones, y las enormes mazmorras, con diseños complejos y tridimensionales, se conectan con total fluidez. Al explorar, te acompaña el entusiasmo por descubrir amenazas desconocidas y abrumadoras, lo que produce una gran sensación de logro.",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 29900,
+        offerPrice: 39900,
         image: ELDER_RING,
         imageDetails: DETAILS_ELDER_RING,
         Date: 25 / 2 / 2022,
-        precioReventa: 35,
+        precioReventa: 39,
     },
     {
         id: 43,
@@ -2252,13 +2252,13 @@ const data = [
         gender: "Carreras",
         description:
             "Pon a prueba tus habilidades en las categorías de MotoGP™, Moto2™ y Moto3™, mientras te embarcas en el apasionante viaje de la campaña 2024. ¡Vive la emoción escoger entre los equipos y las pistas oficiales que solo verás en MotoGP™24",
-        price: 39900,
-        secondaryPrice: 39900,
-        offerPrice: 29900,
+        price: 59900,
+        secondaryPrice: 59900,
+        offerPrice: 39900,
         image: MOTOGP_24,
         imageDetails: DETAILS_MOTOGP_24,
         Date: 2 / 5 / 2024,
-        precioReventa: 30,
+        precioReventa: 39,
     },
     {
         id: 45,
@@ -2419,7 +2419,7 @@ const data = [
             "Varado en las costas de una isla misteriosa, tendrás que aprender a sobrevivir. Usa tu astucia para matar o domar a las criaturas primitivas que recorren estas tierras, y halla otros jugadores para sobrevivir, dominar… y escapar.",
         price: 19900,
         secondaryPrice: 18900,
-        offerPrice: 9900,
+        offerPrice: 12900,
         image: ARK,
         imageDetails: DETAILS_ARK,
         Date: 12 / 6 / 2017,
@@ -2432,9 +2432,9 @@ const data = [
         gender: "Accion",
         description:
             "DOOM vuelve como un shooter moderno repleto de diversión y desafíos brutales desarrollado por id Software. Despiadados demonios, armas de destrucción inimaginables y un movimiento ágil y fluido constituyen la base de un intenso combate en primera persona, tanto si estáis aniquilando a las hordas demoníacas del infierno en la campaña para un jugador como si competís contra amigos en los diversos modos multijugador",
-        price: 14900,
-        secondaryPrice: 12900,
-        offerPrice: 9900,
+        price: 19900,
+        secondaryPrice: 19900,
+        offerPrice: 12900,
         image: DOOM,
         imageDetails: DETAILS_DOOM,
         Date: 13 / 5 / 2016,
@@ -2449,7 +2449,7 @@ const data = [
             "Conviértete en un soldado de élite de operaciones especiales conocido como Ghost, con una misión especial en Auroa. El remoto archipiélago en algún lugar del Pacífico Sur ha perdido contacto con el mundo exterior debido a que Skell Technology se ha vuelto hostil. Los Wolves, un equipo rebelde de operaciones especiales liderado por tu antiguo compañero de armas, se han apoderado de todo y te están cazando. Dirige a tu equipo a través de las vistas de la isla y salva a los civiles sin que nadie se de cuenta.",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 12900,
+        offerPrice: 15900,
         image: TOM_CLANCY_GHOST_RECON_BREAKPOINT,
         imageDetails: DETAILS_TOMCLANCY_GHOSTRECON,
         Date: 4 / 10 / 2019,
@@ -2464,7 +2464,7 @@ const data = [
             "Conviértete en un soldado de élite de operaciones especiales conocido como Ghost, con una misión especial en Auroa. El remoto archipiélago en algún lugar del Pacífico Sur ha perdido contacto con el mundo exterior debido a que Skell Technology se ha vuelto hostil. Los Wolves, un equipo rebelde de operaciones especiales liderado por tu antiguo compañero de armas, se han apoderado de todo y te están cazando. Dirige a tu equipo a través de las vistas de la isla y salva a los civiles sin que nadie se de cuenta.",
         price: 42900,
         secondaryPrice: 42900,
-        offerPrice: 12900,
+        offerPrice: 15900,
         image: TOM_CLANCY_GHOST_RECON_BREAKPOINT,
         imageDetails: DETAILS_TOMCLANCY_GHOSTRECON,
         Date: 4 / 10 / 2019,
@@ -2479,7 +2479,7 @@ const data = [
             " ¡NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 Road to Boruto es el cierre de la serie Ultimate Ninja Storm y reúne todos los paquetes de contenido descargable de Storm 4 y los extras exclusivos de reserva! No solo recibirás el juego Ultimate Ninja Storm 4 y los paquetes de contenido descargable, también obtendrás una nueva aventura, Road to Boruto, con muchas horas de juego cuyo protagonista es el hijo de Naruto, quien pertenece a una nueva generación de ninjas.",
         price: 35900,
         secondaryPrice: 35900,
-        offerPrice: 10900,
+        offerPrice: 15900,
         image: NARUTO_SHIPUDEN_STORM_4,
         imageDetails: DETAILS_NARUTO_SHIPUDEN_NINJA_STORM,
         Date: 3 / 0o2 / 2017,
@@ -2494,7 +2494,7 @@ const data = [
             " ¡NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 Road to Boruto es el cierre de la serie Ultimate Ninja Storm y reúne todos los paquetes de contenido descargable de Storm 4 y los extras exclusivos de reserva! No solo recibirás el juego Ultimate Ninja Storm 4 y los paquetes de contenido descargable, también obtendrás una nueva aventura, Road to Boruto, con muchas horas de juego cuyo protagonista es el hijo de Naruto, quien pertenece a una nueva generación de ninjas.",
         price: 35900,
         secondaryPrice: 35900,
-        offerPrice: 10900,
+        offerPrice: 15900,
         image: NARUTO_SHIPUDEN_STORM_4,
         imageDetails: DETAILS_NARUTO_SHIPUDEN_NINJA_STORM,
         Date: 3 / 0o2 / 2017,
@@ -2599,7 +2599,7 @@ const data = [
             "¡Vuelve el padre de los shooter-looter con miles de armas y una aventura caótica! Ábrete paso por nuevos mundos y enemigos con uno de los cuatro buscacámaras nuevos. Juega solo o con amigos para eliminar enemigos dementes, obtener un montón de botín y salvar tu hogar de la secta más cruel de la galaxia.",
         price: 53900,
         secondaryPrice: 53800,
-        offerPrice: 9900,
+        offerPrice: 12900,
         image: BORDERLANDS_3,
         imageDetails: DETAILS_BORDERLANDS_3,
         Date: 12 / 11 / 2020,
@@ -2809,7 +2809,7 @@ const data = [
             "¡Te damos la bienvenida a Motorfest! Este festival que dura todo el año te permitirá disfrutar de las mejores experiencias que la cultura automovilística puede ofrecer.EXPLORA UN MUNDO ABIERTO LLENO DE VIDA EN HAWÁIThe Crew Motorfest se ha instalado en uno de los lugares más hermosos de la Tierra: la isla de O'ahu, en Hawái. Participa en carreras a máxima velocidad en la bulliciosa ciudad de Honolulu, pon a prueba tu habilidad en laderas cubiertas de ceniza de volcán o domina los derrapes en circuitos. ",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 32900,
+        offerPrice: 39900,
         image: THE_CREW_MOTORFEST,
         imageDetails: DETAILS_THE_CREW_MOTORFEST,
         Date: 13 / 9 / 2023,
@@ -2824,7 +2824,7 @@ const data = [
             "¡Te damos la bienvenida a Motorfest! Este festival que dura todo el año te permitirá disfrutar de las mejores experiencias que la cultura automovilística puede ofrecer.EXPLORA UN MUNDO ABIERTO LLENO DE VIDA EN HAWÁIThe Crew Motorfest se ha instalado en uno de los lugares más hermosos de la Tierra: la isla de O'ahu, en Hawái. Participa en carreras a máxima velocidad en la bulliciosa ciudad de Honolulu, pon a prueba tu habilidad en laderas cubiertas de ceniza de volcán o domina los derrapes en circuitos. ",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 32900,
+        offerPrice: 39900,
         image: THE_CREW_MOTORFEST,
         imageDetails: DETAILS_THE_CREW_MOTORFEST,
         Date: 13 / 9 / 2023,
@@ -2854,7 +2854,7 @@ const data = [
             "Ponte al frente del funcionamiento de las legendarias islas del archipiélago de las Muertes y dale vida al asombro, la majestuosidad y el peligro de los dinosaurios. Construye instalaciones de Ciencia, Entretenimiento o Seguridad en un mundo incierto donde la vida siempre se abre camino.",
         price: 49900,
         secondaryPrice: 49900,
-        offerPrice: 19900,
+        offerPrice: 24900,
         image: JURASSIC_PARK_EVOLUTION_2,
         imageDetails: DETAILS_JURASSIC_WORLD_EVOLUTION_2,
         Date: 12 / 6 / 2018,
@@ -2869,7 +2869,7 @@ const data = [
             "Ponte al frente del funcionamiento de las legendarias islas del archipiélago de las Muertes y dale vida al asombro, la majestuosidad y el peligro de los dinosaurios. Construye instalaciones de Ciencia, Entretenimiento o Seguridad en un mundo incierto donde la vida siempre se abre camino.",
         price: 49900,
         secondaryPrice: 49900,
-        offerPrice: 19900,
+        offerPrice: 24900,
         image: JURASSIC_PARK_EVOLUTION_2,
         imageDetails: DETAILS_JURASSIC_WORLD_EVOLUTION_2,
         Date: 12 / 6 / 2018,
@@ -2884,7 +2884,7 @@ const data = [
             "Five Nights at Freddy's: Security Breach es la nueva entrega de la saga de juegos de terror para toda la familia que ha cautivado a millones de jugadores de todo el mundo. Juega como Gregory, un joven que pasa la noche atrapado en Freddy Fazbear's Mega Pizzaplex. Con la ayuda del mismísimo Freddy Fazbear, Gregory debe sobrevivir a la inagotable cacería de las nuevas versiones de los personajes de Five Nights at Freddy's y a una serie de amenazas terroríficas.",
         price: 39900,
         secondaryPrice: 39900,
-        offerPrice: 29900,
+        offerPrice: 24900,
         image: FIVE_NIGHTS_AT_FREDDYS,
         imageDetails: DETAILS_FIVE_NIGHTS_AT_FREDDYS,
         Date: 16 / 12 / 2021,
@@ -2944,7 +2944,7 @@ const data = [
             "París, 1789. La Revolución Francesa convierte una magnífica ciudad en un lugar de terror y caos. Sus calles empedradas llevan líquido rojo, la sangre de los comuneros que se atrevieron a levantarse contra la aristocracia opresiva. A medida que la nación se desgarra, un joven llamado Arno se embarcará en un viaje extraordinario para exponer los verdaderos poderes detrás de la Revolución. Su búsqueda le arrojará a lucha despiadada por el destino de una nación y lo transformará en un verdadero maestro Assassin.",
         price: 15900,
         secondaryPrice: 14900,
-        offerPrice: 9000,
+        offerPrice: 9900,
         image: ASSASINS_UNITY,
         imageDetails: DETAILS_ASSASINSCREED_UNITY,
         Date: 11 / 11 / 2014,
@@ -2959,11 +2959,11 @@ const data = [
             "Vive la historia de Basim, un astuto ladrón callejero que busca respuestas y justicia mientras recorre las bulliciosas calles del Bagdad del siglo IX. La antigua y misteriosa organización de los Ocultos cambiará su destino de una forma que nunca habría imaginado y lo convertirá en un Maestro Asesino letal.",
         price: 39900,
         secondaryPrice: 39900,
-        offerPrice: 24900,
+        offerPrice: 29900,
         image: ASSASINS_MIRAGE,
         imageDetails: DETAILS_ASSASINSCREED_MIRAGE,
         Date: 4 / 10 / 2023,
-        precioReventa: 25,
+        precioReventa: 29,
     },
     {
         id: 93,
@@ -2974,11 +2974,11 @@ const data = [
             "Vive la historia de Basim, un astuto ladrón callejero que busca respuestas y justicia mientras recorre las bulliciosas calles del Bagdad del siglo IX. La antigua y misteriosa organización de los Ocultos cambiará su destino de una forma que nunca habría imaginado y lo convertirá en un Maestro Asesino letal.",
         price: 39900,
         secondaryPrice: 38900,
-        offerPrice: 24900,
+        offerPrice: 29900,
         image: ASSASINS_MIRAGE,
         imageDetails: DETAILS_ASSASINSCREED_MIRAGE,
         Date: 4 / 10 / 2023,
-        precioReventa: 25,
+        precioReventa: 29,
     },
     {
         id: 94,
@@ -2989,7 +2989,7 @@ const data = [
             "En Assassin's Creed Valhalla: El amanecer del Ragnarok, la expansión más ambiciosa de la franquicia, Eivor debe abrazar su destino como Odín, el dios nórdico de la guerra y la sabiduría. Desata nuevos poderes divinos mientras te embarcas en una búsqueda desesperada a través de un mundo espectacular.",
         price: 69900,
         secondaryPrice: 69900,
-        offerPrice: 20900,
+        offerPrice: 29900,
         image: ASSASINS_VALHALLA,
         imageDetails: DETAILS_ASSASINSCREED_VALHALLA,
         Date: 10 / 3 / 2022,
@@ -3004,7 +3004,7 @@ const data = [
             "En Assassin's Creed Valhalla: El amanecer del Ragnarok, la expansión más ambiciosa de la franquicia, Eivor debe abrazar su destino como Odín, el dios nórdico de la guerra y la sabiduría. Desata nuevos poderes divinos mientras te embarcas en una búsqueda desesperada a través de un mundo espectacular.",
         price: 69900,
         secondaryPrice: 69900,
-        offerPrice: 24900,
+        offerPrice: 29900,
         image: ASSASINS_VALHALLA,
         imageDetails: DETAILS_ASSASINSCREED_VALHALLA,
         Date: 10 / 3 / 2022,
@@ -3019,11 +3019,11 @@ const data = [
             "ASSASSIN’S CREED® ORIGINS ES UN NUEVO COMIENZOEl antiguo Egipto, una tierra de grandeza e intriga, está desapareciendo por una fiera lucha por poder. Devela los secretos oscuros y mitos olvidados mientras revives el momento de la fundación de la hermandad de los asesinos.",
         price: 36900,
         secondaryPrice: 36900,
-        offerPrice: 12000,
+        offerPrice: 14000,
         image: ASSASINS_ORIGINS,
         imageDetails: DETAILS_ASSASINSCREED_ORIGINS,
         Date: 27 / 10 / 2017,
-        precioReventa: 25,
+        precioReventa: 14,
     },
     {
         id: 97,
@@ -3034,11 +3034,11 @@ const data = [
             "ASSASSIN’S CREED® ORIGINS ES UN NUEVO COMIENZOEl antiguo Egipto, una tierra de grandeza e intriga, está desapareciendo por una fiera lucha por poder. Devela los secretos oscuros y mitos olvidados mientras revives el momento de la fundación de la hermandad de los asesinos.",
         price: 36900,
         secondaryPrice: 36900,
-        offerPrice: 12000,
+        offerPrice: 14000,
         image: ASSASINS_ORIGINS,
         imageDetails: DETAILS_ASSASINSCREED_ORIGINS,
         Date: 27 / 10 / 2017,
-        precioReventa: 25,
+        precioReventa: 14,
     },
     {
         id: 98,
@@ -3049,7 +3049,7 @@ const data = [
             "Londres, 1868. La Revolución Industrial desata una época de invención, transformando la vida de millones con las tecnologías que una vez pensamos imposible. Pero la industrialización solamente llena los bolsillos de unos pocos privilegiados, mientras que los trabajadores luchan por sobrevivir en las fábricas que hacen de Londres el corazón de la economía mundial... hasta que un asesino se une a su causa, lo que destapa un conflicto épico que hará eco en la historia. Crea la primera familia del crimen organizado en el mundo. Conquista las calles de Londres. Haz caer a la clase gobernante. Levántate a la cabeza del bajo mundo de Londres en una aventura sangrienta como ninguna otra.",
         price: 19900,
         secondaryPrice: 18900,
-        offerPrice: 9000,
+        offerPrice: 12900,
         image: ASSASINS_SINDICATE,
         imageDetails: DETAILS_ASSASINSCREED_SINDICATE,
         Date: 23 / 10 / 2015,
@@ -3332,9 +3332,9 @@ const data = [
         gender: "Accion",
         description:
             "Videojuego de la exitosa saga bélica de Activision destinado a dominar el mercado en 2016 con una propuesta de regreso que busca un giro de tuerca pero manteniendo algunas de las raíces de la serie: batallas masivas, una cuidada narrativa militar y una historia de defensa de nuestro modelo de vida amenazado por el Settlement Defense Front.",
-        price: 19900,
-        secondaryPrice: 18900,
-        offerPrice: 18500,
+        price: 25900,
+        secondaryPrice: 25900,
+        offerPrice: 20900,
         image: COD_INFINITE_WARFARE,
         imageDetails: DETAILS_COD_INFINITE_WARFARE,
         Date: 25 / 3 / 2014,
@@ -3349,11 +3349,11 @@ const data = [
             "VADAPTARSE O MORIR EN LA LUCHA CONTRA LA AMENAZA DEFINITIVA En la secuela directa del exitoso juego Call of Duty®: Modern Warfare® II, el capitán Price y la Fuerza operativa 141 se enfrentan a la amenaza definitiva. El criminal de guerra ultranacionalista Vladimir Makarov extiende su alcance por todo el mundo, obligando a la Fuerza operativa 141 a luchar como nunca antes. ES HORA DE SALDAR VIEJAS CUENTAS Y EMPEZAR DE NUEVO",
         price: 59900,
         secondaryPrice: 59900,
-        offerPrice: 30900,
+        offerPrice: 39900,
         image: COD_MW_3,
         imageDetails: DETAILS_COD_MW_3,
         Date: 2 / 11 / 2023,
-        precioReventa: 30,
+        precioReventa: 35,
     },
     {
         id: 119,
@@ -3364,11 +3364,11 @@ const data = [
             "VADAPTARSE O MORIR EN LA LUCHA CONTRA LA AMENAZA DEFINITIVA En la secuela directa del exitoso juego Call of Duty®: Modern Warfare® II, el capitán Price y la Fuerza operativa 141 se enfrentan a la amenaza definitiva. El criminal de guerra ultranacionalista Vladimir Makarov extiende su alcance por todo el mundo, obligando a la Fuerza operativa 141 a luchar como nunca antes. ES HORA DE SALDAR VIEJAS CUENTAS Y EMPEZAR DE NUEVO",
         price: 59900,
         secondaryPrice: 59900,
-        offerPrice: 30900,
+        offerPrice: 39900,
         image: COD_MW_3,
         imageDetails: DETAILS_COD_MW_3,
         Date: 2 / 11 / 2023,
-        precioReventa: 30,
+        precioReventa: 35,
     },
     {
         id: 120,
@@ -3379,7 +3379,7 @@ const data = [
             "Call of Duty®: Modern Warfare® II transporta a los jugadores a un conflicto global sin precedentes y trae de vuelta los icónicos Operadores de la fuerza operativa 141. Infinity Ward trae a los fans una jugabilidad de última generación, un nuevo manejo de armas, un sistema de IA avanzado, un nuevo armero y otras innovaciones gráficas y de jugabilidad que elevan la franquicia a nuevas alturas. Modern Warfare® II cuenta con una campaña mundial de un jugador, un combate Multijugador envolvente y un modo de juego evolucionado de Operaciones Especiales tácticas y cooperativas. También podrás acceder a Call of Duty®: Warzone™ 2.0, la nueva experiencia Battle Royale.",
         price: 59900,
         secondaryPrice: 59900,
-        offerPrice: 29900,
+        offerPrice: 32900,
         image: COD_MW_2,
         imageDetails: DETAILS_COD_MW_2,
         Date: 2 / 11 / 2023,
@@ -3394,7 +3394,7 @@ const data = [
             "Call of Duty®: Modern Warfare® II transporta a los jugadores a un conflicto global sin precedentes y trae de vuelta los icónicos Operadores de la fuerza operativa 141. Infinity Ward trae a los fans una jugabilidad de última generación, un nuevo manejo de armas, un sistema de IA avanzado, un nuevo armero y otras innovaciones gráficas y de jugabilidad que elevan la franquicia a nuevas alturas. Modern Warfare® II cuenta con una campaña mundial de un jugador, un combate Multijugador envolvente y un modo de juego evolucionado de Operaciones Especiales tácticas y cooperativas.También podrás acceder a Call of Duty®: Warzone™ 2.0, la nueva experiencia Battle Royale.",
         price: 59900,
         secondaryPrice: 59900,
-        offerPrice: 29900,
+        offerPrice: 32900,
         image: COD_MW_2,
         imageDetails: DETAILS_COD_MW_2,
         Date: 2 / 11 / 2023,
@@ -3409,7 +3409,7 @@ const data = [
             "Black Ops Cold War, la secuela directa de Call of Duty®: Black Ops, transportará a los jugadores al centro de la volátil batalla geopolítica de la Guerra Fría, a principios de los 80. Nada es lo que parece en la fascinante Campaña para un jugador, donde los jugadores se enfrentarán cara a cara a figuras históricas y verdades incómodas mientras luchan por todo el mundo en escenarios icónicos de la Guerra Fría como Berlín Oriental, Vietnam, la sede de la KGB y más.",
         price: 32900,
         secondaryPrice: 32900,
-        offerPrice: 14900,
+        offerPrice: 15900,
         image: COD_COLD_WAR,
         imageDetails: DETAILS_COD_COLD_WAR,
         Date: 13 / 11 / 2020,
@@ -3424,7 +3424,7 @@ const data = [
             "Black Ops Cold War, la secuela directa de Call of Duty®: Black Ops, transportará a los jugadores al centro de la volátil batalla geopolítica de la Guerra Fría, a principios de los 80. Nada es lo que parece en la fascinante Campaña para un jugador, donde los jugadores se enfrentarán cara a cara a figuras históricas y verdades incómodas mientras luchan por todo el mundo en escenarios icónicos de la Guerra Fría como Berlín Oriental, Vietnam, la sede de la KGB y más.",
         price: 29900,
         secondaryPrice: 29900,
-        offerPrice: 12900,
+        offerPrice: 15900,
         image: COD_COLD_WAR,
         imageDetails: DETAILS_COD_COLD_WAR,
         Date: 13 / 11 / 2020,
@@ -3439,7 +3439,7 @@ const data = [
             "Call of Duty®: Vanguard incluye la vibrante campaña de un solo jugador, el acceso al Multijugador masivo con más de 20 mapas (16 de ellos diseñados para los modos principales Multijugador) y la nueva y trepidante experiencia de Zombis desarrollada por Treyarch. Call of Duty®: Vanguard cuenta con progreso cruzados entre plataformas y generaciones, además de mapas Multijugador, modos y más.",
         price: 39900,
         secondaryPrice: 39900,
-        offerPrice: 14900,
+        offerPrice: 19900,
         image: COD_VANGUARD,
         imageDetails: DETAILS_COD_VANGUARD,
         Date: 5 / 11 / 2021,
@@ -3454,7 +3454,7 @@ const data = [
             "Call of Duty®: Vanguard incluye la vibrante campaña de un solo jugador, el acceso al Multijugador masivo con más de 20 mapas (16 de ellos diseñados para los modos principales Multijugador) y la nueva y trepidante experiencia de Zombis desarrollada por Treyarch. Call of Duty®: Vanguard cuenta con progreso cruzados entre plataformas y generaciones, además de mapas Multijugador, modos y más.",
         price: 25900,
         secondaryPrice: 24900,
-        offerPrice: 15900,
+        offerPrice: 19900,
         image: COD_VANGUARD,
         imageDetails: DETAILS_COD_VANGUARD,
         Date: 5 / 11 / 2021,
@@ -3574,7 +3574,7 @@ const data = [
             "Days Gone es un juego de aventura, acción y mundo abierto que transcurre en tierras salvajes y hostiles dos años después de una devastadora pandemia mundial. Conviértete en Deacon St. John, un cazarrecompensas que recorre los caminos destrozados y lucha brutalmente para sobrevivir y encontrar la razón de su existencia. ",
         price: 29900,
         secondaryPrice: 29900,
-        offerPrice: 18900,
+        offerPrice: 22900,
         image: DAYS_GONE,
         imageDetails: DETAILS_DAYS_GONE,
         Date: 26 / 4 / 2019,
@@ -3589,7 +3589,7 @@ const data = [
             "Days Gone es un juego de aventura, acción y mundo abierto que transcurre en tierras salvajes y hostiles dos años después de una devastadora pandemia mundial. Conviértete en Deacon St. John, un cazarrecompensas que recorre los caminos destrozados y lucha brutalmente para sobrevivir y encontrar la razón de su existencia. ",
         price: 29900,
         secondaryPrice: 29900,
-        offerPrice: 18900,
+        offerPrice: 22900,
         image: DAYS_GONE,
         imageDetails: DETAILS_DAYS_GONE,
         Date: 26 / 4 / 2019,
@@ -3962,9 +3962,9 @@ const data = [
         gender: "Accion",
         description:
             "Inicia tu aventura como Rick Grimes, despertando solo en un hospital rodeado por los muertos. Reúne aliados y lucha para abrirte paso en el apocalipsis de los caminantes a través de lugares icónicos de The Walking Dead, incluyendo Atlanta, la granja de la familia Greene, la prisión y Woodbury. En momentos cruciales y decisivos, siempre podrás indicar el destino de tu equipo conformado por personajes de la serie. Héroes y villanos, vivos y muertos - depende de ti decidir si permaneces en el curso de la historia o creas tu propio camino a través del mundo de The Walking Dead de AMC.",
-        price: 39900,
-        secondaryPrice: 38900,
-        offerPrice: 20900,
+        price: 59900,
+        secondaryPrice: 58900,
+        offerPrice: 29900,
         image: THE_WALKING_DEAD_DESTINIES,
         imageDetails: DETAILS_THE_WALKING_DEAD_DESTINIES,
         Date: 17 / 11 / 2023,
@@ -3977,9 +3977,9 @@ const data = [
         gender: "Accion",
         description:
             "Inicia tu aventura como Rick Grimes, despertando solo en un hospital rodeado por los muertos. Reúne aliados y lucha para abrirte paso en el apocalipsis de los caminantes a través de lugares icónicos de The Walking Dead, incluyendo Atlanta, la granja de la familia Greene, la prisión y Woodbury. En momentos cruciales y decisivos, siempre podrás indicar el destino de tu equipo conformado por personajes de la serie. Héroes y villanos, vivos y muertos - depende de ti decidir si permaneces en el curso de la historia o creas tu propio camino a través del mundo de The Walking Dead de AMC.",
-        price: 39900,
-        secondaryPrice: 39900,
-        offerPrice: 19900,
+        price: 59900,
+        secondaryPrice: 59900,
+        offerPrice: 29900,
         image: THE_WALKING_DEAD_DESTINIES,
         imageDetails: DETAILS_THE_WALKING_DEAD_DESTINIES,
         Date: 17 / 11 / 2023,
@@ -3992,13 +3992,13 @@ const data = [
         gender: "Accion",
         description:
             "Hello Neighbor 2 es un juego de terror sigiloso que consiste en descubrir los secretos de tu extraño vecino. Eres un periodista que quiere resolver el caso del vecino porque nadie se atreve a hacerlo. ¡Juega contra un rival complejo controlado por una IA avanzada que aprende de ti y de los demás jugadores! Con el paso del tiempo, el vecino se adapta a los patrones de los jugadores y cambia su propio comportamiento para sorprenderte. ¿Serás capaz de evitar al vecino y descubrir sus secretos?",
-        price: 29900,
-        secondaryPrice: 29900,
-        offerPrice: 25900,
+        price: 49900,
+        secondaryPrice: 49900,
+        offerPrice: 34900,
         image: HELLO_NEIGHBOR_2,
         imageDetails: DETAILS_HELLO_NEIGHBOR_2,
         Date: 6 / 12 / 2022,
-        precioReventa: 20,
+        precioReventa: 30,
     },
     {
         id: 162,
@@ -4007,13 +4007,13 @@ const data = [
         gender: "Accion",
         description:
             "Hello Neighbor 2 es un juego de terror sigiloso que consiste en descubrir los secretos de tu extraño vecino. Eres un periodista que quiere resolver el caso del vecino porque nadie se atreve a hacerlo. ¡Juega contra un rival complejo controlado por una IA avanzada que aprende de ti y de los demás jugadores! Con el paso del tiempo, el vecino se adapta a los patrones de los jugadores y cambia su propio comportamiento para sorprenderte. ¿Serás capaz de evitar al vecino y descubrir sus secretos?",
-        price: 29900,
-        secondaryPrice: 28900,
-        offerPrice: 24900,
+        price: 49900,
+        secondaryPrice: 48900,
+        offerPrice: 34900,
         image: HELLO_NEIGHBOR_2,
         imageDetails: DETAILS_HELLO_NEIGHBOR_2,
         Date: 6 / 12 / 2022,
-        precioReventa: 20,
+        precioReventa: 30,
     },
     {
         id: 163,
@@ -4052,9 +4052,9 @@ const data = [
         gender: "Accion",
         description:
             "Juega las tres aventuras originales de Tomb Raider: Hacemos historia brindando una experiencia completa con todas las expansiones y niveles secretos pero en nuevas plataformas, la colección definitiva.Títulos incluidosTomb Raider I + Unfinished BusinessTomb Raider II + Golden MaskTomb Raider III + The Lost Artifact",
-        price: 24900,
-        secondaryPrice: 24900,
-        offerPrice: 19900,
+        price: 44900,
+        secondaryPrice: 44900,
+        offerPrice: 25900,
         image: TOMB_RAIDER_1_2_3,
         imageDetails: DETAILS_TOMB_RAIDER_1_2_3,
         Date: 14 / 2 / 2024,
@@ -4067,9 +4067,9 @@ const data = [
         gender: "Accion",
         description:
             "Juega las tres aventuras originales de Tomb Raider: Hacemos historia brindando una experiencia completa con todas las expansiones y niveles secretos pero en nuevas plataformas, la colección definitiva.Títulos incluidosTomb Raider I + Unfinished BusinessTomb Raider II + Golden MaskTomb Raider III + The Lost Artifact",
-        price: 24900,
-        secondaryPrice: 24900,
-        offerPrice: 19900,
+        price: 44900,
+        secondaryPrice: 44900,
+        offerPrice: 25900,
         image: TOMB_RAIDER_1_2_3,
         imageDetails: DETAILS_TOMB_RAIDER_1_2_3,
         Date: 14 / 2 / 2024,
@@ -4202,13 +4202,13 @@ const data = [
         gender: "Carreras",
         description:
             "La Edición Fully Loaded incluye: - El Citroën C4 WRC (2010) de Sébastien Loeb - El 'Career Starter Pack' con 6 miembros del equipo adicionales - 2 colores del Porsche 911 GT3 RS RGT - Un pack de 36 pegatinas para el editor de colores - Acceso gratuito a WRC+ durante 3 meses*",
-        price: 29900,
-        secondaryPrice: 29900,
-        offerPrice: 15900,
+        price: 49900,
+        secondaryPrice: 49900,
+        offerPrice: 19900,
         image: WRC_GENERATIONS,
         imageDetails: DETAILS_WRC_GENERATIONS,
         Date: 3 / 11 / 2021,
-        precioReventa: 30,
+        precioReventa: 20,
     },
     {
         id: 176,
@@ -4217,13 +4217,13 @@ const data = [
         gender: "Carreras",
         description:
             "La Edición Fully Loaded incluye: - El Citroën C4 WRC (2010) de Sébastien Loeb - El 'Career Starter Pack' con 6 miembros del equipo adicionales - 2 colores del Porsche 911 GT3 RS RGT - Un pack de 36 pegatinas para el editor de colores - Acceso gratuito a WRC+ durante 3 meses*",
-        price: 29900,
-        secondaryPrice: 29900,
-        offerPrice: 10900,
+        price: 49900,
+        secondaryPrice: 49900,
+        offerPrice: 19900,
         image: WRC_GENERATIONS,
         imageDetails: DETAILS_WRC_GENERATIONS,
         Date: 3 / 11 / 2021,
-        precioReventa: 30,
+        precioReventa: 20,
     },
     {
         id: 177,
@@ -4232,8 +4232,8 @@ const data = [
         gender: "Accion",
         description:
             "Descubre los misterios de Minecraft Legends, un nuevo juego de acción y estrategia. Explora una tierra apacible rica en recursos y exuberantes biomas que se encuentran al bordela destrucción. ¡Los devastadores piglins han llegado, y depende de ti motivar a tus aliados y guiarlos en batallas estratégicas para salvar el Mundo superior!",
-        price: 29900,
-        secondaryPrice: 29900,
+        price: 39900,
+        secondaryPrice: 39900,
         offerPrice: 24900,
         image: MINECRAFT_LEGENDS,
         imageDetails: DETAILS_MINECRAFT_LEGENDS,
@@ -4294,11 +4294,11 @@ const data = [
             "Con este producto podrás descargar tanto la versión digital para PS4™ como la versión digital para PS5™ de este juego.Te damos la bienvenida a un mundo utópico, maravilloso y perfecto, en el que los humanos viven en armonía con leales y complacientes robots.Bueno, al menos, hasta ahora. Apenas quedan unos días para el lanzamiento del más moderno sistema de control de robots y solo un trágico accidente o una conspiración mundial podrían impedirlo",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 29900,
+        offerPrice: 39900,
         image: ATOMIC_HEART,
         imageDetails: DETAILS_ATOMIC_HEART,
         Date: 21 / 2 / 2023,
-        precioReventa: 30,
+        precioReventa: 39,
     },
     {
         id: 182,
@@ -4309,11 +4309,11 @@ const data = [
             "Con este producto podrás descargar tanto la versión digital para PS4™ como la versión digital para PS5™ de este juego.Te damos la bienvenida a un mundo utópico, maravilloso y perfecto, en el que los humanos viven en armonía con leales y complacientes robots.Bueno, al menos, hasta ahora. Apenas quedan unos días para el lanzamiento del más moderno sistema de control de robots y solo un trágico accidente o una conspiración mundial podrían impedirlo",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 29900,
+        offerPrice: 39900,
         image: ATOMIC_HEART,
         imageDetails: DETAILS_ATOMIC_HEART,
         Date: 21 / 2 / 2023,
-        precioReventa: 30,
+        precioReventa: 39,
     },
     {
         id: 183,
@@ -4322,13 +4322,13 @@ const data = [
         gender: "Carreras",
         description:
             "¡Pilota hasta victoria en motos, ATV y UTV en MX vs ATV Legends! Incluye nuevos entornos abiertos enormes y un modo Carrera que refleja los riesgos y recompensas en la vida de piloto profesional de fama mundial.¡Conviértete en leyenda del motociclismo todoterreno por derecho propio!¡Ha llegado tu hora!",
-        price: 29900,
-        secondaryPrice: 29900,
-        offerPrice: 19900,
+        price: 49900,
+        secondaryPrice: 49900,
+        offerPrice: 29900,
         image: MX_VS_ATV_LEGENDS,
         imageDetails: DETAILS_MX_VS_ATV_LEGENDS,
         Date: 28 / 6 / 2022,
-        precioReventa: 25,
+        precioReventa: 29,
     },
     {
         id: 184,
@@ -4337,13 +4337,13 @@ const data = [
         gender: "Carreras",
         description:
             "¡Pilota hasta victoria en motos, ATV y UTV en MX vs ATV Legends! Incluye nuevos entornos abiertos enormes y un modo Carrera que refleja los riesgos y recompensas en la vida de piloto profesional de fama mundial.¡Conviértete en leyenda del motociclismo todoterreno por derecho propio!¡Ha llegado tu hora!",
-        price: 29900,
-        secondaryPrice: 28900,
-        offerPrice: 20900,
+        price: 49900,
+        secondaryPrice: 48900,
+        offerPrice: 29900,
         image: MX_VS_ATV_LEGENDS,
         imageDetails: DETAILS_MX_VS_ATV_LEGENDS,
         Date: 28 / 6 / 2022,
-        precioReventa: 25,
+        precioReventa: 29,
     },
     {
         id: 185,
@@ -4354,11 +4354,11 @@ const data = [
             "Con este producto podrás descargar tanto la versión digital para PS4™ como la versión digital para PS5™ de este juego.La galaxia será tuya con LEGO® Star Wars™: La Saga De Skywalker. Revive los momentos emblemáticos y la acción constante de las nueve películas de la saga de Skywalker, reinterpretadas con el humor característico de LEGO. ",
         price: 49900,
         secondaryPrice: 49900,
-        offerPrice: 15900,
+        offerPrice: 19900,
         image: LEGO_STAR_WARS,
         imageDetails: DETAILS_LEGO_STAR_WARS,
         Date: 5 / 4 / 2022,
-        precioReventa: 25,
+        precioReventa: 20,
     },
     {
         id: 186,
@@ -4369,11 +4369,11 @@ const data = [
             "Con este producto podrás descargar tanto la versión digital para PS4™ como la versión digital para PS5™ de este juego.La galaxia será tuya con LEGO® Star Wars™: La Saga De Skywalker. Revive los momentos emblemáticos y la acción constante de las nueve películas de la saga de Skywalker, reinterpretadas con el humor característico de LEGO. ",
         price: 49900,
         secondaryPrice: 49900,
-        offerPrice: 12900,
+        offerPrice: 19900,
         image: LEGO_STAR_WARS,
         imageDetails: DETAILS_LEGO_STAR_WARS,
         Date: 5 / 4 / 2022,
-        precioReventa: 25,
+        precioReventa: 20,
     },
     {
         id: 187,
@@ -4397,13 +4397,13 @@ const data = [
         gender: "Accion",
         description:
             "Incluye tres títulos aclamados por la crítica: Assassin's Creed® Valhalla, Assassin's Creed® Odyssey y Assassin's Creed® Origins.",
-        price: 76800,
-        secondaryPrice: 75800,
-        offerPrice: 39900,
+        price: 99800,
+        secondaryPrice: 99800,
+        offerPrice: 49900,
         image: ASSASINS_3_PS3,
         imageDetails: DETAILS_ASSASINS_3,
         Date: 18 / 11 / 2020,
-        precioReventa: 40,
+        precioReventa: 49,
     },
     {
         id: 189,
@@ -4412,13 +4412,13 @@ const data = [
         gender: "Accion",
         description:
             "Incluye tres títulos aclamados por la crítica: Assassin's Creed® Valhalla, Assassin's Creed® Odyssey y Assassin's Creed® Origins.",
-        price: 79800,
-        secondaryPrice: 79800,
-        offerPrice: 29900,
+        price: 99800,
+        secondaryPrice: 99800,
+        offerPrice: 49900,
         image: ASSASINS_3_PS3,
         imageDetails: DETAILS_ASSASINS_3,
         Date: 18 / 11 / 2020,
-        precioReventa: 40,
+        precioReventa: 49,
     },
     {
         id: 190,
@@ -4489,11 +4489,11 @@ const data = [
             "La Colección LEGO® Marvel incluye tres juegos de LEGO Marvel llenos de acción: LEGO Marvel Super Heroes, LEGO Avengers de Marvel y LEGO Marvel Super Heroes 2, ¡además de todo el contenido de los pases de temporada de cada juego! LEGO Marvel Super Heroes - Los jugadores tienen el control de una lista impresionante de personajes unidos para detener a Loki y una multitud de villanos de Marvel que buscan crear una superarma capaz de destruir el mundo. LEGO Avengers de Marvel - ¡Sumérgete en el Universo Cinemático de Marvel con los personajes e historias de algunas de sus películas más aclamadas y más!  LEGO Marvel Super Heroes 2 - ¡Disfruta de una aventura nueva y original enfrentándote a Kang el Conquistador junto a tus superhéroes y supervillanos favoritos de diferentes eras y realidades!",
         price: 49900,
         secondaryPrice: 49800,
-        offerPrice: 10900,
+        offerPrice: 12900,
         image: LEGO_MARVEL_COLLECTION,
         imageDetails: DETAILS_LEGO_MARVEL_COLLECTION,
         Date: 12 / 3 / 2019,
-        precioReventa: 30,
+        precioReventa: 20,
     },
     {
         id: 195,
@@ -4504,11 +4504,11 @@ const data = [
             "La Colección LEGO® Marvel incluye tres juegos de LEGO Marvel llenos de acción: LEGO Marvel Super Heroes, LEGO Avengers de Marvel y LEGO Marvel Super Heroes 2, ¡además de todo el contenido de los pases de temporada de cada juego! LEGO Marvel Super Heroes - Los jugadores tienen el control de una lista impresionante de personajes unidos para detener a Loki y una multitud de villanos de Marvel que buscan crear una superarma capaz de destruir el mundo. LEGO Avengers de Marvel - ¡Sumérgete en el Universo Cinemático de Marvel con los personajes e historias de algunas de sus películas más aclamadas y más!  LEGO Marvel Super Heroes 2 - ¡Disfruta de una aventura nueva y original enfrentándote a Kang el Conquistador junto a tus superhéroes y supervillanos favoritos de diferentes eras y realidades!",
         price: 49900,
         secondaryPrice: 49800,
-        offerPrice: 10900,
+        offerPrice: 12900,
         image: LEGO_MARVEL_COLLECTION,
         imageDetails: DETAILS_LEGO_MARVEL_COLLECTION,
         Date: 12 / 3 / 2019,
-        precioReventa: 30,
+        precioReventa: 20,
     },
     {
         id: 196,
@@ -4517,13 +4517,13 @@ const data = [
         gender: "Aventura",
         description:
             "Regresa al Reino de la Cebolla y organiza tu equipo de chefs en un cooperativo clásico o en partidas en línea de hasta cuatro jugadores. Aférrate a tu delantal... es hora de salvar el mundo (¡otra vez!). Ya salvaste al mundo del Glotón Eterno. Ahora surgió una nueva amenaza y es hora de volver a las cocinas para detener al Pan Demonium.",
-        price: 19900,
-        secondaryPrice: 19800,
+        price: 24900,
+        secondaryPrice: 24800,
         offerPrice: 0 ,
         image: OVERCOOKED_2,
         imageDetails: DETAILS_OVERCOOKED_2,
         Date: 7 / 8 / 2018,
-        precioReventa: 15,
+        precioReventa: 25,
     },
     {
         id: 197,
@@ -4532,13 +4532,13 @@ const data = [
         gender: "Aventura",
         description:
             "Regresa al Reino de la Cebolla y organiza tu equipo de chefs en un cooperativo clásico o en partidas en línea de hasta cuatro jugadores. Aférrate a tu delantal... es hora de salvar el mundo (¡otra vez!). Ya salvaste al mundo del Glotón Eterno. Ahora surgió una nueva amenaza y es hora de volver a las cocinas para detener al Pan Demonium.",
-        price: 19900,
-        secondaryPrice: 19800,
+        price: 24900,
+        secondaryPrice: 24800,
         offerPrice: 0 ,
         image: OVERCOOKED_2,
         imageDetails: DETAILS_OVERCOOKED_2,
         Date: 7 / 8 / 2018,
-        precioReventa: 15,
+        precioReventa: 25,
     },
     {
         id: 198,
@@ -4577,9 +4577,9 @@ const data = [
         gender: "Accion",
         description:
             "Vive la adrenalina de la edición Juego del año de Marvel’s Spider-Man, que incluye el juego completo, además del contenido descargable completo de los arcos argumentales de Marvel’s Spider-Man: La ciudad que nunca duerme. ",
-        price: 29900,
-        secondaryPrice: 29800,
-        offerPrice: 18900,
+        price: 39900,
+        secondaryPrice: 39800,
+        offerPrice: 28900,
         image: SPIDERMAN,
         imageDetails: DETAILS_SPIDERMAN,
         Date: 28 / 8 / 2019,
@@ -4592,9 +4592,9 @@ const data = [
         gender: "Accion",
         description:
             "Vive la adrenalina de la edición Juego del año de Marvel’s Spider-Man, que incluye el juego completo, además del contenido descargable completo de los arcos argumentales de Marvel’s Spider-Man: La ciudad que nunca duerme. ",
-        price: 29900,
-        secondaryPrice: 29800,
-        offerPrice: 18900,
+        price: 39900,
+        secondaryPrice: 39800,
+        offerPrice: 28900,
         image: SPIDERMAN,
         imageDetails: DETAILS_SPIDERMAN,
         Date: 28 / 8 / 2019,
@@ -4609,7 +4609,7 @@ const data = [
             "Alza los puños y prepárate para la batalla definitiva en la siguiente generación de consolas de sobremesa. Impulsada por Unreal Engine 4, esta histórica franquicia de juegos de pelea vuelve a la acción con TEKKEN 7. Gracias a su sistema de combate realista y en 3D, una jugabilidad impecable, unos gráficos fotorrealistas y nuevas e innovadoras mecánicas y características de combate, TEKKEN 7 lleva a la franquicia al siguiente nivel. Esta entrega revive la actitud, competitividad y espectacularidad arraigadas en el ADN arcade de la franquicia para ofrecer la experiencia definitiva de los juegos de pelea. ",
         price: 39900,
         secondaryPrice: 39800,
-        offerPrice: 12000,
+        offerPrice: 15000,
         image: TEKKEN_7,
         imageDetails: DETAILS_TEKKEN_7,
         Date: 2 / 6 / 2017,
@@ -4624,7 +4624,7 @@ const data = [
             "Alza los puños y prepárate para la batalla definitiva en la siguiente generación de consolas de sobremesa. Impulsada por Unreal Engine 4, esta histórica franquicia de juegos de pelea vuelve a la acción con TEKKEN 7. Gracias a su sistema de combate realista y en 3D, una jugabilidad impecable, unos gráficos fotorrealistas y nuevas e innovadoras mecánicas y características de combate, TEKKEN 7 lleva a la franquicia al siguiente nivel. Esta entrega revive la actitud, competitividad y espectacularidad arraigadas en el ADN arcade de la franquicia para ofrecer la experiencia definitiva de los juegos de pelea. ",
         price: 39900,
         secondaryPrice: 39800,
-        offerPrice: 12000,
+        offerPrice: 15000,
         image: TEKKEN_7,
         imageDetails: DETAILS_TEKKEN_7,
         Date: 2 / 6 / 2017,
@@ -4637,13 +4637,13 @@ const data = [
         gender: "Accion",
         description:
             "En LEGO 2K Drive, tu increíble vehículo transformador te da la libertad de acelerar sin problemas a través de fascinantes pistas de carreras, zonas todoterreno y aguas abiertas. ¡Explora el vasto mundo de Piezilandia, demuestra tus habilidades de conducción y construye vehículos pieza por pieza!",
-        price: 29900,
-        secondaryPrice: 29800,
-        offerPrice: 22000,
+        price: 49900,
+        secondaryPrice: 49800,
+        offerPrice: 32000,
         image: LEGO_2K_DRIVE,
         imageDetails: DETAILS_LEGO_2K_DRIVE,
         Date: 19 / 5 / 2023,
-        precioReventa: 25,
+        precioReventa: 35,
     },
     {
         id: 205,
@@ -4652,13 +4652,13 @@ const data = [
         gender: "Accion",
         description:
             "En LEGO 2K Drive, tu increíble vehículo transformador te da la libertad de acelerar sin problemas a través de fascinantes pistas de carreras, zonas todoterreno y aguas abiertas. ¡Explora el vasto mundo de Piezilandia, demuestra tus habilidades de conducción y construye vehículos pieza por pieza!",
-        price: 29900,
-        secondaryPrice: 29800,
-        offerPrice: 22000,
+        price: 49900,
+        secondaryPrice: 49800,
+        offerPrice: 32000,
         image: LEGO_2K_DRIVE,
         imageDetails: DETAILS_LEGO_2K_DRIVE,
         Date: 19 / 5 / 2023,
-        precioReventa: 25,
+        precioReventa: 35,
     },
     {
         id: 206,
@@ -4669,11 +4669,11 @@ const data = [
             "Consigue siete juegos completos en un paquete increíble con el lote Triple juego de Crash™ + Spyro™. Incluye Crash Bandicoot™ N. Sane Trilogy + Spyro™ Reignited Trilogy + Crash™ Team Racing Nitro-Fueled",
         price: 79900,
         secondaryPrice: 79800,
-        offerPrice: 29000,
+        offerPrice: 39000,
         image: CRASH_3,
         imageDetails: DETAILS_CRASH_3,
         Date: 7 / 7 / 2019,
-        precioReventa: 45,
+        precioReventa: 40,
     },
     {
         id: 207,
@@ -4684,11 +4684,11 @@ const data = [
             "Consigue siete juegos completos en un paquete increíble con el lote Triple juego de Crash™ + Spyro™. Incluye Crash Bandicoot™ N. Sane Trilogy + Spyro™ Reignited Trilogy + Crash™ Team Racing Nitro-Fueled",
         price: 79900,
         secondaryPrice: 79800,
-        offerPrice: 29000,
+        offerPrice: 39000,
         image: CRASH_3,
         imageDetails: DETAILS_CRASH_3,
         Date: 7 / 7 / 2019,
-        precioReventa: 45,
+        precioReventa: 40,
     },
     {
         id: 208,
@@ -4698,8 +4698,8 @@ const data = [
         description:
             "América, 1899. Arthur Morgan y la banda de Van der Linde se ven obligados a huir. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la banda deberá atracar, robar y luchar, para sobrevivir en su camino por el escabroso territorio del corazón de América. Mientras las divisiones internas aumentan y amenazan con separarlos a todos, Arthur deberá elegir entre sus propios ideales y la lealtad a la banda que lo vio crecer.",
         price: 39900,
-        secondaryPrice: 39800,
-        offerPrice: 19900,
+        secondaryPrice: 24500,
+        offerPrice: 29900,
         image: RED_DEAD_REDEMPTION_2,
         imageDetails: DETAILS_RED_DEAD_REDEMPTION_2,
         Date: 26 / 10 / 2018,
@@ -4712,9 +4712,9 @@ const data = [
         gender: "Accion",
         description:
             "América, 1899. Arthur Morgan y la banda de Van der Linde se ven obligados a huir. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la banda deberá atracar, robar y luchar, para sobrevivir en su camino por el escabroso territorio del corazón de América. Mientras las divisiones internas aumentan y amenazan con separarlos a todos, Arthur deberá elegir entre sus propios ideales y la lealtad a la banda que lo vio crecer.",
-        price: 39900,
-        secondaryPrice: 39800,
-        offerPrice: 19900,
+        price: 49900,
+        secondaryPrice: 24500,
+        offerPrice: 29900,
         image: RED_DEAD_REDEMPTION_2,
         imageDetails: DETAILS_RED_DEAD_REDEMPTION_2,
         Date: 26 / 10 / 2018,
@@ -4759,11 +4759,11 @@ const data = [
             "Siéntete más cerca del juego con tres tecnologías de última generación que potencian un realismo sin igual en cada partido: HyperMotionV**, los Estilos de juego optimizados por Opta y un motor Frostbite™ mejorado. HyperMotionV captura el juego como realmente se juega usando datos volumétricos de más de 180 partidos profesionales masculinos y femeniles para garantizar que los movimientos en el juego reflejen con precisión la acción del futbol real.",
         price: 49900,
         secondaryPrice: 19800,
-        offerPrice: 35900,
+        offerPrice: 39900,
         image: FIFA_24,
         imageDetails: DETAILS_FIFA_24,
         Date: 29 / 9 / 2023,
-        precioReventa: 35,
+        precioReventa: 39,
     },
     {
         id: 213,
@@ -4834,7 +4834,7 @@ const data = [
             "Prueba el completo simulador de manejo real… que ya cumplió 25 años. Toma el volante de más de 400 autos –desde los vehículos clásicos hasta los superautos vanguardistas están recreados con un nivel de detalle sin precedentes– y maneja en más de 90 pistas en diferentes condiciones climáticas.",
         price: 53900,
         secondaryPrice: 53800,
-        offerPrice: 32900,
+        offerPrice: 35900,
         image: GRAN_TURISMO_7,
         imageDetails: DETAILS_GRAN_TURISMO_7,
         Date: 4 / 3 / 2022,
@@ -4849,7 +4849,7 @@ const data = [
             "Prueba el completo simulador de manejo real… que ya cumplió 25 años. Toma el volante de más de 400 autos –desde los vehículos clásicos hasta los superautos vanguardistas están recreados con un nivel de detalle sin precedentes– y maneja en más de 90 pistas en diferentes condiciones climáticas.",
         price: 53900,
         secondaryPrice: 53800,
-        offerPrice: 32900,
+        offerPrice: 35900,
         image: GRAN_TURISMO_7,
         imageDetails: DETAILS_GRAN_TURISMO_7,
         Date: 4 / 3 / 2022,
@@ -4928,7 +4928,7 @@ const data = [
         image: DIABLO_IV,
         imageDetails: DETAILS_DIABLO_IV,
         Date: 5 / 6 / 2023,
-        precioReventa: 35,
+        precioReventa: 30,
     },
     {
         id: 224,
@@ -4943,7 +4943,7 @@ const data = [
         image: DIABLO_IV,
         imageDetails: DETAILS_DIABLO_IV,
         Date: 5 / 6 / 2023,
-        precioReventa: 35,
+        precioReventa: 30,
     },
     {
         id: 225,
@@ -4954,11 +4954,11 @@ const data = [
             "CONVIÉRTETE EN EL AGENTE 47. Vístete para la ocasión con este thriller de espías en el que tendrás que usar habilidades letales en más de 20 ubicaciones",
         price: 53900,
         secondaryPrice: 53800,
-        offerPrice: 25900,
+        offerPrice: 29900,
         image: HITMAN_WORLD,
         imageDetails: DETAILS_HITMAN_WORLD,
         Date: 5 / 6 / 2023,
-        precioReventa: 35,
+        precioReventa: 30,
     },
     {
         id: 226,
@@ -4969,11 +4969,11 @@ const data = [
             "CONVIÉRTETE EN EL AGENTE 47. Vístete para la ocasión con este thriller de espías en el que tendrás que usar habilidades letales en más de 20 ubicaciones",
         price: 53900,
         secondaryPrice: 53800,
-        offerPrice: 25900,
+        offerPrice: 29900,
         image: HITMAN_WORLD,
         imageDetails: DETAILS_HITMAN_WORLD,
         Date: 5 / 6 / 2023,
-        precioReventa: 35,
+        precioReventa: 30,
     },
     {
         id: 227,
@@ -4984,7 +4984,7 @@ const data = [
             "Compite contra el tiempo, burla a la policía y participa en las eliminatorias semanales para alcanzar el Grand, el desafío de carreras callejeras definitivo de Lakeshore. Llena tu garaje con autos personalizados con detalles precisos y deslumbra las calles con tu estilo, atuendos exclusivos y una banda sonora global vibrante.",
         price: 53900,
         secondaryPrice: 53800,
-        offerPrice: 25900,
+        offerPrice: 35900,
         image: NFS_UNBOUND,
         imageDetails: DETAILS_NFS_UNBOUND,
         Date: 5 / 6 / 2023,
@@ -5014,11 +5014,11 @@ const data = [
             "Descubre el nuevo universo de Mortal Kombat, creado por el Dios del Fuego Liu Kang. ¡Mortal Kombat™ 1 marca el comienzo de una nueva era para la icónica franquicia, con un sistema de lucha, modos de juego y Fatalities nuevos!",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 22900,
+        offerPrice: 29900,
         image: MK_1,
         imageDetails: DETAILS_MK_1,
         Date: 19 / 9 / 2023,
-        precioReventa: 39,
+        precioReventa: 30,
     },
     {
         id: 230,
@@ -5029,7 +5029,7 @@ const data = [
             "De Rocksteady Studios, los creadores de la serie de Batman Arkham, Suicide Squad: Kill The Justice League es un videojuego de disparos en tercera persona de acción y aventura, que desafía géneros, en el que una banda de inadaptados extremos debe lograr lo imposible: matar a la Liga de la Justicia.",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 22900,
+        offerPrice: 39900,
         image: SUICIDE_SQUAD,
         imageDetails: DETAILS_SUICIDE_SQUAD,
         Date: 2 / 2 / 2024,
@@ -5044,7 +5044,7 @@ const data = [
             "Adéntrate en el peligroso mundo abierto de Skull and Bones, una experiencia cooperativa de rol y acción, para convertirte en un temible cabecilla pirata.",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 29900,
+        offerPrice: 39900,
         image: SKULL_AND_BONES,
         imageDetails: DETAILS_SKULL_AND_BONES,
         Date: 15 / 2 / 2024,
@@ -5192,13 +5192,13 @@ const data = [
         gender: "Pelea",
         description:
             "Sé el protagonista de vibrantes combates de boxeo mezclados con la emoción cinemática de una película taquillera en Creed: Rise to Glory™. Lucha y forja tu leyenda más allá del ring como Adonis Creed. Enfréntate cara a cara con los mejores oponentes del mundo en una experiencia de boxeo en la que puedes entrenar, pelear y ganar como un Creed.",
-        price: 19900,
-        secondaryPrice: 19900,
-        offerPrice: 12900,
+        price: 29900,
+        secondaryPrice: 29900,
+        offerPrice: 15900,
         image: CREED,
         imageDetails: DETAILS_CREED,
         Date: 25 / 9 / 2018,
-        precioReventa: 10,
+        precioReventa: 15,
     },
     {
         id: 505,
@@ -5207,13 +5207,13 @@ const data = [
         gender: "Pelea",
         description:
             "Sé el protagonista de vibrantes combates de boxeo mezclados con la emoción cinemática de una película taquillera en Creed: Rise to Glory™. Lucha y forja tu leyenda más allá del ring como Adonis Creed. Enfréntate cara a cara con los mejores oponentes del mundo en una experiencia de boxeo en la que puedes entrenar, pelear y ganar como un Creed.",
-        price: 19900,
-        secondaryPrice: 19900,
-        offerPrice: 12900,
+        price: 29900,
+        secondaryPrice: 29900,
+        offerPrice: 15900,
         image: CREED,
         imageDetails: DETAILS_CREED,
         Date: 25 / 9 / 2018,
-        precioReventa: 10,
+        precioReventa: 15,
     },
     {
         id: 506,
@@ -5374,11 +5374,11 @@ const data = [
             "Un catálogo diverso de 18 luchadores Juega con los maestros legendarios y los nuevos favoritos del público, como Ryu, Chun-Li, Luke, Jamie y muchos más, en esta nueva edición donde cada personaje cuenta con rediseños impresionantes y especiales cinemáticos emocionantes.",
         price: 45900,
         secondaryPrice: 45900,
-        offerPrice: 30900,
+        offerPrice: 38900,
         image: STREET_FIGHTER,
         imageDetails: DETAILS_STREET_FIGHTER,
         Date: 2 / 6 / 2023,
-        precioReventa: 35,
+        precioReventa: 38,
     },
     {
         id: 517,
@@ -5389,11 +5389,11 @@ const data = [
             "Un catálogo diverso de 18 luchadores Juega con los maestros legendarios y los nuevos favoritos del público, como Ryu, Chun-Li, Luke, Jamie y muchos más, en esta nueva edición donde cada personaje cuenta con rediseños impresionantes y especiales cinemáticos emocionantes.",
         price: 45900,
         secondaryPrice: 45900,
-        offerPrice: 30900,
+        offerPrice: 38900,
         image: STREET_FIGHTER,
         imageDetails: DETAILS_STREET_FIGHTER,
         Date: 2 / 6 / 2023,
-        precioReventa: 35,
+        precioReventa: 38,
     },
     {
         id: 518,
@@ -5404,11 +5404,11 @@ const data = [
             "Call of Duty® regresa a sus raíces con Call of Duty®: WWII, una experiencia sobrecogedora que redefine la Segunda Guerra Mundial para una nueva generación. Vive el combate clásico de Call of Duty, los lazos de camaradería y la naturaleza despiadada de la guerra contra una potencia que sume al mundo en la tiranía.",
         price: 25900,
         secondaryPrice: 5900,
-        offerPrice: 15900,
+        offerPrice: 19900,
         image: CALL_OF_DUTY_WW3,
         imageDetails: DETAILS_CALL_OF_DUTY_WW3,
         Date: 8 / 5 / 2018,
-        precioReventa: 15,
+        precioReventa: 19,
     },
     {
         id: 519,
@@ -5419,11 +5419,11 @@ const data = [
             "Call of Duty® regresa a sus raíces con Call of Duty®: WWII, una experiencia sobrecogedora que redefine la Segunda Guerra Mundial para una nueva generación. Vive el combate clásico de Call of Duty, los lazos de camaradería y la naturaleza despiadada de la guerra contra una potencia que sume al mundo en la tiranía.",
         price: 25900,
         secondaryPrice: 5900,
-        offerPrice: 15900,
+        offerPrice: 19900,
         image: CALL_OF_DUTY_WW3,
         imageDetails: DETAILS_CALL_OF_DUTY_WW3,
         Date: 8 / 5 / 2018,
-        precioReventa: 15,
+        precioReventa: 19,
     },
     {
         id: 520,
@@ -5724,6 +5724,156 @@ const data = [
         imageDetails: FIFA_23,
         Date: 26 / 9 / 2022,
         precioReventa: 20,
+    },
+    {
+        id: 547,
+        title: "Assassin's Creed Valhalla Complete Edition",
+        category: "PS4",
+        gender: "Rol",
+        description:
+            "¡Incluye el juego básico, el Season Pass, el paquete de adornos definitivo y la expansión El amanecer del Ragnarok!",
+        price: 99900,
+        secondaryPrice: 99900,
+        offerPrice: 49900,
+        image: ASSASINS_VALHALLA_COMPLETE_EDITION,
+        imageDetails: DETAILS_ASSASINS_VALHALLA_COMPLETE_EDITION,
+        Date: 10 / 3 / 2022,
+        precioReventa: 49,
+    },
+    {
+        id: 548,
+        title: "Assassin's Creed Valhalla Complete Edition",
+        category: "PS5",
+        gender: "Rol",
+        description:
+            "¡Incluye el juego básico, el Season Pass, el paquete de adornos definitivo y la expansión El amanecer del Ragnarok!",
+        price: 99900,
+        secondaryPrice: 99900,
+        offerPrice: 49900,
+        image: ASSASINS_VALHALLA_COMPLETE_EDITION,
+        imageDetails: DETAILS_ASSASINS_VALHALLA_COMPLETE_EDITION,
+        Date: 10 / 3 / 2022,
+        precioReventa: 49,
+    },
+    {
+        id: 549,
+        title: "Assassin's Creed Valhalla",
+        category: "PS4",
+        gender: "Rol",
+        description:
+            "En Assassin's Creed® Valhalla, encarna a Eivor, un legendario saqueador vikingo en busca de la gloria Explora la edad oscura inglesa conforme atacas a tus enemigos, haces crecer tus asentamientos y construyes tu poder político.",
+        price: 49900,
+        secondaryPrice: 49900,
+        offerPrice: 19900,
+        image: ASSASINS_VALHALLA,
+        imageDetails: DETAILS_ASSASINS_VALHALLA,
+        Date: 12 / 11 / 2020,
+        precioReventa: 19,
+    },
+    {
+        id: 550,
+        title: "Assassin's Creed Valhalla",
+        category: "PS5",
+        gender: "Rol",
+        description:
+            "En Assassin's Creed® Valhalla, encarna a Eivor, un legendario saqueador vikingo en busca de la gloria Explora la edad oscura inglesa conforme atacas a tus enemigos, haces crecer tus asentamientos y construyes tu poder político.",
+        price: 49900,
+        secondaryPrice: 49900,
+        offerPrice: 19900,
+        image: ASSASINS_VALHALLA,
+        imageDetails: DETAILS_ASSASINS_VALHALLA,
+        Date: 12 / 11 / 2020,
+        precioReventa: 19,
+    },
+    {
+        id: 551,
+        title: "Assassin’s Creed Syndicate",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "Londres, 1868. La Revolución Industrial desata una época de invención, transformando la vida de millones con las tecnologías que una vez pensamos imposible. Pero la industrialización solamente llena los bolsillos de unos pocos privilegiados, mientras que los trabajadores luchan por sobrevivir en las fábricas que hacen de Londres el corazón de la economía mundial... hasta que un asesino se une a su causa, lo que destapa un conflicto épico que hará eco en la historia. Crea la primera familia del crimen organizado en el mundo. Conquista las calles de Londres. Haz caer a la clase gobernante. Levántate a la cabeza del bajo mundo de Londres en una aventura sangrienta como ninguna otra.",
+        price: 19900,
+        secondaryPrice: 18900,
+        offerPrice: 12900,
+        image: ASSASINS_SINDICATE,
+        imageDetails: DETAILS_ASSASINSCREED_SINDICATE,
+        Date: 23 / 10 / 2015,
+        precioReventa: 13,
+    },
+    {
+        id: 552,
+        title: "Fifa 23",
+        category: "PS4",
+        gender: "Deportes",
+        description:
+            "En esta edición te esperan los torneos más importantes de fútbol, como todo el contenido de la Copa Mundial de la FIFA Qatar 2022. Además de renovados modos de juego, cuenta con más de 19.000 jugadores, 700 equipos, 100 estadios y 30 ligas, con la autenticidad inigualable de FIFA.",
+        price: 50900,
+        secondaryPrice: 20900,
+        offerPrice: 17900,
+        image: FIFA_23,
+        imageDetails: DETAILS_FIFA_23,
+        Date: 26 / 9 / 2022,
+        precioReventa: 20,
+    },
+    {
+        id: 553,
+        title: "Elden Ring Shadow of the Erdtree Premium",
+        category: "PS4",
+        gender: "Juego de Rol",
+        description:
+            "Ganador de cientos de premios que incluyen Juego del año de The Game Awards y Mejor juego del año de Golden Joystick Awards, ELDEN RING es el aclamado juego de rol y acción ambientado en un mundo de fantasía extenso y oscuro. Los jugadores se embarcan en una aventura épica con la libertad de explorar y aventurarse a su ritmo.",
+        price: 50900,
+        secondaryPrice: 20900,
+        offerPrice: 35900,
+        image: ELDEN_RING_SHADOW_OF_THE_ERDTREE,
+        imageDetails: DETAILS_ELDEN_RING_SHADOW_OF_THE_ERDTREE,
+        Date: 21 / 6 / 2024,
+        precioReventa: 35,
+    },
+    {
+        id: 554,
+        title: "Elden Ring Shadow of the Erdtree Premium",
+        category: "PS5",
+        gender: "Juego de Rol",
+        description:
+            "Ganador de cientos de premios que incluyen Juego del año de The Game Awards y Mejor juego del año de Golden Joystick Awards, ELDEN RING es el aclamado juego de rol y acción ambientado en un mundo de fantasía extenso y oscuro. Los jugadores se embarcan en una aventura épica con la libertad de explorar y aventurarse a su ritmo.",
+        price: 50900,
+        secondaryPrice: 20900,
+        offerPrice: 35900,
+        image: ELDEN_RING_SHADOW_OF_THE_ERDTREE,
+        imageDetails: DETAILS_ELDEN_RING_SHADOW_OF_THE_ERDTREE,
+        Date: 21 / 6 / 2024,
+        precioReventa: 35,
+    },
+    {
+        id: 555,
+        title: "Elden Ring + Shadow of the Erdtree Premium",
+        category: "PS4",
+        gender: "Juego de Rol",
+        description:
+            "Ganador de cientos de premios que incluyen Juego del año de The Game Awards y Mejor juego del año de Golden Joystick Awards, ELDEN RING es el aclamado juego de rol y acción ambientado en un mundo de fantasía extenso y oscuro. Los jugadores se embarcan en una aventura épica con la libertad de explorar y aventurarse a su ritmo.",
+        price: 80900,
+        secondaryPrice: 80900,
+        offerPrice: 59900,
+        image: ELDEN_RING_+_SHADOW_OF_THE_ERDTREE,
+        imageDetails: DETAILS_ELDEN_RING_+_SHADOW_OF_THE_ERDTREE,
+        Date: 21 / 6 / 2024,
+        precioReventa: 59,
+    },
+    {
+        id: 555,
+        title: "Elden Ring + Shadow of the Erdtree Premium",
+        category: "PS5",
+        gender: "Juego de Rol",
+        description:
+            "Ganador de cientos de premios que incluyen Juego del año de The Game Awards y Mejor juego del año de Golden Joystick Awards, ELDEN RING es el aclamado juego de rol y acción ambientado en un mundo de fantasía extenso y oscuro. Los jugadores se embarcan en una aventura épica con la libertad de explorar y aventurarse a su ritmo.",
+        price: 80900,
+        secondaryPrice: 80900,
+        offerPrice: 59900,
+        image: ELDEN_RING_+_SHADOW_OF_THE_ERDTREE,
+        imageDetails: DETAILS_ELDEN_RING_+_SHADOW_OF_THE_ERDTREE,
+        Date: 21 / 6 / 2024,
+        precioReventa: 59,
     },
 
     
