@@ -280,9 +280,10 @@ import SONIC_MANIA from '../assets/img/Catalogue/Playstation_4_5/SONIC_MANIA.jpe
 import STAR_OCEAN from '../assets/img/Catalogue/Playstation_4_5/STAR_OCEAN.jpeg';
 import STREET_FIGHTER from '../assets/img/Catalogue/Playstation_4_5/STREET_FIGHTER.jpeg';
 import TEAM_SONIC_RACING from '../assets/img/Catalogue/Playstation_4_5/TEAM_SONIC_RACING.jpeg';
-import FIFA_23 from '../assets/img/Catalogue/Playstation_4_5/TEAM_SONIC_RACING.jpeg';
-
-
+import ASSASINS_CREED_VALHALLA from '../assets/img/Catalogue/Playstation_4_5/ASSASINS_CREED_VALHALLA.jpeg';
+import ELDEN_RING_SHADOW_ERDTREE from '../assets/img/Catalogue/Playstation_4_5/ELDEN_RING_SHADOW_ERDTREE.jpeg';
+import ELDEN_RING_MAS_SHADOW_ERDTREE from '../assets/img/Catalogue/Playstation_4_5/ELDEN_RING_MAS_SHADOW_ERDTREE.jpeg';
+import FIFA_23 from '../assets/img/Catalogue/Playstation_4_5/FIFA_23.jpeg';
 
 
 
@@ -463,6 +464,9 @@ import DETAILS_SONIC_MANIA from '../assets/img/Catalogue/imgDetails-PS4-PS5/SONI
 import DETAILS_STAR_OCEAN from '../assets/img/Catalogue/imgDetails-PS4-PS5/STAR_OCEAN.jpeg';
 import DETAILS_STREET_FIGHTER from '../assets/img/Catalogue/imgDetails-PS4-PS5/STREET_FIGHTER.jpeg';
 //import DETAILS_TEAM_SONIC_RACING from '../assets/img/Catalogue/imgDetails-PS4-PS5/TEAM_SONIC_RACING.jpeg';
+import DETAILS_ASSASINS_CREED_VALHALLA from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINSCREED-VALHALLA.jpeg';
+import DETAILS_ELDEN_RING_SHADOW_ERDTREE from '../assets/img/Catalogue/imgDetails-PS4-PS5/ELDEN_RING_SHADOW_ERDTREE.jpeg';
+import DETAILS_ELDEN_RING_MAS_SHADOW_ERDTREE from '../assets/img/Catalogue/imgDetails-PS4-PS5/ELDEN_RING_MAS_SHADOW_ERDTREE.jpeg';
 
 
 import AA from "../assets/img/logo-lg.png";
@@ -5735,8 +5739,8 @@ const data = [
         price: 99900,
         secondaryPrice: 99900,
         offerPrice: 49900,
-        image: AA,
-        imageDetails: AA,
+        image: ASSASINS_CREED_VALHALLA,
+        imageDetails: DETAILS_ASSASINS_CREED_VALHALLA,
         Date: 10 / 3 / 2022,
         precioReventa: 49,
     },
@@ -5750,8 +5754,8 @@ const data = [
         price: 99900,
         secondaryPrice: 99900,
         offerPrice: 49900,
-        image: AA,
-        imageDetails: AA,
+        image: ASSASINS_CREED_VALHALLA,
+        imageDetails: DETAILS_ASSASINS_CREED_VALHALLA,
         Date: 10 / 3 / 2022,
         precioReventa: 49,
     },
@@ -5766,7 +5770,7 @@ const data = [
         secondaryPrice: 49900,
         offerPrice: 19900,
         image: ASSASINS_VALHALLA,
-        imageDetails: AA,
+        imageDetails: DETAILS_ASSASINS_CREED_VALHALLA,
         Date: 12 / 11 / 2020,
         precioReventa: 19,
     },
@@ -5781,7 +5785,7 @@ const data = [
         secondaryPrice: 49900,
         offerPrice: 19900,
         image: ASSASINS_VALHALLA,
-        imageDetails: AA,
+        imageDetails: DETAILS_ASSASINS_CREED_VALHALLA,
         Date: 12 / 11 / 2020,
         precioReventa: 19,
     },
@@ -5810,7 +5814,7 @@ const data = [
         price: 50900,
         secondaryPrice: 20900,
         offerPrice: 17900,
-        image: FIFA_23,
+        image: AA,
         imageDetails: AA,
         Date: 26 / 9 / 2022,
         precioReventa: 20,
@@ -5825,8 +5829,8 @@ const data = [
         price: 50900,
         secondaryPrice: 20900,
         offerPrice: 35900,
-        image: AA,
-        imageDetails: AA,
+        image: ELDEN_RING_SHADOW_ERDTREE,
+        imageDetails: DETAILS_ELDEN_RING_SHADOW_ERDTREE,
         Date: 21 / 6 / 2024,
         precioReventa: 35,
     },
@@ -5840,8 +5844,8 @@ const data = [
         price: 50900,
         secondaryPrice: 20900,
         offerPrice: 35900,
-        image: AA,
-        imageDetails: AA,
+        image: ELDEN_RING_SHADOW_ERDTREE,
+        imageDetails: DETAILS_ELDEN_RING_SHADOW_ERDTREE,
         Date: 21 / 6 / 2024,
         precioReventa: 35,
     },
@@ -5855,8 +5859,8 @@ const data = [
         price: 80900,
         secondaryPrice: 80900,
         offerPrice: 59900,
-        image: AA,
-        imageDetails: AA,
+        image: ELDEN_RING_MAS_SHADOW_ERDTREE,
+        imageDetails: DETAILS_ELDEN_RING_MAS_SHADOW_ERDTREE,
         Date: 21 / 6 / 2024,
         precioReventa: 59,
     },
@@ -5870,8 +5874,8 @@ const data = [
         price: 80900,
         secondaryPrice: 80900,
         offerPrice: 59900,
-        image: AA,
-        imageDetails: AA,
+        image: ELDEN_RING_MAS_SHADOW_ERDTREE,
+        imageDetails: DETAILS_ELDEN_RING_MAS_SHADOW_ERDTREE,
         Date: 21 / 6 / 2024,
         precioReventa: 59,
     },
