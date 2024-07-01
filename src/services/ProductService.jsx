@@ -86,12 +86,17 @@ import INJUSTICE_2 from '../assets/img/Catalogue/Playstation-3/INJUSTICE_2.jpeg'
 import LEGO_MARVEL_AVENGERS_DELUXE_EDITION from '../assets/img/Catalogue/Playstation-3/LEGO_MARVEL_AVENGERS_DELUXE_EDITION.jpeg';
 import PAYDAY_2 from '../assets/img/Catalogue/Playstation-3/PAYDAY_2.jpeg';
 import PES_2017 from '../assets/img/Catalogue/Playstation-3/PES_2017.jpeg';
-import TOYSTORY_3 from '../assets/img/Catalogue/Playstation-3/TOY_STORY_3.jpeg';
-
-
-
-
-
+import BORDERLANDS_2 from '../assets/img/Catalogue/Playstation-3/BORDERLANDS_2.jpeg';
+import CALL_OF_DUTY_MODERN_WARFARE_TRILOGY from '../assets/img/Catalogue/Playstation-3/CALL_OF_DUTY_MODERN_WARFARE_TRILOGY.jpeg';
+import LEFT_BEHIND from '../assets/img/Catalogue/Playstation-3/LEFT_BEHIND.jpeg';
+import P5_PERSONA from '../assets/img/Catalogue/Playstation-3/P5_PERSONA.jpeg';
+import RAYMAN_LEGENDS from '../assets/img/Catalogue/Playstation-3/RAYMAN_LEGENDS.jpeg';
+import SONIC_ADVENTURE from '../assets/img/Catalogue/Playstation-3/SONIC_ADVENTURE.jpeg';
+import SAINT_SEIYA from '../assets/img/Catalogue/Playstation-3/SAINT_SEIYA.jpeg';
+import TOMB_RAIDER from '../assets/img/Catalogue/Playstation-3/TOMB_RAIDER.jpeg';
+import BATMAN_ARKHAM_ORIGINS from '../assets/img/Catalogue/Playstation-3/BATMAN_ARKHAM_ORIGINS.jpg';
+import BEYOND_TWO_SOULS from '../assets/img/Catalogue/Playstation-3/BEYOND_TWO_SOULS.jpeg';
+import BIOSHOCK from '../assets/img/Catalogue/Playstation-3/BIOSHOCK.jpg';
 
 
 
@@ -474,7 +479,7 @@ import AA from "../assets/img/logo-lg.png";
 const data = [
     { 
         "id": 237,  
-        "title": "Fifa 19 Legacy Edition",
+        "title": "Fifa 19 Legacy Edition Español",
         "category": "PS3",
         "gender":"Deportes",
         "description":"FIFA es el videojuego de fútbol más vendido de la actualidad y con más de 25 años de desarrollo. Vas a poder jugar con tus equipos y futbolistas preferidos en diversos modos. ¡Preparate para convertirte en campeón de todas las copas y torneos!",
@@ -517,12 +522,12 @@ const data = [
         "category": "PS3",
         "gender":"Accion",
         "description":" Call of Duty: Black Ops II es el segundo juego de la saga Call of Duty en presentar la futura tecnología de la guerra, y el primero en presentar historias de ramificación impulsados por elección del jugador, así como la selección de armas antes de comenzar las misiones del modo historia.",
-        "price": 4900,
+        "price": 5900,
         "offerPrice":  0,
         "image": CALL_OF_DUTY_BLACK_OPS_2,
         "imageDetails": CALL_OF_DUTY_BLACK_OPS_2,
         "Date": 12/11/2012,
-        "precioReventa": 4500
+        "precioReventa": 5900
         },
     { 
         "id": 241,  
@@ -1599,10 +1604,192 @@ const data = [
             "description":"Basada en la famosa película de Disney, esta aventura para consolas trae nuevas posibilidades para vivir increíbles aventuras junto a sus protagonistas. Los jugadores deberán acompañar al Sheriff Woody y su incondicional amigo Buzz Lightyear en una misión para salvar la vida de muchos juguetes.",
             "price": 10900,
             "offerPrice": 7990  ,
-            "image": TOYSTORY_3,
-            "imageDetails": TOYSTORY_3,
+            "image": AA,
+            "imageDetails": AA,
             "Date": 15/6/2010,
             "precioReventa": 7990
+        },
+        { 
+            "id": 325,  
+            "title": "Batman Arkham Origins",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"La tercera entrega de la saga presenta la precuela de las dos anteriores para explorar los orígenes de Batman. Los jugadores disfrutarán de una aventura de acción en la que el sigilo es central para triunfar en su lucha contra los más peligrosos villanos.",
+            "price": 8900,
+            "offerPrice": 5990  ,
+            "image": BATMAN_ARKHAM_ORIGINS,
+            "imageDetails": BATMAN_ARKHAM_ORIGINS,
+            "Date": 25/10/2013,
+            "precioReventa": 5990
+        },
+        { 
+            "id": 326,  
+            "title": "Beyond Two Souls",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"Este thriller psicológico presenta la historia de Jodie Holmes, una niña unida a un ser sobrenatural. Cargada de realismo y emotividad, el juego acerca una experiencia cinematográfica con desafíos físicos y psicológicos que obligan a los jugadores a pensar en las consecuencias de cada uno de sus actos.",
+            "price": 8900,
+            "offerPrice": 5990  ,
+            "image": BEYOND_TWO_SOULS,
+            "imageDetails": BEYOND_TWO_SOULS,
+            "Date": 8/10/2013,
+            "precioReventa": 5990
+        },
+        { 
+            "id": 327,  
+            "title": "Bioshock",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"BioShock es un videojuego de terror de disparos en primera persona desarrollado por Irrational Games",
+            "price": 8900,
+            "offerPrice": 5990  ,
+            "image": BIOSHOCK,
+            "imageDetails": BIOSHOCK,
+            "Date": 21/8/2007,
+            "precioReventa": 5990
+        },
+        { 
+            "id": 328,  
+            "title": "Borderlands 2",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"Una de las mayores sorpresas de los últimos años fue el divertidísimo Borderlands del año 2009, y ahora GearBox nos brinda una segunda parte muy superior. El estudio apuntala algunos de los puntos que quizá le faltaban al original, y consolida con la secuela un videojuego sobresaliente y una compra obligada para todos los habituales de las experiencias cooperativas.",
+            "price": 8900,
+            "offerPrice": 5990  ,
+            "image": BORDERLANDS_2,
+            "imageDetails": BORDERLANDS_2,
+            "Date": 21/9/2012,
+            "precioReventa": 5990
+        },
+        { 
+            "id": 329,  
+            "title": "Brave",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"Esta aventura combina escenarios impresionantes con energía mágica para terminar con una plaga que amenaza al planeta. En el papel de Mérida, la mejor arquera del reino, los jugadores deberán explorar un mundo que esconde enemigos para derrotar con los poderes del fuego, hielo, viento y tierra.",
+            "price": 8900,
+            "offerPrice": 5990  ,
+            "image": BRAVE,
+            "imageDetails": BRAVE,
+            "Date": 20/1/2016,
+            "precioReventa": 5990
+        },
+        { 
+            "id": 330,  
+            "title": "Call Of Duty Trilogia",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"Call of Duty es una serie de videojuegos de disparos en primera persona, de estilo bélico",
+            "price": 19900,
+            "offerPrice": 12900  ,
+            "image": CALL_OF_DUTY_MODERN_WARFARE_TRILOGY,
+            "imageDetails": CALL_OF_DUTY_MODERN_WARFARE_TRILOGY,
+            "Date": 29/10/2003,
+            "precioReventa": 12500
+        },
+        { 
+            "id": 331,  
+            "title": "Fifa 19 Legacy Edition Latino",
+            "category": "PS3",
+            "gender":"Deportes",
+            "description":"FIFA es el videojuego de fútbol más vendido de la actualidad y con más de 25 años de desarrollo. Vas a poder jugar con tus equipos y futbolistas preferidos en diversos modos. ¡Preparate para convertirte en campeón de todas las copas y torneos!",
+            "price": 12900,
+            "offerPrice": 8590 ,
+            "image": FIFA_19,
+            "imageDetails": FIFA_19,
+            "Date": 13/9/2018,
+            "precioReventa": 8000
+        },
+        {   "id": 332,  
+            "title": "Persona 5",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"Una historia que se divide entre las calles de Tokio y el ciberespacio. Los jugadores disfrutarán de dos roles para vivir como jóvenes estudiantes durante el día y como ladrones fantasmas durante la noche, mientras crean vínculos, resuelven acertijos, vencen enemigos y encuentran valiosos tesoros.",
+            "price": 9900,
+            "offerPrice": 7990 ,
+            "image": P5_PERSONA,
+            "imageDetails": P5_PERSONA,
+            "Date": 15/9/2016,
+            "precioReventa": 7000
+        },
+                
+        {   "id": 333,  
+            "title": "Rayman Legends",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"La secuela de Rayman Origins multiplica la acción en el Claro de los Sueños. Los jugadores deberán avanzar de niveles demostrando sus habilidades en plataformas para salvar a los Teensies de dragones, sapos gigantes y horribles monstruos marinos que despertaron y amenazan con destruirlo todo.",
+            "price": 9900,
+            "offerPrice": 7990 ,
+            "image": RAYMAN_LEGENDS,
+            "imageDetails": RAYMAN_LEGENDS,
+            "Date": 15/9/2016,
+            "precioReventa": 7000
+        },
+                    
+        { 
+            "id": 334,  
+            "title": "Saint Seiya Soldiers Soul",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"Esta aventura junto a los Caballeros del Zodiaco combina los personajes más famosos del anime con enfrentamientos estilo arcade 3D. Los jugadores podrán elegir a su guerrero favorito para terminar con un nuevo enemigo que se presenta tras los sucedido en la Saga de Hades.",
+            "price": 9900,
+            "offerPrice": 7990 ,
+            "image": SAINT_SEIYA,
+            "imageDetails": SAINT_SEIYA,
+            "Date": 5/9/2015,
+            "precioReventa": 7000
+        },
+        { 
+            "id": 335,  
+            "title": "Sonic Adventure",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"Sonic Adventure es un juego de plataformas lanzado en 1998 para la consola Sega Dreamcast. Desarrollado por Sonic Team, este juego marca la primera incursión de Sonic en el mundo de los gráficos en 3D y es conocido por su acción rápida, su diseño de niveles emocionante y su elenco de personajes carismáticos.Mostrar resumen entero",
+            "price": 9900,
+            "offerPrice": 7990 ,
+            "image": SONIC_ADVENTURE,
+            "imageDetails": SONIC_ADVENTURE,
+            "Date": 22/9/2010,
+            "precioReventa": 7000
+        },
+        { 
+            "id": 336,  
+            "title": "The Last Of Us Left Behind",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"Una edición con el juego completo más el primer episodio de la historia, Left Behind. Los jugadores verán a Ellie en acción de supervivencia cargada de la tensión de siempre, pero ahora combinada con pasajes de amor y lealtad que vuelven a la saga aún más profunda y completa.",
+            "price": 9900,
+            "offerPrice": 7990 ,
+            "image": SONIC_ADVENTURE,
+            "imageDetails": SONIC_ADVENTURE,
+            "Date": 14/2/2014,
+            "precioReventa": 7000
+        },
+        { 
+            "id": 337,  
+            "title": "Tomb Raider",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"Ambientado en una extraña isla de Japón, esta entrega da un salto en el tiempo para conocer la juventud de Lara Croft. Los jugadores deberán adaptarse a un entorno plagado de criaturas extrañas que serán sólo el principio de innumerables obstáculos que Lara deberá sortear para transformarse en una sobreviviente.",
+            "price": 9900,
+            "offerPrice": 7990 ,
+            "image": TOMB_RAIDER,
+            "imageDetails": TOMB_RAIDER,
+            "Date": 14/2/2014,
+            "precioReventa": 7000
+        },
+        { 
+            "id": 338,  
+            "title": "Need For Speed Rivals Complete",
+            "category": "PS3",
+            "gender":"Carreras",
+            "description":"¡Prepárate para la adrenalina pura con Need For Speed Rivals en PS3! Sumérgete en un mundo de carreras ilegales y persecuciones policiales intensas donde la línea entre la ley y el caos se desdibuja. En este juego emocionante, tendrás la oportunidad de elegir entre ser un temerario corredor callejero o un implacable policía.",
+            "price": 15900,
+            "offerPrice": 10900 ,
+            "image": NEED_FOR_SPEED_RIVALS,
+            "imageDetails": NEED_FOR_SPEED_RIVALS,
+            "Date": 15/11/2013,
+            "precioReventa": 9900
         },
         {
         id: 1,
@@ -5814,8 +6001,8 @@ const data = [
         price: 50900,
         secondaryPrice: 20900,
         offerPrice: 17900,
-        image: AA,
-        imageDetails: AA,
+        image: FIFA_23,
+        imageDetails: FIFA_23,
         Date: 26 / 9 / 2022,
         precioReventa: 20,
     },

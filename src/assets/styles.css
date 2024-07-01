@@ -281,6 +281,18 @@
 
 }
 
+.sizeImgs{
+  height: 180px !important;
+
+}
+
+.sizeImgs2{
+  height: 100% !important;
+  width: 100%  !important;
+  object-fit: cover !important;
+
+}
+
 .containerAnim{
   position: relative;
 }

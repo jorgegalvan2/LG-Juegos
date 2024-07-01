@@ -163,15 +163,15 @@ function Ecommerce({ item }) {
             </div>
           </div>
           <div className='col-12 col-lg-8'>
-            <div className="row justify-content-center ">
+            <div className="row justify-content-center">
               <h3 className='text-center mb-4 mt-2'>{selectedCategory}</h3>
               {filteredProducts.map(product => (
-                <Link to={`/producto/${product.id}`} className='col-5 col-lg-2 mb-3 rounded-start-2 p-0 mx-2 rounded-3 decorationLinks' key={product.id}>
+                <Link to={`/producto/${product.id}`} className='col-5 col-lg-3 col-xxl-2 mb-3 rounded-start-2 p-0 mx-2 rounded-3 decorationLinks' key={product.id}>
                   <div key={product.id} style={{ cursor: 'pointer' }}>
-                    <div className="card border-0 h-100">
-                      <div className='position-relative'>
+                    <div className="card border-0 h-100 ">
+                      <div className='position-relative sizeImgs'>
                         <div className="position-absolute bottom-0 start-0 badgeStyle p-1 ms-2 mb-1"><span className=''>{product.category}</span></div>
-                        <img src={product.image} className="img-fluid rounded-2 stylesCardOffers" alt={product.title} />
+                        <img src={product.image} className="img-fluid rounded-2 stylesCardOffers sizeImgs2 m-auto" alt={product.title} />
                       </div>
                       <div className="card-body p-0 mt-1">
                         <div className='text-start'>
