@@ -44,10 +44,10 @@ function Offers({ item }) {
 
   const productTemplate = (product) => {
     return (
-      <div className="d-flex flex-column align-center m-3 stylesCardOffers" onClick={() => showProductDetails(product)}>
+      <div className="d-flex flex-column align-center m-3 stylesCardOffers " onClick={() => showProductDetails(product)}>
         <Link to={`/producto/${product.id}`} className='' key={product.id}>
-          <div className="">
-            <img src={product.image} alt={product.name} className="img-fluid  rounded-3" />
+          <div className="sizeImgs">
+            <img src={product.image} alt={product.name} className="img-fluid sizeImgs2 rounded-3" />
           </div>
         </Link>
       </div>

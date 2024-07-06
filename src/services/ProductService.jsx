@@ -289,7 +289,7 @@ import ASSASINS_CREED_VALHALLA from '../assets/img/Catalogue/Playstation_4_5/ASS
 import ELDEN_RING_SHADOW_ERDTREE from '../assets/img/Catalogue/Playstation_4_5/ELDEN_RING_SHADOW_ERDTREE.jpeg';
 import ELDEN_RING_MAS_SHADOW_ERDTREE from '../assets/img/Catalogue/Playstation_4_5/ELDEN_RING_MAS_SHADOW_ERDTREE.jpeg';
 import FIFA_23 from '../assets/img/Catalogue/Playstation_4_5/FIFA_23.jpeg';
-
+import RE_4_ORIGINAL from '../assets/img/Catalogue/Playstation_4_5/RE_4_ORIGINAL.jpeg';
 
 
 
@@ -1760,8 +1760,8 @@ const data = [
             "description":"Una edición con el juego completo más el primer episodio de la historia, Left Behind. Los jugadores verán a Ellie en acción de supervivencia cargada de la tensión de siempre, pero ahora combinada con pasajes de amor y lealtad que vuelven a la saga aún más profunda y completa.",
             "price": 9900,
             "offerPrice": 7990 ,
-            "image": SONIC_ADVENTURE,
-            "imageDetails": SONIC_ADVENTURE,
+            "image": LEFT_BEHIND,
+            "imageDetails": LEFT_BEHIND,
             "Date": 14/2/2014,
             "precioReventa": 7000
         },
@@ -2038,9 +2038,9 @@ const data = [
         gender: "Acción",
         description:
             "Únete a Kratos y Atreus en un viaje mítico en busca de respuestas antes de que llegue el Ragnarök. Juntos, padre e hijo deben darlo todo mientras visitan cada uno de los nueve reinos. A través de imponentes paisajes mitológicos, se enfrentarán a aterradores enemigos, desde dioses nórdicos hasta bestias salvajes, mientras se preparan para el enfrentamiento de sus vidas.",
-        price: 52900,
+        price: 45900,
         secondaryPrice: 52900,
-        offerPrice: 35900,
+        offerPrice: 39900,
         image: GOW_RAGNAROK,
         imageDetails: DETAILS_GOW_RAGNAROK,
         Date: 9 / 11 / 2022,
@@ -2083,8 +2083,8 @@ const data = [
         gender: "Pelea",
         description:
             "La Edición Estándar de Mortal Kombat 11 incluye: Juego principal Con las nuevas variantes de personaje tendrás un control sin precedentes para personalizar a tus luchadores y hacerlos únicos. El nuevo motor gráfico resalta cada uno de los momentos más sangrientos para ponerte tan cerca de la pelea que casi podrás sentirla. Con un reparto de luchadores nuevos y klásicos, el modo historia cinemático continúa la épica saga iniciada hace más de 25 años. de los fans y nuevas caras, así como modos individual y cooperativo, y nuevos retos para los jugadores, diferentes de los de cualquier otra entrega de la saga Resident Evil. Esta edición incluye todos los DLC, así como dos trajes por cada protagonista, originalmente solo desbloqueables desde Residentevil.net, y que ahora pueden desbloquearse desde el juego. ",
-        price: 39900,
-        secondaryPrice: 39900,
+        price: 19900,
+        secondaryPrice: 14900,
         offerPrice: 14900,
         image: MK11,
         imageDetails: DETAILS_MK11,
@@ -2308,11 +2308,11 @@ const data = [
         gender: "Terror, Acción, Terror",
         description:
             "Resident Evil 4 llega a PlayStation®4 en Full 1080p HD con aún más imágenes por segundo. Esta obra maestra revolucionaria supuso un punto de inflexión en la franquicia, puesto que por primera vez se empleó la perspectiva de tercera persona por encima del hombro. Con una emocionante trama que transcurre tras la destrucción de Umbrella Corporation, Resident Evil 4 no solo cambió para siempre la franquicia Resident Evil, sino que revolucionó todo el género.",
-        price: 15900,
-        secondaryPrice: 14900,
+        price: 19900,
+        secondaryPrice: 18900,
         offerPrice: 0,
-        image: RE4,
-        imageDetails: DETAILS_RE4,
+        image: RE_4_ORIGINAL,
+        imageDetails: RE_4_ORIGINAL,
         Date: 30 / 8 / 2016,
         precioReventa: 12,
     },
@@ -2323,8 +2323,8 @@ const data = [
         gender: "Unico",
         description:
             "Incluye la misión de la Tienda de Hogsmeade encantada, que te da acceso a una mazmorra adicional, el set cosmético del Comerciante y una tienda de Hogsmeade en el juego.Hogwarts Legacy es un RPG de acción en un mundo abierto ambientado en el universo de los libros de Harry Potter. Embárcate en una aventura que te llevará por lugares nuevos y conocidos, mientras descubres animales mágicos, personalizas tu personaje, elaboras pociones, dominas hechizos, mejoras tus talentos y te conviertes en el mago que siempre has querido ser.",
-        price: 59900,
-        secondaryPrice: 59900,
+        price: 45900,
+        secondaryPrice: 39900,
         offerPrice: 34900,
         image: HOGWARTS_LEGACY,
         imageDetails: DETAILS_HOGWARTS_LEGACY,
@@ -2398,8 +2398,8 @@ const data = [
         gender: "Aventura",
         description:
             "EL NUEVO RPG DE ACCIÓN DE FANTASÍA. Levántate, tiznado, y déjate guiar por la gracia para esgrimir el poder del Anillo de Elden y convertirte en un Señor de Elden en las Tierras Intermedias.Un extenso mundo lleno de emoción Un extenso mundo donde los campos abiertos, con una amplia variedad de situaciones, y las enormes mazmorras, con diseños complejos y tridimensionales, se conectan con total fluidez. Al explorar, te acompaña el entusiasmo por descubrir amenazas desconocidas y abrumadoras, lo que produce una gran sensación de logro.",
-        price: 53900,
-        secondaryPrice: 53900,
+        price: 45900,
+        secondaryPrice: 45900,
         offerPrice: 39900,
         image: ELDER_RING,
         imageDetails: DETAILS_ELDER_RING,
@@ -2578,8 +2578,8 @@ const data = [
         gender: "Accion",
         description:
             "¡Revive la historia de Goku y otros guerreros Z en DRAGON BALL Z: KAKAROT! Además de épicas batallas, experimenta la vida en el mundo de DRAGON BALL Z mientras peleas, pescas, comes y entrenas con Goku, Gohan, Vegeta y los demás. Explora las nuevas zonas y aventuras a medida que avanzas en la historia y formas poderosos lazos con otros héroes del universo de DRAGON BALL Z.",
-        price: 49900,
-        secondaryPrice: 49900,
+        price: 24900,
+        secondaryPrice: 19900,
         offerPrice: 14900,
         image: DBZ_KAKAROT,
         imageDetails: DETAILS_DBZ_KAKAROT,
@@ -2624,7 +2624,7 @@ const data = [
         description:
             "DOOM vuelve como un shooter moderno repleto de diversión y desafíos brutales desarrollado por id Software. Despiadados demonios, armas de destrucción inimaginables y un movimiento ágil y fluido constituyen la base de un intenso combate en primera persona, tanto si estáis aniquilando a las hordas demoníacas del infierno en la campaña para un jugador como si competís contra amigos en los diversos modos multijugador",
         price: 19900,
-        secondaryPrice: 19900,
+        secondaryPrice: 14900,
         offerPrice: 12900,
         image: DOOM,
         imageDetails: DETAILS_DOOM,
@@ -3838,8 +3838,8 @@ const data = [
         gender: "Pelea",
         description:
             "DRAGON BALL FighterZ nace de lo que hace a DRAGON BALL tan famosa: luchas espectaculares e interminables con luchadores superpoderosos.Con Arc System Works, DRAGON BALL FighterZ maximiza los gráficos de anime de alta calidad y ofrece un juego de lucha fácil de aprender pero difícil de dominar.",
-        price: 49900,
-        secondaryPrice: 49900,
+        price: 19900,
+        secondaryPrice: 14900,
         offerPrice: 10900,
         image: DBZ_FIGHTER,
         imageDetails: DETAILS_DBZ_FIGHTERS,
