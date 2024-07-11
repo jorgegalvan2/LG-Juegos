@@ -128,6 +128,7 @@ function Ecommerce({ item }) {
                     <div
                       className={`list-group-item ${selectedCategory === category && 'active'}`}
                       onClick={() => handleCategoryChange(category)}
+                      id={category}
                     >
                       {category}
                     </div>
@@ -209,6 +210,7 @@ function Ecommerce({ item }) {
                     <div
                       className={`list-group-item ${selectedCategory === category && 'active'}`}
                       onClick={() => handleCategoryChange(category)}
+                      id={category}
                     >
                       {category}
                     </div>
