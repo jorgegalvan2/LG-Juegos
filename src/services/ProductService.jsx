@@ -291,11 +291,21 @@ import ELDEN_RING_SHADOW_ERDTREE from '../assets/img/Catalogue/Playstation_4_5/E
 import ELDEN_RING_MAS_SHADOW_ERDTREE from '../assets/img/Catalogue/Playstation_4_5/ELDEN_RING_MAS_SHADOW_ERDTREE.jpeg';
 import FIFA_23 from '../assets/img/Catalogue/Playstation_4_5/FIFA_23.jpeg';
 import RE_4_ORIGINAL from '../assets/img/Catalogue/Playstation_4_5/RE_4_ORIGINAL.jpeg';
+import CONCORD from '../assets/img/Catalogue/Playstation_4_5/CONCORD.jpeg';
+import METRO_AWAKENING from '../assets/img/Catalogue/Playstation_4_5/METRO_AWAKENING.jpeg';
+import FARMING_SIMULATOR_25 from '../assets/img/Catalogue/Playstation_4_5/FARMING_SIMULATOR_25.jpeg';
+import ASSASINS_CREED_SHADOWS from '../assets/img/Catalogue/Playstation_4_5/ASSASINS_CREED_SHADOWS.jpeg';
+import CALL_OF_DUTY_BO6 from '../assets/img/Catalogue/Playstation_4_5/CALL_OF_DUTY_BO6.jpeg';
+import UNDISPUTED from '../assets/img/Catalogue/Playstation_4_5/UNDISPUTED.jpeg';
+import DRAGON_BALL_SPARKING_ZERO from '../assets/img/Catalogue/Playstation_4_5/DRAGON_BALL_SPARKING_ZERO.jpeg';
+import STAR_WARS_OUTLAWS from '../assets/img/Catalogue/Playstation_4_5/STAR_WARS_OUTLAWS.jpeg';
+import SEA_OF_THIEVES from '../assets/img/Catalogue/Playstation_4_5/SEA_OF_THIEVES.jpeg';
+import RONIN from '../assets/img/Catalogue/Playstation_4_5/RONIN.jpeg';
+import NBA_2K25 from '../assets/img/Catalogue/Playstation_4_5/NBA_2K25.jpeg';
+import P3_PERSONA3 from '../assets/img/Catalogue/Playstation_4_5/P3_PERSONA3.jpeg';
 
 
-
-
-
+NBA_2K25
 
 
 
@@ -473,6 +483,19 @@ import DETAILS_STREET_FIGHTER from '../assets/img/Catalogue/imgDetails-PS4-PS5/S
 import DETAILS_ASSASINS_CREED_VALHALLA from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINSCREED-VALHALLA.jpeg';
 import DETAILS_ELDEN_RING_SHADOW_ERDTREE from '../assets/img/Catalogue/imgDetails-PS4-PS5/ELDEN_RING_SHADOW_ERDTREE.jpeg';
 import DETAILS_ELDEN_RING_MAS_SHADOW_ERDTREE from '../assets/img/Catalogue/imgDetails-PS4-PS5/ELDEN_RING_MAS_SHADOW_ERDTREE.jpeg';
+
+import DETAILS_CONCORD from '../assets/img/Catalogue/imgDetails-PS4-PS5/CONCORD.jpeg';
+import DETAILS_METRO_AWAKENING from '../assets/img/Catalogue/imgDetails-PS4-PS5/METRO_AWAKENING.jpeg';
+import DETAILS_FARMING_SIMULATOR_25 from '../assets/img/Catalogue/imgDetails-PS4-PS5/FARMING_SIMULATOR_25.jpeg';
+import DETAILS_ASSASINS_CREED_SHADOWS from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINS_CREED_SHADOWS.jpeg';
+import DETAILS_CALL_OF_DUTY_BO6 from '../assets/img/Catalogue/imgDetails-PS4-PS5/CALL_OF_DUTY_BO6.jpeg';
+import DETAILS_UNDISPUTED from '../assets/img/Catalogue/imgDetails-PS4-PS5/UNDISPUTED.jpeg';
+import DETAILS_DRAGON_BALL_SPARKING_ZERO from '../assets/img/Catalogue/imgDetails-PS4-PS5/DRAGON_BALL_SPARKING_ZERO.jpeg';
+import DETAILS_STAR_WARS_OUTLAWS from '../assets/img/Catalogue/imgDetails-PS4-PS5/STAR_WARS_OUTLAWS.jpeg';
+import DETAILS_NBA_2K25 from '../assets/img/Catalogue/imgDetails-PS4-PS5/NBA_2K25.jpeg';
+import DETAILS_SEA_OF_THIEVES from '../assets/img/Catalogue/imgDetails-PS4-PS5/SEA_OF_THIEVES.jpeg';
+import DETAILS_RONIN from '../assets/img/Catalogue/imgDetails-PS4-PS5/RONIN.jpeg';
+import DETAILS_P3_PERSONA3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/P3_PERSONA3.jpeg';
 
 
 import AA from "../assets/img/logo-lg.png";
@@ -6123,8 +6146,8 @@ const data = [
         price: 89900,
         secondaryPrice: 89900,
         offerPrice: 69900,
-        image: ASSASSINS_CREED_SHADOWS,
-        imageDetails: DETAILS_ASSASSINS_CREED_SHADOWS,
+        image: ASSASINS_CREED_SHADOWS,
+        imageDetails: DETAILS_ASSASINS_CREED_SHADOWS,
         Date: 15 / 11 / 2024,
         precioReventa: 45,
     },
@@ -6138,8 +6161,8 @@ const data = [
         price: 89900,
         secondaryPrice: 89900,
         offerPrice: 59900,
-        image: CALL_OF_DUTY_BLACK_OPS_6,
-        imageDetails: DETAILS_CALL_OF_DUTY_BLACK_OPS_6,
+        image: CALL_OF_DUTY_BO6,
+        imageDetails: DETAILS_CALL_OF_DUTY_BO6,
         Date: 25 / 10 / 2024,
         precioReventa: 45,
     },
@@ -6153,8 +6176,8 @@ const data = [
         price: 89900,
         secondaryPrice: 89900,
         offerPrice: 59900,
-        image: UNDISPUTED_WBC_EDITION,
-        imageDetails: DETAILS_UNDISPUTED_WBC_EDITION,
+        image: UNDISPUTED,
+        imageDetails: DETAILS_UNDISPUTED,
         Date: 8 / 10 / 2024,
         precioReventa: 45,
     },
@@ -6168,8 +6191,8 @@ const data = [
         price: 89900,
         secondaryPrice: 89900,
         offerPrice: 59900,
-        image: UNDISPUTED_WBC_EDITION,
-        imageDetails: DETAILS_UNDISPUTED_WBC_EDITION,
+        image: UNDISPUTED,
+        imageDetails: DETAILS_UNDISPUTED,
         Date: 10 / 10 / 2024,
         precioReventa: 45,
     },
@@ -6213,8 +6236,8 @@ const data = [
         price: 89900,
         secondaryPrice: 89900,
         offerPrice: 59900,
-        image: STAR_WAR_OUTLAWS,
-        imageDetails: DETAILS_STAR_WAR_OUTLAWS,
+        image: STAR_WARS_OUTLAWS,
+        imageDetails: DETAILS_STAR_WARS_OUTLAWS,
         Date: 30 / 8 / 2024,
         precioReventa: 45,
     },
@@ -6254,12 +6277,12 @@ const data = [
         category: "PS4",
         gender: "Aventura",
         description:
-            "Ponte en la piel de un estudiante recién llegado que se ve arrojado a un destino inesperado cuando entra en la hora "escondida" entre un día y el siguiente. Despierta un increíble poder y persigue los misterios de la Hora Oscura, lucha por tus amigos y deja huella en su memoria.",
+            "Ponte en la piel de un estudiante recién llegado que se ve arrojado a un destino inesperado cuando entra en la hora escondida entre un día y el siguiente. Despierta un increíble poder y persigue los misterios de la Hora Oscura, lucha por tus amigos y deja huella en su memoria.",
         price: 89900,
         secondaryPrice: 89900,
         offerPrice: 59900,
-        image: PERSONA_3_RELOAD,
-        imageDetails: DETAILS_PERSONA_3_RELOAD,
+        image: P3_PERSONA3,
+        imageDetails: DETAILS_P3_PERSONA3,
         Date: 22 / 3 / 2024,
         precioReventa: 45,
     },
@@ -6269,12 +6292,12 @@ const data = [
         category: "PS5",
         gender: "Aventura",
         description:
-            "Ponte en la piel de un estudiante recién llegado que se ve arrojado a un destino inesperado cuando entra en la hora "escondida" entre un día y el siguiente. Despierta un increíble poder y persigue los misterios de la Hora Oscura, lucha por tus amigos y deja huella en su memoria.",
+            "Ponte en la piel de un estudiante recién llegado que se ve arrojado a un destino inesperado cuando entra en la hora escondida entre un día y el siguiente. Despierta un increíble poder y persigue los misterios de la Hora Oscura, lucha por tus amigos y deja huella en su memoria.",
         price: 89900,
         secondaryPrice: 89900,
         offerPrice: 59900,
-        image: PERSONA_3_RELOAD,
-        imageDetails: DETAILS_PERSONA_3_RELOAD,
+        image: P3_PERSONA3,
+        imageDetails: DETAILS_P3_PERSONA3,
         Date: 22 / 3 / 2024,
         precioReventa: 45,
     },
