@@ -6303,6 +6303,6 @@ const data = [
     },
 
     
-];WAR_
+];
 
 export default data;
