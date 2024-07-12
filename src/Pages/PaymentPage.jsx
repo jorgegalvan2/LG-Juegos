@@ -79,6 +79,14 @@ function PaymentPage() {
       </Card>
     </Stack>))}
 
+    <div className='col-10 text-center'>
+      <p>Para continuar con la compra, comunicate a nuestro whatsapp para ultimar detalles!</p>
+    </div>
+
+    <p className="d-block marginCart text-center"> 
+                <a href={'https://wa.me/message/5SDP3NRIKTN6H1'} className='btn btn-success'>Whatsapp</a>
+              </p>
+
     <div className='col-12 p-0 text-center ulDecoration my-5'>
                 <ul className='list-group list-group-flush'>
                   <li className='list-group-item fontListIcons text-center styleIconButton'>
@@ -101,16 +109,13 @@ function PaymentPage() {
                     </li>
                 </ul>
               </div>
+              
 
-              <p className="d-block marginCart text-center"> 
-                <button className='btn btn-success'>Whatsapp</button>
-                </p>
+
                 
                 {/*{preferenceId && 
                 <Wallet initialization={{ preferenceId: id}} />
                 }  */}
-
-
 
     </main>
   );

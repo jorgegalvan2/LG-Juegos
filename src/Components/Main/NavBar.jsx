@@ -176,10 +176,10 @@ export default function NavBar() {
     </Sidebar>
     <Sidebar visible={menuSidebar} onHide={handleMenuSidebarHide} blockScroll={true} header="LG Juegos Digitales" position="left">
       <ul className="list-group ulDecoration ">
-        <li className='list-group-item '><Link className='text-dark' to="/" onClick={() => setMenuSidebar(false)}>Inicio</Link></li>
-        <li className='list-group-item'><Link className='text-dark' to="/ecommerce?category=PS3" onClick={() => setMenuSidebar(false)}>Playstation 3</Link></li>
-        <li className='list-group-item'><Link className='text-dark' to="/ecommerce?category=PS4" onClick={() => setMenuSidebar(false)}>Playstation 4</Link></li>
-        <li className='list-group-item'><Link className='text-dark' to="/ecommerce?category=PS5" onClick={() => setMenuSidebar(false)}>Playstation 5</Link></li>
+        <li className='list-group-item '><Link className='text-dark cursorPointer' to="/" onClick={() => setMenuSidebar(false)}>Inicio</Link></li>
+        <li className='list-group-item'><Link className='text-dark cursorPointer' id={'PS3'} to="/ecommerce?category=PS3" onClick={() => setMenuSidebar(false)}>Playstation 3</Link></li>
+        <li className='list-group-item'><Link className='text-dark cursorPointer' id={'PS4'} to="/ecommerce?category=PS4" onClick={() => setMenuSidebar(false)}>Playstation 4</Link></li>
+        <li className='list-group-item'><Link className='text-dark cursorPointer' id={'PS5'} to="/ecommerce?category=PS5" onClick={() => setMenuSidebar(false)}>Playstation 5</Link></li>
       </ul>
     
     </Sidebar>
