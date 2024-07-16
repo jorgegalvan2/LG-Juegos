@@ -303,9 +303,14 @@ import SEA_OF_THIEVES from '../assets/img/Catalogue/Playstation_4_5/SEA_OF_THIEV
 import RONIN from '../assets/img/Catalogue/Playstation_4_5/RONIN.jpeg';
 import NBA_2K25 from '../assets/img/Catalogue/Playstation_4_5/NBA_2K25.jpeg';
 import P3_PERSONA3 from '../assets/img/Catalogue/Playstation_4_5/P3_PERSONA3.jpeg';
-
-
-NBA_2K25
+import DUCATI from '../assets/img/Catalogue/Playstation_4_5/DUCATI.jpeg';
+import DYING_LIGHT_ENHANCED_EDITION from '../assets/img/Catalogue/Playstation_4_5/DYING_LIGHT_ENHANCED_EDITION.jpeg';
+import FALL_GUYS from '../assets/img/Catalogue/Playstation_4_5/FALL_GUYS.jpeg';
+import FARMING_SIMULATOR_17 from '../assets/img/Catalogue/Playstation_4_5/FARMING_SIMULATOR_17.jpeg';
+import FARMING_SIMULATOR_19 from '../assets/img/Catalogue/Playstation_4_5/FARMING_SIMULATOR_19.jpeg';
+import FIREWATCH from '../assets/img/Catalogue/Playstation_4_5/FIREWATCH.jpeg';
+import FIFA_20 from '../assets/img/Catalogue/Playstation_4_5/FIFA_20.jpeg';
+import EVOLVE from '../assets/img/Catalogue/Playstation_4_5/EVOLVE.jpg';
 
 
 
@@ -483,7 +488,6 @@ import DETAILS_STREET_FIGHTER from '../assets/img/Catalogue/imgDetails-PS4-PS5/S
 import DETAILS_ASSASINS_CREED_VALHALLA from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINSCREED-VALHALLA.jpeg';
 import DETAILS_ELDEN_RING_SHADOW_ERDTREE from '../assets/img/Catalogue/imgDetails-PS4-PS5/ELDEN_RING_SHADOW_ERDTREE.jpeg';
 import DETAILS_ELDEN_RING_MAS_SHADOW_ERDTREE from '../assets/img/Catalogue/imgDetails-PS4-PS5/ELDEN_RING_MAS_SHADOW_ERDTREE.jpeg';
-
 import DETAILS_CONCORD from '../assets/img/Catalogue/imgDetails-PS4-PS5/CONCORD.jpeg';
 import DETAILS_METRO_AWAKENING from '../assets/img/Catalogue/imgDetails-PS4-PS5/METRO_AWAKENING.jpeg';
 import DETAILS_FARMING_SIMULATOR_25 from '../assets/img/Catalogue/imgDetails-PS4-PS5/FARMING_SIMULATOR_25.jpeg';
@@ -496,7 +500,12 @@ import DETAILS_NBA_2K25 from '../assets/img/Catalogue/imgDetails-PS4-PS5/NBA_2K2
 import DETAILS_SEA_OF_THIEVES from '../assets/img/Catalogue/imgDetails-PS4-PS5/SEA_OF_THIEVES.jpeg';
 import DETAILS_RONIN from '../assets/img/Catalogue/imgDetails-PS4-PS5/RONIN.jpeg';
 import DETAILS_P3_PERSONA3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/P3_PERSONA3.jpeg';
-
+import DETAILS_FIFA_20 from '../assets/img/Catalogue/imgDetails-PS4-PS5/FIFA_20.jpeg';
+import DETAILS_DUCATI from '../assets/img/Catalogue/imgDetails-PS4-PS5/DUCATI.jpeg';
+import DETAILS_FALL_GUYS from '../assets/img/Catalogue/imgDetails-PS4-PS5/FALL_GUYS.jpeg';
+import DETAILS_FARMING_SIMULATOR_17 from '../assets/img/Catalogue/imgDetails-PS4-PS5/FARMING_SIMULATOR_17.jpeg';
+import DETAILS_FARMING_SIMULATOR_19 from '../assets/img/Catalogue/imgDetails-PS4-PS5/FARMING_SIMULATOR_19.jpeg';
+import DETAILS_FIREWATCH from '../assets/img/Catalogue/imgDetails-PS4-PS5/FIREWATCH.jpeg';
 
 import AA from "../assets/img/logo-lg.png";
 
@@ -4943,9 +4952,9 @@ const data = [
         gender: "Aventura",
         description:
             "Explora mundos generados al azar y construye cosas increíbles, desde la más humilde de las casas hasta el más majestuoso de los castillos. Juega en el modo creativo con recursos ilimitados o extrae en las profundidades del mundo en el modo supervivencia, creando armas y armaduras para defenderte de las criaturas peligrosas. Esta versión te permitirá jugar en distintos dispositivos, acceder a multitud de contenidos a través de la tienda del juego y conseguir todas las actualizaciones.",
-        price: 19900,
+        price: 39900,
         secondaryPrice: 19800,
-        offerPrice: 14000,
+        offerPrice: 24900,
         image: MINECRAFT,
         imageDetails: DETAILS_MINECRAFT,
         Date: 10 / 12 / 2019,
@@ -4958,9 +4967,9 @@ const data = [
         gender: "Aventura",
         description:
             "Explora mundos generados al azar y construye cosas increíbles, desde la más humilde de las casas hasta el más majestuoso de los castillos. Juega en el modo creativo con recursos ilimitados o extrae en las profundidades del mundo en el modo supervivencia, creando armas y armaduras para defenderte de las criaturas peligrosas. Esta versión te permitirá jugar en distintos dispositivos, acceder a multitud de contenidos a través de la tienda del juego y conseguir todas las actualizaciones.",
-        price: 19900,
-        secondaryPrice: 19800,
-        offerPrice: 14000,
+        price: 39900,
+        secondaryPrice: 39900,
+        offerPrice: 25900,
         image: MINECRAFT,
         imageDetails: DETAILS_MINECRAFT,
         Date: 10 / 12 / 2019,
@@ -6300,6 +6309,276 @@ const data = [
         imageDetails: DETAILS_P3_PERSONA3,
         Date: 22 / 3 / 2024,
         precioReventa: 45,
+    },
+    {
+        id: 570,
+        title: "DUCATI - 90th Anniversary",
+        category: "PS4",
+        gender: "Carreras",
+        description:
+            "'De los creadores de RIDE llega un spin-off dedicado exclusivamente a la legendaria marca Ducati. ¡Casi un siglo de leyenda recopilado en un solo videojuego!¡Da rienda suelta a tu pasión por las motos con 39 de los modelos más emblemáticos! 7 grandes épocas donde descubrir la motocicleta de tus sueños: desde los años 50 hasta victorias históricas. Móntate en la legendaria 125 Gran Sport Marianna de 1954 o la potente Ducati 996 de Fogart",
+        price: 39900,
+        secondaryPrice: 39900,
+        offerPrice: 9000,
+        image: DUCATI,
+        imageDetails: DETAILS_DUCATI,
+        Date: 9 / 6 / 2016,
+        precioReventa: 9,
+    },
+    {
+        id: 571,
+        title: "DUCATI - 90th Anniversary Retro",
+        category: "PS5",
+        gender: "Carreras",
+        description:
+            "'De los creadores de RIDE llega un spin-off dedicado exclusivamente a la legendaria marca Ducati. ¡Casi un siglo de leyenda recopilado en un solo videojuego!¡Da rienda suelta a tu pasión por las motos con 39 de los modelos más emblemáticos! 7 grandes épocas donde descubrir la motocicleta de tus sueños: desde los años 50 hasta victorias históricas. Móntate en la legendaria 125 Gran Sport Marianna de 1954 o la potente Ducati 996 de Fogart",
+        price: 39900,
+        secondaryPrice: 39900,
+        offerPrice: 9000,
+        image: DUCATI,
+        imageDetails: DETAILS_DUCATI,
+        Date: 9 / 6 / 2016,
+        precioReventa: 9,
+    },
+    {
+        id: 572,
+        title: "Dying Light Retro",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "De los creadores de los superéxitos Dead Island y Call of Juarez, galardonado con más de 50 premios y nominaciones del sector. Un juego cuyo enfoque ha sentado nuevos estándares para los juegos de zombis en primera persona. Con el desarrollo de nuevos contenidos y eventos de la comunidad años después de su lanzamiento. ¡Sobrevive en una ciudad devastada por un virus de zombis! En tu misión secreta deberás tomar una decisión. ¿Serás fiel a tus superiores o salvarás a los supervivientes? Está en tus manos...",
+        price: 19900,
+        secondaryPrice: 18900,
+        offerPrice: 9900,
+        image: DYING_LIGHT,
+        imageDetails: DETAILS_DYING_LIGHT,
+        Date: 27 / 1 / 2015,
+        precioReventa: 9,
+    },
+    {
+        id: 573,
+        title: "Dying Light: The Following",
+        category: "PS4",
+        gender: "Accion",
+        description:
+            "Dying Light: Enhanced Edition es la definición más completa de un juego de mundo abierto ambientado en un futuro postapocalíptico arrasado por los zombis. Ahora disponible en su versión expandida, que lleva la experiencia de juego a un nivel totalmente nuevo.",
+        price: 39900,
+        secondaryPrice: 38900,
+        offerPrice: 19900,
+        image: DYING_LIGHT_ENHANCED_EDITION,
+        imageDetails: DYING_LIGHT_ENHANCED_EDITION,
+        Date: 21 / 8 / 2020,
+        precioReventa: 15,
+    },
+    {
+        id: 573,
+        title: "Dying Light: The Following Retro",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "Dying Light: Enhanced Edition es la definición más completa de un juego de mundo abierto ambientado en un futuro postapocalíptico arrasado por los zombis. Ahora disponible en su versión expandida, que lleva la experiencia de juego a un nivel totalmente nuevo.",
+        price: 39900,
+        secondaryPrice: 38900,
+        offerPrice: 19900,
+        image: DYING_LIGHT_ENHANCED_EDITION,
+        imageDetails: DYING_LIGHT_ENHANCED_EDITION,
+        Date: 21 / 8 / 2020,
+        precioReventa: 15,
+    },
+    {
+        id: 574,
+        title: "Evolve",
+        category: "PS4",
+        gender: "Accion",
+        description:
+            "Evolve es un videojuego perteneciente al género de ciencia ficción, con acción en primera persona y cooperativo desarrollado por la empresa Turtle Rock Studios.",
+        price: 39900,
+        secondaryPrice: 38900,
+        offerPrice: 10900,
+        image: AA,
+        imageDetails: AA,
+        Date: 30 / 10 / 2014,
+        precioReventa: 10,
+    },
+    {
+        id: 575,
+        title: "Evolve Retro",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "Evolve es un videojuego perteneciente al género de ciencia ficción, con acción en primera persona y cooperativo desarrollado por la empresa Turtle Rock Studios.",
+        price: 39900,
+        secondaryPrice: 38900,
+        offerPrice: 10900,
+        image: EVOLVE,
+        imageDetails: EVOLVE,
+        Date: 30 / 10 / 2014,
+        precioReventa: 10,
+    },
+    {
+        id: 576,
+        title: "Fall Guys",
+        category: "PS4",
+        gender: "Familia",
+        description:
+            "Lánzate y esquiva todo en tu camino hacia la victoria en el panteón de la torpeza. ¿Principiante o profesional? ¿En solitario o en grupo? Fall Guys está lleno de risas y diversión en constante evolución. ¿Prefieres ser el agente detrás del caos? Construye tu propia pista de obstáculos y compártela con tus amigos y el resto de la comunidad.",
+        price: 39900,
+        secondaryPrice: 38900,
+        offerPrice: 10900,
+        image: FALL_GUYS,
+        imageDetails: DETAILS_FALL_GUYS,
+        Date: 21 / 6 / 2022,
+        precioReventa: 10,
+    },
+    {
+        id: 577,
+        title: "Fall Guys Retro",
+        category: "PS5",
+        gender: "Familia",
+        description:
+            "Lánzate y esquiva todo en tu camino hacia la victoria en el panteón de la torpeza. ¿Principiante o profesional? ¿En solitario o en grupo? Fall Guys está lleno de risas y diversión en constante evolución. ¿Prefieres ser el agente detrás del caos? Construye tu propia pista de obstáculos y compártela con tus amigos y el resto de la comunidad.",
+        price: 39900,
+        secondaryPrice: 38900,
+        offerPrice: 10900,
+        image: FALL_GUYS,
+        imageDetails: DETAILS_FALL_GUYS,
+        Date: 21 / 6 / 2022,
+        precioReventa: 10,
+    },
+    {
+        id: 578,
+        title: "Farming 19",
+        category: "PS4",
+        gender: "Simulador",
+        description:
+            "¡El simulador de granja definitivo vuelve con nuevos gráficos actualizados y una experiencia agrícola aún más completa! Conviértete en un auténtico granjero y haz prosperar tu granja en dos territorios gigantescos (americano o europeo) repletos de actividades granjeras, productos que cosechar y animales que cuidar.",
+        price: 39900,
+        secondaryPrice: 38900,
+        offerPrice: 24900,
+        image: FARMING_SIMULATOR_19,
+        imageDetails: DETAILS_FARMING_SIMULATOR_19,
+        Date: 20 / 11 / 2018,
+        precioReventa: 20,
+    },
+    {
+        id: 579,
+        title: "Farming 19 Retro",
+        category: "PS5",
+        gender: "Simulador",
+        description:
+            "¡El simulador de granja definitivo vuelve con nuevos gráficos actualizados y una experiencia agrícola aún más completa! Conviértete en un auténtico granjero y haz prosperar tu granja en dos territorios gigantescos (americano o europeo) repletos de actividades granjeras, productos que cosechar y animales que cuidar.",
+        price: 39900,
+        secondaryPrice: 38900,
+        offerPrice: 24900,
+        image: FARMING_SIMULATOR_19,
+        imageDetails: DETAILS_FARMING_SIMULATOR_19,
+        Date: 20 / 11 / 2018,
+        precioReventa: 20,
+    },
+    {
+        id: 580,
+        title: "Farming 17",
+        category: "PS4",
+        gender: "Simulador",
+        description:
+            "¡Conviértete en un granjero moderno en Farming Simulator 17! Sumérgete en un mundo abierto con una enorme cosecha de novedades. Explora las posibilidades de tu granja en cientos de hectáreas de terreno, incluyendo el nuevo y detallado escenario norteamericano. Conduce más de 250 vehículos agrícolas auténticos y equipamiento de 75 fabricantes, incluidas marcas nuevas tales como Challenger, Fendt, Valtra o Massey Ferguson.",
+        price: 29900,
+        secondaryPrice: 28900,
+        offerPrice: 19900,
+        image: FARMING_SIMULATOR_17,
+        imageDetails: DETAILS_FARMING_SIMULATOR_17,
+        Date: 25 / 10 / 2016,
+        precioReventa: 15,
+    },
+    {
+        id: 581,
+        title: "Farming 17 Retro",
+        category: "PS5",
+        gender: "Simulador",
+        description:
+            "¡Conviértete en un granjero moderno en Farming Simulator 17! Sumérgete en un mundo abierto con una enorme cosecha de novedades. Explora las posibilidades de tu granja en cientos de hectáreas de terreno, incluyendo el nuevo y detallado escenario norteamericano. Conduce más de 250 vehículos agrícolas auténticos y equipamiento de 75 fabricantes, incluidas marcas nuevas tales como Challenger, Fendt, Valtra o Massey Ferguson.",
+        price: 29900,
+        secondaryPrice: 28900,
+        offerPrice: 19900,
+        image: FARMING_SIMULATOR_17,
+        imageDetails: DETAILS_FARMING_SIMULATOR_17,
+        Date: 25 / 10 / 2016,
+        precioReventa: 15,
+    },
+    {
+        id: 581,
+        title: "Farming 17 Retro",
+        category: "PS5",
+        gender: "Simulador",
+        description:
+            "¡Conviértete en un granjero moderno en Farming Simulator 17! Sumérgete en un mundo abierto con una enorme cosecha de novedades. Explora las posibilidades de tu granja en cientos de hectáreas de terreno, incluyendo el nuevo y detallado escenario norteamericano. Conduce más de 250 vehículos agrícolas auténticos y equipamiento de 75 fabricantes, incluidas marcas nuevas tales como Challenger, Fendt, Valtra o Massey Ferguson.",
+        price: 29900,
+        secondaryPrice: 28900,
+        offerPrice: 19900,
+        image: FARMING_SIMULATOR_17,
+        imageDetails: DETAILS_FARMING_SIMULATOR_17,
+        Date: 25 / 10 / 2016,
+        precioReventa: 15,
+    },
+    {
+        id: 582,
+        title: "Fifa 20",
+        category: "PS4",
+        gender: "Deportes",
+        description:
+            "Con el poder de Frostbite™, el deporte rey cobra vida con EA SPORTS™ FIFA 20 para PlayStation®4 en dos contextos diferentes: el prestigio de la escena profesional y una experiencia totalmente nueva y auténtica del futbol callejero en EA SPORTS VOLTA. FIFA 20 incorpora innovaciones en el juego",
+        price: 19900,
+        secondaryPrice: 18900,
+        offerPrice: 9900,
+        image: FIFA_20,
+        imageDetails: DETAILS_FIFA_20,
+        Date: 22 / 9 / 2019,
+        precioReventa: 9,
+    },
+    {
+        id: 583,
+        title: "Fifa 20 Retro",
+        category: "PS5",
+        gender: "Deportes",
+        description:
+            "Con el poder de Frostbite™, el deporte rey cobra vida con EA SPORTS™ FIFA 20 para PlayStation®4 en dos contextos diferentes: el prestigio de la escena profesional y una experiencia totalmente nueva y auténtica del futbol callejero en EA SPORTS VOLTA. FIFA 20 incorpora innovaciones en el juego",
+        price: 19900,
+        secondaryPrice: 18900,
+        offerPrice: 9900,
+        image: FIFA_20,
+        imageDetails: DETAILS_FIFA_20,
+        Date: 22 / 9 / 2019,
+        precioReventa: 9,
+    },
+    {
+        id: 584,
+        title: "Firewatch",
+        category: "PS4",
+        gender: "Aventura",
+        description:
+            "Estamos en el año 1989. Eres un hombre llamado Henry que se ha retirado de la vida ajetreada para trabajar de vigilante contra incendios forestales en los montes de Wyoming. Estacionado sobre la cima de una montaña, tu trabajo será localizar el humo y mantener a salvo tu entorno natural. Tu supervisora, una mujer llamada Delilah",
+        price: 19900,
+        secondaryPrice: 18900,
+        offerPrice: 9900,
+        image: FIREWATCH,
+        imageDetails: DETAILS_FIREWATCH,
+        Date: 8 / 2 / 2016,
+        precioReventa: 9,
+    },
+    {
+        id: 585,
+        title: "Firewatch Retro",
+        category: "PS5",
+        gender: "Aventura",
+        description:
+            "Estamos en el año 1989. Eres un hombre llamado Henry que se ha retirado de la vida ajetreada para trabajar de vigilante contra incendios forestales en los montes de Wyoming. Estacionado sobre la cima de una montaña, tu trabajo será localizar el humo y mantener a salvo tu entorno natural. Tu supervisora, una mujer llamada Delilah",
+        price: 19900,
+        secondaryPrice: 18900,
+        offerPrice: 9900,
+        image: FIREWATCH,
+        imageDetails: DETAILS_FIREWATCH,
+        Date: 8 / 2 / 2016,
+        precioReventa: 9,
     },
 
     
