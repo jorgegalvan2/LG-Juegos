@@ -506,6 +506,7 @@ import DETAILS_FALL_GUYS from '../assets/img/Catalogue/imgDetails-PS4-PS5/FALL_G
 import DETAILS_FARMING_SIMULATOR_17 from '../assets/img/Catalogue/imgDetails-PS4-PS5/FARMING_SIMULATOR_17.jpeg';
 import DETAILS_FARMING_SIMULATOR_19 from '../assets/img/Catalogue/imgDetails-PS4-PS5/FARMING_SIMULATOR_19.jpeg';
 import DETAILS_FIREWATCH from '../assets/img/Catalogue/imgDetails-PS4-PS5/FIREWATCH.jpeg';
+import DETAILS_GOW_RAGNAROK_VALHALLA from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINSCREED-VALHALLA_RAGNAROK.jpeg';
 
 import AA from "../assets/img/logo-lg.png";
 
@@ -520,7 +521,7 @@ const data = [
         "offerPrice": 4990 ,
         "image": FIFA_19,
         "imageDetails": FIFA_19,
-        "Date": 13/9/2018,
+        "Date": 2018/9/13,
         "precioReventa": 4000
         },
     { 
@@ -533,7 +534,7 @@ const data = [
         "offerPrice": 4990 ,
         "image": MINECRAFT_PS3,
         "imageDetails": MINECRAFT_PS3,
-        "Date": 17/12/2013,
+        "Date": 2013/12/17,
         "precioReventa": 4500
         },
     { 
@@ -546,7 +547,7 @@ const data = [
         "offerPrice": 4990 ,
         "image": CALL_OF_DUTY_BO3_NEW,
         "imageDetails": CALL_OF_DUTY_BO3_NEW,
-        "Date": 17/12/2013,
+        "Date": 2013/12/17,
         "precioReventa": 4500
         },
     { 
@@ -559,7 +560,7 @@ const data = [
         "offerPrice":  0,
         "image": CALL_OF_DUTY_BLACK_OPS_2,
         "imageDetails": CALL_OF_DUTY_BLACK_OPS_2,
-        "Date": 12/11/2012,
+        "Date": 2012/11/12,
         "precioReventa": 5900
         },
     { 
@@ -572,7 +573,7 @@ const data = [
         "offerPrice": 3990 ,
         "image": FIFA_STREET,
         "imageDetails": FIFA_STREET,
-        "Date": 12/11/2012,
+        "Date": 2012/11/12,
         "precioReventa": 3500
         },
     { 
@@ -585,7 +586,7 @@ const data = [
         "offerPrice": 4990 ,
         "image": LEGO_HARRY_POTTER,
         "imageDetails": LEGO_HARRY_POTTER,
-        "Date": 24/6/2010,
+        "Date": 2010/6/24,
         "precioReventa": 4500
         },
     { 
@@ -598,7 +599,7 @@ const data = [
         "offerPrice": 4900 ,
         "image": FARMING_SIMULATOR_15,
         "imageDetails": FARMING_SIMULATOR_15,
-        "Date": 30/9/2014,
+        "Date": 2014/9/30,
         "precioReventa": 4500
         },
     { 
@@ -611,7 +612,7 @@ const data = [
         "offerPrice": 8900 ,
         "image": GRAN_TURISMO_6,
         "imageDetails": GRAN_TURISMO_6,
-        "Date": 9/12/2013,
+        "Date": 2013/12/9,
         "precioReventa": 7900
         },
     { 
@@ -624,7 +625,7 @@ const data = [
         "offerPrice": 8900 ,
         "image": ULTIMATE_ACTION_TRIPLE_PACK,
         "imageDetails": ULTIMATE_ACTION_TRIPLE_PACK,
-        "Date": 31/9/2014,
+        "Date": 2014/9/31,
         "precioReventa": 7900
         },
     { 
@@ -637,7 +638,7 @@ const data = [
         "offerPrice": 8900 ,
         "image": GTA_SAN_ANDREAS_PS3,
         "imageDetails": GTA_SAN_ANDREAS_PS3,
-        "Date": 31/9/2014,
+        "Date": 2014/9/31,
         "precioReventa": 7900
         },
     { 
@@ -650,7 +651,7 @@ const data = [
         "offerPrice":  0,
         "image": JUST_CAUSE_2,
         "imageDetails": JUST_CAUSE_2,
-        "Date": 23/3/2010,
+        "Date": 2010/3/23,
         "precioReventa": 3000
         },
     { 
@@ -663,7 +664,7 @@ const data = [
         "offerPrice": 0 ,
         "image": DRAGON_AGE_INQUISITION,
         "imageDetails": DETAILS_DRAGON_AGE_INQUISITION,
-        "Date": 18/11/2014,
+        "Date": 2014/11/18,
         "precioReventa": 3000
         },
     { 
@@ -676,7 +677,7 @@ const data = [
         "offerPrice": 8900 ,
         "image": DIRT_3,
         "imageDetails": DIRT_3,
-        "Date": 18/11/2014,
+        "Date": 2014/11/18,
         "precioReventa": 7900
         },
     { 
@@ -689,7 +690,7 @@ const data = [
         "offerPrice": 0 ,
         "image": ASSASINS_CREED_ROGUE,
         "imageDetails": ASSASINS_CREED_ROGUE,
-        "Date": 11/11/2014,
+        "Date": 2014/11/11,
         "precioReventa": 4900
         },
     { 
@@ -702,7 +703,7 @@ const data = [
         "offerPrice": 4900 ,
         "image": BATTLEFIELD_4_PS3,
         "imageDetails": BATTLEFIELD_4_PS3,
-        "Date": 18/2/2014,
+        "Date": 2014/2/18,
         "precioReventa": 3900
         },
     { 
@@ -715,7 +716,7 @@ const data = [
         "offerPrice": 0 ,
         "image": CALL_OF_DUTY_BLACK_OPS,
         "imageDetails": CALL_OF_DUTY_BLACK_OPS,
-        "Date": 9/11/2010,
+        "Date": 2010/11/9,
         "precioReventa": 3900
         },
     { 
@@ -728,7 +729,7 @@ const data = [
         "offerPrice": 3900 ,
         "image": PES_2018,
         "imageDetails": PES_2018,
-        "Date": 12/9/2017,
+        "Date": 2017/9/12,
         "precioReventa": 3000
         },
     { 
@@ -741,7 +742,7 @@ const data = [
         "offerPrice": 0 ,
         "image": PES_2016,
         "imageDetails": PES_2016,
-        "Date": 15/9/2015,
+        "Date": 2015/9/15,
         "precioReventa": 2900
         },
     { 
@@ -754,7 +755,7 @@ const data = [
         "offerPrice": 9900 ,
         "image": NBA_2K18,
         "imageDetails": NBA_2K18,
-        "Date": 15/9/2015,
+        "Date": 2015/9/15,
         "precioReventa": 9000
         },
     { 
@@ -767,7 +768,7 @@ const data = [
         "offerPrice": 0 ,
         "image": NBA_2K17,
         "imageDetails": NBA_2K17,
-        "Date": 15/9/2015,
+        "Date": 2015/9/15,
         "precioReventa": 5900
         },
     { 
@@ -780,7 +781,7 @@ const data = [
         "offerPrice": 0 ,
         "image": NBA_2K16,
         "imageDetails": NBA_2K16,
-        "Date": 15/9/2015,
+        "Date": 2015/9/15,
         "precioReventa": 5900
         },
     { 
@@ -793,7 +794,7 @@ const data = [
         "offerPrice": 2990 ,
         "image": FIFA_18,
         "imageDetails": FIFA_18,
-        "Date": 15/9/2017,
+        "Date": 2017/9/15,
         "precioReventa": 2900
         },
     { 
@@ -806,7 +807,7 @@ const data = [
         "offerPrice": 6900 ,
         "image": W_2K17,
         "imageDetails": W_2K17,
-        "Date": 11/10/2016,
+        "Date": 2016/10/11,
         "precioReventa": 6000
         },
     { 
@@ -819,7 +820,7 @@ const data = [
         "offerPrice": 7900 ,
         "image": MORTAL_KOMBAT_KOMPLETE_EDITION,
         "imageDetails": MORTAL_KOMBAT_KOMPLETE_EDITION,
-        "Date": 19/4/2011,
+        "Date": 2011/4/19,
         "precioReventa": 7000
         },
     { 
@@ -829,10 +830,10 @@ const data = [
         "gender":"Lucha",
         "description":"Con Ultra Street Fighter IV para PS3! Sumérgete en el emocionante mundo de la lucha callejera con este juego de lucha legendario. Con gráficos mejorados y una jugabilidad fluida, cada combate es una experiencia épica llena de adrenalina.",
         "price": 8900,
-        "offerPrice": 6500 ,
+        "offerPrice": 6900 ,
         "image": ULTRA_STREET_FIGHTER,
         "imageDetails": ULTRA_STREET_FIGHTER,
-        "Date": 18/4/2014,
+        "Date": 2014/4/18,
         "precioReventa": 6000
         },
     { 
@@ -845,7 +846,7 @@ const data = [
         "offerPrice": 0 ,
         "image": FIGHT_NIGHT_CHAMPION,
         "imageDetails": FIGHT_NIGHT_CHAMPION,
-        "Date": 26/4/2010,
+        "Date": 2010/4/26,
         "precioReventa": 5500
         },
     { 
@@ -858,7 +859,7 @@ const data = [
         "offerPrice": 4900 ,
         "image": CARS_3_DRIVEN_TO_WIN_PS3,
         "imageDetails": CARS_3_DRIVEN_TO_WIN_PS3,
-        "Date": 13/5/2017,
+        "Date": 2017/5/13,
         "precioReventa": 3990
         },
     { 
@@ -871,7 +872,7 @@ const data = [
         "offerPrice": 6900  ,
         "image": F1_2014,
         "imageDetails": F1_2014,
-        "Date": 13/5/2017,
+        "Date": 2017/5/13,
         "precioReventa": 6900
         },
     { 
@@ -884,7 +885,7 @@ const data = [
         "offerPrice": 6900  ,
         "image": MOTO_GP_15,
         "imageDetails": MOTO_GP_15,
-        "Date": 24/6/2015,
+        "Date": 2015/6/24,
         "precioReventa": 6900
         },
     { 
@@ -897,7 +898,7 @@ const data = [
         "offerPrice": 5990  ,
         "image": WRC_4,
         "imageDetails": WRC_4,
-        "Date": 24/6/2015,
+        "Date": 2015/6/24,
         "precioReventa": 5500
         },
     { 
@@ -910,7 +911,7 @@ const data = [
         "offerPrice": 8900 ,
         "image": NEED_FOR_SPEED_RIVALS,
         "imageDetails": NEED_FOR_SPEED_RIVALS,
-        "Date": 15/11/2013,
+        "Date": 2013/11/15,
         "precioReventa": 8900
         },
     { 
@@ -920,10 +921,10 @@ const data = [
         "gender":"Carreras",
         "description":"¡Prepárate para la emoción de la competición más intensa en el mundo del rally! Con WRC 5 para PS3, experimentarás la adrenalina de correr por los terrenos más desafiantes del mundo. Desde nevados paisajes hasta peligrosos caminos de tierra, cada carrera te llevará al límite de tus habilidades de conducción.",
         "price": 10900,
-        "offerPrice": 7500,
+        "offerPrice": 7900,
         "image": WRC_5,
         "imageDetails": WRC_5,
-        "Date": 15/11/2013,
+        "Date": 2013/11/15,
         "precioReventa": 6900
         },
     { 
@@ -936,7 +937,7 @@ const data = [
         "offerPrice": 0  ,
         "image": PLANTS_VS_ZOMBIES_GARDEN_WARFARE,
         "imageDetails": PLANTS_VS_ZOMBIES_GARDEN_WARFARE,
-        "Date": 5/5/2009,
+        "Date": 2009/5/5,
         "precioReventa": 4000
         },
     { 
@@ -949,7 +950,7 @@ const data = [
         "offerPrice": 0 ,
         "image": LEGO_JURASSIC_WORLD,
         "imageDetails": LEGO_JURASSIC_WORLD,
-        "Date": 12/6/2015,
+        "Date": 2015/6/12,
         "precioReventa": 5500
         },
     { 
@@ -962,7 +963,7 @@ const data = [
         "offerPrice": 0  ,
         "image": BATMAN_3_BEYOND_GOTHAM,
         "imageDetails": BATMAN_3_BEYOND_GOTHAM,
-        "Date": 11/11/2014,
+        "Date": 2014/11/11,
         "precioReventa": 4990
         },
     { 
@@ -975,7 +976,7 @@ const data = [
         "offerPrice": 0  ,
         "image": LEGO_MARVEL_AVENGERS,
         "imageDetails": LEGO_MARVEL_AVENGERS,
-        "Date": 26/1/2016,
+        "Date": 2016/1/26,
         "precioReventa": 6990
         },
     { 
@@ -988,7 +989,7 @@ const data = [
         "offerPrice":  7900 ,
         "image": MINECRAFT_STORY_MODE,
         "imageDetails": MINECRAFT_STORY_MODE,
-        "Date": 13/10/2015,
+        "Date": 2015/10/13,
         "precioReventa": 7900
         },
     { 
@@ -1001,7 +1002,7 @@ const data = [
         "offerPrice": 8900  ,
         "image": SONIC_GENERATIONS,
         "imageDetails": SONIC_GENERATIONS,
-        "Date": 1/1/2011,
+        "Date": 2011/1/1,
         "precioReventa": 7990
         },
     { 
@@ -1014,7 +1015,7 @@ const data = [
         "offerPrice": 4900  ,
         "image": WATCH_DOGS,
         "imageDetails": WATCH_DOGS,
-        "Date": 26/5/2014,
+        "Date": 2014/5/26,
         "precioReventa": 4500
         },
     { 
@@ -1027,7 +1028,7 @@ const data = [
         "offerPrice": 0 ,
         "image": UNCHARTED_3_DRAKE_DECEPTION,
         "imageDetails": UNCHARTED_3_DRAKE_DECEPTION,
-        "Date": 1/11/2011,
+        "Date": 2011/11/1,
         "precioReventa": 7500
         },
     { 
@@ -1037,10 +1038,10 @@ const data = [
         "gender":"Accion",
         "description":"Sumérgete en el apocalipsis de The Last of Us para PS3. Vive una emocionante narrativa, gráficos impresionantes y una jugabilidad envolvente. ¡Una obra maestra del gaming que no te puedes perder!",
         "price": 10900,
-        "offerPrice": 8900 ,
+        "offerPrice": 7900 ,
         "image": THE_LAST_OF_US,
         "imageDetails": THE_LAST_OF_US,
-        "Date": 14/6/2013,
+        "Date": 2013/6/14,
         "precioReventa": 7990
         },
     { 
@@ -1053,7 +1054,7 @@ const data = [
         "offerPrice": 0  ,
         "image": THE_EVIL_WITHIN,
         "imageDetails": THE_EVIL_WITHIN,
-        "Date": 14/10/2014,
+        "Date": 2014/10/14,
         "precioReventa": 5500
         },
     { 
@@ -1066,7 +1067,7 @@ const data = [
         "offerPrice": 0  ,
         "image": SNIPER_ELITE_3_ULTIMATE_EDITION,
         "imageDetails": SNIPER_ELITE_3_ULTIMATE_EDITION,
-        "Date": 26/6/2014,
+        "Date": 2014/6/26,
         "precioReventa": 5500
         },
     { 
@@ -1079,7 +1080,7 @@ const data = [
         "offerPrice":5900 ,
         "image": SHADOW_OF_MORDOR,
         "imageDetails": SHADOW_OF_MORDOR,
-        "Date": 30/9/2014,
+        "Date": 2014/9/30,
         "precioReventa": 5900
         },
     { 
@@ -1092,7 +1093,7 @@ const data = [
         "offerPrice": 7900  ,
         "image": RESIDENT_EVIL_6,
         "imageDetails": RESIDENT_EVIL_6,
-        "Date": 2/10/2012,
+        "Date": 2012/10/2,
         "precioReventa": 7900
         },
     { 
@@ -1105,7 +1106,7 @@ const data = [
         "offerPrice": 6900  ,
         "image": RESIDENT_EVIL_5_PS3,
         "imageDetails": RESIDENT_EVIL_5_PS3,
-        "Date": 2/10/2012,
+        "Date": 2012/10/2,
         "precioReventa": 6500
         },
     { 
@@ -1118,7 +1119,7 @@ const data = [
         "offerPrice": 9900  ,
         "image": RED_DEAD_REDEMPTION,
         "imageDetails": RED_DEAD_REDEMPTION,
-        "Date": 18/5/2010,
+        "Date": 2010/5/18,
         "precioReventa": 9900
         },
     { 
@@ -1131,7 +1132,7 @@ const data = [
         "offerPrice": 14900  ,
         "image": RED_DEAD_REDEMPTION_YEAR_EDITION,
         "imageDetails": RED_DEAD_REDEMPTION_YEAR_EDITION,
-        "Date": 18/5/2010,
+        "Date": 2010/5/18,
         "precioReventa": 14900
         },
     { 
@@ -1144,7 +1145,7 @@ const data = [
         "offerPrice": 0  ,
         "image": ONE_PIECE_PIRATE_WARRIORS_3,
         "imageDetails": ONE_PIECE_PIRATE_WARRIORS_3,
-        "Date": 18/5/2010,
+        "Date": 2010/5/18,
         "precioReventa": 7900
         },
     { 
@@ -1157,7 +1158,7 @@ const data = [
         "offerPrice": 0  ,
         "image": NEED_FOR_SPEED_MOST_WANTED,
         "imageDetails": NEED_FOR_SPEED_MOST_WANTED,
-        "Date": 30/10/2012,
+        "Date": 2012/10/30,
         "precioReventa": 6990
         },
     { 
@@ -1170,7 +1171,7 @@ const data = [
         "offerPrice": 0  ,
         "image": NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM,
         "imageDetails": NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM,
-        "Date": 11/9/2014,
+        "Date": 2014/9/11,
         "precioReventa": 7990
         },
     { 
@@ -1183,7 +1184,7 @@ const data = [
         "offerPrice": 0  ,
         "image": METAL_GEAR_SOLID_V,
         "imageDetails": METAL_GEAR_SOLID_V,
-        "Date": 1/9/2015,
+        "Date": 2015/9/1,
         "precioReventa": 5900
         },
     { 
@@ -1196,7 +1197,7 @@ const data = [
         "offerPrice": 0  ,
         "image": METAL_GEAR_SOLID_THE_PANTOM_PAIN,
         "imageDetails": METAL_GEAR_SOLID_THE_PANTOM_PAIN,
-        "Date": 18/3/2014,
+        "Date": 2014/3/18,
         "precioReventa": 5900
         },
     { 
@@ -1209,7 +1210,7 @@ const data = [
         "offerPrice": 6900 ,
         "image": LITTLE_BIG_PLANET_3,
         "imageDetails": LITTLE_BIG_PLANET_3,
-        "Date": 18/11/2014,
+        "Date": 2014/11/18,
         "precioReventa": 6900
         },
     { 
@@ -1222,7 +1223,7 @@ const data = [
         "offerPrice":0 ,
         "image": JUST_DANCE_2018,
         "imageDetails": JUST_DANCE_2018,
-        "Date": 18/11/2014,
+        "Date": 2017/10/24,
         "precioReventa": 9590
         },
     { 
@@ -1235,7 +1236,7 @@ const data = [
         "offerPrice": 0,
         "image": JUST_DANCE_2017,
         "imageDetails": JUST_DANCE_2017,
-        "Date": 18/11/2014,
+        "Date": 2016/10/25,
         "precioReventa": 9900
         },
     { 
@@ -1248,7 +1249,7 @@ const data = [
         "offerPrice": 0 ,
         "image": INJUSTICE_GODS_AMONG_US_ULTIMATE_EDITION,
         "imageDetails": INJUSTICE_GODS_AMONG_US_ULTIMATE_EDITION,
-        "Date": 16/4/2013,
+        "Date": 2013/4/3,
         "precioReventa": 5000
         },
     { 
@@ -1261,7 +1262,7 @@ const data = [
         "offerPrice": 0 ,
         "image": HITMAN_ABSOLUTION,
         "imageDetails": HITMAN_ABSOLUTION,
-        "Date": 20/11/2012,
+        "Date": 2012/11/20,
         "precioReventa": 7900
         },
     { 
@@ -1271,10 +1272,10 @@ const data = [
         "gender":"Accion",
         "description":"¡Prepárate para la aventura definitiva en Los Santos con GTA V para PS3! Explora un vasto mundo abierto lleno de acción, misiones emocionantes y personajes inolvidables. ¡Descubre por qué este juego es un clásico imperdible!",
         "price": 9900,
-        "offerPrice": 6900  ,
+        "offerPrice": 5900  ,
         "image": GTA_V_PS3,
         "imageDetails": GTA_V_PS3,
-        "Date": 17/9/2013,
+        "Date": 2013/9/17,
         "precioReventa": 6500
         },
     { 
@@ -1287,7 +1288,7 @@ const data = [
         "offerPrice": 8900  ,
         "image": GOD_OF_WAR_ASENSION,
         "imageDetails": GOD_OF_WAR_ASENSION,
-        "Date": 17/9/2013,
+        "Date": 2013/1/19,
         "precioReventa": 7990
         },
         { 
@@ -1300,7 +1301,7 @@ const data = [
         "offerPrice": 7900  ,
         "image": RESIDENT_EVIL_0,
         "imageDetails": RESIDENT_EVIL_0,
-        "Date": 17/9/2013,
+        "Date": 12/11/20002,
         "precioReventa": 6990
         },
         { 
@@ -1310,10 +1311,10 @@ const data = [
         "gender":"Accion",
         "description":"Ambientada en escenarios urbanos, esta entrega se aleja de las guerras clásicas para sumergirse en un drama policial moderno. En el rol de Nick Mendoza, los jugadores deberán conseguir restablecer o infringir el orden, depende de qué lado de la ley elijan.",
         "price": 10900,
-        "offerPrice": 6900  ,
+        "offerPrice": 5900  ,
         "image": BATTLEFIELD_HARDLINE,
         "imageDetails": BATTLEFIELD_HARDLINE,
-        "Date": 17/9/2013,
+        "Date": 2015/3/17,
         "precioReventa": 6900
         },
         { 
@@ -1323,10 +1324,10 @@ const data = [
         "gender":"Accion",
         "description":"Nuevos mapas y una misteriosa ciudad son dos de las principales características de esta entrega. Con un giro en la historia, los jugadores serán protagonistas de impresionantes batallas en un entorno impredecible, con más de 400 artículos para personalizar un estilo de pelea como nunca antes.",
         "price": 8900,
-        "offerPrice": 6900  ,
+        "offerPrice": 5900  ,
         "image": DRAGON_BALL_XENOVERSE,
         "imageDetails": DRAGON_BALL_XENOVERSE,
-        "Date": 17/9/2013,
+        "Date": 2014/10/4,
         "precioReventa": 5990
         },
         { 
@@ -1336,10 +1337,10 @@ const data = [
         "gender":"Accion",
         "description":"Nuevos mapas y una misteriosa ciudad son dos de las principales características de esta entrega. Con un giro en la historia, los jugadores serán protagonistas de impresionantes batallas en un entorno impredecible, con más de 400 artículos para personalizar un estilo de pelea como nunca antes.",
         "price": 12900,
-        "offerPrice": 8900  ,
+        "offerPrice": 6900  ,
         "image": XENOVERSE_DLC,
         "imageDetails": XENOVERSE_DLC,
-        "Date": 17/9/2013,
+        "Date": 2014/10/4,
         "precioReventa": 7990
         },
         { 
@@ -1352,7 +1353,7 @@ const data = [
             "offerPrice": 7900  ,
             "image": DESTINY,
             "imageDetails": DESTINY,
-            "Date": 17/9/2013,
+            "Date": 2015/9/15,
             "precioReventa": 900
             },
             { 
@@ -1365,7 +1366,7 @@ const data = [
             "offerPrice": 3900  ,
             "image": FARCRY_4,
             "imageDetails": FARCRY_4,
-            "Date": 17/9/2013,
+            "Date": 2014/11/17,
             "precioReventa": 2900
             },
             { 
@@ -1378,7 +1379,7 @@ const data = [
             "offerPrice": 9900  ,
             "image": ALIEN_ISOLATION,
             "imageDetails": ALIEN_ISOLATION,
-            "Date": 6/10/2014,
+            "Date": 2014/10/6,
             "precioReventa": 9900
             },
             { 
@@ -1391,7 +1392,7 @@ const data = [
             "offerPrice": 6900  ,
             "image": ASSASINS_CREED_ROGUE,
             "imageDetails": ASSASINS_CREED_ROGUE,
-            "Date": 19/1/2014,
+            "Date": 2014/1/19,
             "precioReventa": 6000
             },
             { 
@@ -1404,7 +1405,7 @@ const data = [
             "offerPrice": 6900  ,
             "image": ASSASINS_CREED_BLACKFLAG,
             "imageDetails": ASSASINS_CREED_BLACKFLAG,
-            "Date": 13/11/2014,
+            "Date": 2014/11/13,
             "precioReventa": 5990
             },
             { 
@@ -1417,7 +1418,7 @@ const data = [
             "offerPrice": 10900  ,
             "image": ATTACK_ON_TITAN,
             "imageDetails": ATTACK_ON_TITAN,
-            "Date": 19/1/2016,
+            "Date": 2016/1/19,
             "precioReventa": 10000
             },
             { 
@@ -1430,7 +1431,7 @@ const data = [
             "offerPrice": 7900  ,
             "image": BRAVE,
             "imageDetails": BRAVE,
-            "Date": 19/6/2012,
+            "Date": 2012/6/19,
             "precioReventa": 7000
             },
             
@@ -1444,7 +1445,7 @@ const data = [
                 "offerPrice": 8900  ,
                 "image": CALL_OF_DUTY_ADVANCED_WARFARE,
                 "imageDetails": CALL_OF_DUTY_ADVANCED_WARFARE,
-                "Date": 3/11/2014,
+                "Date": 2014/11/3,
                 "precioReventa": 8500
             },
         { 
@@ -1457,7 +1458,7 @@ const data = [
             "offerPrice": 8900  ,
             "image": CALL_OF_DUTY_GHOSTS,
             "imageDetails": CALL_OF_DUTY_GHOSTS,
-            "Date": 5/11/2013,
+            "Date": 2013/11/5,
             "precioReventa": 8500
         },
         { 
@@ -1470,7 +1471,7 @@ const data = [
             "offerPrice": 7900  ,
             "image": F1_2014,
             "imageDetails": F1_2014,
-            "Date": 17/10/2014,
+            "Date": 2014/10/17,
             "precioReventa": 6990
         },
         { 
@@ -1483,7 +1484,7 @@ const data = [
             "offerPrice": 8900  ,
             "image": LEGO_STAR_WARS_PS3,
             "imageDetails": LEGO_STAR_WARS_PS3,
-            "Date": 13/6/2016,
+            "Date": 2016/6/13,
             "precioReventa": 8900
         },
         { 
@@ -1496,7 +1497,7 @@ const data = [
             "offerPrice": 6900  ,
             "image": LEGO_MARVEL_SUPERHEROES,
             "imageDetails": LEGO_MARVEL_SUPERHEROES,
-            "Date": 15/10/2013,
+            "Date": 2013/10/15,
             "precioReventa": 6500
         },
         { 
@@ -1509,7 +1510,7 @@ const data = [
             "offerPrice": 6900  ,
             "image": MAX_PAYNE_3,
             "imageDetails": MAX_PAYNE_3,
-            "Date": 15/5/2012,
+            "Date": 2012/5/15,
             "precioReventa": 6900
         },
         { 
@@ -1522,7 +1523,7 @@ const data = [
             "offerPrice": 7900  ,
             "image": NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM,
             "imageDetails": NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM,
-            "Date": 1/9/2014,
+            "Date": 2014/9/1,
             "precioReventa": 6990
         },
         { 
@@ -1535,7 +1536,7 @@ const data = [
             "offerPrice": 9690  ,
             "image": CALL_OF_DUTY_ADVANCED_WARFARE_PRO_EDITION,
             "imageDetails": CALL_OF_DUTY_ADVANCED_WARFARE_PRO_EDITION,
-            "Date": 28/10/2014,
+            "Date": 2014/10/28,
             "precioReventa": 8990
         },
         { 
@@ -1548,7 +1549,7 @@ const data = [
             "offerPrice": 9500  ,
             "image": FARCRY_3_FARCRY_4,
             "imageDetails": FARCRY_3_FARCRY_4,
-            "Date": 28/10/2014,
+            "Date": 2014/10/28,
             "precioReventa": 8990
         },
         { 
@@ -1561,7 +1562,7 @@ const data = [
             "offerPrice": 2990  ,
             "image": PES_2017,
             "imageDetails": PES_2017,
-            "Date": 28/10/2016,
+            "Date": 2016/10/28,
             "precioReventa": 2990
         },
         { 
@@ -1574,7 +1575,7 @@ const data = [
             "offerPrice": 6590  ,
             "image": PAYDAY_2,
             "imageDetails": PAYDAY_2,
-            "Date": 16/6/2015,
+            "Date": 2015/6/16,
             "precioReventa": 5990
         },
         { 
@@ -1587,11 +1588,11 @@ const data = [
             "offerPrice": 7990  ,
             "image": FARCRY_4_GOLD_EDITION,
             "imageDetails": FARCRY_4_GOLD_EDITION,
-            "Date": 18/11/2014,
+            "Date": 2014/11/18,
             "precioReventa": 7000
         },
         { 
-            "id": 31329,  
+            "id": 319,  
             "title": "Lego Marvel's Vengadores Deluxe",
             "category": "PS3",
             "gender":"Accion",
@@ -1600,7 +1601,7 @@ const data = [
             "offerPrice": 7990  ,
             "image": LEGO_MARVEL_AVENGERS_DELUXE_EDITION,
             "imageDetails": LEGO_MARVEL_AVENGERS_DELUXE_EDITION,
-            "Date": 26/1/2016,
+            "Date": 2016/1/26,
             "precioReventa": 6990
         },
         { 
@@ -1613,7 +1614,7 @@ const data = [
             "offerPrice": 5990  ,
             "image": BATTLEFIELD_4,
             "imageDetails": BATTLEFIELD_4,
-            "Date": 29/11/2013,
+            "Date": 2013/11/29,
             "precioReventa": 5590
         },
         { 
@@ -1623,10 +1624,10 @@ const data = [
             "gender":"Accion",
             "description":"La edición Ultimate Evil potencia el juego base con la expansión Reaper of Souls y el nuevo modo Aventura para obtener mejores recompensas. Los jugadores podrán vivir esta experiencia como brujo, cazador de demonios, monje o mago mientras aprenden a dominar nuevas habilidades y poderes mortales.",
             "price": 10900,
-            "offerPrice": 8990  ,
+            "offerPrice": 6990  ,
             "image": DIABLO,
             "imageDetails": DIABLO,
-            "Date": 25/3/2014,
+            "Date": 2014/3/25,
             "precioReventa": 7990
         },
         { 
@@ -1636,10 +1637,10 @@ const data = [
             "gender":"Accion",
             "description":"Basada en la famosa película de Disney, esta aventura para consolas trae nuevas posibilidades para vivir increíbles aventuras junto a sus protagonistas. Los jugadores deberán acompañar al Sheriff Woody y su incondicional amigo Buzz Lightyear en una misión para salvar la vida de muchos juguetes.",
             "price": 10900,
-            "offerPrice": 7990  ,
+            "offerPrice": 6990  ,
             "image": TOY_STORY_3,
             "imageDetails": TOY_STORY_3,
-            "Date": 15/6/2010,
+            "Date": 2010/6/15,
             "precioReventa": 7990
         },
         { 
@@ -1652,7 +1653,7 @@ const data = [
             "offerPrice": 5990  ,
             "image": BATMAN_ARKHAM_ORIGINS,
             "imageDetails": BATMAN_ARKHAM_ORIGINS,
-            "Date": 25/10/2013,
+            "Date": 2013/10/25,
             "precioReventa": 5990
         },
         { 
@@ -1665,7 +1666,7 @@ const data = [
             "offerPrice": 5990  ,
             "image": BEYOND_TWO_SOULS,
             "imageDetails": BEYOND_TWO_SOULS,
-            "Date": 8/10/2013,
+            "Date": 2013/10/8,
             "precioReventa": 5990
         },
         { 
@@ -1678,7 +1679,7 @@ const data = [
             "offerPrice": 5990  ,
             "image": BIOSHOCK,
             "imageDetails": BIOSHOCK,
-            "Date": 21/8/2007,
+            "Date": 2007/8/21,
             "precioReventa": 5990
         },
         { 
@@ -1691,7 +1692,7 @@ const data = [
             "offerPrice": 5990  ,
             "image": BORDERLANDS_2,
             "imageDetails": BORDERLANDS_2,
-            "Date": 21/9/2012,
+            "Date": 2012/9/21,
             "precioReventa": 5990
         },
         { 
@@ -1704,7 +1705,7 @@ const data = [
             "offerPrice": 5990  ,
             "image": BRAVE,
             "imageDetails": BRAVE,
-            "Date": 20/1/2016,
+            "Date": 2016/1/20,
             "precioReventa": 5990
         },
         { 
@@ -1717,7 +1718,7 @@ const data = [
             "offerPrice": 12900  ,
             "image": CALL_OF_DUTY_MODERN_WARFARE_TRILOGY,
             "imageDetails": CALL_OF_DUTY_MODERN_WARFARE_TRILOGY,
-            "Date": 29/10/2003,
+            "Date": 2003/10/29,
             "precioReventa": 12500
         },
         { 
@@ -1730,7 +1731,7 @@ const data = [
             "offerPrice": 8590 ,
             "image": FIFA_19,
             "imageDetails": FIFA_19,
-            "Date": 13/9/2018,
+            "Date": 2018/9/13,
             "precioReventa": 8000
         },
         {   "id": 332,  
@@ -1742,7 +1743,7 @@ const data = [
             "offerPrice": 7990 ,
             "image": P5_PERSONA,
             "imageDetails": P5_PERSONA,
-            "Date": 15/9/2016,
+            "Date": 2016/9/15,
             "precioReventa": 7000
         },
                 
@@ -1755,7 +1756,7 @@ const data = [
             "offerPrice": 7990 ,
             "image": RAYMAN_LEGENDS,
             "imageDetails": RAYMAN_LEGENDS,
-            "Date": 15/9/2016,
+            "Date": 2016/9/15,
             "precioReventa": 7000
         },
                     
@@ -1769,7 +1770,7 @@ const data = [
             "offerPrice": 7990 ,
             "image": SAINT_SEIYA,
             "imageDetails": SAINT_SEIYA,
-            "Date": 5/9/2015,
+            "Date": 2015/9/5,
             "precioReventa": 7000
         },
         { 
@@ -1782,7 +1783,7 @@ const data = [
             "offerPrice": 7990 ,
             "image": SONIC_ADVENTURE,
             "imageDetails": SONIC_ADVENTURE,
-            "Date": 22/9/2010,
+            "Date": 2010/9/22,
             "precioReventa": 7000
         },
         { 
@@ -1795,7 +1796,7 @@ const data = [
             "offerPrice": 7990 ,
             "image": LEFT_BEHIND,
             "imageDetails": LEFT_BEHIND,
-            "Date": 14/2/2014,
+            "Date": 2014/2/14,
             "precioReventa": 7000
         },
         { 
@@ -1808,7 +1809,7 @@ const data = [
             "offerPrice": 7990 ,
             "image": TOMB_RAIDER,
             "imageDetails": TOMB_RAIDER,
-            "Date": 14/2/2014,
+            "Date": 2014/2/14,
             "precioReventa": 7000
         },
         { 
@@ -1821,7 +1822,7 @@ const data = [
             "offerPrice": 10900 ,
             "image": NEED_FOR_SPEED_RIVALS,
             "imageDetails": NEED_FOR_SPEED_RIVALS,
-            "Date": 15/11/2013,
+            "Date": 2013/11/15,
             "precioReventa": 9900
         },
         {
@@ -1836,7 +1837,7 @@ const data = [
         offerPrice: 49900,
         image: TOPSPIN2K25,
         imageDetails: DETAILS_TOPSPIN2K25,
-        Date: 26 / 4 / 2024,
+        Date: 2024/4/26,
         precioReventa: 45,
     },
     {
@@ -1851,7 +1852,7 @@ const data = [
         offerPrice: 49900,
         image: TOPSPIN2K25,
         imageDetails: DETAILS_TOPSPIN2K25,
-        Date: 26 / 4 / 2024,
+        Date: 2024/4/26,
         precioReventa: 45,
     },
     {
@@ -1866,7 +1867,7 @@ const data = [
         offerPrice: 0,
         image: BLADE,
         imageDetails: DETAILS_BLADE,
-        Date: 26 / 4 / 2024,
+        Date: 2024/4/26,
         precioReventa: 49,
     },
     {
@@ -1881,7 +1882,7 @@ const data = [
         offerPrice: 39900,
         image: MIDNIGHT_SUNS, //--------------------------------------------
         imageDetails: DETAILS_MIDNIGHT_SUNS,
-        Date: 7 / 10 / 2022,
+        Date: 2022/10/7,
         precioReventa: 30,
     },
     {
@@ -1896,7 +1897,7 @@ const data = [
         offerPrice: 39900,
         image: MIDNIGHT_SUNS, //--------------------------------------------
         imageDetails: DETAILS_MIDNIGHT_SUNS,
-        Date: 7 / 10 / 2022,
+        Date: 2022/10/7,
         precioReventa: 30,
     },
     {
@@ -1907,11 +1908,11 @@ const data = [
         description:
             "Sobrevivir es solo el principio.Seis años después de la catástrofe biológica en Raccoon City, el agente Leon S. Kennedy, uno de los supervivientes del desastre, ha sido enviado a rescatar a la hija del presidente, a quien han secuestrado. Siguiendo su rastro, llega a una apartada población europea, donde sus habitantes sufren un mal terrible. Así comienza esta historia de un arriesgado rescate y terror escalofriante donde se cruzan la vida y la muerte, y el miedo y la catarsis.",
         price: 69900,
-        secondaryPrice: 68000,
+        secondaryPrice: 29900,
         offerPrice: 39900,
         image: RE4_REMASTERED,
         imageDetails: DETAILS_RE4_REMASTERED,
-        Date: 24 / 3 / 2023,
+        Date: 2023/3/24,
         precioReventa: 35,
     },
     {
@@ -1926,7 +1927,7 @@ const data = [
         offerPrice: 39900,
         image: RE4_REMASTERED,
         imageDetails: DETAILS_RE4_REMASTERED,
-        Date: 24 / 3 / 2023,
+        Date: 2023/3/24,
         precioReventa: 35,
     },
     {
@@ -1941,7 +1942,7 @@ const data = [
         offerPrice: 19900,
         image: RESIDENT_EVIL_2, //-------------------------------
         imageDetails: DETAILS_RE_2,
-        Date: 24 / 3 / 2023,
+        Date: 2022/6/13,
         precioReventa: 15,
     },
     {
@@ -1956,7 +1957,7 @@ const data = [
         offerPrice: 19900,
         image: RESIDENT_EVIL_2, //-------------------------------
         imageDetails: DETAILS_RE_5,
-        Date: 24 / 3 / 2023,
+        Date: 2022/6/13,
         precioReventa: 15,
     },
     {
@@ -1966,12 +1967,12 @@ const data = [
         gender: "Acción",
         description:
             "Uno de los títulos más populares de Resident Evil llega a PlayStation®4 en Full 1080p HD con aún más imágenes por segundo. Este fantástico lanzamiento, con modos Un jugador, Cooperativo y una emocionante trama, incluye todos los DLC ya publicados (las expansiones de historia Lost Nightmares y Desperate Escape, el modo Versus, figuras extras y 4 trajes) y el modo No Mercy, anteriormente exclusivo para PC, así como el nuevo modo “Mercenarios unidos” que combina dos populares modos, Los mercenarios y La reunión de mercenarios, para una experiencia aún más intensa.",
-        price: 20900,
-        secondaryPrice: 20900,
-        offerPrice: 13900,
+        price: 30900,
+        secondaryPrice: 14900,
+        offerPrice: 19900,
         image: RESIDENT_EVIL_5, //-----------------------------------
         imageDetails: DETAILS_RE_5,
-        Date: 28 / 6 / 2016,
+        Date: 2016/6/28,
         precioReventa: 13,
     },
     {
@@ -1983,10 +1984,10 @@ const data = [
             "Uno de los títulos más populares de Resident Evil llega a PlayStation®4 en Full 1080p HD con aún más imágenes por segundo. Este fantástico lanzamiento, con modos Un jugador, Cooperativo y una emocionante trama, incluye todos los DLC ya publicados (las expansiones de historia Lost Nightmares y Desperate Escape, el modo Versus, figuras extras y 4 trajes) y el modo No Mercy, anteriormente exclusivo para PC, así como el nuevo modo “Mercenarios unidos” que combina dos populares modos, Los mercenarios y La reunión de mercenarios, para una experiencia aún más intensa.",
         price: 20900,
         secondaryPrice: 20900,
-        offerPrice: 13900,
+        offerPrice: 15900,
         image: RESIDENT_EVIL_5, //-----------------------------------
         imageDetails: DETAILS_RE_5,
-        Date: 28 / 6 / 2016,
+        Date: 2016/6/28,
         precioReventa: 10,
     },
     {
@@ -2001,7 +2002,7 @@ const data = [
         offerPrice: 29900,
         image: CRASH_NITRO_FUELED_SPYRO,
         imageDetails: CRASH_NITRO_FUELED_SPYRO,
-        Date: 24 / 3 / 2023,
+        Date: 2023/3/24,
         precioReventa: 30,
     },
     {
@@ -2016,7 +2017,7 @@ const data = [
         offerPrice: 29900,
         image: CRASH_NITRO_FUELED_SPYRO,
         imageDetails: CRASH_NITRO_FUELED_SPYRO,
-        Date: 24 / 3 / 2023,
+        Date: 2023/3/24,
         precioReventa: 30,
     },
     {
@@ -2031,7 +2032,7 @@ const data = [
         offerPrice: 19900,
         image: COD_MW,
         imageDetails: DETAILS_CODMW,
-        Date: 24 / 10 / 2019,
+        Date: 2019/10/25,
         precioReventa: 19,
     },
     {
@@ -2046,7 +2047,7 @@ const data = [
         offerPrice: 19900,
         image: CRASH_NITRO,
         imageDetails: DETAILS_CRASH_NITRO,
-        Date: 24 / 10 / 2019,
+        Date: 2019/6/20,
         precioReventa: 25,
     },
     {
@@ -2061,7 +2062,7 @@ const data = [
         offerPrice: 19900,
         image: CRASH_NITRO,
         imageDetails: DETAILS_CRASH_NITRO,
-        Date: 24 / 10 / 2019,
+        Date: 2019/6/20,
         precioReventa: 25,
     },
     {
@@ -2072,11 +2073,11 @@ const data = [
         description:
             "Únete a Kratos y Atreus en un viaje mítico en busca de respuestas antes de que llegue el Ragnarök. Juntos, padre e hijo deben darlo todo mientras visitan cada uno de los nueve reinos. A través de imponentes paisajes mitológicos, se enfrentarán a aterradores enemigos, desde dioses nórdicos hasta bestias salvajes, mientras se preparan para el enfrentamiento de sus vidas.",
         price: 69900,
-        secondaryPrice: 65900,
+        secondaryPrice: 39900,
         offerPrice: 49900,
         image: GOW_RAGNAROK,
         imageDetails: DETAILS_GOW_RAGNAROK,
-        Date: 9 / 11 / 2022,
+        Date: 2022/11/9,
         precioReventa: 35,
     },
     {
@@ -2091,7 +2092,7 @@ const data = [
         offerPrice: 49900,
         image: GOW_RAGNAROK,
         imageDetails: DETAILS_GOW_RAGNAROK,
-        Date: 9 / 11 / 2022,
+        Date: 2022/11/9,
         precioReventa: 35,
     },
     {
@@ -2106,7 +2107,7 @@ const data = [
         offerPrice: 9900,
         image: RE6,
         imageDetails: DETAILS_RE6,
-        Date: 29 / 3 / 2016,
+        Date: 2016/3/29,
         precioReventa: 12,
     },
     {
@@ -2117,11 +2118,11 @@ const data = [
         description:
             "La Edición Estándar de Mortal Kombat 11 incluye: Juego principal Con las nuevas variantes de personaje tendrás un control sin precedentes para personalizar a tus luchadores y hacerlos únicos. El nuevo motor gráfico resalta cada uno de los momentos más sangrientos para ponerte tan cerca de la pelea que casi podrás sentirla. Con un reparto de luchadores nuevos y klásicos, el modo historia cinemático continúa la épica saga iniciada hace más de 25 años. de los fans y nuevas caras, así como modos individual y cooperativo, y nuevos retos para los jugadores, diferentes de los de cualquier otra entrega de la saga Resident Evil. Esta edición incluye todos los DLC, así como dos trajes por cada protagonista, originalmente solo desbloqueables desde Residentevil.net, y que ahora pueden desbloquearse desde el juego. ",
         price: 39900,
-        secondaryPrice: 35900,
+        secondaryPrice: 39900,
         offerPrice: 19900,
         image: MK11,
         imageDetails: DETAILS_MK11,
-        Date: 17 / 11 / 2020,
+        Date: 2020/11/17,
         precioReventa: 25,
     },
     {
@@ -2132,11 +2133,11 @@ const data = [
         description:
             "La Edición Estándar de Mortal Kombat 11 incluye: Juego principal Con las nuevas variantes de personaje tendrás un control sin precedentes para personalizar a tus luchadores y hacerlos únicos. El nuevo motor gráfico resalta cada uno de los momentos más sangrientos para ponerte tan cerca de la pelea que casi podrás sentirla. Con un reparto de luchadores nuevos y klásicos, el modo historia cinemático continúa la épica saga iniciada hace más de 25 años. de los fans y nuevas caras, así como modos individual y cooperativo, y nuevos retos para los jugadores, diferentes de los de cualquier otra entrega de la saga Resident Evil. Esta edición incluye todos los DLC, así como dos trajes por cada protagonista, originalmente solo desbloqueables desde Residentevil.net, y que ahora pueden desbloquearse desde el juego. ",
         price: 39900,
-        secondaryPrice: 35900,
+        secondaryPrice: 39900,
         offerPrice: 19900,
         image: MK11,
         imageDetails: DETAILS_MK11,
-        Date: 17 / 11 / 2020,
+        Date: 2020/11/17,
         precioReventa: 20,
     },
     {
@@ -2147,11 +2148,11 @@ const data = [
         description:
             " ¡La experiencia MK11 definitiva! Juega como los protectores de la Tierra en las DOS aclamadas historias del juego, donde el tiempo se distorsiona en una lucha para impedir que Kronika regrese el tiempo y reinicie la historia. En esta batalla para salvar la existencia, se ponen a prueba amistades y se forjan nuevas alianzas. MK11 Ultimate cuenta con el reparto completo de 37 luchadores, incluyendo a los recientemente añadidos Rain, Mileena y Rambo.",
         price: 79900,
-        secondaryPrice: 78900,
+        secondaryPrice: 79900,
         offerPrice: 29900,
         image: MK11_ULTIMATE,
         imageDetails: DETAILS_MK11_ULTIMATE,
-        Date: 17 / 11 / 2020,
+        Date: 2020/11/17,
         precioReventa: 35,
     },
     {
@@ -2162,11 +2163,11 @@ const data = [
         description:
             " ¡La experiencia MK11 definitiva! Juega como los protectores de la Tierra en las DOS aclamadas historias del juego, donde el tiempo se distorsiona en una lucha para impedir que Kronika regrese el tiempo y reinicie la historia. En esta batalla para salvar la existencia, se ponen a prueba amistades y se forjan nuevas alianzas. MK11 Ultimate cuenta con el reparto completo de 37 luchadores, incluyendo a los recientemente añadidos Rain, Mileena y Rambo.",
         price: 79900,
-        secondaryPrice: 78900,
+        secondaryPrice: 79900,
         offerPrice: 29990,
         image: MK11_ULTIMATE,
         imageDetails: DETAILS_MK11_ULTIMATE,
-        Date: 17 / 11 / 2020,
+        Date: 2020/11/17,
         precioReventa: 25,
     },
     {
@@ -2181,7 +2182,7 @@ const data = [
         offerPrice: 59900,
         image: MK11_ULTIMATE_INJUSTICE,
         imageDetails: DETAILS_MK11_ULTIMATE_INJUSTICE,
-        Date: 16 / 3 / 2021,
+        Date: 2021/3/16,
         precioReventa: 45,
     },
     {
@@ -2196,7 +2197,7 @@ const data = [
         offerPrice: 59900,
         image: MK11_ULTIMATE_INJUSTICE,
         imageDetails: DETAILS_MK11_ULTIMATE_INJUSTICE,
-        Date: 16 / 3 / 2021,
+        Date: 2021/3/16,
         precioReventa: 45,
     },
     {
@@ -2207,11 +2208,11 @@ const data = [
         description:
             " Cuphead es un juego de acción clásico estilo 'dispara y corre' que se centra en combates contra el jefe. Inspirado en los dibujos animados de los años 30, los aspectos visual y sonoro están diseñados con esmero empleando las mismas técnicas de la época, es decir, animación tradicional a mano, fondos de acuarela y grabaciones originales de jazz.",
         price: 39900,
-        secondaryPrice: 38900,
+        secondaryPrice: 39900,
         offerPrice: 25900,
         image: CUPHEAD,
         imageDetails: DETAILS_CUPHEAD,
-        Date: 28 / 7 / 2020,
+        Date: 2020/7/28,
         precioReventa: 15,
     },
     {
@@ -2222,11 +2223,11 @@ const data = [
         description:
             " Cuphead es un juego de acción clásico estilo 'dispara y corre' que se centra en combates contra el jefe. Inspirado en los dibujos animados de los años 30, los aspectos visual y sonoro están diseñados con esmero empleando las mismas técnicas de la época, es decir, animación tradicional a mano, fondos de acuarela y grabaciones originales de jazz.",
         price: 39900,
-        secondaryPrice: 38900,
+        secondaryPrice: 39900,
         offerPrice: 25900,
         image: CUPHEAD,
         imageDetails: DETAILS_CUPHEAD,
-        Date: 28 / 7 / 2020,
+        Date: 2020/7/28,
         precioReventa: 15,
     },
     {
@@ -2241,7 +2242,7 @@ const data = [
         offerPrice: 39900,
         image: CUPHEAD_2,
         imageDetails: DETAILS_CUPHEAD_2,
-        Date: 28 / 7 / 2020,
+        Date: 2020/7/28,
         precioReventa: 30,
     },
     {
@@ -2256,7 +2257,7 @@ const data = [
         offerPrice: 39900,
         image: CUPHEAD_2,
         imageDetails: DETAILS_CUPHEAD_2,
-        Date: 28 / 7 / 2020,
+        Date: 2020/7/28,
         precioReventa: 30,
     },
     {
@@ -2268,10 +2269,10 @@ const data = [
             " ¡Uno de los títulos más vendidos de 2015 se hace XL! Kompleta la experiencia Mortal Kombat X con contenidos nuevos y material ya existente. Incluye el juego principal y nuevos personajes para llevar, como Alien, Leatherface, Triborg y Bo' Rai Cho. Entre los personajes que ya se habían lanzado con anterioridad tenemos a Predator, Jason Voorhees, Tremor, Tanya y Goro. Incluye también el nuevo pack de aspectos, llamado Apocalipsis.",
         price: 25900,
         secondaryPrice: 14900,
-        offerPrice: 14900,
+        offerPrice: 19900,
         image: MK_XL,
         imageDetails: DETAILS_MKXL,
-        Date: 1 / 3 / 2016,
+        Date: 2016/3/1,
         precioReventa: 10,
     },
     {
@@ -2282,11 +2283,11 @@ const data = [
         description:
             " ¡Uno de los títulos más vendidos de 2015 se hace XL! Kompleta la experiencia Mortal Kombat X con contenidos nuevos y material ya existente. Incluye el juego principal y nuevos personajes para llevar, como Alien, Leatherface, Triborg y Bo' Rai Cho. Entre los personajes que ya se habían lanzado con anterioridad tenemos a Predator, Jason Voorhees, Tremor, Tanya y Goro. Incluye también el nuevo pack de aspectos, llamado Apocalipsis.",
         price: 29900,
-        secondaryPrice: 28900,
+        secondaryPrice: 29900,
         offerPrice: 19900,
         image: CRASH_INSANE_TRILOGY,
         imageDetails: DETAILS_CRASH_TRILOGY,
-        Date: 30 / 6 / 2017,
+        Date: 2017/6/30,
         precioReventa: 20,
     },
     {
@@ -2296,12 +2297,12 @@ const data = [
         gender: "Accion",
         description:
             " ¡Uno de los títulos más vendidos de 2015 se hace XL! Kompleta la experiencia Mortal Kombat X con contenidos nuevos y material ya existente. Incluye el juego principal y nuevos personajes para llevar, como Alien, Leatherface, Triborg y Bo' Rai Cho. Entre los personajes que ya se habían lanzado con anterioridad tenemos a Predator, Jason Voorhees, Tremor, Tanya y Goro. Incluye también el nuevo pack de aspectos, llamado Apocalipsis.",
-        price: 19900,
-        secondaryPrice: 18900,
+        price: 29900,
+        secondaryPrice: 29900,
         offerPrice: 19900,
         image: CRASH_INSANE_TRILOGY,
         imageDetails: DETAILS_CRASH_TRILOGY,
-        Date: 30 / 6 / 2017,
+        Date: 2017/6/30,
         precioReventa: 20,
     },
     {
@@ -2311,13 +2312,12 @@ const data = [
         gender: "Deportes",
         description:
             " WWE 2K24 tiene una lista de estrellas con leyendas de la WWE como 'Stone Cold' Steve Austin, Undertaker y Andre El Gigante, con superestrellas actuales de la WWE como 'La Pesadilla americana' Cody Rhodes, John Cena, Rhea Ripley y Roman Reigns, cuyos movimientos característicos se realzan por unos gráficos ultrarrealistas.",
-        price: 53900,
-        secondaryPrice: 53900,
-        offerPrice: 45900,
-        offersecondaryPrice: 29900,
+        price: 73900,
+        secondaryPrice: 29900,
+        offerPrice: 49900,
         image: W2K24,
         imageDetails: DETAILS_WWE_2K24,
-        Date: 8 / 3 / 2024,
+        Date: 2024/3/8,
         precioReventa: 45,
     },
     {
@@ -2327,12 +2327,12 @@ const data = [
         gender: "Deportes",
         description:
             " WWE 2K24 tiene una lista de estrellas con leyendas de la WWE como 'Stone Cold' Steve Austin, Undertaker y Andre El Gigante, con superestrellas actuales de la WWE como 'La Pesadilla americana' Cody Rhodes, John Cena, Rhea Ripley y Roman Reigns, cuyos movimientos característicos se realzan por unos gráficos ultrarrealistas.",
-        price: 53900,
-        secondaryPrice: 53900,
+        price: 73900,
+        secondaryPrice: 73900,
         offerPrice: 39900,
         image: W2K24,
         imageDetails: DETAILS_WWE_2K24,
-        Date: 8 / 3 / 2024,
+        Date: 2024/3/8,
         precioReventa: 45,
     },
     {
@@ -2347,7 +2347,7 @@ const data = [
         offerPrice: 0,
         image: RE_4_ORIGINAL,
         imageDetails: RE_4_ORIGINAL,
-        Date: 30 / 8 / 2016,
+        Date: 2016/8/30,
         precioReventa: 12,
     },
     {
@@ -2358,11 +2358,11 @@ const data = [
         description:
             "Incluye la misión de la Tienda de Hogsmeade encantada, que te da acceso a una mazmorra adicional, el set cosmético del Comerciante y una tienda de Hogsmeade en el juego.Hogwarts Legacy es un RPG de acción en un mundo abierto ambientado en el universo de los libros de Harry Potter. Embárcate en una aventura que te llevará por lugares nuevos y conocidos, mientras descubres animales mágicos, personalizas tu personaje, elaboras pociones, dominas hechizos, mejoras tus talentos y te conviertes en el mago que siempre has querido ser.",
         price: 75900,
-        secondaryPrice: 75900,
+        secondaryPrice: 29900,
         offerPrice: 45900,
         image: HOGWARTS_LEGACY,
         imageDetails: DETAILS_HOGWARTS_LEGACY,
-        Date: 10 / 2 / 2023,
+        Date: 2023/2/10,
         precioReventa: 35,
     },
     {
@@ -2377,7 +2377,7 @@ const data = [
         offerPrice: 39900,
         image: HOGWARTS_LEGACY,
         imageDetails: DETAILS_HOGWARTS_LEGACY,
-        Date: 10 / 2 / 2023,
+        Date: 2023/2/10,
         precioReventa: 35,
     },
     {
@@ -2388,11 +2388,11 @@ const data = [
         description:
             "Te damos la bienvenida al condado de Hope (Montana), la tierra de los libres y valientes, pero también el hogar de una secta apocalíptica llena de fanáticos. Enfréntate a su líder, Joseph Seed, y sus hermanos, los Heraldos, para prender la mecha de la resistencia y liberar a la comunidad asediada.",
         price: 39900,
-        secondaryPrice: 38900,
-        offerPrice: 12900,
+        secondaryPrice: 14900,
+        offerPrice: 19900,
         image: FARCRY_5,
         imageDetails: DETAILS_FARCRY5,
-        Date: 10 / 2 / 2023,
+        Date: 2018/3/27,
         precioReventa: 15,
     },
     {
@@ -2403,16 +2403,16 @@ const data = [
         description:
             "Cinco años después de aquel peligroso viaje por un Estados Unidos que ha sido azotado por una pandemia, Ellie y Joel echaron raíces en Jackson, Wyoming. Vivir en una comunidad próspera de supervivientes les dio paz y estabilidad a pesar de la amenaza constante de los infectados y de otros supervivientes más desesperados. Cuando un evento violento altera la paz, Ellie emprende un viaje incansable en busca de justicia y de encontrar un cierre. Mientras caza uno a uno a los responsables, deberá enfrentar las devastadoras consecuencias físicas y emocionales de sus acciones.",
         price: 59900,
-        secondaryPrice: 58900,
-        offerPrice: 29900,
+        secondaryPrice: 29900,
+        offerPrice: 39900,
         image: THE_LAST_OF_US_PART_2,
         imageDetails: DETAILS_THELASTOFUS2,
-        Date: 19 / 6 / 2020,
+        Date: 2020/6/19,
         precioReventa: 28,
     },
     {
         id: 40,
-        title: "The Last of Us Part II",
+        title: "The Last of Us Part II Retro",
         category: "PS5",
         gender: "Accion",
         description:
@@ -2422,7 +2422,7 @@ const data = [
         offerPrice: 29900,
         image: THE_LAST_OF_US_PART_2,
         imageDetails: DETAILS_THELASTOFUS2,
-        Date: 19 / 6 / 2020,
+        Date: 2020/6/19,
         precioReventa: 28,
     },
     {
@@ -2437,7 +2437,7 @@ const data = [
         offerPrice: 49900,
         image: ELDER_RING,
         imageDetails: DETAILS_ELDER_RING,
-        Date: 25 / 2 / 2022,
+        Date: 2022/2/25,
         precioReventa: 39,
     },
     {
@@ -2452,7 +2452,7 @@ const data = [
         offerPrice: 49900,
         image: ELDER_RING,
         imageDetails: DETAILS_ELDER_RING,
-        Date: 25 / 2 / 2022,
+        Date: 2022/2/25,
         precioReventa: 39,
     },
     {
@@ -2467,7 +2467,7 @@ const data = [
         offerPrice: 29900,
         image: MOTOGP_24,
         imageDetails: DETAILS_MOTOGP_24,
-        Date: 2 / 5 / 2024,
+        Date: 2024/5/2,
         precioReventa: 30,
     },
     {
@@ -2482,7 +2482,7 @@ const data = [
         offerPrice: 29900,
         image: MOTOGP_24,
         imageDetails: DETAILS_MOTOGP_24,
-        Date: 2 / 5 / 2024,
+        Date: 2024/5/2,
         precioReventa: 39,
     },
     {
@@ -2497,7 +2497,7 @@ const data = [
         offerPrice: 0,
         image: MOTOGP_22,
         imageDetails: DETAILS_MOTOGP_22,
-        Date: 8 / 6 / 2023,
+        Date: 2023/6/8,
         precioReventa: 30,
     },
     {
@@ -2512,7 +2512,7 @@ const data = [
         offerPrice: 0,
         image: MOTOGP_22,
         imageDetails: DETAILS_MOTOGP_22,
-        Date: 8 / 6 / 2023,
+        Date: 2023/6/8,
         precioReventa: 30,
     },
     {
@@ -2527,7 +2527,7 @@ const data = [
         offerPrice: 0,
         image: PROJECT_CARS_3,
         imageDetails: DETAILS_PROJECT_CARS_3,
-        Date: 28 / 8 / 2020,
+        Date: 2020/8/28,
         precioReventa: 35,
     },
     {
@@ -2542,7 +2542,7 @@ const data = [
         offerPrice: 0,
         image: PROJECT_CARS_3,
         imageDetails: DETAILS_PROJECT_CARS_3,
-        Date: 28 / 8 / 2020,
+        Date: 2020/8/28,
         precioReventa: 35,
     },
     {
@@ -2554,10 +2554,10 @@ const data = [
             "Para celebrar el 50.º aniversario del campeonato, WRC 10 ofrece una nueva edición Aniversario, repleta de nuevos contenidos y sensaciones. ¡Revive los momentos más intensos desde 1973 hasta hoy! El modo Historia de WRC 10 pone a prueba tus habilidades como piloto a través de 19 eventos históricos que requieren una adaptación a las condiciones de la competición en cada periodo histórico.",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 39900,
+        offerPrice: 29900,
         image: WRC_10,
         imageDetails: DETAILS_WRC10,
-        Date: 7 / 9 / 2021,
+        Date: 2021/9/7,
         precioReventa: 25,
     },
     {
@@ -2569,10 +2569,10 @@ const data = [
             "Para celebrar el 50.º aniversario del campeonato, WRC 10 ofrece una nueva edición Aniversario, repleta de nuevos contenidos y sensaciones. ¡Revive los momentos más intensos desde 1973 hasta hoy! El modo Historia de WRC 10 pone a prueba tus habilidades como piloto a través de 19 eventos históricos que requieren una adaptación a las condiciones de la competición en cada periodo histórico.",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 39900,
+        offerPrice: 29900,
         image: WRC_10,
         imageDetails: DETAILS_WRC10,
-        Date: 7 / 9 / 2021,
+        Date: 2021/9/7,
         precioReventa: 25,
     },
     {
@@ -2587,7 +2587,7 @@ const data = [
         offerPrice: 10900,
         image: GOW_REMASTERED,
         imageDetails: DETAILS_GOW_REMASTERED,
-        Date: 20 / 4 / 2018,
+        Date: 2018/4/20,
         precioReventa: 12,
     },
     {
@@ -2602,7 +2602,7 @@ const data = [
         offerPrice: 0,
         image: THE_LAST_OF_US_REMASTERED,
         imageDetails: DETAILS_THELASTOFUS_REMASTERED,
-        Date: 21 / 7 / 2014,
+        Date: 2014/7/21,
         precioReventa: 15,
     },
     {
@@ -2612,12 +2612,12 @@ const data = [
         gender: "Accion",
         description:
             "¡Revive la historia de Goku y otros guerreros Z en DRAGON BALL Z: KAKAROT! Además de épicas batallas, experimenta la vida en el mundo de DRAGON BALL Z mientras peleas, pescas, comes y entrenas con Goku, Gohan, Vegeta y los demás. Explora las nuevas zonas y aventuras a medida que avanzas en la historia y formas poderosos lazos con otros héroes del universo de DRAGON BALL Z.",
-        price: 34900,
-        secondaryPrice: 29900,
-        offerPrice: 19900,
+        price: 44900,
+        secondaryPrice: 19900,
+        offerPrice: 29900,
         image: DBZ_KAKAROT,
         imageDetails: DETAILS_DBZ_KAKAROT,
-        Date: 13 / 1 / 2023,
+        Date: 2023/1/13,
         precioReventa: 25,
     },
     {
@@ -2629,10 +2629,10 @@ const data = [
             "¡Revive la historia de Goku y otros guerreros Z en DRAGON BALL Z: KAKAROT! Además de épicas batallas, experimenta la vida en el mundo de DRAGON BALL Z mientras peleas, pescas, comes y entrenas con Goku, Gohan, Vegeta y los demás. Explora las nuevas zonas y aventuras a medida que avanzas en la historia y formas poderosos lazos con otros héroes del universo de DRAGON BALL Z.",
         price: 49900,
         secondaryPrice: 49900,
-        offerPrice: 12900,
+        offerPrice: 19900,
         image: DBZ_KAKAROT,
         imageDetails: DETAILS_DBZ_KAKAROT,
-        Date: 13 / 1 / 2023,
+        Date: 2023/1/13,
         precioReventa: 25,
     },
     {
@@ -2647,7 +2647,7 @@ const data = [
         offerPrice: 12900,
         image: ARK,
         imageDetails: DETAILS_ARK,
-        Date: 12 / 6 / 2017,
+        Date: 2017/6/12,
         precioReventa: 9,
     },
     {
@@ -2662,7 +2662,7 @@ const data = [
         offerPrice: 12900,
         image: DOOM,
         imageDetails: DETAILS_DOOM,
-        Date: 13 / 5 / 2016,
+        Date: 2016/5/13,
         precioReventa: 12,
     },
     {
@@ -2677,7 +2677,7 @@ const data = [
         offerPrice: 19900,
         image: TOM_CLANCY_GHOST_RECON_BREAKPOINT,
         imageDetails: DETAILS_TOMCLANCY_GHOSTRECON,
-        Date: 4 / 10 / 2019,
+        Date: 2019/10/4,
         precioReventa: 30,
     },
     {
@@ -2692,7 +2692,7 @@ const data = [
         offerPrice: 19900,
         image: TOM_CLANCY_GHOST_RECON_BREAKPOINT,
         imageDetails: DETAILS_TOMCLANCY_GHOSTRECON,
-        Date: 4 / 10 / 2019,
+        Date: 2019/10/4,
         precioReventa: 30,
     },
     {
@@ -2707,7 +2707,7 @@ const data = [
         offerPrice: 19900,
         image: NARUTO_SHIPUDEN_STORM_4,
         imageDetails: DETAILS_NARUTO_SHIPUDEN_NINJA_STORM,
-        Date: 3 / 0o2 / 2017,
+        Date: 2017/2/3,
         precioReventa: 25,
     },
     {
@@ -2722,7 +2722,7 @@ const data = [
         offerPrice: 19900,
         image: NARUTO_SHIPUDEN_STORM_4,
         imageDetails: DETAILS_NARUTO_SHIPUDEN_NINJA_STORM,
-        Date: 3 / 0o2 / 2017,
+        Date: 2017/2/3,
         precioReventa: 25,
     },
     {
@@ -2737,7 +2737,7 @@ const data = [
         offerPrice: 29900,
         image: CYBERPUNK,
         imageDetails: DETAILS_CYBERPUNK,
-        Date: 15 / 2 / 2022,
+        Date: 2022/2/15,
         precioReventa: 25,
     },
     {
@@ -2767,7 +2767,7 @@ const data = [
         offerPrice: 0,
         image: LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA,
         imageDetails: AA,
-        Date: 10 / 10 / 2017,
+        Date: 2017/10/10,
         precioReventa: 15,
     },
     {
@@ -2777,12 +2777,12 @@ const data = [
         gender: "Carreras",
         description:
             "Un nuevo capítulo del emocionante modo historia Braking Point ofrece drama a alta velocidad y rivalidades intensas. Compite rueda a rueda en los nuevos circuitos de Las Vegas y Qatar, y gana recompensas y mejoras en F1 World. Las nuevas banderas rojas agregan un auténtico elemento estratégico y la característica de carreras al 35% de distancia te otorga más acción y emoción. Maneja los autos actualizados del 2023 con la alineación oficial de F1 de tus 20 pilotos y 10 equipos favoritos.",
-        price: 59900,
-        secondaryPrice: 59900,
-        offerPrice: 0,
+        price: 69900,
+        secondaryPrice: 69900,
+        offerPrice: 39900,
         image: F23,
         imageDetails: DETAILS_F1_23,
-        Date: 16 / 6 / 2023,
+        Date: 2023/6/16,
         precioReventa: 30,
     },
     {
@@ -2792,12 +2792,12 @@ const data = [
         gender: "Carreras",
         description:
             "Un nuevo capítulo del emocionante modo historia 'Braking Point' ofrece drama a alta velocidad y rivalidades intensas. Compite rueda a rueda en los nuevos circuitos de Las Vegas y Qatar, y gana recompensas y mejoras en F1 World. Las nuevas banderas rojas agregan un auténtico elemento estratégico y la característica de carreras al 35% de distancia te otorga más acción y emoción. Maneja los autos actualizados del 2023 con la alineación oficial de F1 de tus 20 pilotos y 10 equipos favoritos.",
-        price: 59900,
-        secondaryPrice: 59900,
-        offerPrice: 0,
+        price: 69900,
+        secondaryPrice: 69900,
+        offerPrice: 39900,
         image: F23,
         imageDetails: DETAILS_F1_23,
-        Date: 16 / 6 / 2023,
+        Date: 2023/6/16,
         precioReventa: 30,
     },
     {
@@ -2809,10 +2809,10 @@ const data = [
             "¡Vuelve el padre de los shooter-looter con miles de armas y una aventura caótica! Ábrete paso por nuevos mundos y enemigos con uno de los cuatro buscacámaras nuevos. Juega solo o con amigos para eliminar enemigos dementes, obtener un montón de botín y salvar tu hogar de la secta más cruel de la galaxia.",
         price: 53400,
         secondaryPrice: 53400,
-        offerPrice: 18900,
+        offerPrice: 19900,
         image: BORDERLANDS_3,
         imageDetails: DETAILS_BORDERLANDS_3,
-        Date: 12 / 11 / 2020,
+        Date: 2020/11/12,
         precioReventa: 25,
     },
     {
@@ -2824,10 +2824,10 @@ const data = [
             "¡Vuelve el padre de los shooter-looter con miles de armas y una aventura caótica! Ábrete paso por nuevos mundos y enemigos con uno de los cuatro buscacámaras nuevos. Juega solo o con amigos para eliminar enemigos dementes, obtener un montón de botín y salvar tu hogar de la secta más cruel de la galaxia.",
         price: 53900,
         secondaryPrice: 53800,
-        offerPrice: 18900,
+        offerPrice: 19900,
         image: BORDERLANDS_3,
         imageDetails: DETAILS_BORDERLANDS_3,
-        Date: 12 / 11 / 2020,
+        Date: 2020/11/12,
         precioReventa: 25,
     },
     {
@@ -2839,10 +2839,10 @@ const data = [
             "Lodo, sudor, adrenalina y diversión: ¡descubre al piloto que hay en ti y salta a la acción con Monster Energy Supercross 6!Vive todas las emociones del campeonato Monster Energy Supercross 2022 con las motos, pilotos y pistas oficiales.Aprovecha la amplia variedad de ajustes para personalizar cada detalle de tu experiencia de juego, eligiendo a tu gusto la cantidad de realismo y la facilidad de conducción. Este año Supercross 6 adoptará una perspectiva totalmente nueva y única: ¡la tuya!",
         price: 49900,
         secondaryPrice: 49900,
-        offerPrice: 29900,
+        offerPrice: 19900,
         image: SUPERCROSS_6,
         imageDetails: DETAILS_SUPERCROSS_6,
-        Date: 9 / 3 / 2023,
+        Date: 2023/3/9,
         precioReventa: 25,
     },
     {
@@ -2854,10 +2854,10 @@ const data = [
             "Lodo, sudor, adrenalina y diversión: ¡descubre al piloto que hay en ti y salta a la acción con Monster Energy Supercross 6!Vive todas las emociones del campeonato Monster Energy Supercross 2022 con las motos, pilotos y pistas oficiales.Aprovecha la amplia variedad de ajustes para personalizar cada detalle de tu experiencia de juego, eligiendo a tu gusto la cantidad de realismo y la facilidad de conducción. Este año Supercross 6 adoptará una perspectiva totalmente nueva y única: ¡la tuya!",
         price: 49900,
         secondaryPrice: 49900,
-        offerPrice: 29900,
+        offerPrice: 19900,
         image: SUPERCROSS_6,
         imageDetails: DETAILS_SUPERCROSS_6,
-        Date: 9 / 3 / 2023,
+        Date: 2023/3/9,
         precioReventa: 25,
     },
     {
@@ -2872,7 +2872,7 @@ const data = [
         offerPrice: 0,
         image: NBA_2K23,
         imageDetails: DETAILS_NBA2K23,
-        Date: 9 / 9 / 2022,
+        Date: 2022/9/9,
         precioReventa: 30,
     },
     {
@@ -2887,7 +2887,7 @@ const data = [
         offerPrice: 0,
         image: NBA_2K23,
         imageDetails: DETAILS_NBA2K23,
-        Date: 9 / 9 / 2022,
+        Date: 2022/9/9,
         precioReventa: 30,
     },
     {
@@ -2898,11 +2898,11 @@ const data = [
         description:
             "Funciones ampliadas, magníficos gráficos y la mejor experiencia WWE. ¡Sube al ring con una gran lista de superestrellas y leyendas de la WWE, incluidos Roman Reigns, 'American Nightmare' Cody Rhodes, Ronda Rousey, Brock Lesnar, 'Stone Cold' Steve Austin y más!",
         price: 59900,
-        secondaryPrice: 58900,
+        secondaryPrice: 29900,
         offerPrice: 0,
         image: W2K23,
         imageDetails: DETAILS_WWE_2K23,
-        Date: 17 / 3 / 2023,
+        Date: 2023/3/17,
         precioReventa: 30,
     },
     {
@@ -2917,7 +2917,7 @@ const data = [
         offerPrice: 0,
         image: W2K23,
         imageDetails: DETAILS_WWE_2K23,
-        Date: 17 / 3 / 2023,
+        Date: 2023/3/17,
         precioReventa: 30,
     },
     {
@@ -2932,7 +2932,7 @@ const data = [
         offerPrice: 0,
         image: GOW_REMASTERED,
         imageDetails: DETAILS_GOW_REMASTERED,
-        Date: 14 / 7 / 2015,
+        Date: 2015/7/14,
         precioReventa: 12,
     },
     {
@@ -2947,7 +2947,7 @@ const data = [
         offerPrice: 0,
         image: TOM_CLANCY_GHOST_RECON_WILDLANDS,
         imageDetails: DETAILS_TOMCLANCY_GHOSTRECON_WILDLANDS,
-        Date: 7 / 3 / 2017,
+        Date: 2017/3/7,
         precioReventa: 35,
     },
     {
@@ -2959,10 +2959,10 @@ const data = [
             "Arma tu equipo y vive el pasado, el presente y el futuro de la cultura del baloncesto en NBA 2K24. Disfruta de una experiencia auténtica y completa con opciones personalizadas ilimitadas de MyPLAYER, en MyCAREER. Colecciona una gran variedad de leyendas y arma tu alineación ideal en MyTEAM. Siente una mayor respuesta en el juego y disfruta de visuales mejoradas mientras juegas con tus equipos favoritos de la NBA y la WNBA en JUEGA AHORA.",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 19900,
+        offerPrice: 15900,
         image: NBA_2K24,
         imageDetails: DETAILS_NBA2K24,
-        Date: 8 / 9 / 2023,
+        Date: 2023/9/8,
         precioReventa: 30,
     },
     {
@@ -2974,10 +2974,10 @@ const data = [
             "Arma tu equipo y vive el pasado, el presente y el futuro de la cultura del baloncesto en NBA 2K24. Disfruta de una experiencia auténtica y completa con opciones personalizadas ilimitadas de MyPLAYER, en MyCAREER. Colecciona una gran variedad de leyendas y arma tu alineación ideal en MyTEAM. Siente una mayor respuesta en el juego y disfruta de visuales mejoradas mientras juegas con tus equipos favoritos de la NBA y la WNBA en JUEGA AHORA.",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 19900,
+        offerPrice: 15900,
         image: NBA_2K24,
         imageDetails: DETAILS_NBA2K24,
-        Date: 8 / 9 / 2023,
+        Date: 2023/9/8,
         precioReventa: 30,
     },
     {
@@ -2992,7 +2992,7 @@ const data = [
         offerPrice: 59900,
         image: ALAN_WAKE_2,
         imageDetails: DETAILS_ALANWAKE2,
-        Date: 27 / 10 / 2023,
+        Date: 2023/10/27,
         precioReventa: 45,
     },
     {
@@ -3007,7 +3007,7 @@ const data = [
         offerPrice: 49900,
         image: ROBOCOP_ROGUE_CITY,
         imageDetails: DETAILS_ROBOCOP,
-        Date: 2 / 11 / 2023,
+        Date: 2023/11/2,
         precioReventa: 40,
     },
     {
@@ -3022,7 +3022,7 @@ const data = [
         offerPrice: 0,
         image: NFS,
         imageDetails: DETAILS_NFS,
-        Date: 3 / 11 / 2015,
+        Date: 2015/11/3,
         precioReventa: 12,
     },
     {
@@ -3037,7 +3037,7 @@ const data = [
         offerPrice: 49900,
         image: THE_CREW_MOTORFEST,
         imageDetails: DETAILS_THE_CREW_MOTORFEST,
-        Date: 13 / 9 / 2023,
+        Date: 2023/9/13,
         precioReventa: 35,
     },
     {
@@ -3052,7 +3052,7 @@ const data = [
         offerPrice: 49900,
         image: THE_CREW_MOTORFEST,
         imageDetails: DETAILS_THE_CREW_MOTORFEST,
-        Date: 13 / 9 / 2023,
+        Date: 2023/9/13,
         precioReventa: 35,
     },
     {
@@ -3067,7 +3067,7 @@ const data = [
         offerPrice: 9900,
         image: PLANTS_VS_ZOMBIES_GARDEN_WARFARE,
         imageDetails: PLANTS_VS_ZOMBIES_GARDEN_WARFARE,
-        Date: 23 / 2 / 2016,
+        Date: 2016/2/23,
         precioReventa: 12,
     },
     {
@@ -3082,7 +3082,7 @@ const data = [
         offerPrice: 29900,
         image: JURASSIC_PARK_EVOLUTION_2,
         imageDetails: DETAILS_JURASSIC_WORLD_EVOLUTION_2,
-        Date: 12 / 6 / 2018,
+        Date: 2018/6/12,
         precioReventa: 30,
     },
     {
@@ -3097,7 +3097,7 @@ const data = [
         offerPrice: 29900,
         image: JURASSIC_PARK_EVOLUTION_2,
         imageDetails: DETAILS_JURASSIC_WORLD_EVOLUTION_2,
-        Date: 12 / 6 / 2018,
+        Date: 2018/6/12,
         precioReventa: 30,
     },
     {
@@ -3112,7 +3112,7 @@ const data = [
         offerPrice: 29900,
         image: FIVE_NIGHTS_AT_FREDDYS,
         imageDetails: DETAILS_FIVE_NIGHTS_AT_FREDDYS,
-        Date: 16 / 12 / 2021,
+        Date: 2021/12/16,
         precioReventa: 25,
     },
     {
@@ -3127,7 +3127,7 @@ const data = [
         offerPrice: 29900,
         image: FIVE_NIGHTS_AT_FREDDYS,
         imageDetails: DETAILS_FIVE_NIGHTS_AT_FREDDYS,
-        Date: 16 / 12 / 2021,
+        Date: 2021/12/16,
         precioReventa: 25,
     },
     {
@@ -3142,7 +3142,7 @@ const data = [
         offerPrice: 9900,
         image: SEVEN_DAYS_TO_DIE,
         imageDetails: DETAILS_SEVEN_DAYS_TO_DIE,
-        Date: 28 / 6 / 2016,
+        Date: 2016/6/28,
         precioReventa: 18,
     },
     {
@@ -3157,7 +3157,7 @@ const data = [
         offerPrice: 9900,
         image: ASEMBLANCE,
         imageDetails: DETAILS_ASEMBLANCE,
-        Date: 25 / 7 / 2016,
+        Date: 2016/7/25,
         precioReventa: 6,
     },
     {
@@ -3172,7 +3172,7 @@ const data = [
         offerPrice: 9900,
         image: ASSASINS_UNITY,
         imageDetails: DETAILS_ASSASINSCREED_UNITY,
-        Date: 11 / 11 / 2014,
+        Date: 2014/11/11,
         precioReventa: 10,
     },
     {
@@ -3187,7 +3187,7 @@ const data = [
         offerPrice: 39900,
         image: ASSASINS_MIRAGE,
         imageDetails: DETAILS_ASSASINSCREED_MIRAGE,
-        Date: 4 / 10 / 2023,
+        Date: 2023/10/4,
         precioReventa: 29,
     },
     {
@@ -3202,7 +3202,7 @@ const data = [
         offerPrice: 39900,
         image: ASSASINS_MIRAGE,
         imageDetails: DETAILS_ASSASINSCREED_MIRAGE,
-        Date: 4 / 10 / 2023,
+        Date: 2023/10/4,
         precioReventa: 29,
     },
     {
@@ -3217,7 +3217,7 @@ const data = [
         offerPrice: 39900,
         image: ASSASINS_VALHALLA,
         imageDetails: DETAILS_ASSASINSCREED_VALHALLA,
-        Date: 10 / 3 / 2022,
+        Date: 2022/3/10,
         precioReventa: 39,
     },
     {
@@ -3232,7 +3232,7 @@ const data = [
         offerPrice: 39900,
         image: ASSASINS_VALHALLA,
         imageDetails: DETAILS_ASSASINSCREED_VALHALLA,
-        Date: 10 / 3 / 2022,
+        Date: 2022/3/10,
         precioReventa: 39,
     },
     {
@@ -3244,25 +3244,25 @@ const data = [
             "ASSASSIN’S CREED® ORIGINS ES UN NUEVO COMIENZOEl antiguo Egipto, una tierra de grandeza e intriga, está desapareciendo por una fiera lucha por poder. Devela los secretos oscuros y mitos olvidados mientras revives el momento de la fundación de la hermandad de los asesinos.",
         price: 36900,
         secondaryPrice: 36900,
-        offerPrice: 14000,
+        offerPrice: 18000,
         image: ASSASINS_ORIGINS,
         imageDetails: DETAILS_ASSASINSCREED_ORIGINS,
-        Date: 27 / 10 / 2017,
+        Date: 2017/10/27,
         precioReventa: 14,
     },
     {
         id: 97,
-        title: "Assassin’s Creed Origins",
+        title: "Assassin’s Creed Origins Retro",
         category: "PS5",
         gender: "Accion",
         description:
             "ASSASSIN’S CREED® ORIGINS ES UN NUEVO COMIENZOEl antiguo Egipto, una tierra de grandeza e intriga, está desapareciendo por una fiera lucha por poder. Devela los secretos oscuros y mitos olvidados mientras revives el momento de la fundación de la hermandad de los asesinos.",
         price: 36900,
         secondaryPrice: 36900,
-        offerPrice: 14000,
+        offerPrice: 18000,
         image: ASSASINS_ORIGINS,
         imageDetails: DETAILS_ASSASINSCREED_ORIGINS,
-        Date: 27 / 10 / 2017,
+        Date: 2017/10/27,
         precioReventa: 14,
     },
     {
@@ -3277,7 +3277,7 @@ const data = [
         offerPrice: 12900,
         image: ASSASINS_SINDICATE,
         imageDetails: DETAILS_ASSASINSCREED_SINDICATE,
-        Date: 23 / 10 / 2015,
+        Date: 2015/10/23,
         precioReventa: 18,
     },
     {
@@ -3292,7 +3292,7 @@ const data = [
         offerPrice: 15900,
         image: BATMAN_ARKHAM_KNIGHT,
         imageDetails: DETAILS_BATMAN_ARKHAM_NIGHT,
-        Date: 23 / 6 / 2015,
+        Date: 2015/6/23,
         precioReventa: 10,
     },
     {
@@ -3307,12 +3307,12 @@ const data = [
         offerPrice: 15900,
         image: BATTLEFIELD_1_REVOLUTION,
         imageDetails: DETAILS_BATTLEFIELD_1,
-        Date: 21 / 8 / 2017,
+        Date: 2017/8/21,
         precioReventa: 15,
     },
     {
         id: 101,
-        title: "Battlefield 1 Revolution",
+        title: "Battlefield 1 Revolution Retro ",
         category: "PS5",
         gender: "Accion",
         description:
@@ -3322,7 +3322,7 @@ const data = [
         offerPrice: 15900,
         image: BATTLEFIELD_1_REVOLUTION,
         imageDetails: DETAILS_BATTLEFIELD_1,
-        Date: 21 / 8 / 2017,
+        Date: 2017/8/21,
         precioReventa: 15,
     },
     {
@@ -3337,7 +3337,7 @@ const data = [
         offerPrice: 7000,
         image: BATTLEFIELD_4,
         imageDetails: DETAILS_BATTLEFIELD_4,
-        Date: 29 / 11 / 2013,
+        Date: 2013/11/29,
         precioReventa: 12,
     },
     {
@@ -3352,12 +3352,12 @@ const data = [
         offerPrice: 14000,
         image: BATTLEFIELD_5,
         imageDetails: DETAILS_BATTLEFIELD_5,
-        Date: 20 / 11 / 2018,
+        Date: 2018/11/20,
         precioReventa: 25,
     },
     {
         id: 104,
-        title: "Battlefield V",
+        title: "Battlefield V Retro",
         category: "PS5",
         gender: "Accion",
         description:
@@ -3367,7 +3367,7 @@ const data = [
         offerPrice: 14000,
         image: BATTLEFIELD_5,
         imageDetails: DETAILS_BATTLEFIELD_5,
-        Date: 20 / 11 / 2018,
+        Date: 2018/11/20,
         precioReventa: 25,
     },
     {
@@ -3382,7 +3382,7 @@ const data = [
         offerPrice: 7000,
         image: BATTLEFIELD_HARDLINE,
         imageDetails: DETAILS_BATTLEFRONT_HARDLINE,
-        Date: 17 / 3 / 2015,
+        Date: 2015/3/17,
         precioReventa: 15,
     },
     {
@@ -3397,7 +3397,7 @@ const data = [
         offerPrice: 9500,
         image: STARWARS_BATTLEFRONT,
         imageDetails: DETAILS_STAR_WARS_BATTLEFRONT,
-        Date: 16 / 11 / 2015,
+        Date: 2015/11/16,
         precioReventa: 10,
     },
     {
@@ -3412,7 +3412,7 @@ const data = [
         offerPrice: 12000,
         image: STARWARS_BATTLEFRONT_2,
         imageDetails: DETAILS_STAR_WARS_BATTLEFRONT_2,
-        Date: 17 / 11 / 2017,
+        Date: 2017/11/17,
         precioReventa: 12,
     },
     {
@@ -3427,12 +3427,12 @@ const data = [
         offerPrice: 19900,
         image: COD_BLACK_OPS_4,
         imageDetails: DETAILS_COD_BLACK_OPS_4,
-        Date: 30 / 4 / 2019,
+        Date: 2019/4/30,
         precioReventa: 25,
     },
     {
         id: 109,
-        title: "Call of Duty: Black Ops 4",
+        title: "Call of Duty: Black Ops 4 Retro",
         category: "PS5",
         gender: "Accion",
         description:
@@ -3442,7 +3442,7 @@ const data = [
         offerPrice: 19900,
         image: COD_BLACK_OPS_4,
         imageDetails: DETAILS_COD_BLACK_OPS_4,
-        Date: 30 / 4 / 2019,
+        Date: 2019/4/30,
         precioReventa: 25,
     },
     {
@@ -3457,12 +3457,12 @@ const data = [
         offerPrice: 18900,
         image: COD_BLACK_OPS_3,
         imageDetails: DETAILS_COD_BLACK_OPS_3,
-        Date: 29 / 8 / 2017,
+        Date: 2017/8/29,
         precioReventa: 20,
     },
     {
         id: 111,
-        title: "Call of Duty: Black Ops 3",
+        title: "Call of Duty: Black Ops 3 Retro",
         category: "PS5",
         gender: "Accion",
         description:
@@ -3472,7 +3472,7 @@ const data = [
         offerPrice: 9900,
         image: COD_BLACK_OPS_3,
         imageDetails: DETAILS_COD_BLACK_OPS_3,
-        Date: 29 / 8 / 2017,
+        Date: 2017/8/29,
         precioReventa: 20,
     },
     {
@@ -3487,7 +3487,7 @@ const data = [
         offerPrice: 19900,
         image: BLOODBORNE,
         imageDetails: DETAILS_BLOODBORNE,
-        Date: 24 / 3 / 2015,
+        Date: 2015/3/24,
         precioReventa: 25,
     },
     {
@@ -3502,7 +3502,7 @@ const data = [
         offerPrice: 19900,
         image: BOB_ESPONJA,
         imageDetails: DETAILS_BOB_ESPONJA,
-        Date: 7 / 5 / 2019,
+        Date: 2019/5/7,
         precioReventa: 20,
     },
     {
@@ -3517,12 +3517,12 @@ const data = [
         offerPrice: 19900,
         image: BUS_SIMULATOR,
         imageDetails: DETAILS_BUS_SIMULATOR,
-        Date: 17 / 9 / 2019,
+        Date: 2019/9/17,
         precioReventa: 20,
     },
     {
         id: 115,
-        title: "Bus Simulator",
+        title: "Bus Simulator Retro",
         category: "PS5",
         gender: "Simulador",
         description:
@@ -3532,7 +3532,7 @@ const data = [
         offerPrice: 20900,
         image: BUS_SIMULATOR,
         imageDetails: DETAILS_BUS_SIMULATOR,
-        Date: 17 / 9 / 2019,
+        Date: 2019/9/17,
         precioReventa: 20,
     },
     {
@@ -3547,7 +3547,7 @@ const data = [
         offerPrice: 0,
         image: COD_GHOSTS_GOLD_EDITION,
         imageDetails: DETAILS_COD_GHOSTS,
-        Date: 25 / 3 / 2014,
+        Date: 2014/3/25,
         precioReventa: 35,
     },
     {
@@ -3562,7 +3562,7 @@ const data = [
         offerPrice: 20900,
         image: COD_INFINITE_WARFARE,
         imageDetails: DETAILS_COD_INFINITE_WARFARE,
-        Date: 25 / 3 / 2014,
+        Date: 2014/3/25,
         precioReventa: 30,
     },
     {
@@ -3577,7 +3577,7 @@ const data = [
         offerPrice: 49900,
         image: COD_MW_3,
         imageDetails: DETAILS_COD_MW_3,
-        Date: 2 / 11 / 2023,
+        Date: 2023/11/2,
         precioReventa: 35,
     },
     {
@@ -3592,7 +3592,7 @@ const data = [
         offerPrice: 49900,
         image: COD_MW_3,
         imageDetails: DETAILS_COD_MW_3,
-        Date: 2 / 11 / 2023,
+        Date: 2023/11/2,
         precioReventa: 35,
     },
     {
@@ -3607,7 +3607,7 @@ const data = [
         offerPrice: 49900,
         image: COD_MW_2,
         imageDetails: DETAILS_COD_MW_2,
-        Date: 2 / 11 / 2023,
+        Date: 2022/10/28,
         precioReventa: 30,
     },
     {
@@ -3622,7 +3622,7 @@ const data = [
         offerPrice: 42900,
         image: COD_MW_2,
         imageDetails: DETAILS_COD_MW_2,
-        Date: 2 / 11 / 2023,
+        Date: 2022/10/28,
         precioReventa: 30,
     },
     {
@@ -3637,7 +3637,7 @@ const data = [
         offerPrice: 19900,
         image: COD_COLD_WAR,
         imageDetails: DETAILS_COD_COLD_WAR,
-        Date: 13 / 11 / 2020,
+        Date: 2020/11/13,
         precioReventa: 25,
     },
     {
@@ -3652,7 +3652,7 @@ const data = [
         offerPrice: 19900,
         image: COD_COLD_WAR,
         imageDetails: DETAILS_COD_COLD_WAR,
-        Date: 13 / 11 / 2020,
+        Date: 2020/11/13,
         precioReventa: 30,
     },
     {
@@ -3667,7 +3667,7 @@ const data = [
         offerPrice: 19900,
         image: COD_VANGUARD,
         imageDetails: DETAILS_COD_VANGUARD,
-        Date: 5 / 11 / 2021,
+        Date: 2021/11/5,
         precioReventa: 30,
     },
     {
@@ -3682,7 +3682,7 @@ const data = [
         offerPrice: 19900,
         image: COD_VANGUARD,
         imageDetails: DETAILS_COD_VANGUARD,
-        Date: 5 / 11 / 2021,
+        Date: 2021/11/5,
         precioReventa: 25,
     },
     {
@@ -3697,7 +3697,7 @@ const data = [
         offerPrice: 8000,
         image: CARS_3_DRIVEN_TO_WIN,
         imageDetails: DETAILS_CARS_3_DRIVEN_TO_WIN,
-        Date: 13 / 6 / 2017,
+        Date: 2017/6/13,
         precioReventa: 20,
     },
     {
@@ -3712,7 +3712,7 @@ const data = [
         offerPrice: 19900,
         image: CRASHBANDICOOT4,
         imageDetails: DETAILS_CRASH_BANDICOOT_4,
-        Date: 11 / 3 / 2021,
+        Date: 2021/3/11,
         precioReventa: 30,
     },
     {
@@ -3722,12 +3722,12 @@ const data = [
         gender: "Accion",
         description:
             "¡Ya era hora de que llegara un juego nuevo de Crash Bandicoot™! Crash se lanza de lleno con tus marsupiales favoritos a una aventura temporal que se cae a pedazos. Neo Cortex y N. Tropy regresaron a las andadas y esta vez no planean darle con todo al universo, ¡su objetivo es el multiverso entero! Crash y Coco tendrán que juntar cuatro máscaras cuánticas y trastocar las leyes de la realidad para salvar el mundo.",
-        price: 22900,
-        secondaryPrice: 22900,
+        price: 30900,
+        secondaryPrice: 30900,
         offerPrice: 19900,
         image: CRASHBANDICOOT4,
         imageDetails: DETAILS_CRASH_BANDICOOT_4,
-        Date: 11 / 3 / 2021,
+        Date: 2021/3/11,
         precioReventa: 30,
     },
     {
@@ -3742,7 +3742,7 @@ const data = [
         offerPrice: 29900,
         image: CRASH_TEAM_RUMBLE,
         imageDetails: DETAILS_CRASH_TEAM_RUMBLE,
-        Date: 20 / 6 / 2023,
+        Date: 2023/6/20,
         precioReventa: 35,
     },
     {
@@ -3757,7 +3757,7 @@ const data = [
         offerPrice: 29900,
         image: CRASH_TEAM_RUMBLE,
         imageDetails: DETAILS_CRASH_TEAM_RUMBLE,
-        Date: 20 / 6 / 2023,
+        Date: 2023/6/20,
         precioReventa: 35,
     },
     {
@@ -3772,7 +3772,7 @@ const data = [
         offerPrice: 0,
         image: DAKAR,
         imageDetails: DETAILS_DAKAR,
-        Date: 25 / 10 / 2018,
+        Date: 2018/10/25,
         precioReventa: 15,
     },
     {
@@ -3787,7 +3787,7 @@ const data = [
         offerPrice: 19900,
         image: DARK_SOULS_3,
         imageDetails: DETAILS_DARK_SOULS_3,
-        Date: 12 / 4 / 2016,
+        Date: 2016/4/12,
         precioReventa: 20,
     },
     {
@@ -3802,12 +3802,12 @@ const data = [
         offerPrice: 22900,
         image: DAYS_GONE,
         imageDetails: DETAILS_DAYS_GONE,
-        Date: 26 / 4 / 2019,
+        Date: 2019/4/26,
         precioReventa: 25,
     },
     {
         id: 134,
-        title: "Days Gone",
+        title: "Days Gone Retro",
         category: "PS5",
         gender: "Accion",
         description:
@@ -3817,7 +3817,7 @@ const data = [
         offerPrice: 22900,
         image: DAYS_GONE,
         imageDetails: DETAILS_DAYS_GONE,
-        Date: 26 / 4 / 2019,
+        Date: 2019/4/26,
         precioReventa: 25,
     },
     {
@@ -3832,7 +3832,7 @@ const data = [
         offerPrice: 39900,
         image: DEAD_ISLAND_2,
         imageDetails: DETAILS_DEAD_ISLAND_2,
-        Date: 21 / 4 / 2023,
+        Date: 2023/4/21,
         precioReventa: 30,
     },
     {
@@ -3847,7 +3847,7 @@ const data = [
         offerPrice: 39900,
         image: DEAD_ISLAND_2,
         imageDetails: DETAILS_DEAD_ISLAND_2,
-        Date: 21 / 4 / 2023,
+        Date: 2023/4/21,
         precioReventa: 30,
     },
     {
@@ -3862,7 +3862,7 @@ const data = [
         offerPrice: 0,
         image: DRAGON_AGE_INQUISITION,
         imageDetails: DETAILS_DRAGON_AGE_INQUISITION,
-        Date: 18 / 11 / 2014,
+        Date: 2014/11/18,
         precioReventa: 12,
     },
     {
@@ -3877,7 +3877,7 @@ const data = [
         offerPrice: 19900,
         image: DBZ_FIGHTER,
         imageDetails: DETAILS_DBZ_FIGHTERS,
-        Date: 29 / 2 / 2024,
+        Date: 2024/2/29,
         precioReventa: 30,
     },
     {
@@ -3892,7 +3892,7 @@ const data = [
         offerPrice: 19900,
         image: DBZ_FIGHTER,
         imageDetails: DETAILS_DBZ_FIGHTERS,
-        Date: 29 / 2 / 2024,
+        Date: 2024/2/29,
         precioReventa: 30,
     },
     {
@@ -3907,7 +3907,7 @@ const data = [
         offerPrice: 9900,
         image: DYING_LIGHT,
         imageDetails: DETAILS_DYING_LIGHT,
-        Date: 27 / 1 / 2015,
+        Date: 2015/1/27,
         precioReventa: 12,
     },
     {
@@ -3922,7 +3922,7 @@ const data = [
         offerPrice: 9900,
         image: ELITE_DANGEROUS,
         imageDetails: DETAILS_ELITE_DANGEROUS,
-        Date: 27 / 6 / 2017,
+        Date: 2017/6/27,
         precioReventa: 12,
     },
     {
@@ -3937,7 +3937,7 @@ const data = [
         offerPrice: 19900,
         image: FALLOUT_4,
         imageDetails: DETAILS_FALLOUT_4,
-        Date: 25 / 4 / 2024,
+        Date: 2024/4/25,
         precioReventa: 10,
     },
     {
@@ -3952,7 +3952,7 @@ const data = [
         offerPrice: 19900,
         image: FALLOUT_4,
         imageDetails: DETAILS_FALLOUT_4,
-        Date: 25 / 4 / 2024,
+        Date: 2024/4/25,
         precioReventa: 10,
     },
     {
@@ -3967,7 +3967,7 @@ const data = [
         offerPrice: 0,
         image: FARCRY_4,
         imageDetails: DETAILS_FARCRY_4,
-        Date: 18 / 11 / 2014,
+        Date: 2014/11/18,
         precioReventa: 12,
     },
     {
@@ -3982,7 +3982,7 @@ const data = [
         offerPrice: 16900,
         image: FARCRY_6,
         imageDetails: DETAILS_FARCRY_6,
-        Date: 7 / 10 / 2021,
+        Date: 2021/10/7,
         precioReventa: 25,
     },
     {
@@ -3997,7 +3997,7 @@ const data = [
         offerPrice: 12900,
         image: FARCRY_6,
         imageDetails: DETAILS_FARCRY_6,
-        Date: 7 / 10 / 2021,
+        Date: 2021/10/7,
         precioReventa: 25,
     },
     {
@@ -4012,7 +4012,7 @@ const data = [
         offerPrice: 39900,
         image: PRINCE_OF_PERSIA_THE_LOST_CROW,
         imageDetails: DETAILS_PRINCE_OF_PERSIA_THE_LOST_CROWN,
-        Date: 18 / 11 / 2024,
+        Date: 2024/11/18,
         precioReventa: 35,
     },
     {
@@ -4027,7 +4027,7 @@ const data = [
         offerPrice: 39900,
         image: PRINCE_OF_PERSIA_THE_LOST_CROW,
         imageDetails: DETAILS_PRINCE_OF_PERSIA_THE_LOST_CROWN,
-        Date: 18 / 11 / 2024,
+        Date: 2024/11/18,
         precioReventa: 35,
     },
     {
@@ -4042,7 +4042,7 @@ const data = [
         offerPrice: 19900,
         image: SUBNAUTICA,
         imageDetails: DETAILS_SUBNAUTICA,
-        Date: 14 / 5 / 2021,
+        Date: 2021/5/14,
         precioReventa: 25,
     },
     {
@@ -4057,7 +4057,7 @@ const data = [
         offerPrice: 19900,
         image: SUBNAUTICA,
         imageDetails: DETAILS_SUBNAUTICA,
-        Date: 14 / 5 / 2021,
+        Date: 2021/5/14,
         precioReventa: 25,
     },
     {
@@ -4072,7 +4072,7 @@ const data = [
         offerPrice: 10900,
         image: RIDERS_REPUBLIC,
         imageDetails: DETAILS_RIDERS_REPUBLIC,
-        Date: 25 / 8 / 2023,
+        Date: 2023/8/25,
         precioReventa: 25,
     },
     {
@@ -4087,7 +4087,7 @@ const data = [
         offerPrice: 10900,
         image: RIDERS_REPUBLIC,
         imageDetails: DETAILS_RIDERS_REPUBLIC,
-        Date: 25 / 8 / 2023,
+        Date: 2023/8/25,
         precioReventa: 25,
     },
     {
@@ -4102,12 +4102,12 @@ const data = [
         offerPrice: 19900,
         image: SONIC_ORIGINS,
         imageDetails: DETAILS_SONIC_ORIGINS,
-        Date: 23 / 6 / 2022,
+        Date: 2022/6/23,
         precioReventa: 20,
     },
     {
         id: 154,
-        title: "Sonic Origins",
+        title: "Sonic Origins Retro",
         category: "PS5",
         gender: "Accion",
         description:
@@ -4117,7 +4117,7 @@ const data = [
         offerPrice: 19900,
         image: SONIC_ORIGINS,
         imageDetails: DETAILS_SONIC_ORIGINS,
-        Date: 23 / 6 / 2022,
+        Date: 2022/6/23,
         precioReventa: 20,
     },
     {
@@ -4132,7 +4132,7 @@ const data = [
         offerPrice: 19900,
         image: DIRT_5,
         imageDetails: DETAILS_DIRT_5,
-        Date: 12 / 11 / 2020,
+        Date: 2020/11/12,
         precioReventa: 30,
     },
     {
@@ -4147,7 +4147,7 @@ const data = [
         offerPrice: 12900,
         image: DIRT_5,
         imageDetails: DETAILS_DIRT_5,
-        Date: 12 / 11 / 2020,
+        Date: 2020/11/12,
         precioReventa: 30,
     },
     {
@@ -4162,7 +4162,7 @@ const data = [
         offerPrice: 19900,
         image: ONE_PIECE_ODYSSEY,
         imageDetails: DETAILS_ONE_PIECE_ODYSSEY,
-        Date: 13 / 1 / 2023,
+        Date: 2023/1/13,
         precioReventa: 25,
     },
     {
@@ -4177,7 +4177,7 @@ const data = [
         offerPrice: 19900,
         image: ONE_PIECE_ODYSSEY,
         imageDetails: DETAILS_ONE_PIECE_ODYSSEY,
-        Date: 13 / 1 / 2023,
+        Date: 2023/1/13,
         precioReventa: 25,
     },
     {
@@ -4192,7 +4192,7 @@ const data = [
         offerPrice: 35900,
         image: THE_WALKING_DEAD_DESTINIES,
         imageDetails: DETAILS_THE_WALKING_DEAD_DESTINIES,
-        Date: 17 / 11 / 2023,
+        Date: 2023/11/17,
         precioReventa: 30,
     },
     {
@@ -4207,7 +4207,7 @@ const data = [
         offerPrice: 39900,
         image: THE_WALKING_DEAD_DESTINIES,
         imageDetails: DETAILS_THE_WALKING_DEAD_DESTINIES,
-        Date: 17 / 11 / 2023,
+        Date: 2023/11/17,
         precioReventa: 30,
     },
     {
@@ -4222,7 +4222,7 @@ const data = [
         offerPrice: 34900,
         image: HELLO_NEIGHBOR_2,
         imageDetails: DETAILS_HELLO_NEIGHBOR_2,
-        Date: 6 / 12 / 2022,
+        Date: 2022/12/6,
         precioReventa: 30,
     },
     {
@@ -4237,7 +4237,7 @@ const data = [
         offerPrice: 34900,
         image: HELLO_NEIGHBOR_2,
         imageDetails: DETAILS_HELLO_NEIGHBOR_2,
-        Date: 6 / 12 / 2022,
+        Date: 2022/12/6,
         precioReventa: 30,
     },
     {
@@ -4252,7 +4252,7 @@ const data = [
         offerPrice: 29900,
         image: CRASH_TEAM_RUMBLE_BANDICOOT_4,
         imageDetails: CRASH_TEAM_RUMBLE_BANDICOOT_4,
-        Date: 20 / 12 / 2023,
+        Date: 2023/12/20,
         precioReventa: 30,
     },
     {
@@ -4267,7 +4267,7 @@ const data = [
         offerPrice: 19900,
         image: CRASH_TEAM_RUMBLE_BANDICOOT_4,
         imageDetails: CRASH_TEAM_RUMBLE_BANDICOOT_4,
-        Date: 20 / 12 / 2023,
+        Date: 2023/12/20,
         precioReventa: 30,
     },
     {
@@ -4282,7 +4282,7 @@ const data = [
         offerPrice: 29900,
         image: TOMB_RAIDER_1_2_3,
         imageDetails: DETAILS_TOMB_RAIDER_1_2_3,
-        Date: 14 / 2 / 2024,
+        Date: 2024/2/14,
         precioReventa: 25,
     },
     {
@@ -4297,7 +4297,7 @@ const data = [
         offerPrice: 29900,
         image: TOMB_RAIDER_1_2_3,
         imageDetails: DETAILS_TOMB_RAIDER_1_2_3,
-        Date: 14 / 2 / 2024,
+        Date: 2024/2/14,
         precioReventa: 25,
     },
     {
@@ -4312,7 +4312,7 @@ const data = [
         offerPrice: 29900,
         image: SONIC_SUPERSTARS,
         imageDetails: DETAILS_SONIC_SUPERSTARS,
-        Date: 17 / 10 / 2023,
+        Date: 2023/10/17,
         precioReventa: 25,
     },
     {
@@ -4327,7 +4327,7 @@ const data = [
         offerPrice: 29900,
         image: SONIC_SUPERSTARS,
         imageDetails: DETAILS_SONIC_SUPERSTARS,
-        Date: 17 / 10 / 2023,
+        Date: 2023/10/17,
         precioReventa: 25,
     },
     {
@@ -4342,7 +4342,7 @@ const data = [
         offerPrice: 15900,
         image: WATCH_DOGS_LEGION,
         imageDetails: DETAILS_WATCH_DOGS_LEGION,
-        Date: 12 / 11 / 2020,
+        Date: 2020/11/12,
         precioReventa: 20,
     },
     {
@@ -4357,7 +4357,7 @@ const data = [
         offerPrice: 15900,
         image: WATCH_DOGS_LEGION,
         imageDetails: DETAILS_WATCH_DOGS_LEGION,
-        Date: 12 / 11 / 2020,
+        Date: 2020/11/12,
         precioReventa: 20,
     },
     {
@@ -4372,7 +4372,7 @@ const data = [
         offerPrice: 19990,
         image: SONIC_FRONTIERS,
         imageDetails: DETAILS_SONIC_FRONTIERS,
-        Date: 8 / 11 / 2022,
+        Date: 2022/11/8,
         precioReventa: 30,
     },
     {
@@ -4387,7 +4387,7 @@ const data = [
         offerPrice: 19900,
         image: SONIC_FRONTIERS,
         imageDetails: DETAILS_SONIC_FRONTIERS,
-        Date: 8 / 11 / 2022,
+        Date: 2022/11/8,
         precioReventa: 30,
     },
     {
@@ -4402,7 +4402,7 @@ const data = [
         offerPrice: 19900,
         image: DOOM_ETERNAL,
         imageDetails: DETAILS_DOOM_ETERNAL,
-        Date: 29 / 6 / 2021,
+        Date: 2021/6/29,
         precioReventa: 15,
     },
     {
@@ -4417,7 +4417,7 @@ const data = [
         offerPrice: 15900,
         image: DOOM_ETERNAL,
         imageDetails: DETAILS_DOOM_ETERNAL,
-        Date: 29 / 6 / 2021,
+        Date: 2021/6/29,
         precioReventa: 15,
     },
     {
@@ -4432,7 +4432,7 @@ const data = [
         offerPrice: 19900,
         image: WRC_GENERATIONS,
         imageDetails: DETAILS_WRC_GENERATIONS,
-        Date: 3 / 11 / 2021,
+        Date: 2021/11/3,
         precioReventa: 20,
     },
     {
@@ -4447,7 +4447,7 @@ const data = [
         offerPrice: 19900,
         image: WRC_GENERATIONS,
         imageDetails: DETAILS_WRC_GENERATIONS,
-        Date: 3 / 11 / 2021,
+        Date: 2021/11/3,
         precioReventa: 20,
     },
     {
@@ -4462,7 +4462,7 @@ const data = [
         offerPrice: 29900,
         image: MINECRAFT_LEGENDS,
         imageDetails: DETAILS_MINECRAFT_LEGENDS,
-        Date: 18 / 4 / 2023,
+        Date: 2023/4/18,
         precioReventa: 25,
     },
     {
@@ -4477,7 +4477,7 @@ const data = [
         offerPrice: 29900,
         image: MINECRAFT_LEGENDS,
         imageDetails: DETAILS_MINECRAFT_LEGENDS,
-        Date: 18 / 4 / 2023,
+        Date: 2023/4/18,
         precioReventa: 25,
     },
     {
@@ -4492,7 +4492,7 @@ const data = [
         offerPrice: 19900,
         image: BATTLEFIELD_2042,
         imageDetails: DETAILS_BATTLEFIELD_2042,
-        Date: 19 / 11 / 2021,
+        Date: 2021/11/19,
         precioReventa: 20,
     },
     {
@@ -4507,7 +4507,7 @@ const data = [
         offerPrice: 10900,
         image: BATTLEFIELD_2042,
         imageDetails: DETAILS_BATTLEFIELD_2042,
-        Date: 19 / 11 / 2021,
+        Date: 2021/11/19,
         precioReventa: 20,
     },
     {
@@ -4522,7 +4522,7 @@ const data = [
         offerPrice: 39900,
         image: ATOMIC_HEART,
         imageDetails: DETAILS_ATOMIC_HEART,
-        Date: 21 / 2 / 2023,
+        Date: 2023/2/21,
         precioReventa: 39,
     },
     {
@@ -4537,7 +4537,7 @@ const data = [
         offerPrice: 39900,
         image: ATOMIC_HEART,
         imageDetails: DETAILS_ATOMIC_HEART,
-        Date: 21 / 2 / 2023,
+        Date: 2023/2/21,
         precioReventa: 39,
     },
     {
@@ -4552,7 +4552,7 @@ const data = [
         offerPrice: 29900,
         image: MX_VS_ATV_LEGENDS,
         imageDetails: DETAILS_MX_VS_ATV_LEGENDS,
-        Date: 28 / 6 / 2022,
+        Date: 2022/6/28,
         precioReventa: 29,
     },
     {
@@ -4567,7 +4567,7 @@ const data = [
         offerPrice: 29900,
         image: MX_VS_ATV_LEGENDS,
         imageDetails: DETAILS_MX_VS_ATV_LEGENDS,
-        Date: 28 / 6 / 2022,
+        Date: 2022/6/28,
         precioReventa: 29,
     },
     {
@@ -4582,7 +4582,7 @@ const data = [
         offerPrice: 29900,
         image: LEGO_STAR_WARS,
         imageDetails: DETAILS_LEGO_STAR_WARS,
-        Date: 5 / 4 / 2022,
+        Date: 2022/4/5,
         precioReventa: 20,
     },
     {
@@ -4597,7 +4597,7 @@ const data = [
         offerPrice: 29900,
         image: LEGO_STAR_WARS,
         imageDetails: DETAILS_LEGO_STAR_WARS,
-        Date: 5 / 4 / 2022,
+        Date: 2022/4/5,
         precioReventa: 20,
     },
     {
@@ -4612,7 +4612,7 @@ const data = [
         offerPrice: 19900,
         image: GOTHAM_KNIGHTS,
         imageDetails: DETAILS_GOTHAM_KNIGHTS,
-        Date: 21 / 10 / 2022,
+        Date: 2022/10/21,
         precioReventa: 40,
     },
     {
@@ -4627,7 +4627,7 @@ const data = [
         offerPrice: 49900,
         image: ASSASINS_3_PS3,
         imageDetails: DETAILS_ASSASINS_3,
-        Date: 18 / 11 / 2020,
+        Date: 2020/11/18,
         precioReventa: 49,
     },
     {
@@ -4642,7 +4642,7 @@ const data = [
         offerPrice: 49900,
         image: ASSASINS_3_PS3,
         imageDetails: DETAILS_ASSASINS_3,
-        Date: 18 / 11 / 2020,
+        Date: 2020/11/18,
         precioReventa: 49,
     },
     {
@@ -4657,7 +4657,7 @@ const data = [
         offerPrice: 35900,
         image: PGA_TOUR,
         imageDetails: DETAILS_PGA_TOUR,
-        Date: 7 / 4 / 2023,
+        Date: 2023/4/7,
         precioReventa: 40,
     },
     {
@@ -4672,7 +4672,7 @@ const data = [
         offerPrice: 19900,
         image: ASSASINS_ODYSSEY,
         imageDetails: DETAILS_ASSASINSCREED_ODYSSEY,
-        Date: 5 / 10 / 2018,
+        Date: 2018/10/5,
         precioReventa: 35,
     },
     {
@@ -4682,12 +4682,12 @@ const data = [
         gender: "Pelea",
         description:
             "Dragon Ball Xenoverse 2 es la experiencia de juego definitiva de Dragon Ball, llena de acción trepidante, batallas épicas y un sinfín de opciones de personalización. ¡Crea tu propio personaje, explora Conton City y entrena con personajes emblemáticos de la saga como maestros para poder enfrentarte a enemigos formidables y rescatar el flujo de la historia!",
-        price: 19900,
-        secondaryPrice: 19800,
-        offerPrice: 10900,
+        price: 39900,
+        secondaryPrice: 15900,
+        offerPrice: 20900,
         image: DBZ_XENOVERSE_2,
         imageDetails: DETAILS_DBZ_XENOVERSE_2,
-        Date: 24 / 5 / 2024,
+        Date: 2024/5/24,
         precioReventa: 15,
     },
     {
@@ -4697,12 +4697,12 @@ const data = [
         gender: "Pelea",
         description:
             "Dragon Ball Xenoverse 2 es la experiencia de juego definitiva de Dragon Ball, llena de acción trepidante, batallas épicas y un sinfín de opciones de personalización. ¡Crea tu propio personaje, explora Conton City y entrena con personajes emblemáticos de la saga como maestros para poder enfrentarte a enemigos formidables y rescatar el flujo de la historia!",
-        price: 19900,
-        secondaryPrice: 19800,
-        offerPrice: 10900,
+        price: 39900,
+        secondaryPrice: 39900,
+        offerPrice: 19900,
         image: DBZ_XENOVERSE_2,
         imageDetails: DETAILS_DBZ_XENOVERSE_2,
-        Date: 24 / 5 / 2024,
+        Date: 2024/5/24,
         precioReventa: 15,
     },
     {
@@ -4717,7 +4717,7 @@ const data = [
         offerPrice: 15900,
         image: LEGO_MARVEL_COLLECTION,
         imageDetails: DETAILS_LEGO_MARVEL_COLLECTION,
-        Date: 12 / 3 / 2019,
+        Date: 2019/3/12,
         precioReventa: 20,
     },
     {
@@ -4732,7 +4732,7 @@ const data = [
         offerPrice: 15900,
         image: LEGO_MARVEL_COLLECTION,
         imageDetails: DETAILS_LEGO_MARVEL_COLLECTION,
-        Date: 12 / 3 / 2019,
+        Date: 2019/3/12,
         precioReventa: 20,
     },
     {
@@ -4747,12 +4747,12 @@ const data = [
         offerPrice: 0 ,
         image: OVERCOOKED_2,
         imageDetails: DETAILS_OVERCOOKED_2,
-        Date: 7 / 8 / 2018,
+        Date: 2018/8/7,
         precioReventa: 25,
     },
     {
         id: 197,
-        title: "Overcooked 2",
+        title: "Overcooked 2 Retro",
         category: "PS5",
         gender: "Aventura",
         description:
@@ -4762,7 +4762,7 @@ const data = [
         offerPrice: 0 ,
         image: OVERCOOKED_2,
         imageDetails: DETAILS_OVERCOOKED_2,
-        Date: 7 / 8 / 2018,
+        Date: 2018/8/7,
         precioReventa: 25,
     },
     {
@@ -4777,12 +4777,12 @@ const data = [
         offerPrice: 9900,
         image: SONIC_FORCES,
         imageDetails: DETAILS_SONIC_FORCES,
-        Date: 23 / 1 / 2018,
+        Date: 2018/1/23,
         precioReventa: 30,
     },
     {
         id: 199,
-        title: "Sonic Forces",
+        title: "Sonic Forces Retro",
         category: "PS5",
         gender: "Aventura",
         description:
@@ -4792,7 +4792,7 @@ const data = [
         offerPrice: 9900,
         image: SONIC_FORCES,
         imageDetails: DETAILS_SONIC_FORCES,
-        Date: 23 / 1 / 2018,
+        Date: 2018/1/23,
         precioReventa: 30,
     },
     {
@@ -4807,12 +4807,12 @@ const data = [
         offerPrice: 29900,
         image: SPIDERMAN,
         imageDetails: DETAILS_SPIDERMAN,
-        Date: 28 / 8 / 2019,
+        Date: 2019/8/28,
         precioReventa: 30,
     },
     {
         id: 201,
-        title: "Marvel's Spider-Man: Game of the Year Edition",
+        title: "Marvel's Spider-Man: Game of the Year Edition Retro",
         category: "PS5",
         gender: "Accion",
         description:
@@ -4822,7 +4822,7 @@ const data = [
         offerPrice: 29900,
         image: SPIDERMAN,
         imageDetails: DETAILS_SPIDERMAN,
-        Date: 28 / 8 / 2019,
+        Date: 2019/8/28,
         precioReventa: 30,
     },
     {
@@ -4837,12 +4837,12 @@ const data = [
         offerPrice: 19000,
         image: TEKKEN_7,
         imageDetails: DETAILS_TEKKEN_7,
-        Date: 2 / 6 / 2017,
+        Date: 2017/6/2,
         precioReventa: 30,
     },
     {
         id: 203,
-        title: "Tekken 7",
+        title: "Tekken 7 Retro",
         category: "PS5",
         gender: "Accion",
         description:
@@ -4852,7 +4852,7 @@ const data = [
         offerPrice: 19000,
         image: TEKKEN_7,
         imageDetails: DETAILS_TEKKEN_7,
-        Date: 2 / 6 / 2017,
+        Date: 2017/6/2,
         precioReventa: 30,
     },
     {
@@ -4867,7 +4867,7 @@ const data = [
         offerPrice: 32000,
         image: LEGO_2K_DRIVE,
         imageDetails: DETAILS_LEGO_2K_DRIVE,
-        Date: 19 / 5 / 2023,
+        Date: 2023/5/19,
         precioReventa: 35,
     },
     {
@@ -4882,7 +4882,7 @@ const data = [
         offerPrice: 32000,
         image: LEGO_2K_DRIVE,
         imageDetails: DETAILS_LEGO_2K_DRIVE,
-        Date: 19 / 5 / 2023,
+        Date: 2023/5/19,
         precioReventa: 35,
     },
     {
@@ -4897,7 +4897,7 @@ const data = [
         offerPrice: 39000,
         image: CRASH_3,
         imageDetails: DETAILS_CRASH_3,
-        Date: 7 / 7 / 2019,
+        Date: 2019/7/7,
         precioReventa: 40,
     },
     {
@@ -4912,7 +4912,7 @@ const data = [
         offerPrice: 39000,
         image: CRASH_3,
         imageDetails: DETAILS_CRASH_3,
-        Date: 7 / 7 / 2019,
+        Date: 2019/7/7,
         precioReventa: 40,
     },
     {
@@ -4927,12 +4927,12 @@ const data = [
         offerPrice: 29900,
         image: RED_DEAD_REDEMPTION_2,
         imageDetails: DETAILS_RED_DEAD_REDEMPTION_2,
-        Date: 26 / 10 / 2018,
+        Date: 2018/10/26,
         precioReventa: 30,
     },
     {
         id: 209,
-        title: "Red Dead Redemption 2",
+        title: "Red Dead Redemption 2 Retro",
         category: "PS5",
         gender: "Accion",
         description:
@@ -4942,7 +4942,7 @@ const data = [
         offerPrice: 29900,
         image: RED_DEAD_REDEMPTION_2,
         imageDetails: DETAILS_RED_DEAD_REDEMPTION_2,
-        Date: 26 / 10 / 2018,
+        Date: 2018/10/26,
         precioReventa: 30,
     },
     {
@@ -4957,12 +4957,12 @@ const data = [
         offerPrice: 24900,
         image: MINECRAFT,
         imageDetails: DETAILS_MINECRAFT,
-        Date: 10 / 12 / 2019,
+        Date: 2019/12/10,
         precioReventa: 15,
     },
     {
         id: 211,
-        title: "Minecraft",
+        title: "Minecraft Retro",
         category: "PS5",
         gender: "Aventura",
         description:
@@ -4972,7 +4972,7 @@ const data = [
         offerPrice: 25900,
         image: MINECRAFT,
         imageDetails: DETAILS_MINECRAFT,
-        Date: 10 / 12 / 2019,
+        Date: 2019/12/10,
         precioReventa: 15,
     },
     {
@@ -4987,7 +4987,7 @@ const data = [
         offerPrice: 39900,
         image: FIFA_24,
         imageDetails: DETAILS_FIFA_24,
-        Date: 29 / 9 / 2023,
+        Date: 2023/9/29,
         precioReventa: 39,
     },
     {
@@ -4999,15 +4999,15 @@ const data = [
             "Siéntete más cerca del juego con tres tecnologías de última generación que potencian un realismo sin igual en cada partido: HyperMotionV**, los Estilos de juego optimizados por Opta y un motor Frostbite™ mejorado. HyperMotionV captura el juego como realmente se juega usando datos volumétricos de más de 180 partidos profesionales masculinos y femeniles para garantizar que los movimientos en el juego reflejen con precisión la acción del futbol real.",
         price: 59900,
         secondaryPrice: 49800,
-        offerPrice: 18900,
+        offerPrice: 19900,
         image: FIFA_24,
         imageDetails: DETAILS_FIFA_24,
-        Date: 29 / 9 / 2023,
+        Date: 2023/9/29,
         precioReventa: 15,
     },
     {
         id: 214,
-        title: "Friday the 13th: The Game",
+        title: "Friday the 13th: The Game Retro",
         category: "PS5",
         gender: "Terror",
         description:
@@ -5017,7 +5017,7 @@ const data = [
         offerPrice: 12900,
         image: FRIDAY_THE_13,
         imageDetails: DETAILS_FRIDAY_THE_13,
-        Date: 24 / 5 / 2017,
+        Date: 2017/5/24,
         precioReventa: 20,
     },
     {
@@ -5032,7 +5032,7 @@ const data = [
         offerPrice: 12900,
         image: FRIDAY_THE_13,
         imageDetails: DETAILS_FRIDAY_THE_13,
-        Date: 24 / 5 / 2017,
+        Date: 2017/5/24,
         precioReventa: 20,
     },
     {
@@ -5047,7 +5047,7 @@ const data = [
         offerPrice: 9900,
         image: GRAN_TURISMO_SPORT,
         imageDetails: DETAILS_GRAN_TURISMO_SPORT,
-        Date: 15 / 10 / 2017,
+        Date: 2017/10/15,
         precioReventa: 20,
     },
     {
@@ -5062,7 +5062,7 @@ const data = [
         offerPrice: 45900,
         image: GRAN_TURISMO_7,
         imageDetails: DETAILS_GRAN_TURISMO_7,
-        Date: 4 / 3 / 2022,
+        Date: 2022/3/4,
         precioReventa: 35,
     },
     {
@@ -5077,7 +5077,7 @@ const data = [
         offerPrice: 45900,
         image: GRAN_TURISMO_7,
         imageDetails: DETAILS_GRAN_TURISMO_7,
-        Date: 4 / 3 / 2022,
+        Date: 2022/3/4,
         precioReventa: 35,
     },
     {
@@ -5092,7 +5092,7 @@ const data = [
         offerPrice: 12900,
         image: RACOON_EDITION,
         imageDetails: DETAILS_RACCOON_CITY_EDITION,
-        Date: 13 / 6 / 2022,
+        Date: 2022/6/13,
         precioReventa: 25,
     },
     {
@@ -5107,7 +5107,7 @@ const data = [
         offerPrice: 12900,
         image: RACOON_EDITION,
         imageDetails: DETAILS_RACCOON_CITY_EDITION,
-        Date: 13 / 6 / 2022,
+        Date: 2022/6/13,
         precioReventa: 25,
     },
     {
@@ -5122,12 +5122,12 @@ const data = [
         offerPrice: 19900,
         image: GTA_SAN_ANDREAS_PS3,
         imageDetails: DETAILS_GTA_SAN_ANDRAS,
-        Date: 5 / 12 / 2015,
+        Date: 2015/12/5,
         precioReventa: 35,
     },
     {
         id: 222,
-        title: "Grand Theft Auto: San Andreas",
+        title: "Grand Theft Auto: San Andreas Retro",
         category: "PS5",
         gender: "Accion",
         description:
@@ -5137,7 +5137,7 @@ const data = [
         offerPrice: 19900,
         image: GTA_SAN_ANDREAS_PS3,
         imageDetails: DETAILS_GTA_SAN_ANDRAS,
-        Date: 5 / 12 / 2015,
+        Date: 2015/12/5,
         precioReventa: 35,
     },
     {
@@ -5152,7 +5152,7 @@ const data = [
         offerPrice: 49900,
         image: DIABLO_IV,
         imageDetails: DETAILS_DIABLO_IV,
-        Date: 5 / 6 / 2023,
+        Date: 2024/6/9,
         precioReventa: 30,
     },
     {
@@ -5167,7 +5167,7 @@ const data = [
         offerPrice: 59900,
         image: DIABLO_IV,
         imageDetails: DETAILS_DIABLO_IV,
-        Date: 5 / 6 / 2023,
+        Date: 2024/6/9,
         precioReventa: 30,
     },
     {
@@ -5182,7 +5182,7 @@ const data = [
         offerPrice: 49900,
         image: HITMAN_WORLD,
         imageDetails: DETAILS_HITMAN_WORLD,
-        Date: 5 / 6 / 2023,
+        Date: 2023/1/26,
         precioReventa: 30,
     },
     {
@@ -5197,7 +5197,7 @@ const data = [
         offerPrice: 49900,
         image: HITMAN_WORLD,
         imageDetails: DETAILS_HITMAN_WORLD,
-        Date: 5 / 6 / 2023,
+        Date: 2023/1/26,
         precioReventa: 30,
     },
     {
@@ -5212,7 +5212,7 @@ const data = [
         offerPrice: 35900,
         image: NFS_UNBOUND,
         imageDetails: DETAILS_NFS_UNBOUND,
-        Date: 5 / 6 / 2023,
+        Date: 2022/12/2,
         precioReventa: 35,
     },
     {
@@ -5227,7 +5227,7 @@ const data = [
         offerPrice: 19900,
         image: SAINTS_ROW,
         imageDetails: DETAILS_SAINTS_ROW,
-        Date: 5 / 6 / 2023,
+        Date: 2022/8/23,
         precioReventa: 25,
     },
     {
@@ -5242,7 +5242,7 @@ const data = [
         offerPrice: 59900,
         image: MK_1,
         imageDetails: DETAILS_MK_1,
-        Date: 19 / 9 / 2023,
+        Date: 2023/9/19,
         precioReventa: 30,
     },
     {
@@ -5254,10 +5254,10 @@ const data = [
             "De Rocksteady Studios, los creadores de la serie de Batman Arkham, Suicide Squad: Kill The Justice League es un videojuego de disparos en tercera persona de acción y aventura, que desafía géneros, en el que una banda de inadaptados extremos debe lograr lo imposible: matar a la Liga de la Justicia.",
         price: 73900,
         secondaryPrice: 73900,
-        offerPrice: 59900,
+        offerPrice: 49900,
         image: SUICIDE_SQUAD,
         imageDetails: DETAILS_SUICIDE_SQUAD,
-        Date: 2 / 2 / 2024,
+        Date: 2024/2/2,
         precioReventa: 39,
     },
     {
@@ -5272,7 +5272,7 @@ const data = [
         offerPrice: 59900,
         image: SKULL_AND_BONES,
         imageDetails: DETAILS_SKULL_AND_BONES,
-        Date: 15 / 2 / 2024,
+        Date: 2024/2/15,
         precioReventa: 39,
     },
     {
@@ -5287,7 +5287,7 @@ const data = [
         offerPrice: 49900,
         image: GTA_TRILOGY,
         imageDetails: DETAILS_GTA_TRILOGY,
-        Date: 11 / 11 / 2021,
+        Date: 2021/11/11,
         precioReventa: 39,
     },
     {
@@ -5302,7 +5302,7 @@ const data = [
         offerPrice: 59900,
         image: GTA_TRILOGY,
         imageDetails: DETAILS_GTA_TRILOGY,
-        Date: 11 / 11 / 2021,
+        Date: 2021/11/11,
         precioReventa: 39,
     },
     {
@@ -5317,7 +5317,7 @@ const data = [
         offerPrice: 49900,
         image: PAYDAY_3,
         imageDetails: DETAILS_PAYDAY_3,
-        Date: 21 / 9 / 2023,
+        Date: 2023/9/21,
         precioReventa: 39,
     },
     {
@@ -5332,12 +5332,12 @@ const data = [
         offerPrice: 9900,
         image: TOM_CLANCYS_RAINBBOWS_SIEGE,
         imageDetails: DETAILS_TOMCLANCY_RAINBOWS_SIEGE,
-        Date: 12 / 3 / 2024,
+        Date: 2024/3/12,
         precioReventa: 9,
     },
     {
         id: 236,
-        title: "Tom Clancy's Rainbow Six Siege",
+        title: "Tom Clancy's Rainbow Six Siege Retro",
         category: "PS5",
         gender: "Accion",
         description:
@@ -5347,7 +5347,7 @@ const data = [
         offerPrice: 9900,
         image: TOM_CLANCYS_RAINBBOWS_SIEGE,
         imageDetails: DETAILS_TOMCLANCY_RAINBOWS_SIEGE,
-        Date: 12 / 3 / 2024,
+        Date: 2024/3/12,
         precioReventa: 9,
     },
     {
@@ -5362,7 +5362,7 @@ const data = [
         offerPrice: 15900,
         image: GTA_V,
         imageDetails: DETAILS_GTA_V,
-        Date: 15 / 6 / 2022,
+        Date: 2022/6/15,
         precioReventa: 12,
     },
     {
@@ -5377,7 +5377,7 @@ const data = [
         offerPrice: 15900,
         image: GTA_V,
         imageDetails: DETAILS_GTA_V,
-        Date: 15 / 6 / 2022,
+        Date: 2022/6/15,
         precioReventa: 12,
     },
     {
@@ -5392,12 +5392,12 @@ const data = [
         offerPrice: 19900,
         image: WOLFENSTEIN,
         imageDetails: DETAILS_WOLFENSTEIN,
-        Date: 26 / 7 / 2019,
+        Date: 2019/7/26,
         precioReventa: 12,
     },
     {
         id: 503,
-        title: "Wolfenstein: Youngblood - Deluxe Edition",
+        title: "Wolfenstein: Youngblood - Deluxe Edition Retro",
         category: "PS5",
         gender: "Accion",
         description:
@@ -5407,7 +5407,7 @@ const data = [
         offerPrice: 0,
         image: WOLFENSTEIN,
         imageDetails: DETAILS_WOLFENSTEIN,
-        Date: 26 / 7 / 2019,
+        Date: 2019/7/26,
         precioReventa: 12,
     },
     {
@@ -5422,7 +5422,7 @@ const data = [
         offerPrice: 29900,
         image: CREED,
         imageDetails: DETAILS_CREED,
-        Date: 25 / 9 / 2018,
+        Date: 2018/9/25,
         precioReventa: 15,
     },
     {
@@ -5437,7 +5437,7 @@ const data = [
         offerPrice: 29900,
         image: CREED,
         imageDetails: DETAILS_CREED,
-        Date: 25 / 9 / 2018,
+        Date: 2018/9/25,
         precioReventa: 15,
     },
     {
@@ -5452,7 +5452,7 @@ const data = [
         offerPrice: 39900,
         image: HORIZON,
         imageDetails: DETAILS_HORIZON_FORBIDDEN_WEST,
-        Date: 18 / 2 / 2022,
+        Date: 2022/2/18,
         precioReventa: 30,
     },
     {
@@ -5467,7 +5467,7 @@ const data = [
         offerPrice: 39900,
         image: HORIZON,
         imageDetails: DETAILS_HORIZON_FORBIDDEN_WEST,
-        Date: 18 / 2 / 2022,
+        Date: 2022/2/18,
         precioReventa: 30,
     },
     {
@@ -5482,7 +5482,7 @@ const data = [
         offerPrice: 20900,
         image: IT_TAKES_TWO,
         imageDetails: DETAILS_IT_TAKES_TWO,
-        Date: 26 / 3 / 2021,
+        Date: 2021/3/26,
         precioReventa: 20,
     },
     {
@@ -5497,7 +5497,7 @@ const data = [
         offerPrice: 20900,
         image: IT_TAKES_TWO,
         imageDetails: DETAILS_IT_TAKES_TWO,
-        Date: 26 / 3 / 2021,
+        Date: 2021/3/26,
         precioReventa: 20,
     },
     {
@@ -5512,7 +5512,7 @@ const data = [
         offerPrice: 39900,
         image: ABSOLUTE_DEDUCTION_BUNDLE,
         imageDetails: DETAILS_ABSOLUTE_DEDUCTION_BUNDLE,
-        Date: 21 / 7 / 2022,
+        Date: 2022/7/21,
         precioReventa: 30,
     },
     {
@@ -5527,7 +5527,7 @@ const data = [
         offerPrice: 39900,
         image: ABSOLUTE_DEDUCTION_BUNDLE,
         imageDetails: DETAILS_ABSOLUTE_DEDUCTION_BUNDLE,
-        Date: 21 / 7 / 2022,
+        Date: 2022/7/21,
         precioReventa: 30,
     },
     {
@@ -5539,10 +5539,10 @@ const data = [
             "Sé una de las 20 personas al volante con EA SPORTS™ F1® 24, el videojuego oficial del 2024 FIA Formula One World Championship™. Corónate con la victoria en busca de una carrera profesional en la F1® que defina tu legado, la primera gran actualización a este modo de juego desde 2016. Maneja como las grandes estrellas y siéntete en armonía con el coche gracias al nuevo sistema de EA SPORTS Dynamic Handling. Enciende tu pasión y conecta con tus equipos y pilotos favoritos mientras demuestras que tienes lo necesario para ganar en nuevos modos y experiencias.",
         price: 54900,
         secondaryPrice: 54900,
-        offerPrice: 0,
+        offerPrice: 39900,
         image: F1_24,
         imageDetails: DETAILS_F1_24,
-        Date: 31 / 5 / 2024,
+        Date: 2024/5/31,
         precioReventa: 35,
     },
     {
@@ -5554,10 +5554,10 @@ const data = [
             "Sé una de las 20 personas al volante con EA SPORTS™ F1® 24, el videojuego oficial del 2024 FIA Formula One World Championship™. Corónate con la victoria en busca de una carrera profesional en la F1® que defina tu legado, la primera gran actualización a este modo de juego desde 2016. Maneja como las grandes estrellas y siéntete en armonía con el coche gracias al nuevo sistema de EA SPORTS Dynamic Handling. Enciende tu pasión y conecta con tus equipos y pilotos favoritos mientras demuestras que tienes lo necesario para ganar en nuevos modos y experiencias.",
         price: 54900,
         secondaryPrice: 54900,
-        offerPrice: 0,
+        offerPrice: 39900,
         image: F1_24,
         imageDetails: DETAILS_F1_24,
-        Date: 31 / 5 / 2024,
+        Date: 2024/5/31,
         precioReventa: 35,
     },
     {
@@ -5572,7 +5572,7 @@ const data = [
         offerPrice: 59900,
         image: TEKKEN_8,
         imageDetails: TEKKEN_8,
-        Date: 25 / 1 / 2024,
+        Date: 2024/1/25,
         precioReventa: 55,
     },
     {
@@ -5587,7 +5587,7 @@ const data = [
         offerPrice: 59900,
         image: AVATAR_FRONTIERS_OF_PANDORA,
         imageDetails: DETAILS_AVATAR_FRONTIERS_OF_PANDORA,
-        Date: 7 / 12 / 2023,
+        Date: 2023/12/7,
         precioReventa: 45,
     },
     {
@@ -5602,7 +5602,7 @@ const data = [
         offerPrice: 49900,
         image: STREET_FIGHTER,
         imageDetails: DETAILS_STREET_FIGHTER,
-        Date: 2 / 6 / 2023,
+        Date: 2023/6/2,
         precioReventa: 38,
     },
     {
@@ -5617,7 +5617,7 @@ const data = [
         offerPrice: 49900,
         image: STREET_FIGHTER,
         imageDetails: DETAILS_STREET_FIGHTER,
-        Date: 2 / 6 / 2023,
+        Date: 2023/6/2,
         precioReventa: 38,
     },
     {
@@ -5632,7 +5632,7 @@ const data = [
         offerPrice: 19900,
         image: CALL_OF_DUTY_WW3,
         imageDetails: DETAILS_CALL_OF_DUTY_WW3,
-        Date: 8 / 5 / 2018,
+        Date: 2018/5/8,
         precioReventa: 19,
     },
     {
@@ -5643,11 +5643,11 @@ const data = [
         description:
             "Call of Duty® regresa a sus raíces con Call of Duty®: WWII, una experiencia sobrecogedora que redefine la Segunda Guerra Mundial para una nueva generación. Vive el combate clásico de Call of Duty, los lazos de camaradería y la naturaleza despiadada de la guerra contra una potencia que sume al mundo en la tiranía.",
         price: 25900,
-        secondaryPrice: 5900,
+        secondaryPrice: 19900,
         offerPrice: 19900,
         image: CALL_OF_DUTY_WW3,
         imageDetails: DETAILS_CALL_OF_DUTY_WW3,
-        Date: 8 / 5 / 2018,
+        Date: 2018/5/8,
         precioReventa: 19,
     },
     {
@@ -5662,7 +5662,7 @@ const data = [
         offerPrice: 39900,
         image: MINECRAFT_DUNGEONS,
         imageDetails: MINECRAFT_DUNGEONS,
-        Date: 26 / 5 / 2020,
+        Date: 2020/5/26,
         precioReventa: 25,
     },
     {
@@ -5677,7 +5677,7 @@ const data = [
         offerPrice: 39900,
         image: MINECRAFT_DUNGEONS,
         imageDetails: MINECRAFT_DUNGEONS,
-        Date: 26 / 5 / 2020,
+        Date: 2020/5/26,
         precioReventa: 25,
     },
     {
@@ -5692,7 +5692,7 @@ const data = [
         offerPrice: 0,
         image: STAR_OCEAN,
         imageDetails: DETAILS_STAR_OCEAN,
-        Date: 2 / 11 / 2023,
+        Date: 2023/11/2,
         precioReventa: 40,
     },
     {
@@ -5707,7 +5707,7 @@ const data = [
         offerPrice: 0,
         image: STAR_OCEAN,
         imageDetails: DETAILS_STAR_OCEAN,
-        Date: 2 / 11 / 2023,
+        Date: 2023/11/2,
         precioReventa: 40,
     },
     {
@@ -5722,7 +5722,7 @@ const data = [
         offerPrice: 29900,
         image: TEAM_SONIC_RACING,
         imageDetails: TEAM_SONIC_RACING,
-        Date: 21 / 5 / 2019,
+        Date: 2019/5/21,
         precioReventa: 25,
     },
     {
@@ -5737,7 +5737,7 @@ const data = [
         offerPrice: 29900,
         image: TEAM_SONIC_RACING,
         imageDetails: TEAM_SONIC_RACING,
-        Date: 21 / 5 / 2019,
+        Date: 2019/5/21,
         precioReventa: 25,
     },
     {
@@ -5752,7 +5752,7 @@ const data = [
         offerPrice: 49900,
         image: LIKE_A_DRAGON,
         imageDetails: DETAILS_LIKE_A_DRAGON,
-        Date: 21 / 2 / 2023,
+        Date: 2023/2/21,
         precioReventa: 45,
     },
     {
@@ -5767,7 +5767,7 @@ const data = [
         offerPrice: 49900,
         image: LIKE_A_DRAGON,
         imageDetails: DETAILS_LIKE_A_DRAGON,
-        Date: 21 / 2 / 2023,
+        Date: 2023/2/21,
         precioReventa: 45,
     },
     {
@@ -5782,12 +5782,12 @@ const data = [
         offerPrice: 0,
         image: SONIC_MANIA,
         imageDetails: DETAILS_SONIC_MANIA,
-        Date: 15 / 8 / 2017,
+        Date: 2017/8/15,
         precioReventa: 20,
     },
     {
         id: 526,
-        title: "Sonic Mania",
+        title: "Sonic Mania Retro",
         category: "PS5",
         gender: "Accion",
         description:
@@ -5797,7 +5797,7 @@ const data = [
         offerPrice: 0,
         image: SONIC_MANIA,
         imageDetails: DETAILS_SONIC_MANIA,
-        Date: 15 / 8 / 2017,
+        Date: 2017/8/15,
         precioReventa: 20,
     },
     {
@@ -5812,12 +5812,12 @@ const data = [
         offerPrice: 39900,
         image: SONIC_COLORS,
         imageDetails: DETAILS_SONIC_COLORS,
-        Date: 7 / 9 / 2021,
+        Date: 2021/9/7,
         precioReventa: 35,
     },
     {
         id: 528,
-        title: "Sonic Colours",
+        title: "Sonic Colours Retro",
         category: "PS5",
         gender: "Accion",
         description:
@@ -5827,7 +5827,7 @@ const data = [
         offerPrice: 39900,
         image: SONIC_COLORS,
         imageDetails: DETAILS_SONIC_COLORS,
-        Date: 7 / 9 / 2021,
+        Date: 2021/9/7,
         precioReventa: 35,
     },
     {
@@ -5842,12 +5842,12 @@ const data = [
         offerPrice: 0,
         image: INJUSTICE_2_PS4,
         imageDetails: DETAILS_INJUSTICE_2,
-        Date: 27 / 3 / 2018,
+        Date: 2018/3/27,
         precioReventa: 55,
     },
     {
         id: 529,
-        title: "Injustic 2 Legendary Edition",
+        title: "Injustic 2 Legendary Edition Retro",
         category: "PS5",
         gender: "Accion",
         description:
@@ -5857,7 +5857,7 @@ const data = [
         offerPrice: 0,
         image: INJUSTICE_2_PS4,
         imageDetails: DETAILS_INJUSTICE_2,
-        Date: 27 / 3 / 2018,
+        Date: 2018/3/27,
         precioReventa: 55,
     },
     {
@@ -5872,12 +5872,12 @@ const data = [
         offerPrice: 19900,
         image: CALL_OF_DUTY_BO3,
         imageDetails: DETAILS_CALL_OF_DUTY_BO3,
-        Date: 29 / 8 / 2017,
+        Date: 2017/8/29,
         precioReventa: 25,
     },
     {
         id: 540,
-        title: "Call of Duty Black Ops 3 + Awakening",
+        title: "Call of Duty Black Ops 3 + Awakening Retro",
         category: "PS5",
         gender: "Accion",
         description:
@@ -5887,7 +5887,7 @@ const data = [
         offerPrice: 19900,
         image: CALL_OF_DUTY_BO3,
         imageDetails: DETAILS_CALL_OF_DUTY_BO3,
-        Date: 29 / 8 / 2017,
+        Date: 2017/8/29,
         precioReventa: 25,
     },
     {
@@ -5902,7 +5902,7 @@ const data = [
         offerPrice: 29900,
         image: RESIDENT_EVIL_3,
         imageDetails: RESIDENT_EVIL_3,
-        Date: 13 / 6 / 2022,
+        Date: 2022/6/13,
         precioReventa: 25,
     },
     {
@@ -5917,7 +5917,7 @@ const data = [
         offerPrice: 29900,
         image: RESIDENT_EVIL_3,
         imageDetails: RESIDENT_EVIL_3,
-        Date: 13 / 6 / 2022,
+        Date: 2022/6/13,
         precioReventa: 25,
     },
     {
@@ -5932,7 +5932,7 @@ const data = [
         offerPrice: 19900,
         image: GRID_LEGENDS,
         imageDetails: DETAILS_GRID_LEGENDS,
-        Date: 25 / 2 / 2022,
+        Date: 2022/2/25,
         precioReventa: 20,
     },
     {
@@ -5947,7 +5947,7 @@ const data = [
         offerPrice: 0,
         image: FIFA_23,
         imageDetails: FIFA_23,
-        Date: 26 / 9 / 2022,
+        Date: 2022/9/26,
         precioReventa: 20,
     },
     {
@@ -5961,8 +5961,8 @@ const data = [
         secondaryPrice: 99900,
         offerPrice: 49900,
         image: ASSASINS_CREED_VALHALLA,
-        imageDetails: DETAILS_ASSASINS_CREED_VALHALLA,
-        Date: 10 / 3 / 2022,
+        imageDetails: DETAILS_GOW_RAGNAROK_VALHALLA,
+        Date: 2022/3/10,
         precioReventa: 49,
     },
     {
@@ -5976,8 +5976,8 @@ const data = [
         secondaryPrice: 99900,
         offerPrice: 49900,
         image: ASSASINS_CREED_VALHALLA,
-        imageDetails: DETAILS_ASSASINS_CREED_VALHALLA,
-        Date: 10 / 3 / 2022,
+        imageDetails: DETAILS_GOW_RAGNAROK_VALHALLA,
+        Date: 2022/3/10,
         precioReventa: 49,
     },
     {
@@ -5992,7 +5992,7 @@ const data = [
         offerPrice: 19900,
         image: ASSASINS_VALHALLA,
         imageDetails: DETAILS_ASSASINS_CREED_VALHALLA,
-        Date: 12 / 11 / 2020,
+        Date: 2020/11/12,
         precioReventa: 19,
     },
     {
@@ -6007,7 +6007,7 @@ const data = [
         offerPrice: 19900,
         image: ASSASINS_VALHALLA,
         imageDetails: DETAILS_ASSASINS_CREED_VALHALLA,
-        Date: 12 / 11 / 2020,
+        Date: 2020/11/12,
         precioReventa: 19,
     },
     {
@@ -6022,7 +6022,7 @@ const data = [
         offerPrice: 12900,
         image: ASSASINS_SINDICATE,
         imageDetails: DETAILS_ASSASINSCREED_SINDICATE,
-        Date: 23 / 10 / 2015,
+        Date: 2015/10/23,
         precioReventa: 13,
     },
     {
@@ -6037,7 +6037,7 @@ const data = [
         offerPrice: 29900,
         image: FIFA_23,
         imageDetails: FIFA_23,
-        Date: 26 / 9 / 2022,
+        Date: 2022/9/26,
         precioReventa: 20,
     },
     {
@@ -6052,7 +6052,7 @@ const data = [
         offerPrice: 75900,
         image: ELDEN_RING_SHADOW_ERDTREE,
         imageDetails: DETAILS_ELDEN_RING_SHADOW_ERDTREE,
-        Date: 21 / 6 / 2024,
+        Date: 2024/6/21,
         precioReventa: 35,
     },
     {
@@ -6067,7 +6067,7 @@ const data = [
         offerPrice: 75900,
         image: ELDEN_RING_SHADOW_ERDTREE,
         imageDetails: DETAILS_ELDEN_RING_SHADOW_ERDTREE,
-        Date: 21 / 6 / 2024,
+        Date: 2024/6/21,
         precioReventa: 35,
     },
     {
@@ -6082,7 +6082,7 @@ const data = [
         offerPrice: 69900,
         image: ELDEN_RING_MAS_SHADOW_ERDTREE,
         imageDetails: DETAILS_ELDEN_RING_MAS_SHADOW_ERDTREE,
-        Date: 21 / 6 / 2024,
+        Date: 2024/6/21,
         precioReventa: 59,
     },
     {
@@ -6097,7 +6097,7 @@ const data = [
         offerPrice: 69900,
         image: ELDEN_RING_MAS_SHADOW_ERDTREE,
         imageDetails: DETAILS_ELDEN_RING_MAS_SHADOW_ERDTREE,
-        Date: 21 / 6 / 2024,
+        Date: 2024/6/21,
         precioReventa: 59,
     },
     {
@@ -6112,7 +6112,7 @@ const data = [
         offerPrice: 49900,
         image: CONCORD,
         imageDetails: DETAILS_CONCORD,
-        Date: 23 / 8 / 2024,
+        Date: 2024/8/23,
         precioReventa: 35,
     },
     {
@@ -6127,7 +6127,7 @@ const data = [
         offerPrice: 69900,
         image: METRO_AWAKENING,
         imageDetails: DETAILS_METRO_AWAKENING,
-        Date: 23 / 11 / 2024,
+        Date: 2024/11/23,
         precioReventa: 45,
     },
     {
@@ -6142,7 +6142,7 @@ const data = [
         offerPrice: 69900,
         image: FARMING_SIMULATOR_25,
         imageDetails: DETAILS_FARMING_SIMULATOR_25,
-        Date: 23 / 11 / 2024,
+        Date: 2024/11/23,
         precioReventa: 45,
     },
     {
@@ -6157,7 +6157,7 @@ const data = [
         offerPrice: 69900,
         image: ASSASINS_CREED_SHADOWS,
         imageDetails: DETAILS_ASSASINS_CREED_SHADOWS,
-        Date: 15 / 11 / 2024,
+        Date: 2024/11/15,
         precioReventa: 45,
     },
     {
@@ -6172,7 +6172,7 @@ const data = [
         offerPrice: 59900,
         image: CALL_OF_DUTY_BO6,
         imageDetails: DETAILS_CALL_OF_DUTY_BO6,
-        Date: 25 / 10 / 2024,
+        Date: 2024/10/25,
         precioReventa: 45,
     },
     {
@@ -6187,7 +6187,7 @@ const data = [
         offerPrice: 59900,
         image: UNDISPUTED,
         imageDetails: DETAILS_UNDISPUTED,
-        Date: 8 / 10 / 2024,
+        Date: 2024/10/8,
         precioReventa: 45,
     },
     {
@@ -6202,7 +6202,7 @@ const data = [
         offerPrice: 59900,
         image: UNDISPUTED,
         imageDetails: DETAILS_UNDISPUTED,
-        Date: 10 / 10 / 2024,
+        Date: 2024/10/10,
         precioReventa: 45,
     },
     {
@@ -6217,7 +6217,7 @@ const data = [
         offerPrice: 59900,
         image: NBA_2K25,
         imageDetails: DETAILS_NBA_2K25,
-        Date: 6 / 9 / 2024,
+        Date: 2024/9/6,
         precioReventa: 45,
     },
     {
@@ -6232,7 +6232,7 @@ const data = [
         offerPrice: 59900,
         image: NBA_2K25,
         imageDetails: DETAILS_NBA_2K25,
-        Date: 6 / 9 / 2024,
+        Date: 2024/9/6,
         precioReventa: 45,
     },
     {
@@ -6247,7 +6247,7 @@ const data = [
         offerPrice: 59900,
         image: STAR_WARS_OUTLAWS,
         imageDetails: DETAILS_STAR_WARS_OUTLAWS,
-        Date: 30 / 8 / 2024,
+        Date: 2024/8/30,
         precioReventa: 45,
     },
     {
@@ -6262,7 +6262,7 @@ const data = [
         offerPrice: 39900,
         image: SEA_OF_THIEVES,
         imageDetails: DETAILS_SEA_OF_THIEVES,
-        Date: 30 / 4 / 2024,
+        Date: 2024/4/30,
         precioReventa: 45,
     },
     {
@@ -6277,7 +6277,7 @@ const data = [
         offerPrice: 69900,
         image: SEA_OF_THIEVES,
         imageDetails: DETAILS_SEA_OF_THIEVES,
-        Date: 22 / 3 / 2024,
+        Date: 2024/3/22,
         precioReventa: 55,
     },
     {
@@ -6292,7 +6292,7 @@ const data = [
         offerPrice: 59900,
         image: P3_PERSONA3,
         imageDetails: DETAILS_P3_PERSONA3,
-        Date: 22 / 3 / 2024,
+        Date: 2024/3/22,
         precioReventa: 45,
     },
     {
@@ -6307,7 +6307,7 @@ const data = [
         offerPrice: 59900,
         image: P3_PERSONA3,
         imageDetails: DETAILS_P3_PERSONA3,
-        Date: 22 / 3 / 2024,
+        Date: 2024/3/22,
         precioReventa: 45,
     },
     {
@@ -6322,7 +6322,7 @@ const data = [
         offerPrice: 9000,
         image: DUCATI,
         imageDetails: DETAILS_DUCATI,
-        Date: 9 / 6 / 2016,
+        Date: 2016/6/9,
         precioReventa: 9,
     },
     {
@@ -6337,7 +6337,7 @@ const data = [
         offerPrice: 9000,
         image: DUCATI,
         imageDetails: DETAILS_DUCATI,
-        Date: 9 / 6 / 2016,
+        Date: 2016/6/9,
         precioReventa: 9,
     },
     {
@@ -6352,7 +6352,7 @@ const data = [
         offerPrice: 9900,
         image: DYING_LIGHT,
         imageDetails: DETAILS_DYING_LIGHT,
-        Date: 27 / 1 / 2015,
+        Date: 2015/1/27,
         precioReventa: 9,
     },
     {
@@ -6367,7 +6367,7 @@ const data = [
         offerPrice: 19900,
         image: DYING_LIGHT_ENHANCED_EDITION,
         imageDetails: DYING_LIGHT_ENHANCED_EDITION,
-        Date: 21 / 8 / 2020,
+        Date: 2020/8/21,
         precioReventa: 15,
     },
     {
@@ -6382,7 +6382,7 @@ const data = [
         offerPrice: 19900,
         image: DYING_LIGHT_ENHANCED_EDITION,
         imageDetails: DYING_LIGHT_ENHANCED_EDITION,
-        Date: 21 / 8 / 2020,
+        Date: 2020/8/21,
         precioReventa: 15,
     },
     {
@@ -6395,9 +6395,9 @@ const data = [
         price: 39900,
         secondaryPrice: 38900,
         offerPrice: 10900,
-        image: AA,
-        imageDetails: AA,
-        Date: 30 / 10 / 2014,
+        image: EVOLVE,
+        imageDetails: EVOLVE,
+        Date: 2014/10/30,
         precioReventa: 10,
     },
     {
@@ -6412,7 +6412,7 @@ const data = [
         offerPrice: 10900,
         image: EVOLVE,
         imageDetails: EVOLVE,
-        Date: 30 / 10 / 2014,
+        Date: 2014/10/30,
         precioReventa: 10,
     },
     {
@@ -6427,7 +6427,7 @@ const data = [
         offerPrice: 10900,
         image: FALL_GUYS,
         imageDetails: DETAILS_FALL_GUYS,
-        Date: 21 / 6 / 2022,
+        Date: 2022/6/21,
         precioReventa: 10,
     },
     {
@@ -6442,7 +6442,7 @@ const data = [
         offerPrice: 10900,
         image: FALL_GUYS,
         imageDetails: DETAILS_FALL_GUYS,
-        Date: 21 / 6 / 2022,
+        Date: 2022/6/21,
         precioReventa: 10,
     },
     {
@@ -6457,7 +6457,7 @@ const data = [
         offerPrice: 24900,
         image: FARMING_SIMULATOR_19,
         imageDetails: DETAILS_FARMING_SIMULATOR_19,
-        Date: 20 / 11 / 2018,
+        Date: 2018/11/20,
         precioReventa: 20,
     },
     {
@@ -6472,7 +6472,7 @@ const data = [
         offerPrice: 24900,
         image: FARMING_SIMULATOR_19,
         imageDetails: DETAILS_FARMING_SIMULATOR_19,
-        Date: 20 / 11 / 2018,
+        Date: 2018/11/20,
         precioReventa: 20,
     },
     {
@@ -6487,7 +6487,22 @@ const data = [
         offerPrice: 19900,
         image: FARMING_SIMULATOR_17,
         imageDetails: DETAILS_FARMING_SIMULATOR_17,
-        Date: 25 / 10 / 2016,
+        Date: 2016/10/25,
+        precioReventa: 15,
+    },
+    {
+        id: 5481,
+        title: "Farming 17 Retro",
+        category: "PS5",
+        gender: "Simulador",
+        description:
+            "¡Conviértete en un granjero moderno en Farming Simulator 17! Sumérgete en un mundo abierto con una enorme cosecha de novedades. Explora las posibilidades de tu granja en cientos de hectáreas de terreno, incluyendo el nuevo y detallado escenario norteamericano. Conduce más de 250 vehículos agrícolas auténticos y equipamiento de 75 fabricantes, incluidas marcas nuevas tales como Challenger, Fendt, Valtra o Massey Ferguson.",
+        price: 29900,
+        secondaryPrice: 28900,
+        offerPrice: 19900,
+        image: FARMING_SIMULATOR_17,
+        imageDetails: DETAILS_FARMING_SIMULATOR_17,
+        Date: 2016/10/25,
         precioReventa: 15,
     },
     {
@@ -6502,22 +6517,7 @@ const data = [
         offerPrice: 19900,
         image: FARMING_SIMULATOR_17,
         imageDetails: DETAILS_FARMING_SIMULATOR_17,
-        Date: 25 / 10 / 2016,
-        precioReventa: 15,
-    },
-    {
-        id: 581,
-        title: "Farming 17 Retro",
-        category: "PS5",
-        gender: "Simulador",
-        description:
-            "¡Conviértete en un granjero moderno en Farming Simulator 17! Sumérgete en un mundo abierto con una enorme cosecha de novedades. Explora las posibilidades de tu granja en cientos de hectáreas de terreno, incluyendo el nuevo y detallado escenario norteamericano. Conduce más de 250 vehículos agrícolas auténticos y equipamiento de 75 fabricantes, incluidas marcas nuevas tales como Challenger, Fendt, Valtra o Massey Ferguson.",
-        price: 29900,
-        secondaryPrice: 28900,
-        offerPrice: 19900,
-        image: FARMING_SIMULATOR_17,
-        imageDetails: DETAILS_FARMING_SIMULATOR_17,
-        Date: 25 / 10 / 2016,
+        Date: 2016/10/25,
         precioReventa: 15,
     },
     {
@@ -6532,7 +6532,7 @@ const data = [
         offerPrice: 9900,
         image: FIFA_20,
         imageDetails: DETAILS_FIFA_20,
-        Date: 22 / 9 / 2019,
+        Date: 2019/9/22,
         precioReventa: 9,
     },
     {
@@ -6547,7 +6547,7 @@ const data = [
         offerPrice: 9900,
         image: FIFA_20,
         imageDetails: DETAILS_FIFA_20,
-        Date: 22 / 9 / 2019,
+        Date: 2019/9/22,
         precioReventa: 9,
     },
     {
@@ -6562,7 +6562,7 @@ const data = [
         offerPrice: 9900,
         image: FIREWATCH,
         imageDetails: DETAILS_FIREWATCH,
-        Date: 8 / 2 / 2016,
+        Date: 2016/2/8,
         precioReventa: 9,
     },
     {
@@ -6577,7 +6577,7 @@ const data = [
         offerPrice: 9900,
         image: FIREWATCH,
         imageDetails: DETAILS_FIREWATCH,
-        Date: 8 / 2 / 2016,
+        Date: 2016/2/8,
         precioReventa: 9,
     },
 

@@ -76,6 +76,7 @@ function Ecommerce({ item }) {
         }
       });
     }
+    console.log(filtered)
     setFilteredProducts(filtered);
   };
 
