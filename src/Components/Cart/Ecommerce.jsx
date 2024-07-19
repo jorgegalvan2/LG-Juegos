@@ -28,7 +28,16 @@ function Ecommerce({ item }) {
   }, [selectedCategory, searchTerm, sortOrder]); // Añade sortOrder al useEffect
 
   useEffect(() => {
-      setProducts(ProductService);
+
+    const ordenarPorFechaReciente = (a, b) => {
+      const fechaA = new Date(a.Date);
+      const fechaB = new Date(b.Date);
+      return fechaB - fechaA; // Para ordenar de la más reciente a la más antigua
+    };
+
+    const productosOrdenados = ProductService.sort(ordenarPorFechaReciente);
+
+      setProducts(productosOrdenados);
       setFilteredProducts(ProductService.filter(product => product.category === 'PS4'));
       const categoriesData = [...new Set(ProductService.map(product => product.category))];
       setCategories(categoriesData);
@@ -76,7 +85,8 @@ function Ecommerce({ item }) {
         }
       });
     }
-    console.log(filtered)
+    
+    
     setFilteredProducts(filtered);
   };
 

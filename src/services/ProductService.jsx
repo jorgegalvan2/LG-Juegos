@@ -311,7 +311,7 @@ import FARMING_SIMULATOR_19 from '../assets/img/Catalogue/Playstation_4_5/FARMIN
 import FIREWATCH from '../assets/img/Catalogue/Playstation_4_5/FIREWATCH.jpeg';
 import FIFA_20 from '../assets/img/Catalogue/Playstation_4_5/FIFA_20.jpeg';
 import EVOLVE from '../assets/img/Catalogue/Playstation_4_5/EVOLVE.jpg';
-
+import FIFA_25 from '../assets/img/Catalogue/Playstation_4_5/FIFA_25.jpeg';
 
 
 
@@ -507,6 +507,8 @@ import DETAILS_FARMING_SIMULATOR_17 from '../assets/img/Catalogue/imgDetails-PS4
 import DETAILS_FARMING_SIMULATOR_19 from '../assets/img/Catalogue/imgDetails-PS4-PS5/FARMING_SIMULATOR_19.jpeg';
 import DETAILS_FIREWATCH from '../assets/img/Catalogue/imgDetails-PS4-PS5/FIREWATCH.jpeg';
 import DETAILS_GOW_RAGNAROK_VALHALLA from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINSCREED-VALHALLA_RAGNAROK.jpeg';
+import DETAILS_FIFA_25 from '../assets/img/Catalogue/imgDetails-PS4-PS5/FIFA_25.jpeg';
+
 
 import AA from "../assets/img/logo-lg.png";
 
@@ -521,7 +523,7 @@ const data = [
         "offerPrice": 4990 ,
         "image": FIFA_19,
         "imageDetails": FIFA_19,
-        "Date": 2018/9/13,
+        "Date":" 2018/9/13",
         "precioReventa": 4000
         },
     { 
@@ -534,7 +536,7 @@ const data = [
         "offerPrice": 4990 ,
         "image": MINECRAFT_PS3,
         "imageDetails": MINECRAFT_PS3,
-        "Date": 2013/12/17,
+        "Date":" 2013/12/17",
         "precioReventa": 4500
         },
     { 
@@ -547,7 +549,7 @@ const data = [
         "offerPrice": 4990 ,
         "image": CALL_OF_DUTY_BO3_NEW,
         "imageDetails": CALL_OF_DUTY_BO3_NEW,
-        "Date": 2013/12/17,
+        "Date":" 2013/12/17",
         "precioReventa": 4500
         },
     { 
@@ -560,7 +562,7 @@ const data = [
         "offerPrice":  0,
         "image": CALL_OF_DUTY_BLACK_OPS_2,
         "imageDetails": CALL_OF_DUTY_BLACK_OPS_2,
-        "Date": 2012/11/12,
+        "Date":" 2012/11/12",
         "precioReventa": 5900
         },
     { 
@@ -573,7 +575,7 @@ const data = [
         "offerPrice": 3990 ,
         "image": FIFA_STREET,
         "imageDetails": FIFA_STREET,
-        "Date": 2012/11/12,
+        "Date":" 2012/11/12",
         "precioReventa": 3500
         },
     { 
@@ -586,7 +588,7 @@ const data = [
         "offerPrice": 4990 ,
         "image": LEGO_HARRY_POTTER,
         "imageDetails": LEGO_HARRY_POTTER,
-        "Date": 2010/6/24,
+        "Date":" 2010/6/24",
         "precioReventa": 4500
         },
     { 
@@ -599,7 +601,7 @@ const data = [
         "offerPrice": 4900 ,
         "image": FARMING_SIMULATOR_15,
         "imageDetails": FARMING_SIMULATOR_15,
-        "Date": 2014/9/30,
+        "Date":" 2014/9/30",
         "precioReventa": 4500
         },
     { 
@@ -612,7 +614,7 @@ const data = [
         "offerPrice": 8900 ,
         "image": GRAN_TURISMO_6,
         "imageDetails": GRAN_TURISMO_6,
-        "Date": 2013/12/9,
+        "Date":" 2013/12/9",
         "precioReventa": 7900
         },
     { 
@@ -625,7 +627,7 @@ const data = [
         "offerPrice": 8900 ,
         "image": ULTIMATE_ACTION_TRIPLE_PACK,
         "imageDetails": ULTIMATE_ACTION_TRIPLE_PACK,
-        "Date": 2014/9/31,
+        "Date":" 2014/9/31",
         "precioReventa": 7900
         },
     { 
@@ -638,7 +640,7 @@ const data = [
         "offerPrice": 8900 ,
         "image": GTA_SAN_ANDREAS_PS3,
         "imageDetails": GTA_SAN_ANDREAS_PS3,
-        "Date": 2014/9/31,
+        "Date":" 2014/9/31",
         "precioReventa": 7900
         },
     { 
@@ -651,7 +653,7 @@ const data = [
         "offerPrice":  0,
         "image": JUST_CAUSE_2,
         "imageDetails": JUST_CAUSE_2,
-        "Date": 2010/3/23,
+        "Date":" 2010/3/23",
         "precioReventa": 3000
         },
     { 
@@ -664,7 +666,7 @@ const data = [
         "offerPrice": 0 ,
         "image": DRAGON_AGE_INQUISITION,
         "imageDetails": DETAILS_DRAGON_AGE_INQUISITION,
-        "Date": 2014/11/18,
+        "Date":" 2014/11/18",
         "precioReventa": 3000
         },
     { 
@@ -677,7 +679,7 @@ const data = [
         "offerPrice": 8900 ,
         "image": DIRT_3,
         "imageDetails": DIRT_3,
-        "Date": 2014/11/18,
+        "Date":" 2014/11/18",
         "precioReventa": 7900
         },
     { 
@@ -690,7 +692,7 @@ const data = [
         "offerPrice": 0 ,
         "image": ASSASINS_CREED_ROGUE,
         "imageDetails": ASSASINS_CREED_ROGUE,
-        "Date": 2014/11/11,
+        "Date":" 2014/11/11",
         "precioReventa": 4900
         },
     { 
@@ -703,7 +705,7 @@ const data = [
         "offerPrice": 4900 ,
         "image": BATTLEFIELD_4_PS3,
         "imageDetails": BATTLEFIELD_4_PS3,
-        "Date": 2014/2/18,
+        "Date":" 2014/2/18",
         "precioReventa": 3900
         },
     { 
@@ -716,7 +718,7 @@ const data = [
         "offerPrice": 0 ,
         "image": CALL_OF_DUTY_BLACK_OPS,
         "imageDetails": CALL_OF_DUTY_BLACK_OPS,
-        "Date": 2010/11/9,
+        "Date":" 2010/11/9",
         "precioReventa": 3900
         },
     { 
@@ -729,7 +731,7 @@ const data = [
         "offerPrice": 3900 ,
         "image": PES_2018,
         "imageDetails": PES_2018,
-        "Date": 2017/9/12,
+        "Date":" 2017/9/12",
         "precioReventa": 3000
         },
     { 
@@ -742,7 +744,7 @@ const data = [
         "offerPrice": 0 ,
         "image": PES_2016,
         "imageDetails": PES_2016,
-        "Date": 2015/9/15,
+        "Date":" 2015/9/15",
         "precioReventa": 2900
         },
     { 
@@ -755,7 +757,7 @@ const data = [
         "offerPrice": 9900 ,
         "image": NBA_2K18,
         "imageDetails": NBA_2K18,
-        "Date": 2015/9/15,
+        "Date":" 2015/9/15",
         "precioReventa": 9000
         },
     { 
@@ -768,7 +770,7 @@ const data = [
         "offerPrice": 0 ,
         "image": NBA_2K17,
         "imageDetails": NBA_2K17,
-        "Date": 2015/9/15,
+        "Date":" 2015/9/15",
         "precioReventa": 5900
         },
     { 
@@ -781,7 +783,7 @@ const data = [
         "offerPrice": 0 ,
         "image": NBA_2K16,
         "imageDetails": NBA_2K16,
-        "Date": 2015/9/15,
+        "Date":" 2015/9/15",
         "precioReventa": 5900
         },
     { 
@@ -794,7 +796,7 @@ const data = [
         "offerPrice": 2990 ,
         "image": FIFA_18,
         "imageDetails": FIFA_18,
-        "Date": 2017/9/15,
+        "Date":" 2017/9/15",
         "precioReventa": 2900
         },
     { 
@@ -807,7 +809,7 @@ const data = [
         "offerPrice": 6900 ,
         "image": W_2K17,
         "imageDetails": W_2K17,
-        "Date": 2016/10/11,
+        "Date":" 2016/10/11",
         "precioReventa": 6000
         },
     { 
@@ -820,7 +822,7 @@ const data = [
         "offerPrice": 7900 ,
         "image": MORTAL_KOMBAT_KOMPLETE_EDITION,
         "imageDetails": MORTAL_KOMBAT_KOMPLETE_EDITION,
-        "Date": 2011/4/19,
+        "Date":" 2011/4/19",
         "precioReventa": 7000
         },
     { 
@@ -833,7 +835,7 @@ const data = [
         "offerPrice": 6900 ,
         "image": ULTRA_STREET_FIGHTER,
         "imageDetails": ULTRA_STREET_FIGHTER,
-        "Date": 2014/4/18,
+        "Date":" 2014/4/18",
         "precioReventa": 6000
         },
     { 
@@ -846,7 +848,7 @@ const data = [
         "offerPrice": 0 ,
         "image": FIGHT_NIGHT_CHAMPION,
         "imageDetails": FIGHT_NIGHT_CHAMPION,
-        "Date": 2010/4/26,
+        "Date":" 2010/4/26",
         "precioReventa": 5500
         },
     { 
@@ -859,7 +861,7 @@ const data = [
         "offerPrice": 4900 ,
         "image": CARS_3_DRIVEN_TO_WIN_PS3,
         "imageDetails": CARS_3_DRIVEN_TO_WIN_PS3,
-        "Date": 2017/5/13,
+        "Date":" 2017/5/13",
         "precioReventa": 3990
         },
     { 
@@ -872,7 +874,7 @@ const data = [
         "offerPrice": 6900  ,
         "image": F1_2014,
         "imageDetails": F1_2014,
-        "Date": 2017/5/13,
+        "Date":" 2017/5/13",
         "precioReventa": 6900
         },
     { 
@@ -885,7 +887,7 @@ const data = [
         "offerPrice": 6900  ,
         "image": MOTO_GP_15,
         "imageDetails": MOTO_GP_15,
-        "Date": 2015/6/24,
+        "Date":" 2015/6/24",
         "precioReventa": 6900
         },
     { 
@@ -898,7 +900,7 @@ const data = [
         "offerPrice": 5990  ,
         "image": WRC_4,
         "imageDetails": WRC_4,
-        "Date": 2015/6/24,
+        "Date":" 2015/6/24",
         "precioReventa": 5500
         },
     { 
@@ -911,7 +913,7 @@ const data = [
         "offerPrice": 8900 ,
         "image": NEED_FOR_SPEED_RIVALS,
         "imageDetails": NEED_FOR_SPEED_RIVALS,
-        "Date": 2013/11/15,
+        "Date":" 2013/11/15",
         "precioReventa": 8900
         },
     { 
@@ -924,7 +926,7 @@ const data = [
         "offerPrice": 7900,
         "image": WRC_5,
         "imageDetails": WRC_5,
-        "Date": 2013/11/15,
+        "Date":" 2013/11/15",
         "precioReventa": 6900
         },
     { 
@@ -937,7 +939,7 @@ const data = [
         "offerPrice": 0  ,
         "image": PLANTS_VS_ZOMBIES_GARDEN_WARFARE,
         "imageDetails": PLANTS_VS_ZOMBIES_GARDEN_WARFARE,
-        "Date": 2009/5/5,
+        "Date":" 2009/5/5",
         "precioReventa": 4000
         },
     { 
@@ -950,7 +952,7 @@ const data = [
         "offerPrice": 0 ,
         "image": LEGO_JURASSIC_WORLD,
         "imageDetails": LEGO_JURASSIC_WORLD,
-        "Date": 2015/6/12,
+        "Date":" 2015/6/12",
         "precioReventa": 5500
         },
     { 
@@ -963,7 +965,7 @@ const data = [
         "offerPrice": 0  ,
         "image": BATMAN_3_BEYOND_GOTHAM,
         "imageDetails": BATMAN_3_BEYOND_GOTHAM,
-        "Date": 2014/11/11,
+        "Date":" 2014/11/11",
         "precioReventa": 4990
         },
     { 
@@ -976,7 +978,7 @@ const data = [
         "offerPrice": 0  ,
         "image": LEGO_MARVEL_AVENGERS,
         "imageDetails": LEGO_MARVEL_AVENGERS,
-        "Date": 2016/1/26,
+        "Date":" 2016/1/26",
         "precioReventa": 6990
         },
     { 
@@ -989,7 +991,7 @@ const data = [
         "offerPrice":  7900 ,
         "image": MINECRAFT_STORY_MODE,
         "imageDetails": MINECRAFT_STORY_MODE,
-        "Date": 2015/10/13,
+        "Date":" 2015/10/13",
         "precioReventa": 7900
         },
     { 
@@ -1002,7 +1004,7 @@ const data = [
         "offerPrice": 8900  ,
         "image": SONIC_GENERATIONS,
         "imageDetails": SONIC_GENERATIONS,
-        "Date": 2011/1/1,
+        "Date":" 2011/1/1",
         "precioReventa": 7990
         },
     { 
@@ -1015,7 +1017,7 @@ const data = [
         "offerPrice": 4900  ,
         "image": WATCH_DOGS,
         "imageDetails": WATCH_DOGS,
-        "Date": 2014/5/26,
+        "Date":" 2014/5/26",
         "precioReventa": 4500
         },
     { 
@@ -1028,7 +1030,7 @@ const data = [
         "offerPrice": 0 ,
         "image": UNCHARTED_3_DRAKE_DECEPTION,
         "imageDetails": UNCHARTED_3_DRAKE_DECEPTION,
-        "Date": 2011/11/1,
+        "Date":" 2011/11/1",
         "precioReventa": 7500
         },
     { 
@@ -1041,7 +1043,7 @@ const data = [
         "offerPrice": 7900 ,
         "image": THE_LAST_OF_US,
         "imageDetails": THE_LAST_OF_US,
-        "Date": 2013/6/14,
+        "Date":" 2013/6/14",
         "precioReventa": 7990
         },
     { 
@@ -1054,7 +1056,7 @@ const data = [
         "offerPrice": 0  ,
         "image": THE_EVIL_WITHIN,
         "imageDetails": THE_EVIL_WITHIN,
-        "Date": 2014/10/14,
+        "Date":" 2014/10/14",
         "precioReventa": 5500
         },
     { 
@@ -1067,7 +1069,7 @@ const data = [
         "offerPrice": 0  ,
         "image": SNIPER_ELITE_3_ULTIMATE_EDITION,
         "imageDetails": SNIPER_ELITE_3_ULTIMATE_EDITION,
-        "Date": 2014/6/26,
+        "Date":" 2014/6/26",
         "precioReventa": 5500
         },
     { 
@@ -1080,7 +1082,7 @@ const data = [
         "offerPrice":5900 ,
         "image": SHADOW_OF_MORDOR,
         "imageDetails": SHADOW_OF_MORDOR,
-        "Date": 2014/9/30,
+        "Date":" 2014/9/30",
         "precioReventa": 5900
         },
     { 
@@ -1093,7 +1095,7 @@ const data = [
         "offerPrice": 7900  ,
         "image": RESIDENT_EVIL_6,
         "imageDetails": RESIDENT_EVIL_6,
-        "Date": 2012/10/2,
+        "Date":" 2012/10/2",
         "precioReventa": 7900
         },
     { 
@@ -1106,7 +1108,7 @@ const data = [
         "offerPrice": 6900  ,
         "image": RESIDENT_EVIL_5_PS3,
         "imageDetails": RESIDENT_EVIL_5_PS3,
-        "Date": 2012/10/2,
+        "Date":" 2012/10/2",
         "precioReventa": 6500
         },
     { 
@@ -1119,7 +1121,7 @@ const data = [
         "offerPrice": 9900  ,
         "image": RED_DEAD_REDEMPTION,
         "imageDetails": RED_DEAD_REDEMPTION,
-        "Date": 2010/5/18,
+        "Date":" 2010/5/18",
         "precioReventa": 9900
         },
     { 
@@ -1132,7 +1134,7 @@ const data = [
         "offerPrice": 14900  ,
         "image": RED_DEAD_REDEMPTION_YEAR_EDITION,
         "imageDetails": RED_DEAD_REDEMPTION_YEAR_EDITION,
-        "Date": 2010/5/18,
+        "Date":" 2010/5/18",
         "precioReventa": 14900
         },
     { 
@@ -1145,7 +1147,7 @@ const data = [
         "offerPrice": 0  ,
         "image": ONE_PIECE_PIRATE_WARRIORS_3,
         "imageDetails": ONE_PIECE_PIRATE_WARRIORS_3,
-        "Date": 2010/5/18,
+        "Date":" 2010/5/18",
         "precioReventa": 7900
         },
     { 
@@ -1158,7 +1160,7 @@ const data = [
         "offerPrice": 0  ,
         "image": NEED_FOR_SPEED_MOST_WANTED,
         "imageDetails": NEED_FOR_SPEED_MOST_WANTED,
-        "Date": 2012/10/30,
+        "Date":" 2012/10/30",
         "precioReventa": 6990
         },
     { 
@@ -1171,7 +1173,7 @@ const data = [
         "offerPrice": 0  ,
         "image": NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM,
         "imageDetails": NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM,
-        "Date": 2014/9/11,
+        "Date":" 2014/9/11",
         "precioReventa": 7990
         },
     { 
@@ -1184,7 +1186,7 @@ const data = [
         "offerPrice": 0  ,
         "image": METAL_GEAR_SOLID_V,
         "imageDetails": METAL_GEAR_SOLID_V,
-        "Date": 2015/9/1,
+        "Date":" 2015/9/1",
         "precioReventa": 5900
         },
     { 
@@ -1197,7 +1199,7 @@ const data = [
         "offerPrice": 0  ,
         "image": METAL_GEAR_SOLID_THE_PANTOM_PAIN,
         "imageDetails": METAL_GEAR_SOLID_THE_PANTOM_PAIN,
-        "Date": 2014/3/18,
+        "Date":" 2014/3/18",
         "precioReventa": 5900
         },
     { 
@@ -1210,7 +1212,7 @@ const data = [
         "offerPrice": 6900 ,
         "image": LITTLE_BIG_PLANET_3,
         "imageDetails": LITTLE_BIG_PLANET_3,
-        "Date": 2014/11/18,
+        "Date":" 2014/11/18",
         "precioReventa": 6900
         },
     { 
@@ -1223,7 +1225,7 @@ const data = [
         "offerPrice":0 ,
         "image": JUST_DANCE_2018,
         "imageDetails": JUST_DANCE_2018,
-        "Date": 2017/10/24,
+        "Date":" 2017/10/24",
         "precioReventa": 9590
         },
     { 
@@ -1236,7 +1238,7 @@ const data = [
         "offerPrice": 0,
         "image": JUST_DANCE_2017,
         "imageDetails": JUST_DANCE_2017,
-        "Date": 2016/10/25,
+        "Date":" 2016/10/25",
         "precioReventa": 9900
         },
     { 
@@ -1249,7 +1251,7 @@ const data = [
         "offerPrice": 0 ,
         "image": INJUSTICE_GODS_AMONG_US_ULTIMATE_EDITION,
         "imageDetails": INJUSTICE_GODS_AMONG_US_ULTIMATE_EDITION,
-        "Date": 2013/4/3,
+        "Date":" 2013/4/3",
         "precioReventa": 5000
         },
     { 
@@ -1262,7 +1264,7 @@ const data = [
         "offerPrice": 0 ,
         "image": HITMAN_ABSOLUTION,
         "imageDetails": HITMAN_ABSOLUTION,
-        "Date": 2012/11/20,
+        "Date":" 2012/11/20",
         "precioReventa": 7900
         },
     { 
@@ -1275,7 +1277,7 @@ const data = [
         "offerPrice": 5900  ,
         "image": GTA_V_PS3,
         "imageDetails": GTA_V_PS3,
-        "Date": 2013/9/17,
+        "Date":" 2013/9/17",
         "precioReventa": 6500
         },
     { 
@@ -1288,7 +1290,7 @@ const data = [
         "offerPrice": 8900  ,
         "image": GOD_OF_WAR_ASENSION,
         "imageDetails": GOD_OF_WAR_ASENSION,
-        "Date": 2013/1/19,
+        "Date":" 2013/1/19",
         "precioReventa": 7990
         },
         { 
@@ -1301,7 +1303,7 @@ const data = [
         "offerPrice": 7900  ,
         "image": RESIDENT_EVIL_0,
         "imageDetails": RESIDENT_EVIL_0,
-        "Date": 12/11/20002,
+        "Date": "12/11/2002",
         "precioReventa": 6990
         },
         { 
@@ -1314,7 +1316,7 @@ const data = [
         "offerPrice": 5900  ,
         "image": BATTLEFIELD_HARDLINE,
         "imageDetails": BATTLEFIELD_HARDLINE,
-        "Date": 2015/3/17,
+        "Date":" 2015/3/17",
         "precioReventa": 6900
         },
         { 
@@ -1327,7 +1329,7 @@ const data = [
         "offerPrice": 5900  ,
         "image": DRAGON_BALL_XENOVERSE,
         "imageDetails": DRAGON_BALL_XENOVERSE,
-        "Date": 2014/10/4,
+        "Date":" 2014/10/4",
         "precioReventa": 5990
         },
         { 
@@ -1340,7 +1342,7 @@ const data = [
         "offerPrice": 6900  ,
         "image": XENOVERSE_DLC,
         "imageDetails": XENOVERSE_DLC,
-        "Date": 2014/10/4,
+        "Date":" 2014/10/4",
         "precioReventa": 7990
         },
         { 
@@ -1353,7 +1355,7 @@ const data = [
             "offerPrice": 7900  ,
             "image": DESTINY,
             "imageDetails": DESTINY,
-            "Date": 2015/9/15,
+            "Date":" 2015/9/15",
             "precioReventa": 900
             },
             { 
@@ -1366,7 +1368,7 @@ const data = [
             "offerPrice": 3900  ,
             "image": FARCRY_4,
             "imageDetails": FARCRY_4,
-            "Date": 2014/11/17,
+            "Date":" 2014/11/17",
             "precioReventa": 2900
             },
             { 
@@ -1379,7 +1381,7 @@ const data = [
             "offerPrice": 9900  ,
             "image": ALIEN_ISOLATION,
             "imageDetails": ALIEN_ISOLATION,
-            "Date": 2014/10/6,
+            "Date":" 2014/10/6",
             "precioReventa": 9900
             },
             { 
@@ -1392,7 +1394,7 @@ const data = [
             "offerPrice": 6900  ,
             "image": ASSASINS_CREED_ROGUE,
             "imageDetails": ASSASINS_CREED_ROGUE,
-            "Date": 2014/1/19,
+            "Date":" 2014/1/19",
             "precioReventa": 6000
             },
             { 
@@ -1405,7 +1407,7 @@ const data = [
             "offerPrice": 6900  ,
             "image": ASSASINS_CREED_BLACKFLAG,
             "imageDetails": ASSASINS_CREED_BLACKFLAG,
-            "Date": 2014/11/13,
+            "Date":" 2014/11/13",
             "precioReventa": 5990
             },
             { 
@@ -1418,7 +1420,7 @@ const data = [
             "offerPrice": 10900  ,
             "image": ATTACK_ON_TITAN,
             "imageDetails": ATTACK_ON_TITAN,
-            "Date": 2016/1/19,
+            "Date":" 2016/1/19",
             "precioReventa": 10000
             },
             { 
@@ -1431,7 +1433,7 @@ const data = [
             "offerPrice": 7900  ,
             "image": BRAVE,
             "imageDetails": BRAVE,
-            "Date": 2012/6/19,
+            "Date":" 2012/6/19",
             "precioReventa": 7000
             },
             
@@ -1445,7 +1447,7 @@ const data = [
                 "offerPrice": 8900  ,
                 "image": CALL_OF_DUTY_ADVANCED_WARFARE,
                 "imageDetails": CALL_OF_DUTY_ADVANCED_WARFARE,
-                "Date": 2014/11/3,
+                "Date":" 2014/11/3",
                 "precioReventa": 8500
             },
         { 
@@ -1458,7 +1460,7 @@ const data = [
             "offerPrice": 8900  ,
             "image": CALL_OF_DUTY_GHOSTS,
             "imageDetails": CALL_OF_DUTY_GHOSTS,
-            "Date": 2013/11/5,
+            "Date":" 2013/11/5",
             "precioReventa": 8500
         },
         { 
@@ -1471,7 +1473,7 @@ const data = [
             "offerPrice": 7900  ,
             "image": F1_2014,
             "imageDetails": F1_2014,
-            "Date": 2014/10/17,
+            "Date":" 2014/10/17",
             "precioReventa": 6990
         },
         { 
@@ -1484,7 +1486,7 @@ const data = [
             "offerPrice": 8900  ,
             "image": LEGO_STAR_WARS_PS3,
             "imageDetails": LEGO_STAR_WARS_PS3,
-            "Date": 2016/6/13,
+            "Date":" 2016/6/13",
             "precioReventa": 8900
         },
         { 
@@ -1497,7 +1499,7 @@ const data = [
             "offerPrice": 6900  ,
             "image": LEGO_MARVEL_SUPERHEROES,
             "imageDetails": LEGO_MARVEL_SUPERHEROES,
-            "Date": 2013/10/15,
+            "Date":" 2013/10/15",
             "precioReventa": 6500
         },
         { 
@@ -1510,7 +1512,7 @@ const data = [
             "offerPrice": 6900  ,
             "image": MAX_PAYNE_3,
             "imageDetails": MAX_PAYNE_3,
-            "Date": 2012/5/15,
+            "Date":" 2012/5/15",
             "precioReventa": 6900
         },
         { 
@@ -1523,7 +1525,7 @@ const data = [
             "offerPrice": 7900  ,
             "image": NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM,
             "imageDetails": NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM,
-            "Date": 2014/9/1,
+            "Date":" 2014/9/1",
             "precioReventa": 6990
         },
         { 
@@ -1536,7 +1538,7 @@ const data = [
             "offerPrice": 9690  ,
             "image": CALL_OF_DUTY_ADVANCED_WARFARE_PRO_EDITION,
             "imageDetails": CALL_OF_DUTY_ADVANCED_WARFARE_PRO_EDITION,
-            "Date": 2014/10/28,
+            "Date":" 2014/10/28",
             "precioReventa": 8990
         },
         { 
@@ -1549,7 +1551,7 @@ const data = [
             "offerPrice": 9500  ,
             "image": FARCRY_3_FARCRY_4,
             "imageDetails": FARCRY_3_FARCRY_4,
-            "Date": 2014/10/28,
+            "Date":" 2014/10/28",
             "precioReventa": 8990
         },
         { 
@@ -1562,7 +1564,7 @@ const data = [
             "offerPrice": 2990  ,
             "image": PES_2017,
             "imageDetails": PES_2017,
-            "Date": 2016/10/28,
+            "Date":" 2016/10/28",
             "precioReventa": 2990
         },
         { 
@@ -1575,7 +1577,7 @@ const data = [
             "offerPrice": 6590  ,
             "image": PAYDAY_2,
             "imageDetails": PAYDAY_2,
-            "Date": 2015/6/16,
+            "Date":" 2015/6/16",
             "precioReventa": 5990
         },
         { 
@@ -1588,7 +1590,7 @@ const data = [
             "offerPrice": 7990  ,
             "image": FARCRY_4_GOLD_EDITION,
             "imageDetails": FARCRY_4_GOLD_EDITION,
-            "Date": 2014/11/18,
+            "Date":" 2014/11/18",
             "precioReventa": 7000
         },
         { 
@@ -1601,7 +1603,7 @@ const data = [
             "offerPrice": 7990  ,
             "image": LEGO_MARVEL_AVENGERS_DELUXE_EDITION,
             "imageDetails": LEGO_MARVEL_AVENGERS_DELUXE_EDITION,
-            "Date": 2016/1/26,
+            "Date":" 2016/1/26",
             "precioReventa": 6990
         },
         { 
@@ -1614,7 +1616,7 @@ const data = [
             "offerPrice": 5990  ,
             "image": BATTLEFIELD_4,
             "imageDetails": BATTLEFIELD_4,
-            "Date": 2013/11/29,
+            "Date":" 2013/11/29",
             "precioReventa": 5590
         },
         { 
@@ -1627,7 +1629,7 @@ const data = [
             "offerPrice": 6990  ,
             "image": DIABLO,
             "imageDetails": DIABLO,
-            "Date": 2014/3/25,
+            "Date":" 2014/3/25",
             "precioReventa": 7990
         },
         { 
@@ -1640,7 +1642,7 @@ const data = [
             "offerPrice": 6990  ,
             "image": TOY_STORY_3,
             "imageDetails": TOY_STORY_3,
-            "Date": 2010/6/15,
+            "Date":" 2010/6/15",
             "precioReventa": 7990
         },
         { 
@@ -1653,7 +1655,7 @@ const data = [
             "offerPrice": 5990  ,
             "image": BATMAN_ARKHAM_ORIGINS,
             "imageDetails": BATMAN_ARKHAM_ORIGINS,
-            "Date": 2013/10/25,
+            "Date":" 2013/10/25",
             "precioReventa": 5990
         },
         { 
@@ -1666,7 +1668,7 @@ const data = [
             "offerPrice": 5990  ,
             "image": BEYOND_TWO_SOULS,
             "imageDetails": BEYOND_TWO_SOULS,
-            "Date": 2013/10/8,
+            "Date":" 2013/10/8",
             "precioReventa": 5990
         },
         { 
@@ -1679,7 +1681,7 @@ const data = [
             "offerPrice": 5990  ,
             "image": BIOSHOCK,
             "imageDetails": BIOSHOCK,
-            "Date": 2007/8/21,
+            "Date":" 2007/8/21",
             "precioReventa": 5990
         },
         { 
@@ -1692,7 +1694,7 @@ const data = [
             "offerPrice": 5990  ,
             "image": BORDERLANDS_2,
             "imageDetails": BORDERLANDS_2,
-            "Date": 2012/9/21,
+            "Date":" 2012/9/21",
             "precioReventa": 5990
         },
         { 
@@ -1705,7 +1707,7 @@ const data = [
             "offerPrice": 5990  ,
             "image": BRAVE,
             "imageDetails": BRAVE,
-            "Date": 2016/1/20,
+            "Date":" 2016/1/20",
             "precioReventa": 5990
         },
         { 
@@ -1718,7 +1720,7 @@ const data = [
             "offerPrice": 12900  ,
             "image": CALL_OF_DUTY_MODERN_WARFARE_TRILOGY,
             "imageDetails": CALL_OF_DUTY_MODERN_WARFARE_TRILOGY,
-            "Date": 2003/10/29,
+            "Date":" 2003/10/29",
             "precioReventa": 12500
         },
         { 
@@ -1731,7 +1733,7 @@ const data = [
             "offerPrice": 8590 ,
             "image": FIFA_19,
             "imageDetails": FIFA_19,
-            "Date": 2018/9/13,
+            "Date":" 2018/9/13",
             "precioReventa": 8000
         },
         {   "id": 332,  
@@ -1743,7 +1745,7 @@ const data = [
             "offerPrice": 7990 ,
             "image": P5_PERSONA,
             "imageDetails": P5_PERSONA,
-            "Date": 2016/9/15,
+            "Date":" 2016/9/15",
             "precioReventa": 7000
         },
                 
@@ -1756,7 +1758,7 @@ const data = [
             "offerPrice": 7990 ,
             "image": RAYMAN_LEGENDS,
             "imageDetails": RAYMAN_LEGENDS,
-            "Date": 2016/9/15,
+            "Date":" 2016/9/15",
             "precioReventa": 7000
         },
                     
@@ -1770,7 +1772,7 @@ const data = [
             "offerPrice": 7990 ,
             "image": SAINT_SEIYA,
             "imageDetails": SAINT_SEIYA,
-            "Date": 2015/9/5,
+            "Date":" 2015/9/5",
             "precioReventa": 7000
         },
         { 
@@ -1783,7 +1785,7 @@ const data = [
             "offerPrice": 7990 ,
             "image": SONIC_ADVENTURE,
             "imageDetails": SONIC_ADVENTURE,
-            "Date": 2010/9/22,
+            "Date":" 2010/9/22",
             "precioReventa": 7000
         },
         { 
@@ -1796,7 +1798,7 @@ const data = [
             "offerPrice": 7990 ,
             "image": LEFT_BEHIND,
             "imageDetails": LEFT_BEHIND,
-            "Date": 2014/2/14,
+            "Date":" 2014/2/14",
             "precioReventa": 7000
         },
         { 
@@ -1809,7 +1811,7 @@ const data = [
             "offerPrice": 7990 ,
             "image": TOMB_RAIDER,
             "imageDetails": TOMB_RAIDER,
-            "Date": 2014/2/14,
+            "Date":" 2014/2/14",
             "precioReventa": 7000
         },
         { 
@@ -1822,7 +1824,7 @@ const data = [
             "offerPrice": 10900 ,
             "image": NEED_FOR_SPEED_RIVALS,
             "imageDetails": NEED_FOR_SPEED_RIVALS,
-            "Date": 2013/11/15,
+            "Date":" 2013/11/15",
             "precioReventa": 9900
         },
         {
@@ -1837,7 +1839,7 @@ const data = [
         offerPrice: 49900,
         image: TOPSPIN2K25,
         imageDetails: DETAILS_TOPSPIN2K25,
-        Date: 2024/4/26,
+        Date: "2024/4/26",
         precioReventa: 45,
     },
     {
@@ -1852,7 +1854,7 @@ const data = [
         offerPrice: 49900,
         image: TOPSPIN2K25,
         imageDetails: DETAILS_TOPSPIN2K25,
-        Date: 2024/4/26,
+        Date: "2024/4/26",
         precioReventa: 45,
     },
     {
@@ -1867,7 +1869,7 @@ const data = [
         offerPrice: 0,
         image: BLADE,
         imageDetails: DETAILS_BLADE,
-        Date: 2024/4/26,
+        Date: "2024/4/26",
         precioReventa: 49,
     },
     {
@@ -1882,7 +1884,7 @@ const data = [
         offerPrice: 39900,
         image: MIDNIGHT_SUNS, //--------------------------------------------
         imageDetails: DETAILS_MIDNIGHT_SUNS,
-        Date: 2022/10/7,
+        Date: "2022/10/7",
         precioReventa: 30,
     },
     {
@@ -1897,7 +1899,7 @@ const data = [
         offerPrice: 39900,
         image: MIDNIGHT_SUNS, //--------------------------------------------
         imageDetails: DETAILS_MIDNIGHT_SUNS,
-        Date: 2022/10/7,
+        Date: "2022/10/7",
         precioReventa: 30,
     },
     {
@@ -1912,7 +1914,7 @@ const data = [
         offerPrice: 39900,
         image: RE4_REMASTERED,
         imageDetails: DETAILS_RE4_REMASTERED,
-        Date: 2023/3/24,
+        Date: "2023/3/24",
         precioReventa: 35,
     },
     {
@@ -1927,7 +1929,7 @@ const data = [
         offerPrice: 39900,
         image: RE4_REMASTERED,
         imageDetails: DETAILS_RE4_REMASTERED,
-        Date: 2023/3/24,
+        Date: "2023/3/24",
         precioReventa: 35,
     },
     {
@@ -1942,7 +1944,7 @@ const data = [
         offerPrice: 19900,
         image: RESIDENT_EVIL_2, //-------------------------------
         imageDetails: DETAILS_RE_2,
-        Date: 2022/6/13,
+        Date: "2022/6/13",
         precioReventa: 15,
     },
     {
@@ -1957,7 +1959,7 @@ const data = [
         offerPrice: 19900,
         image: RESIDENT_EVIL_2, //-------------------------------
         imageDetails: DETAILS_RE_5,
-        Date: 2022/6/13,
+        Date: "2022/6/13",
         precioReventa: 15,
     },
     {
@@ -1972,7 +1974,7 @@ const data = [
         offerPrice: 19900,
         image: RESIDENT_EVIL_5, //-----------------------------------
         imageDetails: DETAILS_RE_5,
-        Date: 2016/6/28,
+        Date: "2016/6/28",
         precioReventa: 13,
     },
     {
@@ -1987,7 +1989,7 @@ const data = [
         offerPrice: 15900,
         image: RESIDENT_EVIL_5, //-----------------------------------
         imageDetails: DETAILS_RE_5,
-        Date: 2016/6/28,
+        Date: "2016/6/28",
         precioReventa: 10,
     },
     {
@@ -2002,7 +2004,7 @@ const data = [
         offerPrice: 29900,
         image: CRASH_NITRO_FUELED_SPYRO,
         imageDetails: CRASH_NITRO_FUELED_SPYRO,
-        Date: 2023/3/24,
+        Date: "2019/11/21",
         precioReventa: 30,
     },
     {
@@ -2017,7 +2019,7 @@ const data = [
         offerPrice: 29900,
         image: CRASH_NITRO_FUELED_SPYRO,
         imageDetails: CRASH_NITRO_FUELED_SPYRO,
-        Date: 2023/3/24,
+        Date: "2019/11/21",
         precioReventa: 30,
     },
     {
@@ -2032,7 +2034,7 @@ const data = [
         offerPrice: 19900,
         image: COD_MW,
         imageDetails: DETAILS_CODMW,
-        Date: 2019/10/25,
+        Date: "2019/10/25",
         precioReventa: 19,
     },
     {
@@ -2047,7 +2049,7 @@ const data = [
         offerPrice: 19900,
         image: CRASH_NITRO,
         imageDetails: DETAILS_CRASH_NITRO,
-        Date: 2019/6/20,
+        Date: "2019/6/20",
         precioReventa: 25,
     },
     {
@@ -2062,7 +2064,7 @@ const data = [
         offerPrice: 19900,
         image: CRASH_NITRO,
         imageDetails: DETAILS_CRASH_NITRO,
-        Date: 2019/6/20,
+        Date: "2019/6/20",
         precioReventa: 25,
     },
     {
@@ -2077,7 +2079,7 @@ const data = [
         offerPrice: 49900,
         image: GOW_RAGNAROK,
         imageDetails: DETAILS_GOW_RAGNAROK,
-        Date: 2022/11/9,
+        Date: "2022/11/9",
         precioReventa: 35,
     },
     {
@@ -2092,7 +2094,7 @@ const data = [
         offerPrice: 49900,
         image: GOW_RAGNAROK,
         imageDetails: DETAILS_GOW_RAGNAROK,
-        Date: 2022/11/9,
+        Date: "2022/11/9",
         precioReventa: 35,
     },
     {
@@ -2107,7 +2109,7 @@ const data = [
         offerPrice: 9900,
         image: RE6,
         imageDetails: DETAILS_RE6,
-        Date: 2016/3/29,
+        Date: "2016/3/29",
         precioReventa: 12,
     },
     {
@@ -2122,7 +2124,7 @@ const data = [
         offerPrice: 19900,
         image: MK11,
         imageDetails: DETAILS_MK11,
-        Date: 2020/11/17,
+        Date: "2019/4/23",
         precioReventa: 25,
     },
     {
@@ -2137,7 +2139,7 @@ const data = [
         offerPrice: 19900,
         image: MK11,
         imageDetails: DETAILS_MK11,
-        Date: 2020/11/17,
+        Date: "2019/4/23",
         precioReventa: 20,
     },
     {
@@ -2152,7 +2154,7 @@ const data = [
         offerPrice: 29900,
         image: MK11_ULTIMATE,
         imageDetails: DETAILS_MK11_ULTIMATE,
-        Date: 2020/11/17,
+        Date: "2020/11/17",
         precioReventa: 35,
     },
     {
@@ -2167,7 +2169,7 @@ const data = [
         offerPrice: 29990,
         image: MK11_ULTIMATE,
         imageDetails: DETAILS_MK11_ULTIMATE,
-        Date: 2020/11/17,
+        Date: "2020/11/17",
         precioReventa: 25,
     },
     {
@@ -2182,7 +2184,7 @@ const data = [
         offerPrice: 59900,
         image: MK11_ULTIMATE_INJUSTICE,
         imageDetails: DETAILS_MK11_ULTIMATE_INJUSTICE,
-        Date: 2021/3/16,
+        Date: "2021/3/16",
         precioReventa: 45,
     },
     {
@@ -2197,7 +2199,7 @@ const data = [
         offerPrice: 59900,
         image: MK11_ULTIMATE_INJUSTICE,
         imageDetails: DETAILS_MK11_ULTIMATE_INJUSTICE,
-        Date: 2021/3/16,
+        Date: "2021/3/16",
         precioReventa: 45,
     },
     {
@@ -2212,7 +2214,7 @@ const data = [
         offerPrice: 25900,
         image: CUPHEAD,
         imageDetails: DETAILS_CUPHEAD,
-        Date: 2020/7/28,
+        Date: "2017/9/29",
         precioReventa: 15,
     },
     {
@@ -2227,7 +2229,7 @@ const data = [
         offerPrice: 25900,
         image: CUPHEAD,
         imageDetails: DETAILS_CUPHEAD,
-        Date: 2020/7/28,
+        Date: "2017/9/29",
         precioReventa: 15,
     },
     {
@@ -2242,7 +2244,7 @@ const data = [
         offerPrice: 39900,
         image: CUPHEAD_2,
         imageDetails: DETAILS_CUPHEAD_2,
-        Date: 2020/7/28,
+        Date: "2022/6/30",
         precioReventa: 30,
     },
     {
@@ -2257,7 +2259,7 @@ const data = [
         offerPrice: 39900,
         image: CUPHEAD_2,
         imageDetails: DETAILS_CUPHEAD_2,
-        Date: 2020/7/28,
+        Date: "2022/6/30",
         precioReventa: 30,
     },
     {
@@ -2272,7 +2274,7 @@ const data = [
         offerPrice: 19900,
         image: MK_XL,
         imageDetails: DETAILS_MKXL,
-        Date: 2016/3/1,
+        Date: "2016/3/1",
         precioReventa: 10,
     },
     {
@@ -2287,7 +2289,7 @@ const data = [
         offerPrice: 19900,
         image: CRASH_INSANE_TRILOGY,
         imageDetails: DETAILS_CRASH_TRILOGY,
-        Date: 2017/6/30,
+        Date: "2017/6/30",
         precioReventa: 20,
     },
     {
@@ -2302,7 +2304,7 @@ const data = [
         offerPrice: 19900,
         image: CRASH_INSANE_TRILOGY,
         imageDetails: DETAILS_CRASH_TRILOGY,
-        Date: 2017/6/30,
+        Date: "2017/6/30",
         precioReventa: 20,
     },
     {
@@ -2317,7 +2319,7 @@ const data = [
         offerPrice: 49900,
         image: W2K24,
         imageDetails: DETAILS_WWE_2K24,
-        Date: 2024/3/8,
+        Date: "2024/3/8",
         precioReventa: 45,
     },
     {
@@ -2332,7 +2334,7 @@ const data = [
         offerPrice: 39900,
         image: W2K24,
         imageDetails: DETAILS_WWE_2K24,
-        Date: 2024/3/8,
+        Date: "2024/3/8",
         precioReventa: 45,
     },
     {
@@ -2347,7 +2349,7 @@ const data = [
         offerPrice: 0,
         image: RE_4_ORIGINAL,
         imageDetails: RE_4_ORIGINAL,
-        Date: 2016/8/30,
+        Date: "2016/8/30",
         precioReventa: 12,
     },
     {
@@ -2362,7 +2364,7 @@ const data = [
         offerPrice: 45900,
         image: HOGWARTS_LEGACY,
         imageDetails: DETAILS_HOGWARTS_LEGACY,
-        Date: 2023/2/10,
+        Date: "2023/2/10",
         precioReventa: 35,
     },
     {
@@ -2377,7 +2379,7 @@ const data = [
         offerPrice: 39900,
         image: HOGWARTS_LEGACY,
         imageDetails: DETAILS_HOGWARTS_LEGACY,
-        Date: 2023/2/10,
+        Date: "2023/2/10",
         precioReventa: 35,
     },
     {
@@ -2392,7 +2394,7 @@ const data = [
         offerPrice: 19900,
         image: FARCRY_5,
         imageDetails: DETAILS_FARCRY5,
-        Date: 2018/3/27,
+        Date: "2018/3/27",
         precioReventa: 15,
     },
     {
@@ -2407,7 +2409,7 @@ const data = [
         offerPrice: 39900,
         image: THE_LAST_OF_US_PART_2,
         imageDetails: DETAILS_THELASTOFUS2,
-        Date: 2020/6/19,
+        Date: "2020/6/19",
         precioReventa: 28,
     },
     {
@@ -2422,7 +2424,7 @@ const data = [
         offerPrice: 29900,
         image: THE_LAST_OF_US_PART_2,
         imageDetails: DETAILS_THELASTOFUS2,
-        Date: 2020/6/19,
+        Date: "2020/6/19",
         precioReventa: 28,
     },
     {
@@ -2437,7 +2439,7 @@ const data = [
         offerPrice: 49900,
         image: ELDER_RING,
         imageDetails: DETAILS_ELDER_RING,
-        Date: 2022/2/25,
+        Date: "2022/2/25",
         precioReventa: 39,
     },
     {
@@ -2452,7 +2454,7 @@ const data = [
         offerPrice: 49900,
         image: ELDER_RING,
         imageDetails: DETAILS_ELDER_RING,
-        Date: 2022/2/25,
+        Date: "2022/2/25",
         precioReventa: 39,
     },
     {
@@ -2467,7 +2469,7 @@ const data = [
         offerPrice: 29900,
         image: MOTOGP_24,
         imageDetails: DETAILS_MOTOGP_24,
-        Date: 2024/5/2,
+        Date: "2023/6/8",
         precioReventa: 30,
     },
     {
@@ -2482,7 +2484,7 @@ const data = [
         offerPrice: 29900,
         image: MOTOGP_24,
         imageDetails: DETAILS_MOTOGP_24,
-        Date: 2024/5/2,
+        Date: "2023/6/8",
         precioReventa: 39,
     },
     {
@@ -2497,7 +2499,7 @@ const data = [
         offerPrice: 0,
         image: MOTOGP_22,
         imageDetails: DETAILS_MOTOGP_22,
-        Date: 2023/6/8,
+        Date: "2022/4/21",
         precioReventa: 30,
     },
     {
@@ -2512,7 +2514,7 @@ const data = [
         offerPrice: 0,
         image: MOTOGP_22,
         imageDetails: DETAILS_MOTOGP_22,
-        Date: 2023/6/8,
+        Date: "2022/4/21",
         precioReventa: 30,
     },
     {
@@ -2527,7 +2529,7 @@ const data = [
         offerPrice: 0,
         image: PROJECT_CARS_3,
         imageDetails: DETAILS_PROJECT_CARS_3,
-        Date: 2020/8/28,
+        Date: "2020/8/28",
         precioReventa: 35,
     },
     {
@@ -2542,7 +2544,7 @@ const data = [
         offerPrice: 0,
         image: PROJECT_CARS_3,
         imageDetails: DETAILS_PROJECT_CARS_3,
-        Date: 2020/8/28,
+        Date: "2020/8/28",
         precioReventa: 35,
     },
     {
@@ -2557,7 +2559,7 @@ const data = [
         offerPrice: 29900,
         image: WRC_10,
         imageDetails: DETAILS_WRC10,
-        Date: 2021/9/7,
+        Date: "2021/9/2",
         precioReventa: 25,
     },
     {
@@ -2572,7 +2574,7 @@ const data = [
         offerPrice: 29900,
         image: WRC_10,
         imageDetails: DETAILS_WRC10,
-        Date: 2021/9/7,
+        Date: "2021/9/2",
         precioReventa: 25,
     },
     {
@@ -2587,7 +2589,7 @@ const data = [
         offerPrice: 10900,
         image: GOW_REMASTERED,
         imageDetails: DETAILS_GOW_REMASTERED,
-        Date: 2018/4/20,
+        Date: "2020/3/16",
         precioReventa: 12,
     },
     {
@@ -2602,7 +2604,7 @@ const data = [
         offerPrice: 0,
         image: THE_LAST_OF_US_REMASTERED,
         imageDetails: DETAILS_THELASTOFUS_REMASTERED,
-        Date: 2014/7/21,
+        Date: "2014/7/29",
         precioReventa: 15,
     },
     {
@@ -2617,7 +2619,7 @@ const data = [
         offerPrice: 29900,
         image: DBZ_KAKAROT,
         imageDetails: DETAILS_DBZ_KAKAROT,
-        Date: 2023/1/13,
+        Date: "2020/1/16",
         precioReventa: 25,
     },
     {
@@ -2632,12 +2634,12 @@ const data = [
         offerPrice: 19900,
         image: DBZ_KAKAROT,
         imageDetails: DETAILS_DBZ_KAKAROT,
-        Date: 2023/1/13,
+        Date: "2020/1/16",
         precioReventa: 25,
     },
     {
         id: 56,
-        title: "ARK: Survival Evolved ",
+        title: "ARK: Survival Evolved",
         category: "PS4",
         gender: "Accion",
         description:
@@ -2647,7 +2649,7 @@ const data = [
         offerPrice: 12900,
         image: ARK,
         imageDetails: DETAILS_ARK,
-        Date: 2017/6/12,
+        Date: "2015/6/2",
         precioReventa: 9,
     },
     {
@@ -2662,7 +2664,7 @@ const data = [
         offerPrice: 12900,
         image: DOOM,
         imageDetails: DETAILS_DOOM,
-        Date: 2016/5/13,
+        Date: "1993/12/10",
         precioReventa: 12,
     },
     {
@@ -2677,7 +2679,7 @@ const data = [
         offerPrice: 19900,
         image: TOM_CLANCY_GHOST_RECON_BREAKPOINT,
         imageDetails: DETAILS_TOMCLANCY_GHOSTRECON,
-        Date: 2019/10/4,
+        Date: "2019/10/4",
         precioReventa: 30,
     },
     {
@@ -2692,7 +2694,7 @@ const data = [
         offerPrice: 19900,
         image: TOM_CLANCY_GHOST_RECON_BREAKPOINT,
         imageDetails: DETAILS_TOMCLANCY_GHOSTRECON,
-        Date: 2019/10/4,
+        Date: "2019/10/4",
         precioReventa: 30,
     },
     {
@@ -2707,7 +2709,7 @@ const data = [
         offerPrice: 19900,
         image: NARUTO_SHIPUDEN_STORM_4,
         imageDetails: DETAILS_NARUTO_SHIPUDEN_NINJA_STORM,
-        Date: 2017/2/3,
+        Date: "2016/2/4",
         precioReventa: 25,
     },
     {
@@ -2722,7 +2724,7 @@ const data = [
         offerPrice: 19900,
         image: NARUTO_SHIPUDEN_STORM_4,
         imageDetails: DETAILS_NARUTO_SHIPUDEN_NINJA_STORM,
-        Date: 2017/2/3,
+        Date: "2016/2/4",
         precioReventa: 25,
     },
     {
@@ -2737,7 +2739,7 @@ const data = [
         offerPrice: 29900,
         image: CYBERPUNK,
         imageDetails: DETAILS_CYBERPUNK,
-        Date: 2022/2/15,
+        Date: "2020/12/10",
         precioReventa: 25,
     },
     {
@@ -2752,7 +2754,7 @@ const data = [
         offerPrice: 29900,
         image: CYBERPUNK,
         imageDetails: DETAILS_CYBERPUNK,
-        Date: 15 / 2 / 2022,
+        Date: "2020/12/10",
         precioReventa: 25,
     },
     {
@@ -2767,7 +2769,7 @@ const data = [
         offerPrice: 0,
         image: LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA,
         imageDetails: AA,
-        Date: 2017/10/10,
+        Date: "2017/10/10",
         precioReventa: 15,
     },
     {
@@ -2782,7 +2784,7 @@ const data = [
         offerPrice: 39900,
         image: F23,
         imageDetails: DETAILS_F1_23,
-        Date: 2023/6/16,
+        Date: "2023/6/16",
         precioReventa: 30,
     },
     {
@@ -2797,7 +2799,7 @@ const data = [
         offerPrice: 39900,
         image: F23,
         imageDetails: DETAILS_F1_23,
-        Date: 2023/6/16,
+        Date: "2023/6/16",
         precioReventa: 30,
     },
     {
@@ -2812,7 +2814,7 @@ const data = [
         offerPrice: 19900,
         image: BORDERLANDS_3,
         imageDetails: DETAILS_BORDERLANDS_3,
-        Date: 2020/11/12,
+        Date: "2019/9/13",
         precioReventa: 25,
     },
     {
@@ -2827,7 +2829,7 @@ const data = [
         offerPrice: 19900,
         image: BORDERLANDS_3,
         imageDetails: DETAILS_BORDERLANDS_3,
-        Date: 2020/11/12,
+        Date: "2019/9/13",
         precioReventa: 25,
     },
     {
@@ -2842,7 +2844,7 @@ const data = [
         offerPrice: 19900,
         image: SUPERCROSS_6,
         imageDetails: DETAILS_SUPERCROSS_6,
-        Date: 2023/3/9,
+        Date: "2023/3/8",
         precioReventa: 25,
     },
     {
@@ -2857,7 +2859,7 @@ const data = [
         offerPrice: 19900,
         image: SUPERCROSS_6,
         imageDetails: DETAILS_SUPERCROSS_6,
-        Date: 2023/3/9,
+        Date: "2023/3/8",
         precioReventa: 25,
     },
     {
@@ -2872,7 +2874,7 @@ const data = [
         offerPrice: 0,
         image: NBA_2K23,
         imageDetails: DETAILS_NBA2K23,
-        Date: 2022/9/9,
+        Date: "2022/9/8",
         precioReventa: 30,
     },
     {
@@ -2887,7 +2889,7 @@ const data = [
         offerPrice: 0,
         image: NBA_2K23,
         imageDetails: DETAILS_NBA2K23,
-        Date: 2022/9/9,
+        Date: "2022/9/8",
         precioReventa: 30,
     },
     {
@@ -2902,7 +2904,7 @@ const data = [
         offerPrice: 0,
         image: W2K23,
         imageDetails: DETAILS_WWE_2K23,
-        Date: 2023/3/17,
+        Date: "2023/3/14",
         precioReventa: 30,
     },
     {
@@ -2917,7 +2919,7 @@ const data = [
         offerPrice: 0,
         image: W2K23,
         imageDetails: DETAILS_WWE_2K23,
-        Date: 2023/3/17,
+        Date: "2023/3/14",
         precioReventa: 30,
     },
     {
@@ -2932,7 +2934,7 @@ const data = [
         offerPrice: 0,
         image: GOW_REMASTERED,
         imageDetails: DETAILS_GOW_REMASTERED,
-        Date: 2015/7/14,
+        Date: "2020/3/16",
         precioReventa: 12,
     },
     {
@@ -2947,7 +2949,7 @@ const data = [
         offerPrice: 0,
         image: TOM_CLANCY_GHOST_RECON_WILDLANDS,
         imageDetails: DETAILS_TOMCLANCY_GHOSTRECON_WILDLANDS,
-        Date: 2017/3/7,
+        Date: "2017/3/7",
         precioReventa: 35,
     },
     {
@@ -2962,7 +2964,7 @@ const data = [
         offerPrice: 15900,
         image: NBA_2K24,
         imageDetails: DETAILS_NBA2K24,
-        Date: 2023/9/8,
+        Date: "2023/9/8",
         precioReventa: 30,
     },
     {
@@ -2977,7 +2979,7 @@ const data = [
         offerPrice: 15900,
         image: NBA_2K24,
         imageDetails: DETAILS_NBA2K24,
-        Date: 2023/9/8,
+        Date: "2023/9/8",
         precioReventa: 30,
     },
     {
@@ -2992,7 +2994,7 @@ const data = [
         offerPrice: 59900,
         image: ALAN_WAKE_2,
         imageDetails: DETAILS_ALANWAKE2,
-        Date: 2023/10/27,
+        Date: "2023/10/27",
         precioReventa: 45,
     },
     {
@@ -3007,7 +3009,7 @@ const data = [
         offerPrice: 49900,
         image: ROBOCOP_ROGUE_CITY,
         imageDetails: DETAILS_ROBOCOP,
-        Date: 2023/11/2,
+        Date: "2023/11/2",
         precioReventa: 40,
     },
     {
@@ -3022,7 +3024,7 @@ const data = [
         offerPrice: 0,
         image: NFS,
         imageDetails: DETAILS_NFS,
-        Date: 2015/11/3,
+        Date: "2015/11/3",
         precioReventa: 12,
     },
     {
@@ -3037,7 +3039,7 @@ const data = [
         offerPrice: 49900,
         image: THE_CREW_MOTORFEST,
         imageDetails: DETAILS_THE_CREW_MOTORFEST,
-        Date: 2023/9/13,
+        Date: "2023/9/11",
         precioReventa: 35,
     },
     {
@@ -3052,7 +3054,7 @@ const data = [
         offerPrice: 49900,
         image: THE_CREW_MOTORFEST,
         imageDetails: DETAILS_THE_CREW_MOTORFEST,
-        Date: 2023/9/13,
+        Date: "2023/9/11",
         precioReventa: 35,
     },
     {
@@ -3067,7 +3069,7 @@ const data = [
         offerPrice: 9900,
         image: PLANTS_VS_ZOMBIES_GARDEN_WARFARE,
         imageDetails: PLANTS_VS_ZOMBIES_GARDEN_WARFARE,
-        Date: 2016/2/23,
+        Date: "2016/2/23",
         precioReventa: 12,
     },
     {
@@ -3082,7 +3084,7 @@ const data = [
         offerPrice: 29900,
         image: JURASSIC_PARK_EVOLUTION_2,
         imageDetails: DETAILS_JURASSIC_WORLD_EVOLUTION_2,
-        Date: 2018/6/12,
+        Date: "2021/11/9",
         precioReventa: 30,
     },
     {
@@ -3097,7 +3099,7 @@ const data = [
         offerPrice: 29900,
         image: JURASSIC_PARK_EVOLUTION_2,
         imageDetails: DETAILS_JURASSIC_WORLD_EVOLUTION_2,
-        Date: 2018/6/12,
+        Date: "2021/11/9",
         precioReventa: 30,
     },
     {
@@ -3112,7 +3114,7 @@ const data = [
         offerPrice: 29900,
         image: FIVE_NIGHTS_AT_FREDDYS,
         imageDetails: DETAILS_FIVE_NIGHTS_AT_FREDDYS,
-        Date: 2021/12/16,
+        Date: "2021/12/16",
         precioReventa: 25,
     },
     {
@@ -3127,7 +3129,7 @@ const data = [
         offerPrice: 29900,
         image: FIVE_NIGHTS_AT_FREDDYS,
         imageDetails: DETAILS_FIVE_NIGHTS_AT_FREDDYS,
-        Date: 2021/12/16,
+        Date: "2021/12/16",
         precioReventa: 25,
     },
     {
@@ -3142,7 +3144,7 @@ const data = [
         offerPrice: 9900,
         image: SEVEN_DAYS_TO_DIE,
         imageDetails: DETAILS_SEVEN_DAYS_TO_DIE,
-        Date: 2016/6/28,
+        Date: "2013/12/13",
         precioReventa: 18,
     },
     {
@@ -3157,7 +3159,7 @@ const data = [
         offerPrice: 9900,
         image: ASEMBLANCE,
         imageDetails: DETAILS_ASEMBLANCE,
-        Date: 2016/7/25,
+        Date: "2016/6/21",
         precioReventa: 6,
     },
     {
@@ -3172,7 +3174,7 @@ const data = [
         offerPrice: 9900,
         image: ASSASINS_UNITY,
         imageDetails: DETAILS_ASSASINSCREED_UNITY,
-        Date: 2014/11/11,
+        Date: "2014/11/11",
         precioReventa: 10,
     },
     {
@@ -3187,7 +3189,7 @@ const data = [
         offerPrice: 39900,
         image: ASSASINS_MIRAGE,
         imageDetails: DETAILS_ASSASINSCREED_MIRAGE,
-        Date: 2023/10/4,
+        Date: "2023/10/5",
         precioReventa: 29,
     },
     {
@@ -3202,7 +3204,7 @@ const data = [
         offerPrice: 39900,
         image: ASSASINS_MIRAGE,
         imageDetails: DETAILS_ASSASINSCREED_MIRAGE,
-        Date: 2023/10/4,
+        Date: "2023/10/5",
         precioReventa: 29,
     },
     {
@@ -3217,7 +3219,7 @@ const data = [
         offerPrice: 39900,
         image: ASSASINS_VALHALLA,
         imageDetails: DETAILS_ASSASINSCREED_VALHALLA,
-        Date: 2022/3/10,
+        Date: "2022/2/23",
         precioReventa: 39,
     },
     {
@@ -3232,7 +3234,7 @@ const data = [
         offerPrice: 39900,
         image: ASSASINS_VALHALLA,
         imageDetails: DETAILS_ASSASINSCREED_VALHALLA,
-        Date: 2022/3/10,
+        Date: "2022/2/23",
         precioReventa: 39,
     },
     {
@@ -3247,7 +3249,7 @@ const data = [
         offerPrice: 18000,
         image: ASSASINS_ORIGINS,
         imageDetails: DETAILS_ASSASINSCREED_ORIGINS,
-        Date: 2017/10/27,
+        Date: "2017/10/27",
         precioReventa: 14,
     },
     {
@@ -3262,7 +3264,7 @@ const data = [
         offerPrice: 18000,
         image: ASSASINS_ORIGINS,
         imageDetails: DETAILS_ASSASINSCREED_ORIGINS,
-        Date: 2017/10/27,
+        Date: "2017/10/27",
         precioReventa: 14,
     },
     {
@@ -3277,7 +3279,7 @@ const data = [
         offerPrice: 12900,
         image: ASSASINS_SINDICATE,
         imageDetails: DETAILS_ASSASINSCREED_SINDICATE,
-        Date: 2015/10/23,
+        Date: "2015/10/23",
         precioReventa: 18,
     },
     {
@@ -3292,7 +3294,7 @@ const data = [
         offerPrice: 15900,
         image: BATMAN_ARKHAM_KNIGHT,
         imageDetails: DETAILS_BATMAN_ARKHAM_NIGHT,
-        Date: 2015/6/23,
+        Date: "2015/10/23",
         precioReventa: 10,
     },
     {
@@ -3307,7 +3309,7 @@ const data = [
         offerPrice: 15900,
         image: BATTLEFIELD_1_REVOLUTION,
         imageDetails: DETAILS_BATTLEFIELD_1,
-        Date: 2017/8/21,
+        Date: "2017/8/21",
         precioReventa: 15,
     },
     {
@@ -3322,7 +3324,7 @@ const data = [
         offerPrice: 15900,
         image: BATTLEFIELD_1_REVOLUTION,
         imageDetails: DETAILS_BATTLEFIELD_1,
-        Date: 2017/8/21,
+        Date: "2017/8/21",
         precioReventa: 15,
     },
     {
@@ -3337,7 +3339,7 @@ const data = [
         offerPrice: 7000,
         image: BATTLEFIELD_4,
         imageDetails: DETAILS_BATTLEFIELD_4,
-        Date: 2013/11/29,
+        Date: "2013/10/29",
         precioReventa: 12,
     },
     {
@@ -3352,7 +3354,7 @@ const data = [
         offerPrice: 14000,
         image: BATTLEFIELD_5,
         imageDetails: DETAILS_BATTLEFIELD_5,
-        Date: 2018/11/20,
+        Date: "2018/11/20",
         precioReventa: 25,
     },
     {
@@ -3367,7 +3369,7 @@ const data = [
         offerPrice: 14000,
         image: BATTLEFIELD_5,
         imageDetails: DETAILS_BATTLEFIELD_5,
-        Date: 2018/11/20,
+        Date: "2018/11/9",
         precioReventa: 25,
     },
     {
@@ -3382,7 +3384,7 @@ const data = [
         offerPrice: 7000,
         image: BATTLEFIELD_HARDLINE,
         imageDetails: DETAILS_BATTLEFRONT_HARDLINE,
-        Date: 2015/3/17,
+        Date: "2015/3/17",
         precioReventa: 15,
     },
     {
@@ -3397,7 +3399,7 @@ const data = [
         offerPrice: 9500,
         image: STARWARS_BATTLEFRONT,
         imageDetails: DETAILS_STAR_WARS_BATTLEFRONT,
-        Date: 2015/11/16,
+        Date: "2017/10/4",
         precioReventa: 10,
     },
     {
@@ -3412,7 +3414,7 @@ const data = [
         offerPrice: 12000,
         image: STARWARS_BATTLEFRONT_2,
         imageDetails: DETAILS_STAR_WARS_BATTLEFRONT_2,
-        Date: 2017/11/17,
+        Date: "2017/11/17",
         precioReventa: 12,
     },
     {
@@ -3427,7 +3429,7 @@ const data = [
         offerPrice: 19900,
         image: COD_BLACK_OPS_4,
         imageDetails: DETAILS_COD_BLACK_OPS_4,
-        Date: 2019/4/30,
+        Date: "2018/10/12",
         precioReventa: 25,
     },
     {
@@ -3442,7 +3444,7 @@ const data = [
         offerPrice: 19900,
         image: COD_BLACK_OPS_4,
         imageDetails: DETAILS_COD_BLACK_OPS_4,
-        Date: 2019/4/30,
+        Date: "2018/10/12",
         precioReventa: 25,
     },
     {
@@ -3457,7 +3459,7 @@ const data = [
         offerPrice: 18900,
         image: COD_BLACK_OPS_3,
         imageDetails: DETAILS_COD_BLACK_OPS_3,
-        Date: 2017/8/29,
+        Date: "2015/11/6",
         precioReventa: 20,
     },
     {
@@ -3472,7 +3474,7 @@ const data = [
         offerPrice: 9900,
         image: COD_BLACK_OPS_3,
         imageDetails: DETAILS_COD_BLACK_OPS_3,
-        Date: 2017/8/29,
+        Date: "2015/11/6",
         precioReventa: 20,
     },
     {
@@ -3487,7 +3489,7 @@ const data = [
         offerPrice: 19900,
         image: BLOODBORNE,
         imageDetails: DETAILS_BLOODBORNE,
-        Date: 2015/3/24,
+        Date: "2015/3/24",
         precioReventa: 25,
     },
     {
@@ -3502,7 +3504,7 @@ const data = [
         offerPrice: 19900,
         image: BOB_ESPONJA,
         imageDetails: DETAILS_BOB_ESPONJA,
-        Date: 2019/5/7,
+        Date: "2019/5/7",
         precioReventa: 20,
     },
     {
@@ -3517,7 +3519,7 @@ const data = [
         offerPrice: 19900,
         image: BUS_SIMULATOR,
         imageDetails: DETAILS_BUS_SIMULATOR,
-        Date: 2019/9/17,
+        Date: "2019/9/17",
         precioReventa: 20,
     },
     {
@@ -3532,7 +3534,7 @@ const data = [
         offerPrice: 20900,
         image: BUS_SIMULATOR,
         imageDetails: DETAILS_BUS_SIMULATOR,
-        Date: 2019/9/17,
+        Date: "2019/9/17",
         precioReventa: 20,
     },
     {
@@ -3547,7 +3549,7 @@ const data = [
         offerPrice: 0,
         image: COD_GHOSTS_GOLD_EDITION,
         imageDetails: DETAILS_COD_GHOSTS,
-        Date: 2014/3/25,
+        Date: "2013/11/5",
         precioReventa: 35,
     },
     {
@@ -3562,7 +3564,7 @@ const data = [
         offerPrice: 20900,
         image: COD_INFINITE_WARFARE,
         imageDetails: DETAILS_COD_INFINITE_WARFARE,
-        Date: 2014/3/25,
+        Date: "2016/10/14",
         precioReventa: 30,
     },
     {
@@ -3577,7 +3579,7 @@ const data = [
         offerPrice: 49900,
         image: COD_MW_3,
         imageDetails: DETAILS_COD_MW_3,
-        Date: 2023/11/2,
+        Date: "2023/11/2",
         precioReventa: 35,
     },
     {
@@ -3592,7 +3594,7 @@ const data = [
         offerPrice: 49900,
         image: COD_MW_3,
         imageDetails: DETAILS_COD_MW_3,
-        Date: 2023/11/2,
+        Date: "2023/11/2",
         precioReventa: 35,
     },
     {
@@ -3607,7 +3609,7 @@ const data = [
         offerPrice: 49900,
         image: COD_MW_2,
         imageDetails: DETAILS_COD_MW_2,
-        Date: 2022/10/28,
+        Date: "2022/10/28",
         precioReventa: 30,
     },
     {
@@ -3622,7 +3624,7 @@ const data = [
         offerPrice: 42900,
         image: COD_MW_2,
         imageDetails: DETAILS_COD_MW_2,
-        Date: 2022/10/28,
+        Date: "2022/10/28",
         precioReventa: 30,
     },
     {
@@ -3637,7 +3639,7 @@ const data = [
         offerPrice: 19900,
         image: COD_COLD_WAR,
         imageDetails: DETAILS_COD_COLD_WAR,
-        Date: 2020/11/13,
+        Date: "2020/11/13",
         precioReventa: 25,
     },
     {
@@ -3652,7 +3654,7 @@ const data = [
         offerPrice: 19900,
         image: COD_COLD_WAR,
         imageDetails: DETAILS_COD_COLD_WAR,
-        Date: 2020/11/13,
+        Date: "2020/11/13",
         precioReventa: 30,
     },
     {
@@ -3667,7 +3669,7 @@ const data = [
         offerPrice: 19900,
         image: COD_VANGUARD,
         imageDetails: DETAILS_COD_VANGUARD,
-        Date: 2021/11/5,
+        Date: "2021/11/5",
         precioReventa: 30,
     },
     {
@@ -3682,7 +3684,7 @@ const data = [
         offerPrice: 19900,
         image: COD_VANGUARD,
         imageDetails: DETAILS_COD_VANGUARD,
-        Date: 2021/11/5,
+        Date: "2021/11/5",
         precioReventa: 25,
     },
     {
@@ -3697,7 +3699,7 @@ const data = [
         offerPrice: 8000,
         image: CARS_3_DRIVEN_TO_WIN,
         imageDetails: DETAILS_CARS_3_DRIVEN_TO_WIN,
-        Date: 2017/6/13,
+        Date: "2017/6/13",
         precioReventa: 20,
     },
     {
@@ -3712,7 +3714,7 @@ const data = [
         offerPrice: 19900,
         image: CRASHBANDICOOT4,
         imageDetails: DETAILS_CRASH_BANDICOOT_4,
-        Date: 2021/3/11,
+        Date: "2020/10/2",
         precioReventa: 30,
     },
     {
@@ -3727,7 +3729,7 @@ const data = [
         offerPrice: 19900,
         image: CRASHBANDICOOT4,
         imageDetails: DETAILS_CRASH_BANDICOOT_4,
-        Date: 2021/3/11,
+        Date: "2020/10/2",
         precioReventa: 30,
     },
     {
@@ -3742,7 +3744,7 @@ const data = [
         offerPrice: 29900,
         image: CRASH_TEAM_RUMBLE,
         imageDetails: DETAILS_CRASH_TEAM_RUMBLE,
-        Date: 2023/6/20,
+        Date: "2023/6/20",
         precioReventa: 35,
     },
     {
@@ -3757,7 +3759,7 @@ const data = [
         offerPrice: 29900,
         image: CRASH_TEAM_RUMBLE,
         imageDetails: DETAILS_CRASH_TEAM_RUMBLE,
-        Date: 2023/6/20,
+        Date: "2023/6/20",
         precioReventa: 35,
     },
     {
@@ -3772,7 +3774,7 @@ const data = [
         offerPrice: 0,
         image: DAKAR,
         imageDetails: DETAILS_DAKAR,
-        Date: 2018/10/25,
+        Date: "2018/9/25",
         precioReventa: 15,
     },
     {
@@ -3787,7 +3789,7 @@ const data = [
         offerPrice: 19900,
         image: DARK_SOULS_3,
         imageDetails: DETAILS_DARK_SOULS_3,
-        Date: 2016/4/12,
+        Date: "2016/3/24",
         precioReventa: 20,
     },
     {
@@ -3802,7 +3804,7 @@ const data = [
         offerPrice: 22900,
         image: DAYS_GONE,
         imageDetails: DETAILS_DAYS_GONE,
-        Date: 2019/4/26,
+        Date: "2019/4/26",
         precioReventa: 25,
     },
     {
@@ -3817,7 +3819,7 @@ const data = [
         offerPrice: 22900,
         image: DAYS_GONE,
         imageDetails: DETAILS_DAYS_GONE,
-        Date: 2019/4/26,
+        Date: "2019/4/26",
         precioReventa: 25,
     },
     {
@@ -3832,7 +3834,7 @@ const data = [
         offerPrice: 39900,
         image: DEAD_ISLAND_2,
         imageDetails: DETAILS_DEAD_ISLAND_2,
-        Date: 2023/4/21,
+        Date: "2023/4/21",
         precioReventa: 30,
     },
     {
@@ -3847,7 +3849,7 @@ const data = [
         offerPrice: 39900,
         image: DEAD_ISLAND_2,
         imageDetails: DETAILS_DEAD_ISLAND_2,
-        Date: 2023/4/21,
+        Date: "2023/4/21",
         precioReventa: 30,
     },
     {
@@ -3862,7 +3864,7 @@ const data = [
         offerPrice: 0,
         image: DRAGON_AGE_INQUISITION,
         imageDetails: DETAILS_DRAGON_AGE_INQUISITION,
-        Date: 2014/11/18,
+        Date: "2014/11/18",
         precioReventa: 12,
     },
     {
@@ -3877,7 +3879,7 @@ const data = [
         offerPrice: 19900,
         image: DBZ_FIGHTER,
         imageDetails: DETAILS_DBZ_FIGHTERS,
-        Date: 2024/2/29,
+        Date: "2018/1/26",
         precioReventa: 30,
     },
     {
@@ -3892,7 +3894,7 @@ const data = [
         offerPrice: 19900,
         image: DBZ_FIGHTER,
         imageDetails: DETAILS_DBZ_FIGHTERS,
-        Date: 2024/2/29,
+        Date: "2018/1/26",
         precioReventa: 30,
     },
     {
@@ -3907,7 +3909,7 @@ const data = [
         offerPrice: 9900,
         image: DYING_LIGHT,
         imageDetails: DETAILS_DYING_LIGHT,
-        Date: 2015/1/27,
+        Date: "2015/1/27",
         precioReventa: 12,
     },
     {
@@ -3922,7 +3924,7 @@ const data = [
         offerPrice: 9900,
         image: ELITE_DANGEROUS,
         imageDetails: DETAILS_ELITE_DANGEROUS,
-        Date: 2017/6/27,
+        Date: "2014/12/16",
         precioReventa: 12,
     },
     {
@@ -3937,7 +3939,7 @@ const data = [
         offerPrice: 19900,
         image: FALLOUT_4,
         imageDetails: DETAILS_FALLOUT_4,
-        Date: 2024/4/25,
+        Date: "2015/11/10",
         precioReventa: 10,
     },
     {
@@ -3952,7 +3954,7 @@ const data = [
         offerPrice: 19900,
         image: FALLOUT_4,
         imageDetails: DETAILS_FALLOUT_4,
-        Date: 2024/4/25,
+        Date: "2015/11/10",
         precioReventa: 10,
     },
     {
@@ -3967,7 +3969,7 @@ const data = [
         offerPrice: 0,
         image: FARCRY_4,
         imageDetails: DETAILS_FARCRY_4,
-        Date: 2014/11/18,
+        Date: "2014/11/18",
         precioReventa: 12,
     },
     {
@@ -3982,7 +3984,7 @@ const data = [
         offerPrice: 16900,
         image: FARCRY_6,
         imageDetails: DETAILS_FARCRY_6,
-        Date: 2021/10/7,
+        Date: "2021/10/7",
         precioReventa: 25,
     },
     {
@@ -3997,7 +3999,7 @@ const data = [
         offerPrice: 12900,
         image: FARCRY_6,
         imageDetails: DETAILS_FARCRY_6,
-        Date: 2021/10/7,
+        Date: "2021/10/7",
         precioReventa: 25,
     },
     {
@@ -4012,7 +4014,7 @@ const data = [
         offerPrice: 39900,
         image: PRINCE_OF_PERSIA_THE_LOST_CROW,
         imageDetails: DETAILS_PRINCE_OF_PERSIA_THE_LOST_CROWN,
-        Date: 2024/11/18,
+        Date: "2024/1/18",
         precioReventa: 35,
     },
     {
@@ -4027,7 +4029,7 @@ const data = [
         offerPrice: 39900,
         image: PRINCE_OF_PERSIA_THE_LOST_CROW,
         imageDetails: DETAILS_PRINCE_OF_PERSIA_THE_LOST_CROWN,
-        Date: 2024/11/18,
+        Date: "2024/1/18",
         precioReventa: 35,
     },
     {
@@ -4042,7 +4044,7 @@ const data = [
         offerPrice: 19900,
         image: SUBNAUTICA,
         imageDetails: DETAILS_SUBNAUTICA,
-        Date: 2021/5/14,
+        Date: "2021/5/14",
         precioReventa: 25,
     },
     {
@@ -4057,7 +4059,7 @@ const data = [
         offerPrice: 19900,
         image: SUBNAUTICA,
         imageDetails: DETAILS_SUBNAUTICA,
-        Date: 2021/5/14,
+        Date: "2021/5/14",
         precioReventa: 25,
     },
     {
@@ -4072,7 +4074,7 @@ const data = [
         offerPrice: 10900,
         image: RIDERS_REPUBLIC,
         imageDetails: DETAILS_RIDERS_REPUBLIC,
-        Date: 2023/8/25,
+        Date: "2023/8/25",
         precioReventa: 25,
     },
     {
@@ -4087,7 +4089,7 @@ const data = [
         offerPrice: 10900,
         image: RIDERS_REPUBLIC,
         imageDetails: DETAILS_RIDERS_REPUBLIC,
-        Date: 2023/8/25,
+        Date: "2023/8/25",
         precioReventa: 25,
     },
     {
@@ -4102,7 +4104,7 @@ const data = [
         offerPrice: 19900,
         image: SONIC_ORIGINS,
         imageDetails: DETAILS_SONIC_ORIGINS,
-        Date: 2022/6/23,
+        Date: "2022/6/23",
         precioReventa: 20,
     },
     {
@@ -4117,7 +4119,7 @@ const data = [
         offerPrice: 19900,
         image: SONIC_ORIGINS,
         imageDetails: DETAILS_SONIC_ORIGINS,
-        Date: 2022/6/23,
+        Date: "2022/6/23",
         precioReventa: 20,
     },
     {
@@ -4132,7 +4134,7 @@ const data = [
         offerPrice: 19900,
         image: DIRT_5,
         imageDetails: DETAILS_DIRT_5,
-        Date: 2020/11/12,
+        Date: "2020/11/6",
         precioReventa: 30,
     },
     {
@@ -4147,7 +4149,7 @@ const data = [
         offerPrice: 12900,
         image: DIRT_5,
         imageDetails: DETAILS_DIRT_5,
-        Date: 2020/11/12,
+        Date: "2020/11/6",
         precioReventa: 30,
     },
     {
@@ -4162,7 +4164,7 @@ const data = [
         offerPrice: 19900,
         image: ONE_PIECE_ODYSSEY,
         imageDetails: DETAILS_ONE_PIECE_ODYSSEY,
-        Date: 2023/1/13,
+        Date: "2023/1/10",
         precioReventa: 25,
     },
     {
@@ -4177,7 +4179,7 @@ const data = [
         offerPrice: 19900,
         image: ONE_PIECE_ODYSSEY,
         imageDetails: DETAILS_ONE_PIECE_ODYSSEY,
-        Date: 2023/1/13,
+        Date: "2023/1/10",
         precioReventa: 25,
     },
     {
@@ -4192,7 +4194,7 @@ const data = [
         offerPrice: 35900,
         image: THE_WALKING_DEAD_DESTINIES,
         imageDetails: DETAILS_THE_WALKING_DEAD_DESTINIES,
-        Date: 2023/11/17,
+        Date: "2023/11/17",
         precioReventa: 30,
     },
     {
@@ -4207,7 +4209,7 @@ const data = [
         offerPrice: 39900,
         image: THE_WALKING_DEAD_DESTINIES,
         imageDetails: DETAILS_THE_WALKING_DEAD_DESTINIES,
-        Date: 2023/11/17,
+        Date: "2023/11/17",
         precioReventa: 30,
     },
     {
@@ -4222,7 +4224,7 @@ const data = [
         offerPrice: 34900,
         image: HELLO_NEIGHBOR_2,
         imageDetails: DETAILS_HELLO_NEIGHBOR_2,
-        Date: 2022/12/6,
+        Date: "2022/12/6",
         precioReventa: 30,
     },
     {
@@ -4237,7 +4239,7 @@ const data = [
         offerPrice: 34900,
         image: HELLO_NEIGHBOR_2,
         imageDetails: DETAILS_HELLO_NEIGHBOR_2,
-        Date: 2022/12/6,
+        Date: "2022/12/6",
         precioReventa: 30,
     },
     {
@@ -4252,7 +4254,7 @@ const data = [
         offerPrice: 29900,
         image: CRASH_TEAM_RUMBLE_BANDICOOT_4,
         imageDetails: CRASH_TEAM_RUMBLE_BANDICOOT_4,
-        Date: 2023/12/20,
+        Date: "2023/12/20",
         precioReventa: 30,
     },
     {
@@ -4267,7 +4269,7 @@ const data = [
         offerPrice: 19900,
         image: CRASH_TEAM_RUMBLE_BANDICOOT_4,
         imageDetails: CRASH_TEAM_RUMBLE_BANDICOOT_4,
-        Date: 2023/12/20,
+        Date: "2023/12/20",
         precioReventa: 30,
     },
     {
@@ -4282,7 +4284,7 @@ const data = [
         offerPrice: 29900,
         image: TOMB_RAIDER_1_2_3,
         imageDetails: DETAILS_TOMB_RAIDER_1_2_3,
-        Date: 2024/2/14,
+        Date: "2024/2/14",
         precioReventa: 25,
     },
     {
@@ -4297,7 +4299,7 @@ const data = [
         offerPrice: 29900,
         image: TOMB_RAIDER_1_2_3,
         imageDetails: DETAILS_TOMB_RAIDER_1_2_3,
-        Date: 2024/2/14,
+        Date: "2024/2/14",
         precioReventa: 25,
     },
     {
@@ -4312,7 +4314,7 @@ const data = [
         offerPrice: 29900,
         image: SONIC_SUPERSTARS,
         imageDetails: DETAILS_SONIC_SUPERSTARS,
-        Date: 2023/10/17,
+        Date: "2023/10/17",
         precioReventa: 25,
     },
     {
@@ -4327,7 +4329,7 @@ const data = [
         offerPrice: 29900,
         image: SONIC_SUPERSTARS,
         imageDetails: DETAILS_SONIC_SUPERSTARS,
-        Date: 2023/10/17,
+        Date: "2023/10/17",
         precioReventa: 25,
     },
     {
@@ -4342,7 +4344,7 @@ const data = [
         offerPrice: 15900,
         image: WATCH_DOGS_LEGION,
         imageDetails: DETAILS_WATCH_DOGS_LEGION,
-        Date: 2020/11/12,
+        Date: "2020/11/12",
         precioReventa: 20,
     },
     {
@@ -4357,7 +4359,7 @@ const data = [
         offerPrice: 15900,
         image: WATCH_DOGS_LEGION,
         imageDetails: DETAILS_WATCH_DOGS_LEGION,
-        Date: 2020/11/12,
+        Date: "2020/11/12",
         precioReventa: 20,
     },
     {
@@ -4372,7 +4374,7 @@ const data = [
         offerPrice: 19990,
         image: SONIC_FRONTIERS,
         imageDetails: DETAILS_SONIC_FRONTIERS,
-        Date: 2022/11/8,
+        Date: "2022/11/8",
         precioReventa: 30,
     },
     {
@@ -4387,7 +4389,7 @@ const data = [
         offerPrice: 19900,
         image: SONIC_FRONTIERS,
         imageDetails: DETAILS_SONIC_FRONTIERS,
-        Date: 2022/11/8,
+        Date: "2022/11/8",
         precioReventa: 30,
     },
     {
@@ -4402,7 +4404,7 @@ const data = [
         offerPrice: 19900,
         image: DOOM_ETERNAL,
         imageDetails: DETAILS_DOOM_ETERNAL,
-        Date: 2021/6/29,
+        Date: "2021/6/29",
         precioReventa: 15,
     },
     {
@@ -4417,7 +4419,7 @@ const data = [
         offerPrice: 15900,
         image: DOOM_ETERNAL,
         imageDetails: DETAILS_DOOM_ETERNAL,
-        Date: 2021/6/29,
+        Date: "2021/6/29",
         precioReventa: 15,
     },
     {
@@ -4432,7 +4434,7 @@ const data = [
         offerPrice: 19900,
         image: WRC_GENERATIONS,
         imageDetails: DETAILS_WRC_GENERATIONS,
-        Date: 2021/11/3,
+        Date: "2021/11/3",
         precioReventa: 20,
     },
     {
@@ -4447,7 +4449,7 @@ const data = [
         offerPrice: 19900,
         image: WRC_GENERATIONS,
         imageDetails: DETAILS_WRC_GENERATIONS,
-        Date: 2021/11/3,
+        Date: "2021/11/3",
         precioReventa: 20,
     },
     {
@@ -4462,7 +4464,7 @@ const data = [
         offerPrice: 29900,
         image: MINECRAFT_LEGENDS,
         imageDetails: DETAILS_MINECRAFT_LEGENDS,
-        Date: 2023/4/18,
+        Date: "2023/4/18",
         precioReventa: 25,
     },
     {
@@ -4477,7 +4479,7 @@ const data = [
         offerPrice: 29900,
         image: MINECRAFT_LEGENDS,
         imageDetails: DETAILS_MINECRAFT_LEGENDS,
-        Date: 2023/4/18,
+        Date: "2023/4/18",
         precioReventa: 25,
     },
     {
@@ -4492,7 +4494,7 @@ const data = [
         offerPrice: 19900,
         image: BATTLEFIELD_2042,
         imageDetails: DETAILS_BATTLEFIELD_2042,
-        Date: 2021/11/19,
+        Date: "2021/11/19",
         precioReventa: 20,
     },
     {
@@ -4507,7 +4509,7 @@ const data = [
         offerPrice: 10900,
         image: BATTLEFIELD_2042,
         imageDetails: DETAILS_BATTLEFIELD_2042,
-        Date: 2021/11/19,
+        Date: "2021/11/19",
         precioReventa: 20,
     },
     {
@@ -4522,7 +4524,7 @@ const data = [
         offerPrice: 39900,
         image: ATOMIC_HEART,
         imageDetails: DETAILS_ATOMIC_HEART,
-        Date: 2023/2/21,
+        Date: "2023/2/21",
         precioReventa: 39,
     },
     {
@@ -4537,7 +4539,7 @@ const data = [
         offerPrice: 39900,
         image: ATOMIC_HEART,
         imageDetails: DETAILS_ATOMIC_HEART,
-        Date: 2023/2/21,
+        Date: "2023/2/21",
         precioReventa: 39,
     },
     {
@@ -4552,7 +4554,7 @@ const data = [
         offerPrice: 29900,
         image: MX_VS_ATV_LEGENDS,
         imageDetails: DETAILS_MX_VS_ATV_LEGENDS,
-        Date: 2022/6/28,
+        Date: "2022/6/28",
         precioReventa: 29,
     },
     {
@@ -4567,7 +4569,7 @@ const data = [
         offerPrice: 29900,
         image: MX_VS_ATV_LEGENDS,
         imageDetails: DETAILS_MX_VS_ATV_LEGENDS,
-        Date: 2022/6/28,
+        Date: "2022/6/28",
         precioReventa: 29,
     },
     {
@@ -4582,7 +4584,7 @@ const data = [
         offerPrice: 29900,
         image: LEGO_STAR_WARS,
         imageDetails: DETAILS_LEGO_STAR_WARS,
-        Date: 2022/4/5,
+        Date: "2022/4/5",
         precioReventa: 20,
     },
     {
@@ -4597,7 +4599,7 @@ const data = [
         offerPrice: 29900,
         image: LEGO_STAR_WARS,
         imageDetails: DETAILS_LEGO_STAR_WARS,
-        Date: 2022/4/5,
+        Date: "2022/4/5",
         precioReventa: 20,
     },
     {
@@ -4612,7 +4614,7 @@ const data = [
         offerPrice: 19900,
         image: GOTHAM_KNIGHTS,
         imageDetails: DETAILS_GOTHAM_KNIGHTS,
-        Date: 2022/10/21,
+        Date: "2022/10/21",
         precioReventa: 40,
     },
     {
@@ -4627,7 +4629,7 @@ const data = [
         offerPrice: 49900,
         image: ASSASINS_3_PS3,
         imageDetails: DETAILS_ASSASINS_3,
-        Date: 2020/11/18,
+        Date: "2020/11/18",
         precioReventa: 49,
     },
     {
@@ -4642,7 +4644,7 @@ const data = [
         offerPrice: 49900,
         image: ASSASINS_3_PS3,
         imageDetails: DETAILS_ASSASINS_3,
-        Date: 2020/11/18,
+        Date: "2020/11/18",
         precioReventa: 49,
     },
     {
@@ -4657,7 +4659,7 @@ const data = [
         offerPrice: 35900,
         image: PGA_TOUR,
         imageDetails: DETAILS_PGA_TOUR,
-        Date: 2023/4/7,
+        Date: "2023/4/7",
         precioReventa: 40,
     },
     {
@@ -4672,7 +4674,7 @@ const data = [
         offerPrice: 19900,
         image: ASSASINS_ODYSSEY,
         imageDetails: DETAILS_ASSASINSCREED_ODYSSEY,
-        Date: 2018/10/5,
+        Date: "2018/10/5",
         precioReventa: 35,
     },
     {
@@ -4687,7 +4689,7 @@ const data = [
         offerPrice: 20900,
         image: DBZ_XENOVERSE_2,
         imageDetails: DETAILS_DBZ_XENOVERSE_2,
-        Date: 2024/5/24,
+        Date: "2016/10/8",
         precioReventa: 15,
     },
     {
@@ -4702,7 +4704,7 @@ const data = [
         offerPrice: 19900,
         image: DBZ_XENOVERSE_2,
         imageDetails: DETAILS_DBZ_XENOVERSE_2,
-        Date: 2024/5/24,
+        Date: "2016/10/8",
         precioReventa: 15,
     },
     {
@@ -4717,7 +4719,7 @@ const data = [
         offerPrice: 15900,
         image: LEGO_MARVEL_COLLECTION,
         imageDetails: DETAILS_LEGO_MARVEL_COLLECTION,
-        Date: 2019/3/12,
+        Date: "2019/3/12",
         precioReventa: 20,
     },
     {
@@ -4732,7 +4734,7 @@ const data = [
         offerPrice: 15900,
         image: LEGO_MARVEL_COLLECTION,
         imageDetails: DETAILS_LEGO_MARVEL_COLLECTION,
-        Date: 2019/3/12,
+        Date: "2019/3/12",
         precioReventa: 20,
     },
     {
@@ -4747,7 +4749,7 @@ const data = [
         offerPrice: 0 ,
         image: OVERCOOKED_2,
         imageDetails: DETAILS_OVERCOOKED_2,
-        Date: 2018/8/7,
+        Date: "2018/8/7",
         precioReventa: 25,
     },
     {
@@ -4762,7 +4764,7 @@ const data = [
         offerPrice: 0 ,
         image: OVERCOOKED_2,
         imageDetails: DETAILS_OVERCOOKED_2,
-        Date: 2018/8/7,
+        Date: "2018/8/7",
         precioReventa: 25,
     },
     {
@@ -4777,7 +4779,7 @@ const data = [
         offerPrice: 9900,
         image: SONIC_FORCES,
         imageDetails: DETAILS_SONIC_FORCES,
-        Date: 2018/1/23,
+        Date: "2018/1/23",
         precioReventa: 30,
     },
     {
@@ -4792,7 +4794,7 @@ const data = [
         offerPrice: 9900,
         image: SONIC_FORCES,
         imageDetails: DETAILS_SONIC_FORCES,
-        Date: 2018/1/23,
+        Date: "2018/1/23",
         precioReventa: 30,
     },
     {
@@ -4807,7 +4809,7 @@ const data = [
         offerPrice: 29900,
         image: SPIDERMAN,
         imageDetails: DETAILS_SPIDERMAN,
-        Date: 2019/8/28,
+        Date: "2019/8/28",
         precioReventa: 30,
     },
     {
@@ -4822,7 +4824,7 @@ const data = [
         offerPrice: 29900,
         image: SPIDERMAN,
         imageDetails: DETAILS_SPIDERMAN,
-        Date: 2019/8/28,
+        Date: "2019/8/28",
         precioReventa: 30,
     },
     {
@@ -4837,7 +4839,7 @@ const data = [
         offerPrice: 19000,
         image: TEKKEN_7,
         imageDetails: DETAILS_TEKKEN_7,
-        Date: 2017/6/2,
+        Date: "2017/6/2",
         precioReventa: 30,
     },
     {
@@ -4852,7 +4854,7 @@ const data = [
         offerPrice: 19000,
         image: TEKKEN_7,
         imageDetails: DETAILS_TEKKEN_7,
-        Date: 2017/6/2,
+        Date: "2017/6/2",
         precioReventa: 30,
     },
     {
@@ -4867,7 +4869,7 @@ const data = [
         offerPrice: 32000,
         image: LEGO_2K_DRIVE,
         imageDetails: DETAILS_LEGO_2K_DRIVE,
-        Date: 2023/5/19,
+        Date: "2023/5/19",
         precioReventa: 35,
     },
     {
@@ -4882,7 +4884,7 @@ const data = [
         offerPrice: 32000,
         image: LEGO_2K_DRIVE,
         imageDetails: DETAILS_LEGO_2K_DRIVE,
-        Date: 2023/5/19,
+        Date: "2023/5/19",
         precioReventa: 35,
     },
     {
@@ -4897,7 +4899,7 @@ const data = [
         offerPrice: 39000,
         image: CRASH_3,
         imageDetails: DETAILS_CRASH_3,
-        Date: 2019/7/7,
+        Date: "2019/12/20",
         precioReventa: 40,
     },
     {
@@ -4912,7 +4914,7 @@ const data = [
         offerPrice: 39000,
         image: CRASH_3,
         imageDetails: DETAILS_CRASH_3,
-        Date: 2019/7/7,
+        Date: "2019/12/20",
         precioReventa: 40,
     },
     {
@@ -4927,7 +4929,7 @@ const data = [
         offerPrice: 29900,
         image: RED_DEAD_REDEMPTION_2,
         imageDetails: DETAILS_RED_DEAD_REDEMPTION_2,
-        Date: 2018/10/26,
+        Date: "2018/10/26",
         precioReventa: 30,
     },
     {
@@ -4942,7 +4944,7 @@ const data = [
         offerPrice: 29900,
         image: RED_DEAD_REDEMPTION_2,
         imageDetails: DETAILS_RED_DEAD_REDEMPTION_2,
-        Date: 2018/10/26,
+        Date: "2018/10/26",
         precioReventa: 30,
     },
     {
@@ -4957,7 +4959,7 @@ const data = [
         offerPrice: 24900,
         image: MINECRAFT,
         imageDetails: DETAILS_MINECRAFT,
-        Date: 2019/12/10,
+        Date: "2019/12/10",
         precioReventa: 15,
     },
     {
@@ -4972,7 +4974,7 @@ const data = [
         offerPrice: 25900,
         image: MINECRAFT,
         imageDetails: DETAILS_MINECRAFT,
-        Date: 2019/12/10,
+        Date: "2019/12/10",
         precioReventa: 15,
     },
     {
@@ -4987,7 +4989,7 @@ const data = [
         offerPrice: 39900,
         image: FIFA_24,
         imageDetails: DETAILS_FIFA_24,
-        Date: 2023/9/29,
+        Date: "2023/9/29",
         precioReventa: 39,
     },
     {
@@ -5002,7 +5004,7 @@ const data = [
         offerPrice: 19900,
         image: FIFA_24,
         imageDetails: DETAILS_FIFA_24,
-        Date: 2023/9/29,
+        Date: "2023/9/29",
         precioReventa: 15,
     },
     {
@@ -5017,7 +5019,7 @@ const data = [
         offerPrice: 12900,
         image: FRIDAY_THE_13,
         imageDetails: DETAILS_FRIDAY_THE_13,
-        Date: 2017/5/24,
+        Date: "2017/5/24",
         precioReventa: 20,
     },
     {
@@ -5032,7 +5034,7 @@ const data = [
         offerPrice: 12900,
         image: FRIDAY_THE_13,
         imageDetails: DETAILS_FRIDAY_THE_13,
-        Date: 2017/5/24,
+        Date: "2017/5/24",
         precioReventa: 20,
     },
     {
@@ -5047,7 +5049,7 @@ const data = [
         offerPrice: 9900,
         image: GRAN_TURISMO_SPORT,
         imageDetails: DETAILS_GRAN_TURISMO_SPORT,
-        Date: 2017/10/15,
+        Date: "2017/10/15",
         precioReventa: 20,
     },
     {
@@ -5062,7 +5064,7 @@ const data = [
         offerPrice: 45900,
         image: GRAN_TURISMO_7,
         imageDetails: DETAILS_GRAN_TURISMO_7,
-        Date: 2022/3/4,
+        Date: "2022/3/4",
         precioReventa: 35,
     },
     {
@@ -5077,7 +5079,7 @@ const data = [
         offerPrice: 45900,
         image: GRAN_TURISMO_7,
         imageDetails: DETAILS_GRAN_TURISMO_7,
-        Date: 2022/3/4,
+        Date: "2022/3/4",
         precioReventa: 35,
     },
     {
@@ -5092,7 +5094,7 @@ const data = [
         offerPrice: 12900,
         image: RACOON_EDITION,
         imageDetails: DETAILS_RACCOON_CITY_EDITION,
-        Date: 2022/6/13,
+        Date: "2022/6/13",
         precioReventa: 25,
     },
     {
@@ -5107,7 +5109,7 @@ const data = [
         offerPrice: 12900,
         image: RACOON_EDITION,
         imageDetails: DETAILS_RACCOON_CITY_EDITION,
-        Date: 2022/6/13,
+        Date: "2022/6/13",
         precioReventa: 25,
     },
     {
@@ -5122,7 +5124,7 @@ const data = [
         offerPrice: 19900,
         image: GTA_SAN_ANDREAS_PS3,
         imageDetails: DETAILS_GTA_SAN_ANDRAS,
-        Date: 2015/12/5,
+        Date: "2015/12/5",
         precioReventa: 35,
     },
     {
@@ -5137,7 +5139,7 @@ const data = [
         offerPrice: 19900,
         image: GTA_SAN_ANDREAS_PS3,
         imageDetails: DETAILS_GTA_SAN_ANDRAS,
-        Date: 2015/12/5,
+        Date: "2015/12/5",
         precioReventa: 35,
     },
     {
@@ -5152,7 +5154,7 @@ const data = [
         offerPrice: 49900,
         image: DIABLO_IV,
         imageDetails: DETAILS_DIABLO_IV,
-        Date: 2024/6/9,
+        Date: "2024/6/9",
         precioReventa: 30,
     },
     {
@@ -5167,7 +5169,7 @@ const data = [
         offerPrice: 59900,
         image: DIABLO_IV,
         imageDetails: DETAILS_DIABLO_IV,
-        Date: 2024/6/9,
+        Date: "2024/6/9",
         precioReventa: 30,
     },
     {
@@ -5182,7 +5184,7 @@ const data = [
         offerPrice: 49900,
         image: HITMAN_WORLD,
         imageDetails: DETAILS_HITMAN_WORLD,
-        Date: 2023/1/26,
+        Date: "2023/1/26",
         precioReventa: 30,
     },
     {
@@ -5197,7 +5199,7 @@ const data = [
         offerPrice: 49900,
         image: HITMAN_WORLD,
         imageDetails: DETAILS_HITMAN_WORLD,
-        Date: 2023/1/26,
+        Date: "2023/1/26",
         precioReventa: 30,
     },
     {
@@ -5212,7 +5214,7 @@ const data = [
         offerPrice: 35900,
         image: NFS_UNBOUND,
         imageDetails: DETAILS_NFS_UNBOUND,
-        Date: 2022/12/2,
+        Date: "2022/12/2",
         precioReventa: 35,
     },
     {
@@ -5227,7 +5229,7 @@ const data = [
         offerPrice: 19900,
         image: SAINTS_ROW,
         imageDetails: DETAILS_SAINTS_ROW,
-        Date: 2022/8/23,
+        Date: "2022/8/23",
         precioReventa: 25,
     },
     {
@@ -5242,7 +5244,7 @@ const data = [
         offerPrice: 59900,
         image: MK_1,
         imageDetails: DETAILS_MK_1,
-        Date: 2023/9/19,
+        Date: "2023/9/19",
         precioReventa: 30,
     },
     {
@@ -5257,7 +5259,7 @@ const data = [
         offerPrice: 49900,
         image: SUICIDE_SQUAD,
         imageDetails: DETAILS_SUICIDE_SQUAD,
-        Date: 2024/2/2,
+        Date: "2024/2/2",
         precioReventa: 39,
     },
     {
@@ -5272,7 +5274,7 @@ const data = [
         offerPrice: 59900,
         image: SKULL_AND_BONES,
         imageDetails: DETAILS_SKULL_AND_BONES,
-        Date: 2024/2/15,
+        Date: "2024/2/15",
         precioReventa: 39,
     },
     {
@@ -5287,7 +5289,7 @@ const data = [
         offerPrice: 49900,
         image: GTA_TRILOGY,
         imageDetails: DETAILS_GTA_TRILOGY,
-        Date: 2021/11/11,
+        Date: "2021/11/11",
         precioReventa: 39,
     },
     {
@@ -5302,7 +5304,7 @@ const data = [
         offerPrice: 59900,
         image: GTA_TRILOGY,
         imageDetails: DETAILS_GTA_TRILOGY,
-        Date: 2021/11/11,
+        Date: "2021/11/11",
         precioReventa: 39,
     },
     {
@@ -5317,7 +5319,7 @@ const data = [
         offerPrice: 49900,
         image: PAYDAY_3,
         imageDetails: DETAILS_PAYDAY_3,
-        Date: 2023/9/21,
+        Date: "2023/9/21",
         precioReventa: 39,
     },
     {
@@ -5332,7 +5334,7 @@ const data = [
         offerPrice: 9900,
         image: TOM_CLANCYS_RAINBBOWS_SIEGE,
         imageDetails: DETAILS_TOMCLANCY_RAINBOWS_SIEGE,
-        Date: 2024/3/12,
+        Date: "2015/12/1",
         precioReventa: 9,
     },
     {
@@ -5347,7 +5349,7 @@ const data = [
         offerPrice: 9900,
         image: TOM_CLANCYS_RAINBBOWS_SIEGE,
         imageDetails: DETAILS_TOMCLANCY_RAINBOWS_SIEGE,
-        Date: 2024/3/12,
+        Date: "2015/12/1",
         precioReventa: 9,
     },
     {
@@ -5362,7 +5364,7 @@ const data = [
         offerPrice: 15900,
         image: GTA_V,
         imageDetails: DETAILS_GTA_V,
-        Date: 2022/6/15,
+        Date: "2014/11/18",
         precioReventa: 12,
     },
     {
@@ -5377,7 +5379,7 @@ const data = [
         offerPrice: 15900,
         image: GTA_V,
         imageDetails: DETAILS_GTA_V,
-        Date: 2022/6/15,
+        Date: "2014/11/18",
         precioReventa: 12,
     },
     {
@@ -5392,7 +5394,7 @@ const data = [
         offerPrice: 19900,
         image: WOLFENSTEIN,
         imageDetails: DETAILS_WOLFENSTEIN,
-        Date: 2019/7/26,
+        Date: "2019/7/26",
         precioReventa: 12,
     },
     {
@@ -5407,7 +5409,7 @@ const data = [
         offerPrice: 0,
         image: WOLFENSTEIN,
         imageDetails: DETAILS_WOLFENSTEIN,
-        Date: 2019/7/26,
+        Date: "2019/7/26",
         precioReventa: 12,
     },
     {
@@ -5422,7 +5424,7 @@ const data = [
         offerPrice: 29900,
         image: CREED,
         imageDetails: DETAILS_CREED,
-        Date: 2018/9/25,
+        Date: "2018/9/25",
         precioReventa: 15,
     },
     {
@@ -5437,7 +5439,7 @@ const data = [
         offerPrice: 29900,
         image: CREED,
         imageDetails: DETAILS_CREED,
-        Date: 2018/9/25,
+        Date: "2018/9/25",
         precioReventa: 15,
     },
     {
@@ -5452,7 +5454,7 @@ const data = [
         offerPrice: 39900,
         image: HORIZON,
         imageDetails: DETAILS_HORIZON_FORBIDDEN_WEST,
-        Date: 2022/2/18,
+        Date: "2022/2/18",
         precioReventa: 30,
     },
     {
@@ -5467,7 +5469,7 @@ const data = [
         offerPrice: 39900,
         image: HORIZON,
         imageDetails: DETAILS_HORIZON_FORBIDDEN_WEST,
-        Date: 2022/2/18,
+        Date: "2022/2/18",
         precioReventa: 30,
     },
     {
@@ -5482,7 +5484,7 @@ const data = [
         offerPrice: 20900,
         image: IT_TAKES_TWO,
         imageDetails: DETAILS_IT_TAKES_TWO,
-        Date: 2021/3/26,
+        Date: "2021/3/26",
         precioReventa: 20,
     },
     {
@@ -5497,7 +5499,7 @@ const data = [
         offerPrice: 20900,
         image: IT_TAKES_TWO,
         imageDetails: DETAILS_IT_TAKES_TWO,
-        Date: 2021/3/26,
+        Date: "2021/3/26",
         precioReventa: 20,
     },
     {
@@ -5512,7 +5514,7 @@ const data = [
         offerPrice: 39900,
         image: ABSOLUTE_DEDUCTION_BUNDLE,
         imageDetails: DETAILS_ABSOLUTE_DEDUCTION_BUNDLE,
-        Date: 2022/7/21,
+        Date: "2022/7/21",
         precioReventa: 30,
     },
     {
@@ -5527,7 +5529,7 @@ const data = [
         offerPrice: 39900,
         image: ABSOLUTE_DEDUCTION_BUNDLE,
         imageDetails: DETAILS_ABSOLUTE_DEDUCTION_BUNDLE,
-        Date: 2022/7/21,
+        Date: "2022/7/21",
         precioReventa: 30,
     },
     {
@@ -5542,7 +5544,7 @@ const data = [
         offerPrice: 39900,
         image: F1_24,
         imageDetails: DETAILS_F1_24,
-        Date: 2024/5/31,
+        Date: "2024/5/31",
         precioReventa: 35,
     },
     {
@@ -5557,7 +5559,7 @@ const data = [
         offerPrice: 39900,
         image: F1_24,
         imageDetails: DETAILS_F1_24,
-        Date: 2024/5/31,
+        Date: "2024/5/31",
         precioReventa: 35,
     },
     {
@@ -5572,7 +5574,7 @@ const data = [
         offerPrice: 59900,
         image: TEKKEN_8,
         imageDetails: TEKKEN_8,
-        Date: 2024/1/25,
+        Date: "2024/1/25",
         precioReventa: 55,
     },
     {
@@ -5587,7 +5589,7 @@ const data = [
         offerPrice: 59900,
         image: AVATAR_FRONTIERS_OF_PANDORA,
         imageDetails: DETAILS_AVATAR_FRONTIERS_OF_PANDORA,
-        Date: 2023/12/7,
+        Date: "2023/12/7",
         precioReventa: 45,
     },
     {
@@ -5602,7 +5604,7 @@ const data = [
         offerPrice: 49900,
         image: STREET_FIGHTER,
         imageDetails: DETAILS_STREET_FIGHTER,
-        Date: 2023/6/2,
+        Date: "2023/6/2",
         precioReventa: 38,
     },
     {
@@ -5617,7 +5619,7 @@ const data = [
         offerPrice: 49900,
         image: STREET_FIGHTER,
         imageDetails: DETAILS_STREET_FIGHTER,
-        Date: 2023/6/2,
+        Date: "2023/6/2",
         precioReventa: 38,
     },
     {
@@ -5632,7 +5634,7 @@ const data = [
         offerPrice: 19900,
         image: CALL_OF_DUTY_WW3,
         imageDetails: DETAILS_CALL_OF_DUTY_WW3,
-        Date: 2018/5/8,
+        Date: "2018/5/8",
         precioReventa: 19,
     },
     {
@@ -5647,7 +5649,7 @@ const data = [
         offerPrice: 19900,
         image: CALL_OF_DUTY_WW3,
         imageDetails: DETAILS_CALL_OF_DUTY_WW3,
-        Date: 2018/5/8,
+        Date: "2018/5/8",
         precioReventa: 19,
     },
     {
@@ -5662,7 +5664,7 @@ const data = [
         offerPrice: 39900,
         image: MINECRAFT_DUNGEONS,
         imageDetails: MINECRAFT_DUNGEONS,
-        Date: 2020/5/26,
+        Date: "2020/5/26",
         precioReventa: 25,
     },
     {
@@ -5677,7 +5679,7 @@ const data = [
         offerPrice: 39900,
         image: MINECRAFT_DUNGEONS,
         imageDetails: MINECRAFT_DUNGEONS,
-        Date: 2020/5/26,
+        Date: "2020/5/26",
         precioReventa: 25,
     },
     {
@@ -5692,7 +5694,7 @@ const data = [
         offerPrice: 0,
         image: STAR_OCEAN,
         imageDetails: DETAILS_STAR_OCEAN,
-        Date: 2023/11/2,
+        Date: "2023/11/2",
         precioReventa: 40,
     },
     {
@@ -5707,7 +5709,7 @@ const data = [
         offerPrice: 0,
         image: STAR_OCEAN,
         imageDetails: DETAILS_STAR_OCEAN,
-        Date: 2023/11/2,
+        Date: "2023/11/2",
         precioReventa: 40,
     },
     {
@@ -5722,7 +5724,7 @@ const data = [
         offerPrice: 29900,
         image: TEAM_SONIC_RACING,
         imageDetails: TEAM_SONIC_RACING,
-        Date: 2019/5/21,
+        Date: "2019/5/21",
         precioReventa: 25,
     },
     {
@@ -5737,7 +5739,7 @@ const data = [
         offerPrice: 29900,
         image: TEAM_SONIC_RACING,
         imageDetails: TEAM_SONIC_RACING,
-        Date: 2019/5/21,
+        Date: "2019/5/21",
         precioReventa: 25,
     },
     {
@@ -5752,7 +5754,7 @@ const data = [
         offerPrice: 49900,
         image: LIKE_A_DRAGON,
         imageDetails: DETAILS_LIKE_A_DRAGON,
-        Date: 2023/2/21,
+        Date: "2023/2/21",
         precioReventa: 45,
     },
     {
@@ -5767,7 +5769,7 @@ const data = [
         offerPrice: 49900,
         image: LIKE_A_DRAGON,
         imageDetails: DETAILS_LIKE_A_DRAGON,
-        Date: 2023/2/21,
+        Date: "2023/2/21",
         precioReventa: 45,
     },
     {
@@ -5782,7 +5784,7 @@ const data = [
         offerPrice: 0,
         image: SONIC_MANIA,
         imageDetails: DETAILS_SONIC_MANIA,
-        Date: 2017/8/15,
+        Date: "2017/8/15",
         precioReventa: 20,
     },
     {
@@ -5797,7 +5799,7 @@ const data = [
         offerPrice: 0,
         image: SONIC_MANIA,
         imageDetails: DETAILS_SONIC_MANIA,
-        Date: 2017/8/15,
+        Date: "2017/8/15",
         precioReventa: 20,
     },
     {
@@ -5812,7 +5814,7 @@ const data = [
         offerPrice: 39900,
         image: SONIC_COLORS,
         imageDetails: DETAILS_SONIC_COLORS,
-        Date: 2021/9/7,
+        Date: "2021/9/7",
         precioReventa: 35,
     },
     {
@@ -5827,7 +5829,7 @@ const data = [
         offerPrice: 39900,
         image: SONIC_COLORS,
         imageDetails: DETAILS_SONIC_COLORS,
-        Date: 2021/9/7,
+        Date: "2021/9/7",
         precioReventa: 35,
     },
     {
@@ -5842,7 +5844,7 @@ const data = [
         offerPrice: 0,
         image: INJUSTICE_2_PS4,
         imageDetails: DETAILS_INJUSTICE_2,
-        Date: 2018/3/27,
+        Date: "2018/3/27",
         precioReventa: 55,
     },
     {
@@ -5857,7 +5859,7 @@ const data = [
         offerPrice: 0,
         image: INJUSTICE_2_PS4,
         imageDetails: DETAILS_INJUSTICE_2,
-        Date: 2018/3/27,
+        Date: "2018/3/27",
         precioReventa: 55,
     },
     {
@@ -5872,7 +5874,7 @@ const data = [
         offerPrice: 19900,
         image: CALL_OF_DUTY_BO3,
         imageDetails: DETAILS_CALL_OF_DUTY_BO3,
-        Date: 2017/8/29,
+        Date: "2017/8/29",
         precioReventa: 25,
     },
     {
@@ -5887,7 +5889,7 @@ const data = [
         offerPrice: 19900,
         image: CALL_OF_DUTY_BO3,
         imageDetails: DETAILS_CALL_OF_DUTY_BO3,
-        Date: 2017/8/29,
+        Date: "2017/8/29",
         precioReventa: 25,
     },
     {
@@ -5902,7 +5904,7 @@ const data = [
         offerPrice: 29900,
         image: RESIDENT_EVIL_3,
         imageDetails: RESIDENT_EVIL_3,
-        Date: 2022/6/13,
+        Date: "2022/6/13",
         precioReventa: 25,
     },
     {
@@ -5917,7 +5919,7 @@ const data = [
         offerPrice: 29900,
         image: RESIDENT_EVIL_3,
         imageDetails: RESIDENT_EVIL_3,
-        Date: 2022/6/13,
+        Date: "2022/6/13",
         precioReventa: 25,
     },
     {
@@ -5932,7 +5934,7 @@ const data = [
         offerPrice: 19900,
         image: GRID_LEGENDS,
         imageDetails: DETAILS_GRID_LEGENDS,
-        Date: 2022/2/25,
+        Date: "2022/2/25",
         precioReventa: 20,
     },
     {
@@ -5947,7 +5949,7 @@ const data = [
         offerPrice: 0,
         image: FIFA_23,
         imageDetails: FIFA_23,
-        Date: 2022/9/26,
+        Date: "2022/9/26",
         precioReventa: 20,
     },
     {
@@ -5962,7 +5964,7 @@ const data = [
         offerPrice: 49900,
         image: ASSASINS_CREED_VALHALLA,
         imageDetails: DETAILS_GOW_RAGNAROK_VALHALLA,
-        Date: 2022/3/10,
+        Date: "2022/3/10",
         precioReventa: 49,
     },
     {
@@ -5977,7 +5979,7 @@ const data = [
         offerPrice: 49900,
         image: ASSASINS_CREED_VALHALLA,
         imageDetails: DETAILS_GOW_RAGNAROK_VALHALLA,
-        Date: 2022/3/10,
+        Date: "2022/3/10",
         precioReventa: 49,
     },
     {
@@ -5992,7 +5994,7 @@ const data = [
         offerPrice: 19900,
         image: ASSASINS_VALHALLA,
         imageDetails: DETAILS_ASSASINS_CREED_VALHALLA,
-        Date: 2020/11/12,
+        Date: "2020/11/12",
         precioReventa: 19,
     },
     {
@@ -6007,7 +6009,7 @@ const data = [
         offerPrice: 19900,
         image: ASSASINS_VALHALLA,
         imageDetails: DETAILS_ASSASINS_CREED_VALHALLA,
-        Date: 2020/11/12,
+        Date: "2020/11/12",
         precioReventa: 19,
     },
     {
@@ -6022,7 +6024,7 @@ const data = [
         offerPrice: 12900,
         image: ASSASINS_SINDICATE,
         imageDetails: DETAILS_ASSASINSCREED_SINDICATE,
-        Date: 2015/10/23,
+        Date: "2015/10/23",
         precioReventa: 13,
     },
     {
@@ -6037,7 +6039,7 @@ const data = [
         offerPrice: 29900,
         image: FIFA_23,
         imageDetails: FIFA_23,
-        Date: 2022/9/26,
+        Date: "2022/9/26",
         precioReventa: 20,
     },
     {
@@ -6052,7 +6054,7 @@ const data = [
         offerPrice: 75900,
         image: ELDEN_RING_SHADOW_ERDTREE,
         imageDetails: DETAILS_ELDEN_RING_SHADOW_ERDTREE,
-        Date: 2024/6/21,
+        Date: "2024/6/21",
         precioReventa: 35,
     },
     {
@@ -6067,7 +6069,7 @@ const data = [
         offerPrice: 75900,
         image: ELDEN_RING_SHADOW_ERDTREE,
         imageDetails: DETAILS_ELDEN_RING_SHADOW_ERDTREE,
-        Date: 2024/6/21,
+        Date: "2024/6/21",
         precioReventa: 35,
     },
     {
@@ -6082,7 +6084,7 @@ const data = [
         offerPrice: 69900,
         image: ELDEN_RING_MAS_SHADOW_ERDTREE,
         imageDetails: DETAILS_ELDEN_RING_MAS_SHADOW_ERDTREE,
-        Date: 2024/6/21,
+        Date: "2024/6/21",
         precioReventa: 59,
     },
     {
@@ -6097,7 +6099,7 @@ const data = [
         offerPrice: 69900,
         image: ELDEN_RING_MAS_SHADOW_ERDTREE,
         imageDetails: DETAILS_ELDEN_RING_MAS_SHADOW_ERDTREE,
-        Date: 2024/6/21,
+        Date: "2024/6/21",
         precioReventa: 59,
     },
     {
@@ -6112,7 +6114,7 @@ const data = [
         offerPrice: 49900,
         image: CONCORD,
         imageDetails: DETAILS_CONCORD,
-        Date: 2024/8/23,
+        Date: "2024/8/23",
         precioReventa: 35,
     },
     {
@@ -6127,7 +6129,7 @@ const data = [
         offerPrice: 69900,
         image: METRO_AWAKENING,
         imageDetails: DETAILS_METRO_AWAKENING,
-        Date: 2024/11/23,
+        Date: "2024/11/23",
         precioReventa: 45,
     },
     {
@@ -6142,7 +6144,7 @@ const data = [
         offerPrice: 69900,
         image: FARMING_SIMULATOR_25,
         imageDetails: DETAILS_FARMING_SIMULATOR_25,
-        Date: 2024/11/23,
+        Date: "2024/11/23",
         precioReventa: 45,
     },
     {
@@ -6157,7 +6159,7 @@ const data = [
         offerPrice: 69900,
         image: ASSASINS_CREED_SHADOWS,
         imageDetails: DETAILS_ASSASINS_CREED_SHADOWS,
-        Date: 2024/11/15,
+        Date: "2024/11/15",
         precioReventa: 45,
     },
     {
@@ -6172,7 +6174,7 @@ const data = [
         offerPrice: 59900,
         image: CALL_OF_DUTY_BO6,
         imageDetails: DETAILS_CALL_OF_DUTY_BO6,
-        Date: 2024/10/25,
+        Date: "2024/10/25",
         precioReventa: 45,
     },
     {
@@ -6187,22 +6189,7 @@ const data = [
         offerPrice: 59900,
         image: UNDISPUTED,
         imageDetails: DETAILS_UNDISPUTED,
-        Date: 2024/10/8,
-        precioReventa: 45,
-    },
-    {
-        id: 562,
-        title: "Undisputed WBC Edition",
-        category: "PS5",
-        gender: "Accion",
-        description:
-            "DRAGON BALL: Sparking! ZERO toma el legendario estilo de juego de la saga Budokai Tenkaichi y lo lleva a niveles totalmente nuevos. Descubre y domina una alineación increíble de personajes jugables, cada uno con habilidades, transformaciones y técnicas únicas.",
-        price: 89900,
-        secondaryPrice: 89900,
-        offerPrice: 59900,
-        image: UNDISPUTED,
-        imageDetails: DETAILS_UNDISPUTED,
-        Date: 2024/10/10,
+        Date: "2024/10/8",
         precioReventa: 45,
     },
     {
@@ -6217,7 +6204,7 @@ const data = [
         offerPrice: 59900,
         image: NBA_2K25,
         imageDetails: DETAILS_NBA_2K25,
-        Date: 2024/9/6,
+        Date: "2024/9/6",
         precioReventa: 45,
     },
     {
@@ -6232,8 +6219,8 @@ const data = [
         offerPrice: 59900,
         image: NBA_2K25,
         imageDetails: DETAILS_NBA_2K25,
-        Date: 2024/9/6,
-        precioReventa: 45,
+        Date: "2024/9/6",
+       precioReventa: 45
     },
     {
         id: 565,
@@ -6247,7 +6234,7 @@ const data = [
         offerPrice: 59900,
         image: STAR_WARS_OUTLAWS,
         imageDetails: DETAILS_STAR_WARS_OUTLAWS,
-        Date: 2024/8/30,
+        Date: "2024/8/30",
         precioReventa: 45,
     },
     {
@@ -6262,7 +6249,7 @@ const data = [
         offerPrice: 39900,
         image: SEA_OF_THIEVES,
         imageDetails: DETAILS_SEA_OF_THIEVES,
-        Date: 2024/4/30,
+        Date: "2024/4/30",
         precioReventa: 45,
     },
     {
@@ -6277,7 +6264,7 @@ const data = [
         offerPrice: 69900,
         image: SEA_OF_THIEVES,
         imageDetails: DETAILS_SEA_OF_THIEVES,
-        Date: 2024/3/22,
+        Date: "2024/3/22",
         precioReventa: 55,
     },
     {
@@ -6292,7 +6279,7 @@ const data = [
         offerPrice: 59900,
         image: P3_PERSONA3,
         imageDetails: DETAILS_P3_PERSONA3,
-        Date: 2024/3/22,
+        Date: "2024/3/22",
         precioReventa: 45,
     },
     {
@@ -6307,7 +6294,7 @@ const data = [
         offerPrice: 59900,
         image: P3_PERSONA3,
         imageDetails: DETAILS_P3_PERSONA3,
-        Date: 2024/3/22,
+        Date: "2024/3/22",
         precioReventa: 45,
     },
     {
@@ -6322,7 +6309,7 @@ const data = [
         offerPrice: 9000,
         image: DUCATI,
         imageDetails: DETAILS_DUCATI,
-        Date: 2016/6/9,
+        Date: "2016/6/9",
         precioReventa: 9,
     },
     {
@@ -6337,7 +6324,7 @@ const data = [
         offerPrice: 9000,
         image: DUCATI,
         imageDetails: DETAILS_DUCATI,
-        Date: 2016/6/9,
+        Date: "2016/6/9",
         precioReventa: 9,
     },
     {
@@ -6352,7 +6339,7 @@ const data = [
         offerPrice: 9900,
         image: DYING_LIGHT,
         imageDetails: DETAILS_DYING_LIGHT,
-        Date: 2015/1/27,
+        Date: "2015/1/27",
         precioReventa: 9,
     },
     {
@@ -6367,7 +6354,7 @@ const data = [
         offerPrice: 19900,
         image: DYING_LIGHT_ENHANCED_EDITION,
         imageDetails: DYING_LIGHT_ENHANCED_EDITION,
-        Date: 2020/8/21,
+        Date: "2020/8/21",
         precioReventa: 15,
     },
     {
@@ -6382,7 +6369,7 @@ const data = [
         offerPrice: 19900,
         image: DYING_LIGHT_ENHANCED_EDITION,
         imageDetails: DYING_LIGHT_ENHANCED_EDITION,
-        Date: 2020/8/21,
+        Date: "2020/8/21",
         precioReventa: 15,
     },
     {
@@ -6397,7 +6384,7 @@ const data = [
         offerPrice: 10900,
         image: EVOLVE,
         imageDetails: EVOLVE,
-        Date: 2014/10/30,
+        Date: "2014/10/30",
         precioReventa: 10,
     },
     {
@@ -6412,7 +6399,7 @@ const data = [
         offerPrice: 10900,
         image: EVOLVE,
         imageDetails: EVOLVE,
-        Date: 2014/10/30,
+        Date: "2014/10/30",
         precioReventa: 10,
     },
     {
@@ -6427,7 +6414,7 @@ const data = [
         offerPrice: 10900,
         image: FALL_GUYS,
         imageDetails: DETAILS_FALL_GUYS,
-        Date: 2022/6/21,
+        Date: "2022/6/21",
         precioReventa: 10,
     },
     {
@@ -6442,7 +6429,7 @@ const data = [
         offerPrice: 10900,
         image: FALL_GUYS,
         imageDetails: DETAILS_FALL_GUYS,
-        Date: 2022/6/21,
+        Date: "2022/6/21",
         precioReventa: 10,
     },
     {
@@ -6457,7 +6444,7 @@ const data = [
         offerPrice: 24900,
         image: FARMING_SIMULATOR_19,
         imageDetails: DETAILS_FARMING_SIMULATOR_19,
-        Date: 2018/11/20,
+        Date: "2018/11/20",
         precioReventa: 20,
     },
     {
@@ -6472,7 +6459,7 @@ const data = [
         offerPrice: 24900,
         image: FARMING_SIMULATOR_19,
         imageDetails: DETAILS_FARMING_SIMULATOR_19,
-        Date: 2018/11/20,
+        Date: "2018/11/20",
         precioReventa: 20,
     },
     {
@@ -6487,7 +6474,7 @@ const data = [
         offerPrice: 19900,
         image: FARMING_SIMULATOR_17,
         imageDetails: DETAILS_FARMING_SIMULATOR_17,
-        Date: 2016/10/25,
+        Date: "2016/10/25",
         precioReventa: 15,
     },
     {
@@ -6502,7 +6489,7 @@ const data = [
         offerPrice: 19900,
         image: FARMING_SIMULATOR_17,
         imageDetails: DETAILS_FARMING_SIMULATOR_17,
-        Date: 2016/10/25,
+        Date: "2016/10/25",
         precioReventa: 15,
     },
     {
@@ -6517,7 +6504,7 @@ const data = [
         offerPrice: 19900,
         image: FARMING_SIMULATOR_17,
         imageDetails: DETAILS_FARMING_SIMULATOR_17,
-        Date: 2016/10/25,
+        Date: "2016/10/25",
         precioReventa: 15,
     },
     {
@@ -6532,7 +6519,7 @@ const data = [
         offerPrice: 9900,
         image: FIFA_20,
         imageDetails: DETAILS_FIFA_20,
-        Date: 2019/9/22,
+        Date: "2019/9/22",
         precioReventa: 9,
     },
     {
@@ -6547,7 +6534,7 @@ const data = [
         offerPrice: 9900,
         image: FIFA_20,
         imageDetails: DETAILS_FIFA_20,
-        Date: 2019/9/22,
+        Date: "2019/9/22",
         precioReventa: 9,
     },
     {
@@ -6562,7 +6549,7 @@ const data = [
         offerPrice: 9900,
         image: FIREWATCH,
         imageDetails: DETAILS_FIREWATCH,
-        Date: 2016/2/8,
+        Date: "2016/2/8",
         precioReventa: 9,
     },
     {
@@ -6577,8 +6564,38 @@ const data = [
         offerPrice: 9900,
         image: FIREWATCH,
         imageDetails: DETAILS_FIREWATCH,
-        Date: 2016/2/8,
+        Date: "2016/2/8",
         precioReventa: 9,
+    },
+    {
+        id: 586,
+        title: "FIFA 25 - Ea Sport Fc25",
+        category: "PS4",
+        gender: "Deportes",
+        description:
+            "Haz que tu equipo juegue como los mejores del mundo con FC IQ. Una mejora de las bases tácticas en el juego ofrece un mayor control estratégico y movimientos colectivos más realistas a nivel de equipo, mientras que un nuevo modelo de IA, impulsado por datos del mundo real, influye en las tácticas de cada futbolista a través de los nuevos Roles de futbolista.",
+        price: 59900,
+        secondaryPrice: 58900,
+        offerPrice: 0,
+        image: FIFA_25,
+        imageDetails: DETAILS_FIFA_25,
+        Date: "2024/9/27",
+        precioReventa: 39,
+    },
+    {
+        id: 586,
+        title: "FIFA 25 - Ea Sport Fc25",
+        category: "PS5",
+        gender: "Deportes",
+        description:
+            "Haz que tu equipo juegue como los mejores del mundo con FC IQ. Una mejora de las bases tácticas en el juego ofrece un mayor control estratégico y movimientos colectivos más realistas a nivel de equipo, mientras que un nuevo modelo de IA, impulsado por datos del mundo real, influye en las tácticas de cada futbolista a través de los nuevos Roles de futbolista.",
+        price: 59900,
+        secondaryPrice: 58900,
+        offerPrice: 0,
+        image: FIFA_25,
+        imageDetails: DETAILS_FIFA_25,
+        Date: "2024/9/27",
+        precioReventa: 39,
     },
 
     
