@@ -6548,14 +6548,14 @@ const data = [
     },
     {
         id: 5826,
-        title: "FIFA 25 - Ea Sport Fc25",
+        title: "Preventa FIFA 25 - Ea Sport Fc25",
         category: "PS4",
         gender: "Deportes",
         description:
             "Haz que tu equipo juegue como los mejores del mundo con FC IQ. Una mejora de las bases tácticas en el juego ofrece un mayor control estratégico y movimientos colectivos más realistas a nivel de equipo, mientras que un nuevo modelo de IA, impulsado por datos del mundo real, influye en las tácticas de cada futbolista a través de los nuevos Roles de futbolista.",
         price: 69900,
         secondaryPrice: 68900,
-        offerPrice: 0,
+        offerPrice: 49000,
         image: FIFA_25,
         imageDetails: DETAILS_FIFA_25,
         Date: "2024/9/27",
@@ -6563,14 +6563,14 @@ const data = [
     },
     {
         id: 586,
-        title: "FIFA 25 - Ea Sport Fc25",
+        title: "Preventa FIFA 25 - Ea Sport Fc25",
         category: "PS5",
         gender: "Deportes",
         description:
             "Haz que tu equipo juegue como los mejores del mundo con FC IQ. Una mejora de las bases tácticas en el juego ofrece un mayor control estratégico y movimientos colectivos más realistas a nivel de equipo, mientras que un nuevo modelo de IA, impulsado por datos del mundo real, influye en las tácticas de cada futbolista a través de los nuevos Roles de futbolista.",
         price: 69900,
         secondaryPrice: 68900,
-        offerPrice: 0,
+        offerPrice: 49000,
         image: FIFA_25,
         imageDetails: DETAILS_FIFA_25,
         Date: "2024/9/27",
