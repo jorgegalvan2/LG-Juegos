@@ -313,14 +313,14 @@ import FIFA_20 from '../assets/img/Catalogue/Playstation_4_5/FIFA_20.jpeg';
 import EVOLVE from '../assets/img/Catalogue/Playstation_4_5/EVOLVE.jpg';
 import FIFA_25 from '../assets/img/Catalogue/Playstation_4_5/FIFA_25.jpeg';
 import ELDEN_RING from '../assets/img/Catalogue/Playstation_4_5/ELDEN_RING.jpeg';
-import JEDI_SURVIVOR from '../assets/img/Catalogue/Playstation_4_5/FIFA_25.jpeg';
-import NO_MAN_SKY from '../assets/img/Catalogue/Playstation_4_5/FIFA_25.jpeg';
+import JEDI_SURVIVOR from '../assets/img/Catalogue/Playstation_4_5/JEDI_SURVIVOR.jpeg';
+import NO_MAN_SKY from '../assets/img/Catalogue/Playstation_4_5/NO_MAN_SKY.jpeg';
 import TEKKEN_8_NEW from '../assets/img/Catalogue/Playstation_4_5/TEKKEN_8_NEW.jpeg';
 import UFC_5 from '../assets/img/Catalogue/Playstation_4_5/UFC_5.jpeg';
 
 import A_PLAGUE_TALE_INNOCENCE from '../assets/img/Catalogue/Playstation_4_5/A_PLAGUE_TALE_INNOCENCE.jpeg';
 import A_PLAGUE_TALE_REQUIEM from '../assets/img/Catalogue/Playstation_4_5/A_PLAGUE_TALE_REQUIEM.jpeg';
-import GOD_OF_WAR_3 from '../assets/img/Catalogue/Playstation_4_5/GOD_OF_WAR_3.jpeg';
+import GOD_OF_WAR_3 from '../assets/img/Catalogue/Playstation_4_5/GOD_OF_WAR_3.jpg';
 import ASSASINS_CREED_VALHALLA_NEW from '../assets/img/Catalogue/Playstation_4_5/ASSASINS_CREED_VALHALLA_NEW.jpeg';
 
 
@@ -518,8 +518,8 @@ import DETAILS_FIREWATCH from '../assets/img/Catalogue/imgDetails-PS4-PS5/FIREWA
 import DETAILS_GOW_RAGNAROK_VALHALLA from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINSCREED-VALHALLA_RAGNAROK.jpeg';
 import DETAILS_FIFA_25 from '../assets/img/Catalogue/imgDetails-PS4-PS5/FIFA_25.jpeg';
 import DETAILS_ELDEN_RING from '../assets/img/Catalogue/imgDetails-PS4-PS5/ELDEN_RING.jpeg';
-import DETAILS_JEDI_SURVIVOR from '../assets/img/Catalogue/imgDetails-PS4-PS5/FIFA_25.jpeg';
-import DETAILS_NO_MAN_SKY from '../assets/img/Catalogue/imgDetails-PS4-PS5/FIFA_25.jpeg';
+import DETAILS_JEDI_SURVIVOR from '../assets/img/Catalogue/imgDetails-PS4-PS5/JEDI_SURVIVOR.jpeg';
+import DETAILS_NO_MAN_SKY from '../assets/img/Catalogue/imgDetails-PS4-PS5/NO_MAN_SKY.jpeg';
 import DETAILS_TEKKEN_8_NEW from '../assets/img/Catalogue/imgDetails-PS4-PS5/TEKKEN_8.jpeg';
 import DETAILS_UFC_5 from '../assets/img/Catalogue/imgDetails-PS4-PS5/UFC_5.jpeg';
 
@@ -529,7 +529,7 @@ import DETAILS_ASSASINS_CREED_VALHALLA_COMPLETE_EDITION from '../assets/img/Cata
 import DETAILS_ASSASINS_CREED_VALHALLA_RAGNAROK_EDITION from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINS_CREED_VALHALLA_RAGNAROK_EDITION.jpeg';
 import DETAILS_CALL_OF_DUTY_BO3_AWAKENING from '../assets/img/Catalogue/imgDetails-PS4-PS5/CALL_OF_DUTY_BO3_AWAKENING.jpeg';
 import DETAILS_CRASH_BANDICOOT_LA_TRILOGIA from '../assets/img/Catalogue/imgDetails-PS4-PS5/CRASH_BANDICOOT_LA_TRILOGIA.jpeg';
-import DETAILS_GOD_OF_WAR_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/GOD_OF_WAR_3.jpeg';
+import DETAILS_GOD_OF_WAR_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/GOD_OF_WAR_3.jpg';
 import DETAILS_LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA from '../assets/img/Catalogue/imgDetails-PS4-PS5/LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA.jpeg';
 import DETAILS_ASSASINS_CREED_VALHALLA_NEW from '../assets/img/Catalogue/imgDetails-PS4-PS5/LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA.jpeg';
 
@@ -2327,7 +2327,7 @@ const data = [
         secondaryPrice: 49900,
         offerPrice: 29900,
         image: CRASH_INSANE_TRILOGY,
-        imageDetails: DETAILS_CRASH_TRILOGY,
+        imageDetails: DETAILS_CRASH_BANDICOOT_LA_TRILOGIA,
         Date: "2017/6/30",
         precioReventa: 20,
     },
@@ -2581,8 +2581,8 @@ const data = [
         price: 19900,
         secondaryPrice: 18900,
         offerPrice: 10900,
-        image: GOW_REMASTERED,
-        imageDetails: DETAILS_GOW_REMASTERED,
+        image: GOD_OF_WAR_3,
+        imageDetails: DETAILS_GOD_OF_WAR_3,
         Date: "2020/3/16",
         precioReventa: 12,
     },
@@ -2762,7 +2762,7 @@ const data = [
         secondaryPrice: 8900,
         offerPrice: 0,
         image: LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA,
-        imageDetails: AA,
+        imageDetails: DETAILS_LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA,
         Date: "2017/10/10",
         precioReventa: 15,
     },
@@ -3212,7 +3212,7 @@ const data = [
         secondaryPrice: 79900,
         offerPrice: 49900,
         image: ASSASINS_VALHALLA,
-        imageDetails: DETAILS_ASSASINSCREED_VALHALLA,
+        imageDetails: DETAILS_ASSASINS_CREED_VALHALLA_RAGNAROK_EDITION,
         Date: "2022/2/23",
         precioReventa: 39,
     },
@@ -3227,7 +3227,7 @@ const data = [
         secondaryPrice: 79900,
         offerPrice: 49900,
         image: ASSASINS_VALHALLA,
-        imageDetails: DETAILS_ASSASINSCREED_VALHALLA,
+        imageDetails: DETAILS_ASSASINS_CREED_VALHALLA_RAGNAROK_EDITION,
         Date: "2022/2/23",
         precioReventa: 39,
     },
@@ -6481,7 +6481,7 @@ const data = [
         price: 79900,
         secondaryPrice: 78900,
         offerPrice: 0,
-        image: TEKKEN_8,
+        image: TEKKEN_8_NEW,
         imageDetails: DETAILS_TEKKEN_8_NEW,
         Date: "2024/1/25",
         precioReventa: 40,
