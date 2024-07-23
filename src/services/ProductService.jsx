@@ -312,12 +312,16 @@ import FIREWATCH from '../assets/img/Catalogue/Playstation_4_5/FIREWATCH.jpeg';
 import FIFA_20 from '../assets/img/Catalogue/Playstation_4_5/FIFA_20.jpeg';
 import EVOLVE from '../assets/img/Catalogue/Playstation_4_5/EVOLVE.jpg';
 import FIFA_25 from '../assets/img/Catalogue/Playstation_4_5/FIFA_25.jpeg';
-
 import ELDEN_RING from '../assets/img/Catalogue/Playstation_4_5/ELDEN_RING.jpeg';
 import JEDI_SURVIVOR from '../assets/img/Catalogue/Playstation_4_5/FIFA_25.jpeg';
 import NO_MAN_SKY from '../assets/img/Catalogue/Playstation_4_5/FIFA_25.jpeg';
 import TEKKEN_8_NEW from '../assets/img/Catalogue/Playstation_4_5/TEKKEN_8_NEW.jpeg';
 import UFC_5 from '../assets/img/Catalogue/Playstation_4_5/UFC_5.jpeg';
+
+import A_PLAGUE_TALE_INNOCENCE from '../assets/img/Catalogue/Playstation_4_5/A_PLAGUE_TALE_INNOCENCE.jpeg';
+import A_PLAGUE_TALE_REQUIEM from '../assets/img/Catalogue/Playstation_4_5/A_PLAGUE_TALE_REQUIEM.jpeg';
+import GOD_OF_WAR_3 from '../assets/img/Catalogue/Playstation_4_5/GOD_OF_WAR_3.jpeg';
+import ASSASINS_CREED_VALHALLA_NEW from '../assets/img/Catalogue/Playstation_4_5/ASSASINS_CREED_VALHALLA_NEW.jpeg';
 
 
 
@@ -513,12 +517,22 @@ import DETAILS_FARMING_SIMULATOR_19 from '../assets/img/Catalogue/imgDetails-PS4
 import DETAILS_FIREWATCH from '../assets/img/Catalogue/imgDetails-PS4-PS5/FIREWATCH.jpeg';
 import DETAILS_GOW_RAGNAROK_VALHALLA from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINSCREED-VALHALLA_RAGNAROK.jpeg';
 import DETAILS_FIFA_25 from '../assets/img/Catalogue/imgDetails-PS4-PS5/FIFA_25.jpeg';
-
 import DETAILS_ELDEN_RING from '../assets/img/Catalogue/imgDetails-PS4-PS5/ELDEN_RING.jpeg';
 import DETAILS_JEDI_SURVIVOR from '../assets/img/Catalogue/imgDetails-PS4-PS5/FIFA_25.jpeg';
 import DETAILS_NO_MAN_SKY from '../assets/img/Catalogue/imgDetails-PS4-PS5/FIFA_25.jpeg';
 import DETAILS_TEKKEN_8_NEW from '../assets/img/Catalogue/imgDetails-PS4-PS5/TEKKEN_8.jpeg';
 import DETAILS_UFC_5 from '../assets/img/Catalogue/imgDetails-PS4-PS5/UFC_5.jpeg';
+
+import DETAILS_A_PLAGUE_TALE_INNOCENCE from '../assets/img/Catalogue/imgDetails-PS4-PS5/A_PLAGUE_TALE_INNOCENCE.jpeg';
+import DETAILS_A_PLAGUE_TALE_REQUIEM from '../assets/img/Catalogue/imgDetails-PS4-PS5/A_PLAGUE_TALE_REQUIEM.jpeg';
+import DETAILS_ASSASINS_CREED_VALHALLA_COMPLETE_EDITION from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINS_CREED_VALHALLA_COMPLETE_EDITION.jpeg';
+import DETAILS_ASSASINS_CREED_VALHALLA_RAGNAROK_EDITION from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINS_CREED_VALHALLA_RAGNAROK_EDITION.jpeg';
+import DETAILS_CALL_OF_DUTY_BO3_AWAKENING from '../assets/img/Catalogue/imgDetails-PS4-PS5/CALL_OF_DUTY_BO3_AWAKENING.jpeg';
+import DETAILS_CRASH_BANDICOOT_LA_TRILOGIA from '../assets/img/Catalogue/imgDetails-PS4-PS5/CRASH_BANDICOOT_LA_TRILOGIA.jpeg';
+import DETAILS_GOD_OF_WAR_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/GOD_OF_WAR_3.jpeg';
+import DETAILS_LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA from '../assets/img/Catalogue/imgDetails-PS4-PS5/LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA.jpeg';
+import DETAILS_ASSASINS_CREED_VALHALLA_NEW from '../assets/img/Catalogue/imgDetails-PS4-PS5/LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA.jpeg';
+
 
 import AA from "../assets/img/logo-lg.png";
 
@@ -5838,7 +5852,7 @@ const data = [
         secondaryPrice: 49900,
         offerPrice: 19900,
         image: CALL_OF_DUTY_BO3,
-        imageDetails: DETAILS_CALL_OF_DUTY_BO3,
+        imageDetails: DETAILS_CALL_OF_DUTY_BO3_AWAKENING,
         Date: "2017/8/29",
         precioReventa: 25,
     },
@@ -5853,7 +5867,7 @@ const data = [
         secondaryPrice: 49900,
         offerPrice: 19900,
         image: CALL_OF_DUTY_BO3,
-        imageDetails: DETAILS_CALL_OF_DUTY_BO3,
+        imageDetails: DETAILS_CALL_OF_DUTY_BO3_AWAKENING,
         Date: "2017/8/29",
         precioReventa: 25,
     },
@@ -5928,7 +5942,7 @@ const data = [
         secondaryPrice: 99900,
         offerPrice: 69900,
         image: ASSASINS_CREED_VALHALLA,
-        imageDetails: DETAILS_GOW_RAGNAROK_VALHALLA,
+        imageDetails: DETAILS_ASSASINS_CREED_VALHALLA_COMPLETE_EDITION,
         Date: "2022/3/10",
         precioReventa: 49,
     },
@@ -5943,7 +5957,7 @@ const data = [
         secondaryPrice: 99900,
         offerPrice: 59900,
         image: ASSASINS_CREED_VALHALLA,
-        imageDetails: DETAILS_GOW_RAGNAROK_VALHALLA,
+        imageDetails: DETAILS_ASSASINS_CREED_VALHALLA_COMPLETE_EDITION,
         Date: "2022/3/10",
         precioReventa: 49,
     },
@@ -5957,8 +5971,8 @@ const data = [
         price: 49900,
         secondaryPrice: 49900,
         offerPrice: 29900,
-        image: ASSASINS_VALHALLA,
-        imageDetails: DETAILS_ASSASINS_CREED_VALHALLA,
+        image: ASSASINS_CREED_VALHALLA_NEW,
+        imageDetails: DETAILS_ASSASINS_CREED_VALHALLA_NEW,
         Date: "2020/11/12",
         precioReventa: 19,
     },
@@ -5972,8 +5986,8 @@ const data = [
         price: 49900,
         secondaryPrice: 49900,
         offerPrice: 29900,
-        image: ASSASINS_VALHALLA,
-        imageDetails: DETAILS_ASSASINS_CREED_VALHALLA,
+        image: ASSASINS_CREED_VALHALLA_NEW,
+        imageDetails: DETAILS_ASSASINS_CREED_VALHALLA_NEW,
         Date: "2020/11/12",
         precioReventa: 19,
     },
@@ -6572,8 +6586,8 @@ const data = [
         price: 59900,
         secondaryPrice: 58900,
         offerPrice: 34900,
-        image: AA,
-        imageDetails: AA,
+        image: A_PLAGUE_TALE_INNOCENCE,
+        imageDetails: DETAILS_A_PLAGUE_TALE_INNOCENCE,
         Date: "2021/7/6",
         precioReventa: 35,
     },
@@ -6587,8 +6601,8 @@ const data = [
         price: 59900,
         secondaryPrice: 58900,
         offerPrice: 34900,
-        image: AA,
-        imageDetails: AA,
+        image: A_PLAGUE_TALE_INNOCENCE,
+        imageDetails: DETAILS_A_PLAGUE_TALE_INNOCENCE,
         Date: "2021/7/6",
         precioReventa: 35,
     },
@@ -6602,8 +6616,8 @@ const data = [
         price: 79900,
         secondaryPrice: 78900,
         offerPrice: 49900,
-        image: AA,
-        imageDetails: AA,
+        image: A_PLAGUE_TALE_REQUIEM,
+        imageDetails: DETAILS_A_PLAGUE_TALE_REQUIEM,
         Date: "2022/10/18",
         precioReventa: 45,
     },
