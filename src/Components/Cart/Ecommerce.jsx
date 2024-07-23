@@ -192,8 +192,8 @@ function Ecommerce({ item }) {
                         {product.offerPrice != 0 ? (
                           <div className='row text-start'>
                             <div className='col-12 text-start'>
-                              <p className="d-inline-block me-1 mb-0 oldPriceNotOffer">${product.price}</p>
-                              <p className="d-inline-block ms-1 mb-0"><strong>${product.offerPrice}</strong></p>
+                              <p className="d-inline-block me-1 mb-0 oldPriceNotOffer ">${product.price}</p>
+                              <p className="d-inline-block ms-1 mb-0 "><strong>${product.offerPrice}</strong></p>
                               <span className='d-block cuoteStyle'>Cuota simple  3x ${Math.round(product.offerPrice * 1.20 / 3)}</span>
                             </div>
                           </div>

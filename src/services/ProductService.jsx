@@ -6173,7 +6173,7 @@ const data = [
     },
     {
         id: 563,
-        title: "NBA 2K25",
+        title: "PREVENTA - NBA 2K25",
         category: "PS4",
         gender: "Deportes",
         description:
@@ -6547,7 +6547,7 @@ const data = [
         precioReventa: 9,
     },
     {
-        id: 586,
+        id: 5826,
         title: "FIFA 25 - Ea Sport Fc25",
         category: "PS4",
         gender: "Deportes",
