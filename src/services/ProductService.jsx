@@ -531,7 +531,7 @@ import DETAILS_CALL_OF_DUTY_BO3_AWAKENING from '../assets/img/Catalogue/imgDetai
 import DETAILS_CRASH_BANDICOOT_LA_TRILOGIA from '../assets/img/Catalogue/imgDetails-PS4-PS5/CRASH_BANDICOOT_LA_TRILOGIA.jpeg';
 import DETAILS_GOD_OF_WAR_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/GOD_OF_WAR_3.jpg';
 import DETAILS_LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA from '../assets/img/Catalogue/imgDetails-PS4-PS5/LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA.jpeg';
-import DETAILS_ASSASINS_CREED_VALHALLA_NEW from '../assets/img/Catalogue/imgDetails-PS4-PS5/LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA.jpeg';
+import DETAILS_ASSASINS_CREED_VALHALLA_NEW from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINS_CREED_VALHALLA_NEW.jpeg';
 
 
 import AA from "../assets/img/logo-lg.png";
@@ -1982,7 +1982,7 @@ const data = [
         secondaryPrice: 30900,
         offerPrice: 29900,
         image: RESIDENT_EVIL_2, //-------------------------------
-        imageDetails: DETAILS_RE_5,
+        imageDetails: DETAILS_RE_2,
         Date: "2022/6/13",
         precioReventa: 15,
     },
@@ -6226,8 +6226,8 @@ const data = [
         price: 89900,
         secondaryPrice: 89900,
         offerPrice: 49900,
-        image: SEA_OF_THIEVES,
-        imageDetails: DETAILS_SEA_OF_THIEVES,
+        image: RONIN,
+        imageDetails: DETAILS_RONIN,
         Date: "2024/4/30",
         precioReventa: 45,
     },
@@ -6241,8 +6241,8 @@ const data = [
         price: 89900,
         secondaryPrice: 89900,
         offerPrice: 69900,
-        image: SEA_OF_THIEVES,
-        imageDetails: DETAILS_SEA_OF_THIEVES,
+        image: RONIN,
+        imageDetails: DETAILS_RONIN,
         Date: "2024/3/22",
         precioReventa: 55,
     },
