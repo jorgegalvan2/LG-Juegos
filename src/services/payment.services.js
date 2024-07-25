@@ -1,6 +1,6 @@
 async function payment(data) {
   try {
-    const response = await fetch(`http://localhost:2023/api/payment`, {
+    const response = await fetch(`https://lg-juegos-api.vercel.app/api/payment`, {
       method: 'POST',
       headers: {
           'Content-Type': 'application/json',
