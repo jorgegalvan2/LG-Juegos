@@ -6726,6 +6726,21 @@ const data = [
         Date: "2024/10/25",
         precioReventa: 45,
     },
+    {
+        id: 321413241,
+        title: "prueba",
+        category: "PS4",
+        gender: "Acción",
+        description:
+            "aa.",
+        price: 5,
+        secondaryPrice: 5,
+        offerPrice: 5,
+        image: AA, //-------------------------------
+        imageDetails: AA,
+        Date: "2022/6/13",
+        precioReventa: 15,
+    },
 
     
 ];
