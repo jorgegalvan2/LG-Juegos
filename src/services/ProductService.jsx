@@ -251,7 +251,6 @@ import SUICIDE_SQUAD from '../assets/img/Catalogue/Playstation_4_5/SUICIDE_SQUAD
 import SUPERCROSS_6 from '../assets/img/Catalogue/Playstation_4_5/SUPERCROSS_6.jpeg';
 import TEKKEN_7 from '../assets/img/Catalogue/Playstation_4_5/TEKKEN_7.jpeg';
 import THE_CREW_MOTORFEST from '../assets/img/Catalogue/Playstation_4_5/THE_CREW_MOTORFEST.jpeg';
-import THE_LAST_OF_US_PART_1 from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_PART_1.jpeg';
 import THE_LAST_OF_US_PART_2 from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_PART_2.jpeg';
 import THE_LAST_OF_US_PART_2_REMASTERED from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_PART_2_REMASTERED.jpeg';
 import THE_LAST_OF_US_REMASTERED from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_REMASTERED.jpeg';
@@ -317,11 +316,57 @@ import JEDI_SURVIVOR from '../assets/img/Catalogue/Playstation_4_5/JEDI_SURVIVOR
 import NO_MAN_SKY from '../assets/img/Catalogue/Playstation_4_5/NO_MAN_SKY.jpeg';
 import TEKKEN_8_NEW from '../assets/img/Catalogue/Playstation_4_5/TEKKEN_8_NEW.jpeg';
 import UFC_5 from '../assets/img/Catalogue/Playstation_4_5/UFC_5.jpeg';
-
 import A_PLAGUE_TALE_INNOCENCE from '../assets/img/Catalogue/Playstation_4_5/A_PLAGUE_TALE_INNOCENCE.jpeg';
 import A_PLAGUE_TALE_REQUIEM from '../assets/img/Catalogue/Playstation_4_5/A_PLAGUE_TALE_REQUIEM.jpeg';
 import GOD_OF_WAR_3 from '../assets/img/Catalogue/Playstation_4_5/GOD_OF_WAR_3.jpg';
 import ASSASINS_CREED_VALHALLA_NEW from '../assets/img/Catalogue/Playstation_4_5/ASSASINS_CREED_VALHALLA_NEW.jpeg';
+
+
+
+import LEGO_MARVEL_SUPER_HEROES_2 from '../assets/img/Catalogue/Playstation_4_5/LEGO_MARVEL_SUPER_HEROES_2.jpeg';
+import METAL_GEAR_SOLID_MASTER_COLLECTION from '../assets/img/Catalogue/Playstation_4_5/METAL_GEAR_SOLID_MASTER_COLLECTION.jpeg';
+import OVERCOOKED_2_MAS_OVERCOOKED from '../assets/img/Catalogue/Playstation_4_5/OVERCOOKED_2_MAS_OVERCOOKED.jpeg';
+import NFS_HEAT from '../assets/img/Catalogue/Playstation_4_5/NFS_HEAT.jpeg';
+import THE_LAST_OF_US_PART_1 from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_PART_1.jpeg';
+import NEED_FOR_SPEED_HOT from '../assets/img/Catalogue/Playstation_4_5/NEED_FOR_SPEED_HOT.jpeg';
+import DEATH_STRANDING from '../assets/img/Catalogue/Playstation_4_5/DEATH_STRANDING.jpeg';
+import MOTO_GP_23 from '../assets/img/Catalogue/Playstation_4_5/MOTOGP_23.jpeg';
+import MOTO_GP_24 from '../assets/img/Catalogue/Playstation_4_5/MOTOGP_24.jpeg';
+import RATCHET_CLANK from '../assets/img/Catalogue/Playstation_4_5/RATCHET_CLANK.jpeg';
+import SPYRO_TRILOGY from '../assets/img/Catalogue/Playstation_4_5/SPYRO_TRILOGY.jpeg';
+import INJUSTICE_2_LEGENDARY_EDITION from '../assets/img/Catalogue/Playstation_4_5/INJUSTICE_2_LEGENDARY_EDITION.jpeg';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -522,7 +567,6 @@ import DETAILS_JEDI_SURVIVOR from '../assets/img/Catalogue/imgDetails-PS4-PS5/JE
 import DETAILS_NO_MAN_SKY from '../assets/img/Catalogue/imgDetails-PS4-PS5/NO_MAN_SKY.jpeg';
 import DETAILS_TEKKEN_8_NEW from '../assets/img/Catalogue/imgDetails-PS4-PS5/TEKKEN_8.jpeg';
 import DETAILS_UFC_5 from '../assets/img/Catalogue/imgDetails-PS4-PS5/UFC_5.jpeg';
-
 import DETAILS_A_PLAGUE_TALE_INNOCENCE from '../assets/img/Catalogue/imgDetails-PS4-PS5/A_PLAGUE_TALE_INNOCENCE.jpeg';
 import DETAILS_A_PLAGUE_TALE_REQUIEM from '../assets/img/Catalogue/imgDetails-PS4-PS5/A_PLAGUE_TALE_REQUIEM.jpeg';
 import DETAILS_ASSASINS_CREED_VALHALLA_COMPLETE_EDITION from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINS_CREED_VALHALLA_COMPLETE_EDITION.jpeg';
@@ -533,6 +577,19 @@ import DETAILS_GOD_OF_WAR_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/GOD
 import DETAILS_LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA from '../assets/img/Catalogue/imgDetails-PS4-PS5/LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA.jpeg';
 import DETAILS_ASSASINS_CREED_VALHALLA_NEW from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINS_CREED_VALHALLA_NEW.jpeg';
 
+
+import DETAILS_LEGO_MARVEL_SUPER_HEROES_2 from '../assets/img/Catalogue/imgDetails-PS4-PS5/LEGO_MARVEL_SUPER_HEROES_2.jpeg';
+import DETAILS_METAL_GEAR_SOLID_MASTER_COLLECTION from '../assets/img/Catalogue/imgDetails-PS4-PS5/METAL_GEAR_SOLID_MASTER_COLLECTION.jpeg';
+import DETAILS_OVERCOOKED_2_MAS_OVERCOOKED from '../assets/img/Catalogue/imgDetails-PS4-PS5/OVERCOOKED_2_MAS_OVERCOOKED.jpeg';
+import DETAILS_NFS_HEAT from '../assets/img/Catalogue/imgDetails-PS4-PS5/NFS_HEAT.jpeg';
+import DETAILS_THE_LAST_OF_US_PART_1 from '../assets/img/Catalogue/imgDetails-PS4-PS5/THE_LAST_OF_US_PART_1.jpeg';
+import DETAILS_NEED_FOR_SPEED_HOT from '../assets/img/Catalogue/imgDetails-PS4-PS5/NEED_FOR_SPEED_HOT.jpeg';
+import DETAILS_DEATH_STRANDING from '../assets/img/Catalogue/imgDetails-PS4-PS5/DEATH_STRANDING.jpeg';
+import DETAILS_MOTO_GP_23 from '../assets/img/Catalogue/imgDetails-PS4-PS5/MOTOGP_23.jpeg';
+import DETAILS_MOTO_GP_24 from '../assets/img/Catalogue/imgDetails-PS4-PS5/MOTOGP_24.jpeg';
+import DETAILS_RATCHET_CLANK from '../assets/img/Catalogue/imgDetails-PS4-PS5/RATCHET_CLANK.jpeg';
+import DETAILS_INJUSTICE_2_LEGENDARY_EDITION from '../assets/img/Catalogue/imgDetails-PS4-PS5/INJUSTICE_2_LEGENDARY_EDITION.jpeg';
+import DETAILS_SPYRO_TRILOGY from '../assets/img/Catalogue/imgDetails-PS4-PS5/SPYRO_TRILOGY.jpeg';
 
 import AA from "../assets/img/logo-lg.png";
 
@@ -2457,7 +2514,7 @@ const data = [
         category: "PS4",
         gender: "Carreras",
         description:
-            "Pon a prueba tus habilidades en las categorías de MotoGP™, Moto2™ y Moto3™, mientras te embarcas en el apasionante viaje de la campaña 2024. ¡Vive la emoción escoger entre los equipos y las pistas oficiales que solo verás en MotoGP™24",
+            "Aprieta el acelerador, adelanta a tus oponentes y cruza la línea de meta: vive el sueño de ser el próximo campeón con el nuevo MotoGP™23 más increíble y desafiante que nunca.Escoge una de las cuatro categorías aclamadas de campeonatos MotoGP™, Moto2™, Moto3™ y MotoE™, ponte en los zapatos de tu piloto favorito y ve a la pista para vivir la adrenalina de la temporada 2023.",
         price: 54900,
         secondaryPrice: 54900,
         offerPrice: 39900,
@@ -2472,7 +2529,7 @@ const data = [
         category: "PS5",
         gender: "Carreras",
         description:
-            "Pon a prueba tus habilidades en las categorías de MotoGP™, Moto2™ y Moto3™, mientras te embarcas en el apasionante viaje de la campaña 2024. ¡Vive la emoción escoger entre los equipos y las pistas oficiales que solo verás en MotoGP™24",
+            "Aprieta el acelerador, adelanta a tus oponentes y cruza la línea de meta: vive el sueño de ser el próximo campeón con el nuevo MotoGP™23 más increíble y desafiante que nunca.Escoge una de las cuatro categorías aclamadas de campeonatos MotoGP™, Moto2™, Moto3™ y MotoE™, ponte en los zapatos de tu piloto favorito y ve a la pista para vivir la adrenalina de la temporada 2023.",
         price: 59900,
         secondaryPrice: 59900,
         offerPrice: 39900,
@@ -2487,7 +2544,7 @@ const data = [
         category: "PS4",
         gender: "Carreras",
         description:
-            "Aprieta el acelerador, adelanta a tus oponentes y cruza la línea de meta: vive el sueño de ser el próximo campeón con el nuevo MotoGP™23 más increíble y desafiante que nunca. Escoge una de las cuatro categorías aclamadas de campeonatos MotoGP™, Moto2™, Moto3™ y MotoE™, ponte en los zapatos de tu piloto favorito y ve a la pista para vivir la adrenalina de la temporada 2023.",
+            "Explora todo el contenido de la temporada 2022 en las calses de MotoGP™ y en todas las demás categoríasMás de 120 pilotos, 20 circuitos oficiales y toda la emoción del campeonato oficial te están esperando.Y si te gustaría darte una vuelta por el pasado, hay más de 70 campeones históricos que te permitirás revivir lo mejor de la historia de MotoGP™.",
         price: 64900,
         secondaryPrice: 64900,
         offerPrice: 0,
@@ -2502,7 +2559,7 @@ const data = [
         category: "PS5",
         gender: "Carreras",
         description:
-            "Aprieta el acelerador, adelanta a tus oponentes y cruza la línea de meta: vive el sueño de ser el próximo campeón con el nuevo MotoGP™23 más increíble y desafiante que nunca. Escoge una de las cuatro categorías aclamadas de campeonatos MotoGP™, Moto2™, Moto3™ y MotoE™, ponte en los zapatos de tu piloto favorito y ve a la pista para vivir la adrenalina de la temporada 2023.",
+            "Explora todo el contenido de la temporada 2022 en las calses de MotoGP™ y en todas las demás categoríasMás de 120 pilotos, 20 circuitos oficiales y toda la emoción del campeonato oficial te están esperando.Y si te gustaría darte una vuelta por el pasado, hay más de 70 campeones históricos que te permitirás revivir lo mejor de la historia de MotoGP™.",
         price: 64900,
         secondaryPrice: 64900,
         offerPrice: 0,
@@ -4973,14 +5030,14 @@ const data = [
     },
     {
         id: 212,
-        title: "Ea Sport Fc24",
+        title: "Fifa 24 - Ea Sport Fc24",
         category: "PS4",
         gender: "Deportes",
         description:
             "Siéntete más cerca del juego con tres tecnologías de última generación que potencian un realismo sin igual en cada partido: HyperMotionV**, los Estilos de juego optimizados por Opta y un motor Frostbite™ mejorado. HyperMotionV captura el juego como realmente se juega usando datos volumétricos de más de 180 partidos profesionales masculinos y femeniles para garantizar que los movimientos en el juego reflejen con precisión la acción del futbol real.",
-        price: 59900,
-        secondaryPrice: 25900,
-        offerPrice: 39900,
+        price: 49900,
+        secondaryPrice: 19900,
+        offerPrice: 29900,
         image: FIFA_24,
         imageDetails: DETAILS_FIFA_24,
         Date: "2023/9/29",
@@ -4988,14 +5045,14 @@ const data = [
     },
     {
         id: 213,
-        title: "Ea Sport Fc24",
+        title: "Fifa 24 - Ea Sport Fc24",
         category: "PS5",
         gender: "Deportes",
         description:
             "Siéntete más cerca del juego con tres tecnologías de última generación que potencian un realismo sin igual en cada partido: HyperMotionV**, los Estilos de juego optimizados por Opta y un motor Frostbite™ mejorado. HyperMotionV captura el juego como realmente se juega usando datos volumétricos de más de 180 partidos profesionales masculinos y femeniles para garantizar que los movimientos en el juego reflejen con precisión la acción del futbol real.",
         price: 59900,
         secondaryPrice: 49800,
-        offerPrice: 25900,
+        offerPrice: 15900,
         image: FIFA_24,
         imageDetails: DETAILS_FIFA_24,
         Date: "2023/9/29",
@@ -6727,19 +6784,244 @@ const data = [
         precioReventa: 45,
     },
     {
-        id: 321413241,
-        title: "prueba",
+        id: 597,
+        title: "Metal Gear Solid: Master Collection Vol.1",
         category: "PS4",
-        gender: "Acción",
+        gender: "Accion",
         description:
-            "aa.",
-        price: 5,
-        secondaryPrice: 5,
-        offerPrice: 5,
-        image: AA, //-------------------------------
-        imageDetails: AA,
-        Date: "2022/6/13",
+            "Si compras el Volume 1, podrás acceder a diversos contenidos adicionales, incluidas las dos versiones regionales de Metal Gear, la versión original de Snake's Revenge, las dos primeras Digital Graphic Novels en formato de video y una banda sonora digital.[Lista de títulos]Metal Gear - Metal Gear 2: Solid Snake - Metal Gear Solid (incluidas las VR Missions/Special Missions) - Metal Gear Solid 2: Sons of Liberty (HD Collection version) - Metal Gear Solid 3: Snake Eater (HD Collection version) - Metal Gear (NES/FC version) Snake's Revenge",
+        price: 99900,
+        secondaryPrice: 99900,
+        offerPrice: 59900,
+        image: METAL_GEAR_SOLID_MASTER_COLLECTION,
+        imageDetails: DETAILS_METAL_GEAR_SOLID_MASTER_COLLECTION,
+        Date: "2023/10/24",
+        precioReventa: 49,
+    },
+    {
+        id: 598,
+        title: "Injustice 2 Legendary Edition",
+        category: "PS4",
+        gender: "Accion",
+        description:
+            "Mejora y amplía la versión definitivae de tus héroes favoritos de DC en INJUSTICE 2, ganador del premio de IGN al mejor juego de lucha de 2017.• TODOS LOS PERSONAJES DE CONTENIDO DESCARGABLE: incluye 10 personajes adicionales y 5 trajes exclusivos, incluidos Hellboy y las TMNT.• CADA COMBATE TE DEFINE: con cada combate, ganarás equipo para personalizar y ampliar tu lista.• SURGE UNA NUEVA AMENAZA: continuando donde lo dejó Injustice, Batman lucha contra el régimen de Superman, ya que aparecerá una nueva amenaza que pondrá en riesgo la existencia de la Tierra.• LO MEJOR DE DC: escoge personajes de la mayor lista del Universo DC y lucha en batallas épicas y lugares icónicos.• CREADO POR NETHERREALM: los desarrolladores de la aclamada saga MORTAL KOMBAT, éxito de ventas.",
+        price: 99900,
+        secondaryPrice: 99900,
+        offerPrice: 89900,
+        image: INJUSTICE_2_LEGENDARY_EDITION,
+        imageDetails: DETAILS_INJUSTICE_2_LEGENDARY_EDITION,
+        Date: "2018/3/27",
+        precioReventa: 69,
+    },
+    {
+        id: 599,
+        title: "Overcooked + Overcooked 2",
+        category: "PS4",
+        gender: "Familia",
+        description:
+            "Overcooked Juega solo o participa en una caótica partida con hasta cuatro jugadores, ya sea en modo cooperativo o competitivo: ¡tú eliges! ¡Deberán estar listos para preparar una amplia gama de platos y trabajar juntos para transformarse en el equipo definitivo!¡Overcooked 2 vuelve con nuevas ideas para el sembrar el caos y la acción en la cocina! Regresa al Reino de la Cebolla y organiza tu equipo de chefs en un cooperativo clásico o en partidas en línea de hasta cuatro jugadores. Sujétense los delantales... Es hora de salvar el mundo (¡otra vez!)",
+        price: 99900,
+        secondaryPrice: 99900,
+        offerPrice: 49900,
+        image: OVERCOOKED_2_MAS_OVERCOOKED,
+        imageDetails: DETAILS_OVERCOOKED_2_MAS_OVERCOOKED,
+        Date: "2019/10/17",
+        precioReventa: 69,
+    },
+    {
+        id: 600,
+        title: "Need for Speed Heat",
+        category: "PS4",
+        gender: "Carreras",
+        description:
+            "Gánate la vida de día y arriésgalo todo de noche en Need for Speed™ Heat, una emocionante experiencia de carreras en la que te enfrentas a la policía corrupta de una ciudad mientras luchas por alcanzar la elite de las carreras callejeras.",
+        price: 59900,
+        secondaryPrice: 59900,
+        offerPrice: 24900,
+        image: NFS_HEAT,
+        imageDetails: DETAILS_NFS_HEAT,
+        Date: "2019/11/8",
         precioReventa: 15,
+    },
+    {
+        id: 601,
+        title: "The Last of Us Parte I",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "Experimenta la emocionante historia y a los inolvidables personajes de The Last of Us, ganador de más de 200 premios Juego del Año, reconstruido por completo para la consola PlayStation®5.En una civilización devastada donde se enfrentan infectados e insensibilizados sobrevivientes, alguien contrata a Joel, el cansado protagonista, para que escabulla a Ellie, de 14 años, fuera de una zona militar de cuarentena. Sin embargo, lo que comienza como un pequeño trabajo, se convierte en un viaje brutal a través del país.",
+        price: 89900,
+        secondaryPrice: 89900,
+        offerPrice: 69900,
+        image: THE_LAST_OF_US_PART_1,
+        imageDetails: DETAILS_THE_LAST_OF_US_PART_1,
+        Date: "2022/9/2",
+        precioReventa: 45,
+    },
+    {
+        id: 602,
+        title: "Need for Speed Hot Pursuit Remastered",
+        category: "PS4",
+        gender: "Carreras",
+        description:
+            "Siente la emoción de la persecución y la adrenalina al huir en Need for Speed™ Hot Pursuit Remastered en PlayStation®4. Siente la sensación de ir a toda velocidad como forajido y como policía en los autos de alto rendimiento más populares del mundo. Supera la presión o derriba a infractores con las armas tácticas que tienes en esta experiencia de carreras competitiva y tensa. Esta es la presentación del juego aclamado por la crítica, Need for Speed Ultimate Edition de Criterion Games, actualizado con imágenes mejoradas, multijugador con plataforma cruzada, competencia asincrónica de Autolog y todos los DLC adicionales. Es hora de reanudar la persecución.",
+        price: 59900,
+        secondaryPrice: 59900,
+        offerPrice: 24900,
+        image: NEED_FOR_SPEED_HOT,
+        imageDetails: DETAILS_NEED_FOR_SPEED_HOT,
+        Date: "2020/11/6",
+        precioReventa: 20,
+    },
+    {
+        id: 603,
+        title: "Metal Gear Solid: Master Collection Vol.1",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "Si compras el Volume 1, podrás acceder a diversos contenidos adicionales, incluidas las dos versiones regionales de Metal Gear, la versión original de Snake's Revenge, las dos primeras Digital Graphic Novels en formato de video y una banda sonora digital.[Lista de títulos]Metal Gear - Metal Gear 2: Solid Snake - Metal Gear Solid (incluidas las VR Missions/Special Missions) - Metal Gear Solid 2: Sons of Liberty (HD Collection version) - Metal Gear Solid 3: Snake Eater (HD Collection version) - Metal Gear (NES/FC version) Snake's Revenge",
+        price: 99900,
+        secondaryPrice: 99900,
+        offerPrice: 59900,
+        image: METAL_GEAR_SOLID_MASTER_COLLECTION,
+        imageDetails: DETAILS_METAL_GEAR_SOLID_MASTER_COLLECTION,
+        Date: "2023/10/24",
+        precioReventa: 45,
+    },
+    {
+        id: 604,
+        title: "Death Stranding Director’s Cut",
+        category: "PS5",
+        gender: "Accion",
+        description:
+            "De manos del legendario creador de juegos Hideo Kojima llega una experiencia que desafía el género, ahora expandida y remasterizada en esta edición definitiva Director's Cut.",
+        price: 79900,
+        secondaryPrice: 79900,
+        offerPrice: 59900,
+        image: DEATH_STRANDING,
+        imageDetails: DETAILS_DEATH_STRANDING,
+        Date: "2021/9/24",
+        precioReventa: 45,
+    },
+    {
+        id: 605,
+        title: "MotoGp 24",
+        category: "PS4",
+        gender: "Carreras",
+        description:
+            "Pon a prueba tus habilidades en las categorías de MotoGP™, Moto2™, Moto3™ y MotoE™, mientras te embarcas en el apasionante viaje de la campaña 2024. ¡Vive la emoción escoger entre los equipos y las pistas oficiales que solo verás en MotoGP™24!",
+        price: 79900,
+        secondaryPrice: 79900,
+        offerPrice: 39900,
+        image: MOTO_GP_24,
+        imageDetails: DETAILS_MOTO_GP_24,
+        Date: "2021/9/24",
+        precioReventa: 45,
+    },
+    {
+        id: 606,
+        title: "MotoGp 24",
+        category: "PS5",
+        gender: "Carreras",
+        description:
+            "Pon a prueba tus habilidades en las categorías de MotoGP™, Moto2™, Moto3™ y MotoE™, mientras te embarcas en el apasionante viaje de la campaña 2024. ¡Vive la emoción escoger entre los equipos y las pistas oficiales que solo verás en MotoGP™24!",
+        price: 79900,
+        secondaryPrice: 79900,
+        offerPrice: 39900,
+        image: MOTO_GP_24,
+        imageDetails: DETAILS_MOTO_GP_24,
+        Date: "2021/9/24",
+        precioReventa: 45,
+    },
+    {
+        id: 607,
+        title: "ARK Survival Ascended",
+        category: "PS5",
+        gender: "Aventura",
+        description:
+            "Reaparece en una nueva experiencia de supervivencia de dinosaurios más allá de tus sueños más locos... ¡mientras ARK se reinventa desde cero en la próxima generación de tecnología de videojuegos con Unreal Engine 5! Te despiertas en una isla misteriosa, tus sentidos abrumados por la cegadora luz del sol y los colores brillantes que rebotan en cada superficie a tu alrededor, las aguas azules de una isla verde lamiendo tus pies descalzos. Un rugido profundo resuena en la jungla brumosa, lo que te impulsa a actuar y te pones de pie, sin miedo, sino intrigado. ¿Estás listo para formar una tribu, domesticar y criar cientos de especies de dinosaurios y otras criaturas primitivas, explorar, crear, construir y abrirte camino hasta la cima de la cadena alimentaria? Tu nuevo mundo te espera... ¡atraviesa el espejo y únete a él!",
+        price: 79900,
+        secondaryPrice: 79900,
+        offerPrice: 65900,
+        image: ARK,
+        imageDetails: DETAILS_ARK,
+        Date: "2023/11/30",
+        precioReventa: 60,
+    },
+    {
+        id: 607,
+        title: "Spyro Reignited Trilogy",
+        category: "PS4",
+        gender: "Aventura",
+        description:
+            "¡El auténtico maestro del rostizado regresó! Spyro regresa en mejor forma que nunca en la colección Spyro™ Reignited Trilogy, con el mismo aliento de fuego devastador y la misma actitud candente de siempre, pero ahora en una asombrosa alta definición. Siente la emoción ardiente de los tres juegos originales, Spyro™ the Dragon, Spyro™ 2: Ripto's Rage! y Spyro™: Year of the Dragon. Explora reinos inmensos, reencuéntrate con personalidades únicas y revive la aventura completamente remasterizada. Porque cuando hay un reino en apuros, solo hay un dragón con el que puedes contar.",
+        price: 79900,
+        secondaryPrice: 79900,
+        offerPrice: 59900,
+        image: SPYRO_TRILOGY,
+        imageDetails: DETAILS_SPYRO_TRILOGY,
+        Date: "2018/11/13",
+        precioReventa: 50,
+    },
+    {
+        id: 608,
+        title: "Ratchet & Clank: Una dimensión aparte",
+        category: "PS5",
+        gender: "Aventura",
+        description:
+            "¡Ratchet y Clank están de regreso! Ayúdalos a impedir que un emperador robótico conquiste mundos interdimensionales, con su propio universo en la mira. Contempla la evolución del equipo de los sueños con la incorporación de Rivet, una lombax guerrera de la resistencia de otra dimensión.",
+        price: 79900,
+        secondaryPrice: 79900,
+        offerPrice: 59900,
+        image: RATCHET_CLANK,
+        imageDetails: DETAILS_RATCHET_CLANK,
+        Date: "2021/6/11",
+        precioReventa: 40,
+    },
+    {
+        id: 609,
+        title: "Crash Bandicoot: La trilogía",
+        category: "PS4",
+        gender: "Aventura",
+        description:
+            "Incluye:- Crash Bandicoot™: La Trilogía:Gira, salta, rompe, enfréntate a los épicos desafíos y vive las aventuras de los tres juegos con los que empezó todo: Crash Bandicoot™, Crash Bandicoot™ 2: Cortex Strikes Back y Crash Bandicoot™: Warped. Vuelve a vivir tus momentos favoritos de Crash con gráficos remasterizados.- Crash Bandicoot™ 4: It’s About Time:",
+        price: 79900,
+        secondaryPrice: 79900,
+        offerPrice: 59900,
+        image: CRASH_TRILOGY,
+        imageDetails: DETAILS_CRASH_BANDICOOT_LA_TRILOGIA,
+        Date: "2021/7/21",
+        precioReventa: 49,
+    },
+    {
+        id: 610,
+        title: "Crash Bandicoot: La trilogía",
+        category: "PS5",
+        gender: "Aventura",
+        description:
+            "Incluye:- Crash Bandicoot™: La Trilogía:Gira, salta, rompe, enfréntate a los épicos desafíos y vive las aventuras de los tres juegos con los que empezó todo: Crash Bandicoot™, Crash Bandicoot™ 2: Cortex Strikes Back y Crash Bandicoot™: Warped. Vuelve a vivir tus momentos favoritos de Crash con gráficos remasterizados.- Crash Bandicoot™ 4: It’s About Time:",
+        price: 79900,
+        secondaryPrice: 79900,
+        offerPrice: 59900,
+        image: CRASH_TRILOGY,
+        imageDetails: DETAILS_CRASH_BANDICOOT_LA_TRILOGIA,
+        Date: "2021/7/21",
+        precioReventa: 49,
+    },
+    {
+        id: 611,
+        title: "Monster Energy Supercross 2",
+        category: "PS4",
+        gender: "Carreras",
+        description:
+            "¡El juego oficial del Campeonato de Monster Energy AMA Supercross está de regreso!Vive como un campeón con el modo Trayectoria actualizado y programa actividades semanales en tu agenda: ¡te esperan nuevos desafíos, patrocinadores y premios increíbles!",
+        price: 69900,
+        secondaryPrice: 69900,
+        offerPrice: 29900,
+        image: AA,
+        imageDetails: AA,
+        Date: "2019/2/8",
+        precioReventa: 25,
     },
 
     
