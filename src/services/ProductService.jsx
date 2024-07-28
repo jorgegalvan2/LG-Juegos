@@ -100,6 +100,8 @@ import BIOSHOCK from '../assets/img/Catalogue/Playstation-3/BIOSHOCK.jpg';
 import CALL_OF_DUTY_BO3_NEW from '../assets/img/Catalogue/Playstation-3/CALL_OF_DUTY_BO3.jpg';
 import TOY_STORY_3 from '../assets/img/Catalogue/Playstation-3/TOY_STORY_3.jpeg';
 
+import RE_4 from '../assets/img/Catalogue/Playstation-3/RE_4.jpeg';
+import LIFE_IS_STRANGE from '../assets/img/Catalogue/Playstation-3/LIFE_IS_STRANGE.jpeg';
 
 
 
@@ -149,7 +151,7 @@ import COD_MW_3 from '../assets/img/Catalogue/Playstation_4_5/COD_MW_3.jpeg';
 import COD_VANGUARD from '../assets/img/Catalogue/Playstation_4_5/COD_VANGUARD.jpeg';
 import CRASH_NITRO from '../assets/img/Catalogue/Playstation_4_5/CRASH-NITRO.jpeg';
 import CRASHBANDICOOT4 from '../assets/img/Catalogue/Playstation_4_5/CRASHBANDICOOT4.jpeg';
-import CRASH_INSANE_TRILOGY from '../assets/img/Catalogue/Playstation_4_5/CRASH_INSANE_TRILOGY.jpeg';
+import CRASH_INSANE_TRILOGY from '../assets/img/Catalogue/Playstation_4_5/CRASH_INSANE_TRILOGY.jpeg'; 
 import CRASH_NITRO_FUELED from '../assets/img/Catalogue/Playstation_4_5/CRASH_NITRO_FUELED.jpeg';
 import CRASH_TEAM_RUMBLE from '../assets/img/Catalogue/Playstation_4_5/CRASH_TEAM_RUMBLE.jpeg';
 import CRASH_TRILOGY from '../assets/img/Catalogue/Playstation_4_5/CRASH_TRILOGY.jpeg';
@@ -251,7 +253,6 @@ import SUICIDE_SQUAD from '../assets/img/Catalogue/Playstation_4_5/SUICIDE_SQUAD
 import SUPERCROSS_6 from '../assets/img/Catalogue/Playstation_4_5/SUPERCROSS_6.jpeg';
 import TEKKEN_7 from '../assets/img/Catalogue/Playstation_4_5/TEKKEN_7.jpeg';
 import THE_CREW_MOTORFEST from '../assets/img/Catalogue/Playstation_4_5/THE_CREW_MOTORFEST.jpeg';
-import THE_LAST_OF_US_PART_1 from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_PART_1.jpeg';
 import THE_LAST_OF_US_PART_2 from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_PART_2.jpeg';
 import THE_LAST_OF_US_PART_2_REMASTERED from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_PART_2_REMASTERED.jpeg';
 import THE_LAST_OF_US_REMASTERED from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_REMASTERED.jpeg';
@@ -317,11 +318,33 @@ import JEDI_SURVIVOR from '../assets/img/Catalogue/Playstation_4_5/JEDI_SURVIVOR
 import NO_MAN_SKY from '../assets/img/Catalogue/Playstation_4_5/NO_MAN_SKY.jpeg';
 import TEKKEN_8_NEW from '../assets/img/Catalogue/Playstation_4_5/TEKKEN_8_NEW.jpeg';
 import UFC_5 from '../assets/img/Catalogue/Playstation_4_5/UFC_5.jpeg';
-
 import A_PLAGUE_TALE_INNOCENCE from '../assets/img/Catalogue/Playstation_4_5/A_PLAGUE_TALE_INNOCENCE.jpeg';
 import A_PLAGUE_TALE_REQUIEM from '../assets/img/Catalogue/Playstation_4_5/A_PLAGUE_TALE_REQUIEM.jpeg';
 import GOD_OF_WAR_3 from '../assets/img/Catalogue/Playstation_4_5/GOD_OF_WAR_3.jpg';
 import ASSASINS_CREED_VALHALLA_NEW from '../assets/img/Catalogue/Playstation_4_5/ASSASINS_CREED_VALHALLA_NEW.jpeg';
+
+import SUPERCROSS_2 from '../assets/img/Catalogue/Playstation_4_5/SUPERCROSS_2.jpeg';
+
+import LEGO_MARVEL_SUPER_HEROES_2 from '../assets/img/Catalogue/Playstation_4_5/LEGO_MARVEL_SUPER_HEROES_2.jpeg';
+import METAL_GEAR_SOLID_MASTER_COLLECTION from '../assets/img/Catalogue/Playstation_4_5/METAL_GEAR_SOLID_MASTER_COLLECTION.jpeg';
+import OVERCOOKED_2_MAS_OVERCOOKED from '../assets/img/Catalogue/Playstation_4_5/OVERCOOKED_2_MAS_OVERCOOKED.jpeg';
+import NEED_FOR_SPEED_HEAT from '../assets/img/Catalogue/Playstation_4_5/NFS_HEAT.jpeg';
+import THE_LAST_OF_US_PART_1 from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_PART_1.jpeg';
+import NEED_FOR_SPEED_HOT from '../assets/img/Catalogue/Playstation_4_5/NEED_FOR_SPEED_HOT.jpeg';
+import DEATH_STRANDING from '../assets/img/Catalogue/Playstation_4_5/DEATH_STRANDING.jpeg';
+import MOTO_GP_23 from '../assets/img/Catalogue/Playstation_4_5/MOTOGP_23.jpeg';
+import MOTO_GP_24 from '../assets/img/Catalogue/Playstation_4_5/MOTOGP_24.jpeg';
+import RATCHET_CLANK from '../assets/img/Catalogue/Playstation_4_5/RATCHET_CLANK.jpeg';
+import SPYRO_TRILOGY from '../assets/img/Catalogue/Playstation_4_5/SPYRO_TRILOGY.jpeg';
+import INJUSTICE_2_LEGENDARY_EDITION from '../assets/img/Catalogue/Playstation_4_5/INJUSTICE_2_LEGENDARY_EDITION.jpeg';
+import CRASH_BANDICOOT_4_QUADRILOGY from '../assets/img/Catalogue/Playstation_4_5/CRASH_BANDICOOT_TRILOGY_NEW.jpeg';
+
+
+
+
+
+
+
 
 
 
@@ -533,6 +556,19 @@ import DETAILS_GOD_OF_WAR_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/GOD
 import DETAILS_LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA from '../assets/img/Catalogue/imgDetails-PS4-PS5/LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA.jpeg';
 import DETAILS_ASSASINS_CREED_VALHALLA_NEW from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINS_CREED_VALHALLA_NEW.jpeg';
 
+import DETAILS_LEGO_MARVEL_SUPER_HEROES_2 from '../assets/img/Catalogue/imgDetails-PS4-PS5/LEGO_MARVEL_SUPER_HEROES_2.jpeg';
+import DETAILS_METAL_GEAR_SOLID_MASTER_COLLECTION from '../assets/img/Catalogue/imgDetails-PS4-PS5/METAL_GEAR_SOLID_MASTER_COLLECTION.jpeg';
+import DETAILS_OVERCOOKED_2_MAS_OVERCOOKED from '../assets/img/Catalogue/imgDetails-PS4-PS5/OVERCOOKED_2_MAS_OVERCOOKED.jpeg';
+import DETAILS_NEED_FOR_SPEED_HEAT from '../assets/img/Catalogue/imgDetails-PS4-PS5/NFS_HEAT.jpeg';
+import DETAILS_THE_LAST_OF_US_PART_1 from '../assets/img/Catalogue/imgDetails-PS4-PS5/THE_LAST_OF_US_PART_1.jpeg';
+import DETAILS_NEED_FOR_SPEED_HOT from '../assets/img/Catalogue/imgDetails-PS4-PS5/NEED_FOR_SPEED_HOT.jpeg';
+import DETAILS_DEATH_STRANDING from '../assets/img/Catalogue/imgDetails-PS4-PS5/DEATH_STRANDING.jpeg';
+import DETAILS_MOTO_GP_23 from '../assets/img/Catalogue/imgDetails-PS4-PS5/MOTOGP_23.jpeg';
+import DETAILS_MOTO_GP_24 from '../assets/img/Catalogue/imgDetails-PS4-PS5/MOTOGP_24.jpeg';
+import DETAILS_RATCHET_CLANK from '../assets/img/Catalogue/imgDetails-PS4-PS5/RATCHET_CLANK.jpeg';
+import DETAILS_INJUSTICE_2_LEGENDARY_EDITION from '../assets/img/Catalogue/imgDetails-PS4-PS5/INJUSTICE_2_LEGENDARY_EDITION.jpeg';
+import DETAILS_SPYRO_TRILOGY from '../assets/img/Catalogue/imgDetails-PS4-PS5/SPYRO_TRILOGY.jpeg';
+import DETAILS_CRASH_BANDICOOT_4_QUADRILOGY from '../assets/img/Catalogue/imgDetails-PS4-PS5/CRASH_BANDICOOT_LA_TRILOGIA_NEW.jpeg';
 
 import AA from "../assets/img/logo-lg.png";
 
@@ -933,8 +969,8 @@ const data = [
         "category": "PS3",
         "gender":"Carreras",
         "description":"¡Prepárate para la adrenalina pura con Need For Speed Rivals en PS3! Sumérgete en un mundo de carreras ilegales y persecuciones policiales intensas donde la línea entre la ley y el caos se desdibuja. En este juego emocionante, tendrás la oportunidad de elegir entre ser un temerario corredor callejero o un implacable policía.",
-        "price": 12900,
-        "offerPrice": 9900 ,
+        "price": 29900,
+        "offerPrice": 19900 ,
         "image": NEED_FOR_SPEED_RIVALS,
         "imageDetails": NEED_FOR_SPEED_RIVALS,
         "Date":" 2013/11/15",
@@ -1540,19 +1576,6 @@ const data = [
             "precioReventa": 7900
         },
         { 
-            "id": 314,  
-            "title": "Naruto Shipuddem Storm Revolution",
-            "category": "PS3",
-            "gender":"Pelea",
-            "description":"Naruto ha logrado calar muy hondo en el corazón de muchas personas y, para ¿despedirse? como es debido de los jugadores de PS3, el ninja de Konoha regresa con un título cargado de acción, jutsus y material muy jugoso.",
-            "price": 9900,
-            "offerPrice": 7900  ,
-            "image": NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM,
-            "imageDetails": NARUTO_SHIPUDDEN_ULTIMATE_NINJA_STORM,
-            "Date":" 2014/9/1",
-            "precioReventa": 6990
-        },
-        { 
             "id": 315,  
             "title": "Call Of Duty Advanced Warfare Pro Edition",
             "category": "PS3",
@@ -1838,18 +1861,32 @@ const data = [
             "Date":" 2014/2/14",
             "precioReventa": 7000
         },
+        
         { 
-            "id": 338,  
-            "title": "Need For Speed Rivals Complete",
+            "id": 339,  
+            "title": "Resident Evil 4",
             "category": "PS3",
-            "gender":"Carreras",
-            "description":"¡Prepárate para la adrenalina pura con Need For Speed Rivals en PS3! Sumérgete en un mundo de carreras ilegales y persecuciones policiales intensas donde la línea entre la ley y el caos se desdibuja. En este juego emocionante, tendrás la oportunidad de elegir entre ser un temerario corredor callejero o un implacable policía.",
-            "price": 15900,
-            "offerPrice": 12900 ,
-            "image": NEED_FOR_SPEED_RIVALS,
-            "imageDetails": NEED_FOR_SPEED_RIVALS,
-            "Date":" 2013/11/15",
-            "precioReventa": 11900
+            "gender":"Accion",
+            "description":"Seis años después de la destrucción de Raccoon City, Leon Kennedy, ahora agente del Servicio Secreto de Estados Unidos, es enviado a una misión de rescate en Europa. Su objetivo es Ashley Graham, la hija del presidente.",
+            "price": 19900,
+            "offerPrice": 8900 ,
+            "image": RE_4,
+            "imageDetails": RE_4,
+            "Date":" 2005/1/11",
+            "precioReventa": 8000
+        },
+        { 
+            "id": 340,  
+            "title": "Life Is Strange",
+            "category": "PS3",
+            "gender":"Accion",
+            "description":"Life is Strange es una aventura compuesta por cinco episodios, ambientada en la ciudad ficticia de Arcadia Bay, en Oregón. Aquí es donde regresa una estudiante de último año, Max Caulfield, después de 5 años de ausencia para reencontrarse con su amiga de la infancia, Chloe. Juntas intentarán descubrir la incómoda verdad tras la misteriosa desaparición de su compañera de estudios Rachel Amber.Life is Strange sigue un formato episódico digital, si bien pueden adquirirse todos los episodios de forma conjunta tanto en digital como en edición física en tiendas. Toma decisiones, soporta las consecuencias y experimenta la historia de una adolescente en una aventura muy humana creada por DontNod.",
+            "price": 19900,
+            "offerPrice": 8900 ,
+            "image": LIFE_IS_STRANGE,
+            "imageDetails": LIFE_IS_STRANGE,
+            "Date":" 2015/1/29",
+            "precioReventa": 8000
         },
         {
         id: 1,
@@ -2312,7 +2349,7 @@ const data = [
         secondaryPrice: 49900,
         offerPrice: 29900,
         image: CRASH_INSANE_TRILOGY,
-        imageDetails: DETAILS_CRASH_TRILOGY,
+        imageDetails: DETAILS_CRASH_INSANE_TRILOGY,
         Date: "2017/6/30",
         precioReventa: 20,
     },
@@ -2327,7 +2364,7 @@ const data = [
         secondaryPrice: 49900,
         offerPrice: 29900,
         image: CRASH_INSANE_TRILOGY,
-        imageDetails: DETAILS_CRASH_BANDICOOT_LA_TRILOGIA,
+        imageDetails: DETAILS_CRASH_INSANE_TRILOGY,
         Date: "2017/6/30",
         precioReventa: 20,
     },
@@ -3013,7 +3050,7 @@ const data = [
         gender: "Carreras",
         description:
             "Conviértete en el ícono definitivo de la cultura de coches urbanos actual con Need for Speed™, con Cinco formas de jugar y un enorme mundo abierto para correr y explorar desde el amanecer hasta el atardecer.• CINCO FORMAS DE JUGAR: obtén reputación y domina las Cinco formas de jugar (Velocidad, Estilo, Tuneado, Equipo y Forajido) para ganar a tu manera.",
-        price: 10900,
+        price: 19900,
         secondaryPrice: 9500,
         offerPrice: 0,
         image: NFS,
@@ -6211,8 +6248,8 @@ const data = [
         price: 89900,
         secondaryPrice: 89900,
         offerPrice: 49900,
-        image: RONIN,
-        imageDetails: DETAILS_RONIN,
+        image: SEA_OF_THIEVES,
+        imageDetails: DETAILS_SEA_OF_THIEVES,
         Date: "2024/4/30",
         precioReventa: 45,
     },
@@ -6539,8 +6576,8 @@ const data = [
         description:
             "Haz que tu equipo juegue como los mejores del mundo con FC IQ. Una mejora de las bases tácticas en el juego ofrece un mayor control estratégico y movimientos colectivos más realistas a nivel de equipo, mientras que un nuevo modelo de IA, impulsado por datos del mundo real, influye en las tácticas de cada futbolista a través de los nuevos Roles de futbolista.",
         price: 79900,
-        secondaryPrice: 68900,
-        offerPrice: 49000,
+        secondaryPrice: 78900,
+        offerPrice: 56000,
         image: FIFA_25,
         imageDetails: DETAILS_FIFA_25,
         Date: "2024/9/27",
@@ -6554,8 +6591,8 @@ const data = [
         description:
             "Haz que tu equipo juegue como los mejores del mundo con FC IQ. Una mejora de las bases tácticas en el juego ofrece un mayor control estratégico y movimientos colectivos más realistas a nivel de equipo, mientras que un nuevo modelo de IA, impulsado por datos del mundo real, influye en las tácticas de cada futbolista a través de los nuevos Roles de futbolista.",
         price: 79900,
-        secondaryPrice: 68900,
-        offerPrice: 49000,
+        secondaryPrice: 78900,
+        offerPrice: 56000,
         image: FIFA_25,
         imageDetails: DETAILS_FIFA_25,
         Date: "2024/9/27",
@@ -6721,8 +6758,8 @@ const data = [
         price: 99900,
         secondaryPrice: 99900,
         offerPrice: 59900,
-        image: METAL_GEAR_SOLID_MASTER_COLLECTION_Vol_1,
-        imageDetails: DETAILS_METAL_GEAR_SOLID_MASTER_COLLECTION_Vol_1,
+        image: METAL_GEAR_SOLID_MASTER_COLLECTION,
+        imageDetails: DETAILS_METAL_GEAR_SOLID_MASTER_COLLECTION,
         Date: "2023/10/24",
         precioReventa: 49,
     },
@@ -6751,8 +6788,8 @@ const data = [
         price: 99900,
         secondaryPrice: 99900,
         offerPrice: 49900,
-        image: OVERCOOKED_OVERCOOKED_2,
-        imageDetails: DETAILS_OVERCOOKED_OVERCOOKED_2,
+        image: OVERCOOKED_2_MAS_OVERCOOKED,
+        imageDetails: DETAILS_OVERCOOKED_2_MAS_OVERCOOKED,
         Date: "2019/10/17",
         precioReventa: 69,
     },
@@ -6781,8 +6818,8 @@ const data = [
         price: 89900,
         secondaryPrice: 89900,
         offerPrice: 69900,
-        image: THE_LAST_OF_US_PARTE_1,
-        imageDetails: DETAILS_THE_LAST_OF_US_PARTE_1,
+        image: THE_LAST_OF_US_PART_1,
+        imageDetails: DETAILS_THE_LAST_OF_US_PART_1,
         Date: "2022/9/2",
         precioReventa: 45,
     },
@@ -6796,8 +6833,8 @@ const data = [
         price: 59900,
         secondaryPrice: 59900,
         offerPrice: 24900,
-        image: NEED_FOR_SPEED_HOT_PURSUIT_REMASTERED,
-        imageDetails: DETAILS_NEED_FOR_SPEED_HOT_PURSUIT_REMASTERED,
+        image: NEED_FOR_SPEED_HOT,
+        imageDetails: DETAILS_NEED_FOR_SPEED_HOT,
         Date: "2020/11/6",
         precioReventa: 20,
     },
@@ -6811,8 +6848,8 @@ const data = [
         price: 99900,
         secondaryPrice: 99900,
         offerPrice: 59900,
-        image: METAL_GEAR_SOLID_MASTER_COLLECTION_Vol_1,
-        imageDetails: DETAILS_METAL_GEAR_SOLID_MASTER_COLLECTION_Vol_1,
+        image: METAL_GEAR_SOLID_MASTER_COLLECTION,
+        imageDetails: DETAILS_METAL_GEAR_SOLID_MASTER_COLLECTION,
         Date: "2023/10/24",
         precioReventa: 45,
     },
@@ -6826,8 +6863,8 @@ const data = [
         price: 79900,
         secondaryPrice: 79900,
         offerPrice: 69900,
-        image: DEATH_STRANDING_DIRECTORS_CUT,
-        imageDetails: DETAILS_DEATH_STRANDING_DIRECTORS_CUT,
+        image: DEATH_STRANDING,
+        imageDetails: DETAILS_DEATH_STRANDING,
         Date: "2021/9/24",
         precioReventa: 45,
     },
@@ -6841,9 +6878,9 @@ const data = [
         price: 79900,
         secondaryPrice: 79900,
         offerPrice: 39900,
-        image: MOTOGP_24,
-        imageDetails: DETAILS_MOTOGP_24,
-        Date: "2021/9/24",
+        image: MOTO_GP_24,
+        imageDetails: DETAILS_MOTO_GP_24,
+        Date: "2024/5/2",
         precioReventa: 45,
     },
     {
@@ -6858,7 +6895,7 @@ const data = [
         offerPrice: 39900,
         image: MOTOGP_24,
         imageDetails: DETAILS_MOTOGP_24,
-        Date: "2021/9/24",
+        Date: "2024/5/2",
         precioReventa: 45,
     },
     {
@@ -6871,8 +6908,8 @@ const data = [
         price: 79900,
         secondaryPrice: 79900,
         offerPrice: 69900,
-        image: ARK_SURVIVAL_ASCENDED,
-        imageDetails: DETAILS_ARK_SURVIVAL_ASCENDED,
+        image: ARK,
+        imageDetails: DETAILS_ARK,
         Date: "2023/11/30",
         precioReventa: 60,
     },
@@ -6886,8 +6923,8 @@ const data = [
         price: 79900,
         secondaryPrice: 79900,
         offerPrice: 59900,
-        image: SPYRO_REIGNITED_TRILOGY,
-        imageDetails: DETAILS_SPYRO_REIGNITED_TRILOGY,
+        image: SPYRO_TRILOGY,
+        imageDetails: DETAILS_SPYRO_TRILOGY,
         Date: "2018/11/13",
         precioReventa: 50,
     },
@@ -6901,14 +6938,14 @@ const data = [
         price: 79900,
         secondaryPrice: 79900,
         offerPrice: 69900,
-        image: ATCHET_CLANK_UNA_DIMENSION_APARTE,
-        imageDetails: DETAILS_ATCHET_CLANK_UNA_DIMENSION_APARTE,
+        image: RATCHET_CLANK,
+        imageDetails: DETAILS_RATCHET_CLANK,
         Date: "2021/6/11",
         precioReventa: 40,
     },
     {
         id: 609,
-        title: "Crash Bandicoot: La trilogía",
+        title: "Crash Bandicoot: Lote Quadrilogy",
         category: "PS4",
         gender: "Aventura",
         description:
@@ -6916,14 +6953,14 @@ const data = [
         price: 79900,
         secondaryPrice: 79900,
         offerPrice: 59900,
-        image: CRASH_BANDICOOT_LA_TRILOGIA,
-        imageDetails: DETAILS_CRASH_BANDICOOT_LA_TRILOGIA,
+        image: CRASH_BANDICOOT_4_QUADRILOGY,
+        imageDetails: DETAILS_CRASH_BANDICOOT_4_QUADRILOGY,
         Date: "2021/7/21",
         precioReventa: 49,
     },
     {
         id: 610,
-        title: "Crash Bandicoot: La trilogía",
+        title: "Crash Bandicoot: Lote Quadrilogy",
         category: "PS5",
         gender: "Aventura",
         description:
@@ -6931,8 +6968,8 @@ const data = [
         price: 79900,
         secondaryPrice: 79900,
         offerPrice: 59900,
-        image: CRASH_BANDICOOT_LA_TRILOGIA,
-        imageDetails: DETAILS_CRASH_BANDICOOT_LA_TRILOGIA,
+        image: CRASH_BANDICOOT_4_QUADRILOGY,
+        imageDetails: DETAILS_CRASH_BANDICOOT_4_QUADRILOGY,
         Date: "2021/7/21",
         precioReventa: 49,
     },
@@ -6946,8 +6983,8 @@ const data = [
         price: 69900,
         secondaryPrice: 69900,
         offerPrice: 29900,
-        image: MONSTER_ENERGY_SUPERCROSS_2,
-        imageDetails: DETAILS_MONSTER_ENERGY_SUPERCROSS_2,
+        image: SUPERCROSS_2,
+        imageDetails: SUPERCROSS_2,
         Date: "2019/2/8",
         precioReventa: 25,
     },
