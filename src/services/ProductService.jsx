@@ -251,6 +251,7 @@ import SUICIDE_SQUAD from '../assets/img/Catalogue/Playstation_4_5/SUICIDE_SQUAD
 import SUPERCROSS_6 from '../assets/img/Catalogue/Playstation_4_5/SUPERCROSS_6.jpeg';
 import TEKKEN_7 from '../assets/img/Catalogue/Playstation_4_5/TEKKEN_7.jpeg';
 import THE_CREW_MOTORFEST from '../assets/img/Catalogue/Playstation_4_5/THE_CREW_MOTORFEST.jpeg';
+import THE_LAST_OF_US_PART_1 from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_PART_1.jpeg';
 import THE_LAST_OF_US_PART_2 from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_PART_2.jpeg';
 import THE_LAST_OF_US_PART_2_REMASTERED from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_PART_2_REMASTERED.jpeg';
 import THE_LAST_OF_US_REMASTERED from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_REMASTERED.jpeg';
@@ -316,57 +317,11 @@ import JEDI_SURVIVOR from '../assets/img/Catalogue/Playstation_4_5/JEDI_SURVIVOR
 import NO_MAN_SKY from '../assets/img/Catalogue/Playstation_4_5/NO_MAN_SKY.jpeg';
 import TEKKEN_8_NEW from '../assets/img/Catalogue/Playstation_4_5/TEKKEN_8_NEW.jpeg';
 import UFC_5 from '../assets/img/Catalogue/Playstation_4_5/UFC_5.jpeg';
+
 import A_PLAGUE_TALE_INNOCENCE from '../assets/img/Catalogue/Playstation_4_5/A_PLAGUE_TALE_INNOCENCE.jpeg';
 import A_PLAGUE_TALE_REQUIEM from '../assets/img/Catalogue/Playstation_4_5/A_PLAGUE_TALE_REQUIEM.jpeg';
 import GOD_OF_WAR_3 from '../assets/img/Catalogue/Playstation_4_5/GOD_OF_WAR_3.jpg';
 import ASSASINS_CREED_VALHALLA_NEW from '../assets/img/Catalogue/Playstation_4_5/ASSASINS_CREED_VALHALLA_NEW.jpeg';
-
-
-
-import LEGO_MARVEL_SUPER_HEROES_2 from '../assets/img/Catalogue/Playstation_4_5/LEGO_MARVEL_SUPER_HEROES_2.jpeg';
-import METAL_GEAR_SOLID_MASTER_COLLECTION from '../assets/img/Catalogue/Playstation_4_5/METAL_GEAR_SOLID_MASTER_COLLECTION.jpeg';
-import OVERCOOKED_2_MAS_OVERCOOKED from '../assets/img/Catalogue/Playstation_4_5/OVERCOOKED_2_MAS_OVERCOOKED.jpeg';
-import NFS_HEAT from '../assets/img/Catalogue/Playstation_4_5/NFS_HEAT.jpeg';
-import THE_LAST_OF_US_PART_1 from '../assets/img/Catalogue/Playstation_4_5/THE_LAST_OF_US_PART_1.jpeg';
-import NEED_FOR_SPEED_HOT from '../assets/img/Catalogue/Playstation_4_5/NEED_FOR_SPEED_HOT.jpeg';
-import DEATH_STRANDING from '../assets/img/Catalogue/Playstation_4_5/DEATH_STRANDING.jpeg';
-import MOTO_GP_23 from '../assets/img/Catalogue/Playstation_4_5/MOTOGP_23.jpeg';
-import MOTO_GP_24 from '../assets/img/Catalogue/Playstation_4_5/MOTOGP_24.jpeg';
-import RATCHET_CLANK from '../assets/img/Catalogue/Playstation_4_5/RATCHET_CLANK.jpeg';
-import SPYRO_TRILOGY from '../assets/img/Catalogue/Playstation_4_5/SPYRO_TRILOGY.jpeg';
-import INJUSTICE_2_LEGENDARY_EDITION from '../assets/img/Catalogue/Playstation_4_5/INJUSTICE_2_LEGENDARY_EDITION.jpeg';
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -567,6 +522,7 @@ import DETAILS_JEDI_SURVIVOR from '../assets/img/Catalogue/imgDetails-PS4-PS5/JE
 import DETAILS_NO_MAN_SKY from '../assets/img/Catalogue/imgDetails-PS4-PS5/NO_MAN_SKY.jpeg';
 import DETAILS_TEKKEN_8_NEW from '../assets/img/Catalogue/imgDetails-PS4-PS5/TEKKEN_8.jpeg';
 import DETAILS_UFC_5 from '../assets/img/Catalogue/imgDetails-PS4-PS5/UFC_5.jpeg';
+
 import DETAILS_A_PLAGUE_TALE_INNOCENCE from '../assets/img/Catalogue/imgDetails-PS4-PS5/A_PLAGUE_TALE_INNOCENCE.jpeg';
 import DETAILS_A_PLAGUE_TALE_REQUIEM from '../assets/img/Catalogue/imgDetails-PS4-PS5/A_PLAGUE_TALE_REQUIEM.jpeg';
 import DETAILS_ASSASINS_CREED_VALHALLA_COMPLETE_EDITION from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINS_CREED_VALHALLA_COMPLETE_EDITION.jpeg';
@@ -577,19 +533,6 @@ import DETAILS_GOD_OF_WAR_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/GOD
 import DETAILS_LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA from '../assets/img/Catalogue/imgDetails-PS4-PS5/LA_TIERRA_MEDIA_SOMBRAS_DE_GUERRA.jpeg';
 import DETAILS_ASSASINS_CREED_VALHALLA_NEW from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINS_CREED_VALHALLA_NEW.jpeg';
 
-
-import DETAILS_LEGO_MARVEL_SUPER_HEROES_2 from '../assets/img/Catalogue/imgDetails-PS4-PS5/LEGO_MARVEL_SUPER_HEROES_2.jpeg';
-import DETAILS_METAL_GEAR_SOLID_MASTER_COLLECTION from '../assets/img/Catalogue/imgDetails-PS4-PS5/METAL_GEAR_SOLID_MASTER_COLLECTION.jpeg';
-import DETAILS_OVERCOOKED_2_MAS_OVERCOOKED from '../assets/img/Catalogue/imgDetails-PS4-PS5/OVERCOOKED_2_MAS_OVERCOOKED.jpeg';
-import DETAILS_NFS_HEAT from '../assets/img/Catalogue/imgDetails-PS4-PS5/NFS_HEAT.jpeg';
-import DETAILS_THE_LAST_OF_US_PART_1 from '../assets/img/Catalogue/imgDetails-PS4-PS5/THE_LAST_OF_US_PART_1.jpeg';
-import DETAILS_NEED_FOR_SPEED_HOT from '../assets/img/Catalogue/imgDetails-PS4-PS5/NEED_FOR_SPEED_HOT.jpeg';
-import DETAILS_DEATH_STRANDING from '../assets/img/Catalogue/imgDetails-PS4-PS5/DEATH_STRANDING.jpeg';
-import DETAILS_MOTO_GP_23 from '../assets/img/Catalogue/imgDetails-PS4-PS5/MOTOGP_23.jpeg';
-import DETAILS_MOTO_GP_24 from '../assets/img/Catalogue/imgDetails-PS4-PS5/MOTOGP_24.jpeg';
-import DETAILS_RATCHET_CLANK from '../assets/img/Catalogue/imgDetails-PS4-PS5/RATCHET_CLANK.jpeg';
-import DETAILS_INJUSTICE_2_LEGENDARY_EDITION from '../assets/img/Catalogue/imgDetails-PS4-PS5/INJUSTICE_2_LEGENDARY_EDITION.jpeg';
-import DETAILS_SPYRO_TRILOGY from '../assets/img/Catalogue/imgDetails-PS4-PS5/SPYRO_TRILOGY.jpeg';
 
 import AA from "../assets/img/logo-lg.png";
 
@@ -1917,7 +1860,7 @@ const data = [
             "Viaja por el mundo, compite en torneos icónicos y enfréntate a las mejores estrellas del tenis. Juega como Roger Federer, Serena Williams y muchos más. Domina la cancha en línea y conviértete en un campeón de Grand Slam.",
         price: 73900,
         secondaryPrice: 73000,
-        offerPrice: 49900,
+        offerPrice: 59900,
         image: TOPSPIN2K25,
         imageDetails: DETAILS_TOPSPIN2K25,
         Date: "2024/4/26",
@@ -1970,7 +1913,7 @@ const data = [
     },
     {
         id: 5,
-        title: " Retro",
+        title: " Marvel’s Midnight Suns Retro",
         category: "PS5",
         gender: "Estrategia",
         description:
@@ -2007,7 +1950,7 @@ const data = [
             "Sobrevivir es solo el principio.Seis años después de la catástrofe biológica en Raccoon City, el agente Leon S. Kennedy, uno de los supervivientes del desastre, ha sido enviado a rescatar a la hija del presidente, a quien han secuestrado. Siguiendo su rastro, llega a una apartada población europea, donde sus habitantes sufren un mal terrible. Así comienza esta historia de un arriesgado rescate y terror escalofriante donde se cruzan la vida y la muerte, y el miedo y la catarsis.",
         price: 69900,
         secondaryPrice: 69000,
-        offerPrice: 49900,
+        offerPrice: 39900,
         image: RE4_REMASTERED,
         imageDetails: DETAILS_RE4_REMASTERED,
         Date: "2023/3/24",
@@ -2217,7 +2160,7 @@ const data = [
             "La Edición Estándar de Mortal Kombat 11 incluye: Juego principal Con las nuevas variantes de personaje tendrás un control sin precedentes para personalizar a tus luchadores y hacerlos únicos. El nuevo motor gráfico resalta cada uno de los momentos más sangrientos para ponerte tan cerca de la pelea que casi podrás sentirla. Con un reparto de luchadores nuevos y klásicos, el modo historia cinemático continúa la épica saga iniciada hace más de 25 años. de los fans y nuevas caras, así como modos individual y cooperativo, y nuevos retos para los jugadores, diferentes de los de cualquier otra entrega de la saga Resident Evil. Esta edición incluye todos los DLC, así como dos trajes por cada protagonista, originalmente solo desbloqueables desde Residentevil.net, y que ahora pueden desbloquearse desde el juego. ",
         price: 59900,
         secondaryPrice: 59900,
-        offerPrice: 25900,
+        offerPrice: 15900,
         image: MK11,
         imageDetails: DETAILS_MK11,
         Date: "2019/4/23",
@@ -2330,14 +2273,14 @@ const data = [
     },
     {
         id: 29,
-        title: "Cuphead & The Delicious Last Course",
+        title: "Cuphead & The Delicious Last Course Retro",
         category: "PS5",
         gender: "Accion",
         description:
             " En Cuphead, la pantalla se llenará de grandes jefes a los que se tendrán que enfrentar los jugadores, en un juego de acción inspirado por los dibujos animados de los años 30. Juega como Cuphead o como Mugman (en modo para un jugador o en cooperativo local) y descubran mundos extraños, consigan armas nuevas, aprendan poderosos supermovimientos y descubran secretos ocultos. ¡Todo esto, mientras intentan pagar la deuda que tienen con el diablo! En el contenido descargable de The Delicious Last Course, ¡Cuphead y Mugman vivirán aventuras en una isla nueva en compañía de la señorita Cáliz! Gracias a las armas nuevas, los amuletos nuevos y las habilidades nuevas de señorita Cáliz, podrás enfrentarte a jefes chiflados nuevos que presentarán varias transformaciones. ¡Ayuda al alegre Chef Saleroso en la última y desafiante aventura de Cuphead!",
         price: 79900,
         secondaryPrice: 79900,
-        offerPrice: 49900,
+        offerPrice: 29900,
         image: CUPHEAD_2,
         imageDetails: DETAILS_CUPHEAD_2,
         Date: "2022/6/30",
@@ -2412,7 +2355,7 @@ const data = [
             " WWE 2K24 tiene una lista de estrellas con leyendas de la WWE como 'Stone Cold' Steve Austin, Undertaker y Andre El Gigante, con superestrellas actuales de la WWE como 'La Pesadilla americana' Cody Rhodes, John Cena, Rhea Ripley y Roman Reigns, cuyos movimientos característicos se realzan por unos gráficos ultrarrealistas.",
         price: 73900,
         secondaryPrice: 73900,
-        offerPrice: 49900,
+        offerPrice: 29900,
         image: W2K24,
         imageDetails: DETAILS_WWE_2K24,
         Date: "2024/3/8",
@@ -2457,7 +2400,7 @@ const data = [
             "Incluye la misión de la Tienda de Hogsmeade encantada, que te da acceso a una mazmorra adicional, el set cosmético del Comerciante y una tienda de Hogsmeade en el juego.Hogwarts Legacy es un RPG de acción en un mundo abierto ambientado en el universo de los libros de Harry Potter. Embárcate en una aventura que te llevará por lugares nuevos y conocidos, mientras descubres animales mágicos, personalizas tu personaje, elaboras pociones, dominas hechizos, mejoras tus talentos y te conviertes en el mago que siempre has querido ser.",
         price: 75900,
         secondaryPrice: 75900,
-        offerPrice: 49900,
+        offerPrice: 39900,
         image: HOGWARTS_LEGACY,
         imageDetails: DETAILS_HOGWARTS_LEGACY,
         Date: "2023/2/10",
@@ -2502,7 +2445,7 @@ const data = [
             "Cinco años después de aquel peligroso viaje por un Estados Unidos que ha sido azotado por una pandemia, Ellie y Joel echaron raíces en Jackson, Wyoming. Vivir en una comunidad próspera de supervivientes les dio paz y estabilidad a pesar de la amenaza constante de los infectados y de otros supervivientes más desesperados. Cuando un evento violento altera la paz, Ellie emprende un viaje incansable en busca de justicia y de encontrar un cierre. Mientras caza uno a uno a los responsables, deberá enfrentar las devastadoras consecuencias físicas y emocionales de sus acciones.",
         price: 69900,
         secondaryPrice: 68900,
-        offerPrice: 39900,
+        offerPrice: 29900,
         image: THE_LAST_OF_US_PART_2,
         imageDetails: DETAILS_THELASTOFUS2,
         Date: "2020/6/19",
@@ -2532,7 +2475,7 @@ const data = [
             "Aprieta el acelerador, adelanta a tus oponentes y cruza la línea de meta: vive el sueño de ser el próximo campeón con el nuevo MotoGP™23 más increíble y desafiante que nunca.Escoge una de las cuatro categorías aclamadas de campeonatos MotoGP™, Moto2™, Moto3™ y MotoE™, ponte en los zapatos de tu piloto favorito y ve a la pista para vivir la adrenalina de la temporada 2023.",
         price: 59900,
         secondaryPrice: 59900,
-        offerPrice: 39900,
+        offerPrice: 30900,
         image: MOTOGP_24,
         imageDetails: DETAILS_MOTOGP_24,
         Date: "2023/6/8",
@@ -2727,7 +2670,7 @@ const data = [
             "Conviértete en un soldado de élite de operaciones especiales conocido como Ghost, con una misión especial en Auroa. El remoto archipiélago en algún lugar del Pacífico Sur ha perdido contacto con el mundo exterior debido a que Skell Technology se ha vuelto hostil. Los Wolves, un equipo rebelde de operaciones especiales liderado por tu antiguo compañero de armas, se han apoderado de todo y te están cazando. Dirige a tu equipo a través de las vistas de la isla y salva a los civiles sin que nadie se de cuenta.",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 28900,
+        offerPrice: 18900,
         image: TOM_CLANCY_GHOST_RECON_BREAKPOINT,
         imageDetails: DETAILS_TOMCLANCY_GHOSTRECON,
         Date: "2019/10/4",
@@ -2742,7 +2685,7 @@ const data = [
             "Conviértete en un soldado de élite de operaciones especiales conocido como Ghost, con una misión especial en Auroa. El remoto archipiélago en algún lugar del Pacífico Sur ha perdido contacto con el mundo exterior debido a que Skell Technology se ha vuelto hostil. Los Wolves, un equipo rebelde de operaciones especiales liderado por tu antiguo compañero de armas, se han apoderado de todo y te están cazando. Dirige a tu equipo a través de las vistas de la isla y salva a los civiles sin que nadie se de cuenta.",
         price: 42900,
         secondaryPrice: 42900,
-        offerPrice: 19900,
+        offerPrice: 15900,
         image: TOM_CLANCY_GHOST_RECON_BREAKPOINT,
         imageDetails: DETAILS_TOMCLANCY_GHOSTRECON,
         Date: "2019/10/4",
@@ -2802,7 +2745,7 @@ const data = [
             "Cyberpunk 2077 es un RPG de aventura y acción de mundo abierto ambientado en la megalópolis de Night City, donde te pondrás en la piel de un mercenario o una mercenaria ciberpunk y vivirás su lucha a vida o muerte por la supervivencia. Mejorado para la nueva generación y con contenido adicional gratuito. Personaliza tu personaje y tu estilo de juego a medida que aceptas trabajos, te labras una reputación y desbloqueas mejoras. Las relaciones que forjes y las decisiones que tomes darán forma al mundo que te rodea. Aquí nacen las leyendas. ¿Cuál será la tuya?",
         price: 59900,
         secondaryPrice: 59900,
-        offerPrice: 39900,
+        offerPrice: 29900,
         image: CYBERPUNK,
         imageDetails: DETAILS_CYBERPUNK,
         Date: "2020/12/10",
@@ -2995,9 +2938,9 @@ const data = [
         gender: "Accion",
         description:
             "En Tom Clancy's Ghost Recon® Wildlands, el cartel narcotraficante de Santa Blanca ha transformado al bello país de Bolivia en un peligroso narcoestado en el que imperan la impunidad, el temor y la violencia descontrolada. Con su corrosiva influencia haciéndose cada vez más grande, el cartel está listo para llevar a todo el país a la ruina.Pero no todo está perdido.",
-        price: 49900,
-        secondaryPrice: 49900,
-        offerPrice: 0,
+        price: 59900,
+        secondaryPrice: 59900,
+        offerPrice: 25900,
         image: TOM_CLANCY_GHOST_RECON_WILDLANDS,
         imageDetails: DETAILS_TOMCLANCY_GHOSTRECON_WILDLANDS,
         Date: "2017/3/7",
@@ -3012,7 +2955,7 @@ const data = [
             "Arma tu equipo y vive el pasado, el presente y el futuro de la cultura del baloncesto en NBA 2K24. Disfruta de una experiencia auténtica y completa con opciones personalizadas ilimitadas de MyPLAYER, en MyCAREER. Colecciona una gran variedad de leyendas y arma tu alineación ideal en MyTEAM. Siente una mayor respuesta en el juego y disfruta de visuales mejoradas mientras juegas con tus equipos favoritos de la NBA y la WNBA en JUEGA AHORA.",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 25900,
+        offerPrice: 19900,
         image: NBA_2K24,
         imageDetails: DETAILS_NBA2K24,
         Date: "2023/9/8",
@@ -3027,7 +2970,7 @@ const data = [
             "Arma tu equipo y vive el pasado, el presente y el futuro de la cultura del baloncesto en NBA 2K24. Disfruta de una experiencia auténtica y completa con opciones personalizadas ilimitadas de MyPLAYER, en MyCAREER. Colecciona una gran variedad de leyendas y arma tu alineación ideal en MyTEAM. Siente una mayor respuesta en el juego y disfruta de visuales mejoradas mientras juegas con tus equipos favoritos de la NBA y la WNBA en JUEGA AHORA.",
         price: 53900,
         secondaryPrice: 53900,
-        offerPrice: 24900,
+        offerPrice: 19900,
         image: NBA_2K24,
         imageDetails: DETAILS_NBA2K24,
         Date: "2023/9/8",
@@ -3672,7 +3615,7 @@ const data = [
             "Call of Duty®: Modern Warfare® II transporta a los jugadores a un conflicto global sin precedentes y trae de vuelta los icónicos Operadores de la fuerza operativa 141. Infinity Ward trae a los fans una jugabilidad de última generación, un nuevo manejo de armas, un sistema de IA avanzado, un nuevo armero y otras innovaciones gráficas y de jugabilidad que elevan la franquicia a nuevas alturas. Modern Warfare® II cuenta con una campaña mundial de un jugador, un combate Multijugador envolvente y un modo de juego evolucionado de Operaciones Especiales tácticas y cooperativas.También podrás acceder a Call of Duty®: Warzone™ 2.0, la nueva experiencia Battle Royale.",
         price: 59900,
         secondaryPrice: 59900,
-        offerPrice: 40900,
+        offerPrice: 30900,
         image: COD_MW_2,
         imageDetails: DETAILS_COD_MW_2,
         Date: "2022/10/28",
@@ -3897,7 +3840,7 @@ const data = [
             "Dead Island 2 es un juego de rol y acción en primera persona, vibrante y con mucho estilo, inundado de contaminación zombi. Explora la emblemática ciudad de Los Ángeles, pero bañada en sangre. Conoce a personajes ambiciosos. Mata minuciosamente a un sinfín de enemigos. ¡Y evoluciona para convertirte en el matazombis definitivo! ",
         price: 75900,
         secondaryPrice: 75900,
-        offerPrice: 49900,
+        offerPrice: 39900,
         image: DEAD_ISLAND_2,
         imageDetails: DETAILS_DEAD_ISLAND_2,
         Date: "2023/4/21",
@@ -4077,7 +4020,7 @@ const data = [
             "Con este producto podrás descargar tanto la versión digital para PS4™ como la versión digital para PS5™ de este juego. Adéntrate en un elegante juego de plataformas repleto de acción y aventura. Viaja por la mitología persa y manipula los límites del espacio y el tiempo. ¡Controla a Sargón y pasa de ser un prodigio de la espada a toda una leyenda! Domina un combate ágil y desbloquea nuevos poderes del tiempo y habilidades especiales únicas que se acomoden a tu estilo de juego.",
         price: 79900,
         secondaryPrice: 78900,
-        offerPrice: 49900,
+        offerPrice: 39900,
         image: PRINCE_OF_PERSIA_THE_LOST_CROW,
         imageDetails: DETAILS_PRINCE_OF_PERSIA_THE_LOST_CROWN,
         Date: "2024/1/18",
@@ -4227,7 +4170,7 @@ const data = [
             "Con este producto podrás descargar tanto la versión digital para PS4™ como la versión digital para PS5™ de este juego.¡Un nuevo juego de rol de la enormemente popular serie de manga y anime ONE PIECE, que conmemora el 25 aniversario de la serie!El famoso pirata Monkey.D.Luffy, mejor conocido como Luffy Sombrero de Paja, y sus Piratas de Sombrero de Paja, navegan por el Nuevo Mundo en busca de la próxima isla y la próxima aventura que les espera.Sin embargo, durante su viaje se ven atrapados en una tormenta y naufragan. Terminan varados en una exuberante isla tropical rodeada de constantes y terribles tormentas...",
         price: 54900,
         secondaryPrice: 54900,
-        offerPrice: 45900,
+        offerPrice: 35900,
         image: ONE_PIECE_ODYSSEY,
         imageDetails: DETAILS_ONE_PIECE_ODYSSEY,
         Date: "2023/1/10",
@@ -4257,7 +4200,7 @@ const data = [
             "Inicia tu aventura como Rick Grimes, despertando solo en un hospital rodeado por los muertos. Reúne aliados y lucha para abrirte paso en el apocalipsis de los caminantes a través de lugares icónicos de The Walking Dead, incluyendo Atlanta, la granja de la familia Greene, la prisión y Woodbury. En momentos cruciales y decisivos, siempre podrás indicar el destino de tu equipo conformado por personajes de la serie. Héroes y villanos, vivos y muertos - depende de ti decidir si permaneces en el curso de la historia o creas tu propio camino a través del mundo de The Walking Dead de AMC.",
         price: 79900,
         secondaryPrice: 79900,
-        offerPrice: 49900,
+        offerPrice: 39900,
         image: THE_WALKING_DEAD_DESTINIES,
         imageDetails: DETAILS_THE_WALKING_DEAD_DESTINIES,
         Date: "2023/11/17",
@@ -4287,7 +4230,7 @@ const data = [
             "Hello Neighbor 2 es un juego de terror sigiloso que consiste en descubrir los secretos de tu extraño vecino. Eres un periodista que quiere resolver el caso del vecino porque nadie se atreve a hacerlo. ¡Juega contra un rival complejo controlado por una IA avanzada que aprende de ti y de los demás jugadores! Con el paso del tiempo, el vecino se adapta a los patrones de los jugadores y cambia su propio comportamiento para sorprenderte. ¿Serás capaz de evitar al vecino y descubrir sus secretos?",
         price: 69900,
         secondaryPrice: 68900,
-        offerPrice: 45900,
+        offerPrice: 35900,
         image: HELLO_NEIGHBOR_2,
         imageDetails: DETAILS_HELLO_NEIGHBOR_2,
         Date: "2022/12/6",
@@ -4347,7 +4290,7 @@ const data = [
             "Juega las tres aventuras originales de Tomb Raider: Hacemos historia brindando una experiencia completa con todas las expansiones y niveles secretos pero en nuevas plataformas, la colección definitiva.Títulos incluidosTomb Raider I + Unfinished BusinessTomb Raider II + Golden MaskTomb Raider III + The Lost Artifact",
         price: 64900,
         secondaryPrice: 64900,
-        offerPrice: 39900,
+        offerPrice: 30900,
         image: TOMB_RAIDER_1_2_3,
         imageDetails: DETAILS_TOMB_RAIDER_1_2_3,
         Date: "2024/2/14",
@@ -4527,7 +4470,7 @@ const data = [
             "Descubre los misterios de Minecraft Legends, un nuevo juego de acción y estrategia. Explora una tierra apacible rica en recursos y exuberantes biomas que se encuentran al bordela destrucción. ¡Los devastadores piglins han llegado, y depende de ti motivar a tus aliados y guiarlos en batallas estratégicas para salvar el Mundo superior!",
         price: 69900,
         secondaryPrice: 68900,
-        offerPrice: 49900,
+        offerPrice: 39900,
         image: MINECRAFT_LEGENDS,
         imageDetails: DETAILS_MINECRAFT_LEGENDS,
         Date: "2023/4/18",
@@ -4872,7 +4815,7 @@ const data = [
             "Vive la adrenalina de la edición Juego del año de Marvel’s Spider-Man, que incluye el juego completo, además del contenido descargable completo de los arcos argumentales de Marvel’s Spider-Man: La ciudad que nunca duerme. ",
         price: 59900,
         secondaryPrice: 59800,
-        offerPrice: 39900,
+        offerPrice: 29900,
         image: SPIDERMAN,
         imageDetails: DETAILS_SPIDERMAN,
         Date: "2019/8/28",
@@ -4962,7 +4905,7 @@ const data = [
             "Consigue siete juegos completos en un paquete increíble con el lote Triple juego de Crash™ + Spyro™. Incluye Crash Bandicoot™ N. Sane Trilogy + Spyro™ Reignited Trilogy + Crash™ Team Racing Nitro-Fueled",
         price: 79900,
         secondaryPrice: 79800,
-        offerPrice: 39000,
+        offerPrice: 29000,
         image: CRASH_3,
         imageDetails: DETAILS_CRASH_3,
         Date: "2019/12/20",
@@ -5217,7 +5160,7 @@ const data = [
             "Diablo® IV es una experiencia RPG de acción de nueva generación con infinidad de maldad para asesinar, gran cantidad de habilidades para dominar, calabozos de pesadilla y botín legendario. Embárcate en la campaña en solitario o con amigos, donde conocerás personajes memorables y recorrerás escenarios maravillosamente oscuros junto a una historia apasionante. También podrás andar libremente por un juego avanzado en expansión y un mundo compartido en el que los jugadores podrán encontrarse en poblados para comerciar, agruparse para enfrentarse a jefes de mundo o descender hacia las zonas JcJ para poner a prueba sus habilidades contra otros jugadores, sin necesidad de salas de espera y con juego cruzado y progresión cruzada en todas las plataformas disponibles.",
         price: 73900,
         secondaryPrice: 73800,
-        offerPrice: 49900,
+        offerPrice: 39900,
         image: DIABLO_IV,
         imageDetails: DETAILS_DIABLO_IV,
         Date: "2024/6/9",
@@ -5247,7 +5190,7 @@ const data = [
             "CONVIÉRTETE EN EL AGENTE 47. Vístete para la ocasión con este thriller de espías en el que tendrás que usar habilidades letales en más de 20 ubicaciones",
         price: 83900,
         secondaryPrice: 83800,
-        offerPrice: 49900,
+        offerPrice: 39900,
         image: HITMAN_WORLD,
         imageDetails: DETAILS_HITMAN_WORLD,
         Date: "2023/1/26",
@@ -5262,7 +5205,7 @@ const data = [
             "Compite contra el tiempo, burla a la policía y participa en las eliminatorias semanales para alcanzar el Grand, el desafío de carreras callejeras definitivo de Lakeshore. Llena tu garaje con autos personalizados con detalles precisos y deslumbra las calles con tu estilo, atuendos exclusivos y una banda sonora global vibrante.",
         price: 63900,
         secondaryPrice: 63800,
-        offerPrice: 45900,
+        offerPrice: 35900,
         image: NFS_UNBOUND,
         imageDetails: DETAILS_NFS_UNBOUND,
         Date: "2022/12/2",
@@ -5870,21 +5813,6 @@ const data = [
     },
     {
         id: 529,
-        title: "Injustic 2 Legendary Edition",
-        category: "PS4",
-        gender: "Accion",
-        description:
-            "Mejora y amplía la versión definitivae de tus héroes favoritos de DC en INJUSTICE 2, ganador del premio de IGN al mejor juego de lucha de 2017.",
-        price: 59900,
-        secondaryPrice: 59900,
-        offerPrice: 0,
-        image: INJUSTICE_2_PS4,
-        imageDetails: DETAILS_INJUSTICE_2,
-        Date: "2018/3/27",
-        precioReventa: 55,
-    },
-    {
-        id: 529,
         title: "Injustic 2 Legendary Edition Retro",
         category: "PS5",
         gender: "Accion",
@@ -6085,8 +6013,8 @@ const data = [
         gender: "Juego de Rol",
         description:
             "Ganador de cientos de premios que incluyen Juego del año de The Game Awards y Mejor juego del año de Golden Joystick Awards, ELDEN RING es el aclamado juego de rol y acción ambientado en un mundo de fantasía extenso y oscuro. Los jugadores se embarcan en una aventura épica con la libertad de explorar y aventurarse a su ritmo.",
-        price: 70900,
-        secondaryPrice: 70900,
+        price: 79900,
+        secondaryPrice: 79900,
         offerPrice: 75900,
         image: ELDEN_RING_SHADOW_ERDTREE,
         imageDetails: DETAILS_ELDEN_RING_SHADOW_ERDTREE,
@@ -6100,8 +6028,8 @@ const data = [
         gender: "Juego de Rol",
         description:
             "Ganador de cientos de premios que incluyen Juego del año de The Game Awards y Mejor juego del año de Golden Joystick Awards, ELDEN RING es el aclamado juego de rol y acción ambientado en un mundo de fantasía extenso y oscuro. Los jugadores se embarcan en una aventura épica con la libertad de explorar y aventurarse a su ritmo.",
-        price: 70900,
-        secondaryPrice: 70900,
+        price: 79900,
+        secondaryPrice: 79900,
         offerPrice: 75900,
         image: ELDEN_RING_SHADOW_ERDTREE,
         imageDetails: DETAILS_ELDEN_RING_SHADOW_ERDTREE,
@@ -6610,7 +6538,7 @@ const data = [
         gender: "Deportes",
         description:
             "Haz que tu equipo juegue como los mejores del mundo con FC IQ. Una mejora de las bases tácticas en el juego ofrece un mayor control estratégico y movimientos colectivos más realistas a nivel de equipo, mientras que un nuevo modelo de IA, impulsado por datos del mundo real, influye en las tácticas de cada futbolista a través de los nuevos Roles de futbolista.",
-        price: 69900,
+        price: 79900,
         secondaryPrice: 68900,
         offerPrice: 49000,
         image: FIFA_25,
@@ -6625,7 +6553,7 @@ const data = [
         gender: "Deportes",
         description:
             "Haz que tu equipo juegue como los mejores del mundo con FC IQ. Una mejora de las bases tácticas en el juego ofrece un mayor control estratégico y movimientos colectivos más realistas a nivel de equipo, mientras que un nuevo modelo de IA, impulsado por datos del mundo real, influye en las tácticas de cada futbolista a través de los nuevos Roles de futbolista.",
-        price: 69900,
+        price: 79900,
         secondaryPrice: 68900,
         offerPrice: 49000,
         image: FIFA_25,
@@ -6756,7 +6684,7 @@ const data = [
     {
         id: 595,
         title: "No Man's Sky",
-        category: "PS4",
+        category: "PS5",
         gender: "Accion",
         description:
             "No Man’s Sky: una épica aventura de ciencia ficción en un universo infinito, donde cada estrella distante es un sol orbitado por planetas plenos de vida: todos aguardan tu visita. Explora mundos nuevos y negocia, lucha y sobrevive a escala galáctica.",
@@ -6793,8 +6721,8 @@ const data = [
         price: 99900,
         secondaryPrice: 99900,
         offerPrice: 59900,
-        image: METAL_GEAR_SOLID_MASTER_COLLECTION,
-        imageDetails: DETAILS_METAL_GEAR_SOLID_MASTER_COLLECTION,
+        image: METAL_GEAR_SOLID_MASTER_COLLECTION_Vol_1,
+        imageDetails: DETAILS_METAL_GEAR_SOLID_MASTER_COLLECTION_Vol_1,
         Date: "2023/10/24",
         precioReventa: 49,
     },
@@ -6823,8 +6751,8 @@ const data = [
         price: 99900,
         secondaryPrice: 99900,
         offerPrice: 49900,
-        image: OVERCOOKED_2_MAS_OVERCOOKED,
-        imageDetails: DETAILS_OVERCOOKED_2_MAS_OVERCOOKED,
+        image: OVERCOOKED_OVERCOOKED_2,
+        imageDetails: DETAILS_OVERCOOKED_OVERCOOKED_2,
         Date: "2019/10/17",
         precioReventa: 69,
     },
@@ -6838,8 +6766,8 @@ const data = [
         price: 59900,
         secondaryPrice: 59900,
         offerPrice: 24900,
-        image: NFS_HEAT,
-        imageDetails: DETAILS_NFS_HEAT,
+        image: NEED_FOR_SPEED_HEAT,
+        imageDetails: DETAILS_NEED_FOR_SPEED_HEAT,
         Date: "2019/11/8",
         precioReventa: 15,
     },
@@ -6853,8 +6781,8 @@ const data = [
         price: 89900,
         secondaryPrice: 89900,
         offerPrice: 69900,
-        image: THE_LAST_OF_US_PART_1,
-        imageDetails: DETAILS_THE_LAST_OF_US_PART_1,
+        image: THE_LAST_OF_US_PARTE_1,
+        imageDetails: DETAILS_THE_LAST_OF_US_PARTE_1,
         Date: "2022/9/2",
         precioReventa: 45,
     },
@@ -6868,8 +6796,8 @@ const data = [
         price: 59900,
         secondaryPrice: 59900,
         offerPrice: 24900,
-        image: NEED_FOR_SPEED_HOT,
-        imageDetails: DETAILS_NEED_FOR_SPEED_HOT,
+        image: NEED_FOR_SPEED_HOT_PURSUIT_REMASTERED,
+        imageDetails: DETAILS_NEED_FOR_SPEED_HOT_PURSUIT_REMASTERED,
         Date: "2020/11/6",
         precioReventa: 20,
     },
@@ -6883,8 +6811,8 @@ const data = [
         price: 99900,
         secondaryPrice: 99900,
         offerPrice: 59900,
-        image: METAL_GEAR_SOLID_MASTER_COLLECTION,
-        imageDetails: DETAILS_METAL_GEAR_SOLID_MASTER_COLLECTION,
+        image: METAL_GEAR_SOLID_MASTER_COLLECTION_Vol_1,
+        imageDetails: DETAILS_METAL_GEAR_SOLID_MASTER_COLLECTION_Vol_1,
         Date: "2023/10/24",
         precioReventa: 45,
     },
@@ -6897,9 +6825,9 @@ const data = [
             "De manos del legendario creador de juegos Hideo Kojima llega una experiencia que desafía el género, ahora expandida y remasterizada en esta edición definitiva Director's Cut.",
         price: 79900,
         secondaryPrice: 79900,
-        offerPrice: 59900,
-        image: DEATH_STRANDING,
-        imageDetails: DETAILS_DEATH_STRANDING,
+        offerPrice: 69900,
+        image: DEATH_STRANDING_DIRECTORS_CUT,
+        imageDetails: DETAILS_DEATH_STRANDING_DIRECTORS_CUT,
         Date: "2021/9/24",
         precioReventa: 45,
     },
@@ -6913,8 +6841,8 @@ const data = [
         price: 79900,
         secondaryPrice: 79900,
         offerPrice: 39900,
-        image: MOTO_GP_24,
-        imageDetails: DETAILS_MOTO_GP_24,
+        image: MOTOGP_24,
+        imageDetails: DETAILS_MOTOGP_24,
         Date: "2021/9/24",
         precioReventa: 45,
     },
@@ -6928,8 +6856,8 @@ const data = [
         price: 79900,
         secondaryPrice: 79900,
         offerPrice: 39900,
-        image: MOTO_GP_24,
-        imageDetails: DETAILS_MOTO_GP_24,
+        image: MOTOGP_24,
+        imageDetails: DETAILS_MOTOGP_24,
         Date: "2021/9/24",
         precioReventa: 45,
     },
@@ -6942,9 +6870,9 @@ const data = [
             "Reaparece en una nueva experiencia de supervivencia de dinosaurios más allá de tus sueños más locos... ¡mientras ARK se reinventa desde cero en la próxima generación de tecnología de videojuegos con Unreal Engine 5! Te despiertas en una isla misteriosa, tus sentidos abrumados por la cegadora luz del sol y los colores brillantes que rebotan en cada superficie a tu alrededor, las aguas azules de una isla verde lamiendo tus pies descalzos. Un rugido profundo resuena en la jungla brumosa, lo que te impulsa a actuar y te pones de pie, sin miedo, sino intrigado. ¿Estás listo para formar una tribu, domesticar y criar cientos de especies de dinosaurios y otras criaturas primitivas, explorar, crear, construir y abrirte camino hasta la cima de la cadena alimentaria? Tu nuevo mundo te espera... ¡atraviesa el espejo y únete a él!",
         price: 79900,
         secondaryPrice: 79900,
-        offerPrice: 65900,
-        image: ARK,
-        imageDetails: DETAILS_ARK,
+        offerPrice: 69900,
+        image: ARK_SURVIVAL_ASCENDED,
+        imageDetails: DETAILS_ARK_SURVIVAL_ASCENDED,
         Date: "2023/11/30",
         precioReventa: 60,
     },
@@ -6958,8 +6886,8 @@ const data = [
         price: 79900,
         secondaryPrice: 79900,
         offerPrice: 59900,
-        image: SPYRO_TRILOGY,
-        imageDetails: DETAILS_SPYRO_TRILOGY,
+        image: SPYRO_REIGNITED_TRILOGY,
+        imageDetails: DETAILS_SPYRO_REIGNITED_TRILOGY,
         Date: "2018/11/13",
         precioReventa: 50,
     },
@@ -6972,9 +6900,9 @@ const data = [
             "¡Ratchet y Clank están de regreso! Ayúdalos a impedir que un emperador robótico conquiste mundos interdimensionales, con su propio universo en la mira. Contempla la evolución del equipo de los sueños con la incorporación de Rivet, una lombax guerrera de la resistencia de otra dimensión.",
         price: 79900,
         secondaryPrice: 79900,
-        offerPrice: 59900,
-        image: RATCHET_CLANK,
-        imageDetails: DETAILS_RATCHET_CLANK,
+        offerPrice: 69900,
+        image: ATCHET_CLANK_UNA_DIMENSION_APARTE,
+        imageDetails: DETAILS_ATCHET_CLANK_UNA_DIMENSION_APARTE,
         Date: "2021/6/11",
         precioReventa: 40,
     },
@@ -6988,7 +6916,7 @@ const data = [
         price: 79900,
         secondaryPrice: 79900,
         offerPrice: 59900,
-        image: CRASH_TRILOGY,
+        image: CRASH_BANDICOOT_LA_TRILOGIA,
         imageDetails: DETAILS_CRASH_BANDICOOT_LA_TRILOGIA,
         Date: "2021/7/21",
         precioReventa: 49,
@@ -7003,7 +6931,7 @@ const data = [
         price: 79900,
         secondaryPrice: 79900,
         offerPrice: 59900,
-        image: CRASH_TRILOGY,
+        image: CRASH_BANDICOOT_LA_TRILOGIA,
         imageDetails: DETAILS_CRASH_BANDICOOT_LA_TRILOGIA,
         Date: "2021/7/21",
         precioReventa: 49,
@@ -7018,13 +6946,26 @@ const data = [
         price: 69900,
         secondaryPrice: 69900,
         offerPrice: 29900,
-        image: AA,
-        imageDetails: AA,
+        image: MONSTER_ENERGY_SUPERCROSS_2,
+        imageDetails: DETAILS_MONSTER_ENERGY_SUPERCROSS_2,
         Date: "2019/2/8",
         precioReventa: 25,
     },
-
-    
+    {
+        id: 612,
+        title: "Lego Marvel Super Heroes 2",
+        category: "PS4",
+        gender: "Aventura",
+        description:
+            "¡Es el MOMENTO! Únete a tus superhéroes y supervillanos favoritos de distintas eras y realidades en su lucha contra Kang the Conqueror, quien viaja por el tiempo, en una aventura original y completamente nueva: ¡LEGO® Marvel Super Heroes 2! ¡Juega como los Guardians of the Galaxy, Spiderman, Thor, Hulk, Black Panther, Captain Marvel, Doctor Strange, Green Goblin y decenas de otros superhéroes y supervillanos de Marvel en esta batalla cósmica en Cronópolis, la ciudad alejada del tiempo! ¡Viaja por distintas épocas (del antiguo Egipto al viejo Oeste, Sakaar y Nueva York en 2099) y transporta objetos y personajes a través de los siglos! ¡Además, con los modos de batalla nuevos, podrás jugar contra amigos y familiares en una serie de desafíos temáticos y escenarios de combate!",
+        price: 59900,
+        secondaryPrice: 9900,
+        offerPrice: 29900,
+        image: LEGO_MARVEL_SUPER_HEROES_2,
+        imageDetails: DETAILS_LEGO_MARVEL_SUPER_HEROES_2,
+        Date: "2017/11/17",
+        precioReventa: 25,
+    },
 ];
 
 export default data;
