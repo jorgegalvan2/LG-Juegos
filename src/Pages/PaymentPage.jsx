@@ -113,9 +113,9 @@ function PaymentPage() {
 
 
                 
-                {preferenceId && 
+                {/*  preferenceId && 
                 <Wallet initialization={{ preferenceId: id}} />
-                }  
+                */}  
 
     </main>
   );
