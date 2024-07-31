@@ -25,7 +25,7 @@ import ProductDetails from "./Pages/ProductDetails.jsx"
 import PaymentPage from "./Pages/PaymentPage.jsx"
 import ResellersPage from "./Pages/ResellersPage.jsx"
 import Ecommerce from './Components/Cart/Ecommerce.jsx';
-
+import WhatsAppButton from './Components/WhatsAppButton.jsx';
 
 
 
@@ -36,14 +36,9 @@ function App(){
     const [items, setItems] = useState();
     const [totalPrice, setTotalPrice] = useState();
 
-
-
     useEffect(() => {
        setTotalPrice
     },[sidebarVisible])
-
-
-
 
 
     const showNavBar = () => {
@@ -58,7 +53,6 @@ function App(){
         setSidebarVisible(true);
     };
     
-
 
     const onItems = (item) => {
     
@@ -100,6 +94,8 @@ function App(){
                 <p className="text-light text-center mt-3 ">&copy; 2024 | LG Juegos digitales <Link to={'/resellers/games'}>Revendedores</Link> </p>
             </div>
         </footer>
+
+        <WhatsAppButton />
 
         </>
     )
