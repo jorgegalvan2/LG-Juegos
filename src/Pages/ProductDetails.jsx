@@ -10,6 +10,8 @@ import GppGoodIcon from '@mui/icons-material/GppGood';
 import SendIcon from '@mui/icons-material/Send';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 
+import { Helmet } from 'react-helmet';
+
 function ProductDetails() {
   const { id } = useParams();
   const productId = parseInt(id);
@@ -67,6 +69,18 @@ function ProductDetails() {
 
   return (
     <main className='container-fluid mt-5 pt-4'>
+      <Helmet>
+                <title>{product.title}</title>
+                <meta property="og:title" content={product.title} />
+                <meta property="og:description" content={product.description} />
+                <meta property="og:image" content={product.image} />
+                <meta property="og:url" content={`https://www.lgjuegosdigitales.com/producto/${product.id}`} />
+                <meta property="og:type" content="product" />
+                <meta property="og:site_name" content="JG Juegos digitales" />
+                <meta property="og:price:amount" content={product.price} />
+                <meta property="og:price:currency" content="ARS" />
+            </Helmet>
+
       {product && 
         <div className='row justify-content-center text-center p-0 marginDetails'>
         <img className='img-fluid col-12 col-lg-4 p-0 imgProductDetails' src={product.imageDetails} alt={product.title} />
