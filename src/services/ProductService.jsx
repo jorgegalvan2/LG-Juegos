@@ -118,6 +118,7 @@ import ASSASINS_3 from '../assets/img/Catalogue/Playstation_4_5/3_ASSASINS.jpeg'
 import CRASH_3 from '../assets/img/Catalogue/Playstation_4_5/3_CRASH.jpeg';
 import ALAN_WAKE_2 from '../assets/img/Catalogue/Playstation_4_5/ALAN_WAKE_2.jpeg';
 import ARK from '../assets/img/Catalogue/Playstation_4_5/ARK.jpeg';
+import ARK_SURVIVAL_EVOLVED from '../assets/img/Catalogue/Playstation_4_5/ARK_SURVIVAL_EVOLVED.jpeg';
 import ASEMBLANCE from '../assets/img/Catalogue/Playstation_4_5/ASEMBLANCE.jpeg';
 import ASSASINS_MIRAGE from '../assets/img/Catalogue/Playstation_4_5/ASSASINS_MIRAGE.jpeg';
 import ASSASINS_ODYSSEY from '../assets/img/Catalogue/Playstation_4_5/ASSASINS_ODYSSEY.jpeg';
@@ -354,6 +355,7 @@ import DETAILS_ASSASINS_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/3_ASS
 import DETAILS_CRASH_3 from '../assets/img/Catalogue/imgDetails-PS4-PS5/3_CRASH.jpeg';
 import DETAILS_ALANWAKE2 from '../assets/img/Catalogue/imgDetails-PS4-PS5/ALANWAKE2.jpeg';
 import DETAILS_ARK from '../assets/img/Catalogue/imgDetails-PS4-PS5/ARK.jpeg';
+import DETAILS_ARK_SURVIVAL_EVOLVED from '../assets/img/Catalogue/imgDetails-PS4-PS5/ARK_SURVIVAL_EVOLVED.jpeg';
 import DETAILS_ASEMBLANCE from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASEMBLANCE.jpeg';
 import DETAILS_ASSASINSCREED_MIRAGE from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINSCREED-MIRAGE.jpeg';
 import DETAILS_ASSASINSCREED_ODYSSEY from '../assets/img/Catalogue/imgDetails-PS4-PS5/ASSASINSCREED-ODYSSEY.jpeg';
@@ -2678,8 +2680,8 @@ const data = [
         price: 19900,
         secondaryPrice: 18900,
         offerPrice: 12900,
-        image: ARK,
-        imageDetails: DETAILS_ARK,
+        image: ARK_SURVIVAL_EVOLVED,
+        imageDetails: DETAILS_ARK_SURVIVAL_EVOLVED,
         Date: "2015/6/2",
         precioReventa: 9,
     },
@@ -3098,8 +3100,8 @@ const data = [
         price: 12900,
         secondaryPrice: 11900,
         offerPrice: 9900,
-        image: PLANTS_VS_ZOMBIES_GARDEN_WARFARE,
-        imageDetails: PLANTS_VS_ZOMBIES_GARDEN_WARFARE,
+        image: PLANTS_VS_ZOMBIES_2,
+        imageDetails: DETAILS_PLANTS_VS_ZOMBIES_2,
         Date: "2016/2/23",
         precioReventa: 12,
     },
@@ -6074,7 +6076,7 @@ const data = [
         precioReventa: 35,
     },
     {
-        id: 555,
+        id: 3555,
         title: "Elden Ring + Shadow of the Erdtree Premium",
         category: "PS4",
         gender: "Juego de Rol",
@@ -6599,7 +6601,7 @@ const data = [
         precioReventa: 49,
     },
     {
-        id: 587,
+        id: 58447,
         title: "A Plague Tale: Innocence",
         category: "PS4",
         gender: "Accion",
