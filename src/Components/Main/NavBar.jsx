@@ -134,7 +134,7 @@ export default function NavBar() {
             component="div"
             sx={{ display: { xs: 'none', sm: 'block' } }}
           >
-            LG Juegos Digitales
+            JG Juegos Digitales
           </Typography>
 
             <Autocomplete

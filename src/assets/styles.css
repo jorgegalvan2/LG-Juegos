@@ -259,7 +259,7 @@
   bottom: 20px;
   right: 20px;
   background-color: #25D366; /* Color de fondo de WhatsApp */
-  padding: 15px;
+  padding: 10px;
   border-radius: 50%;
   box-shadow: 0 4px 13px rgba(0, 0, 0, 0.733);
   transition: background-color 0.3s ease-in-out;
@@ -273,7 +273,11 @@
 }
 
 .whatsapp-button:hover {
-  background-color: #128c7e; /* Cambia el color al pasar el ratón sobre el botón */
+  background-color: #128c49; /* Cambia el color al pasar el ratón sobre el botón */
+}
+
+.largeFont{
+font-size: 0.86em;
 }
 
 .background {

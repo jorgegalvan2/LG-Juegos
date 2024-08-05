@@ -10,7 +10,7 @@ const WhatsAppButton = () => {
       target="_blank"
       rel="noopener noreferrer"
     >
-      <FontAwesomeIcon icon={faWhatsapp} />
+      <FontAwesomeIcon className='largeFont' icon={faWhatsapp} />
     </a>
   );
 };
